@@ -5,7 +5,7 @@ import { messages } from './i18n'
 
 const i18n = createI18n({
   legacy: false, // Vue 3 Composition API mode
-  locale: 'ja', // default locale
+  locale: 'en', // default locale
   fallbackLocale: 'en',
   messages
 })
