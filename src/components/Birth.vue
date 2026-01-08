@@ -97,142 +97,238 @@ export default{
 </script>
 
 <template>
-  <div>
+  <div class="main-wrapper">
     <!-- Search -->
-    <div class="form-group">
-      <input type="text" v-model="keyword" :placeholder="$t('search.placeholder')">
+    <div class="search-container">
+      <input type="text" v-model="keyword" :placeholder="$t('search.placeholder')" class="search-input">
     </div>
-    <!-- Filter -->
-    <div class="filter-items-group">
-      <!-- type -->
-      <div class="filter-items">
-        <ul>
-          <li v-for="filter in filter_type_list">
-              <button href="#" v-on:click="type_filter(filter)" :class="{'active': isActive === filter}">{{ $t('filters.types.' + filter) }}({{ counts(filter) }})</button>
-          </li>
-        </ul>
+
+    <!-- Filter (Horizontal Scroll) -->
+    <div class="filters-container">
+      <!-- Type Filter -->
+      <div class="filter-group">
+        <div class="filter-label">Category</div>
+        <div class="filter-scroll">
+          <button 
+            v-for="filter in filter_type_list" 
+            :key="filter"
+            @click="type_filter(filter)" 
+            :class="['filter-chip', {'active': isActive === filter}]">
+            {{ $t('filters.types.' + filter) }}
+            <span class="count">{{ counts(filter) }}</span>
+          </button>
+        </div>
       </div>
-      <!-- nationality -->
-      <div class="filter-items">
-        <ul>
-          <li v-for="filter in filter_nationality_list">
-              <button v-on:click="type_filter(filter)" :class="{'active': isActive === filter}">{{ $t('filters.nationalities.' + filter) }}({{ counts(filter) }})</button>
-          </li>
-        </ul>
+
+      <!-- Nationality Filter -->
+      <div class="filter-group">
+        <div class="filter-label">Nationality</div>
+        <div class="filter-scroll">
+          <button 
+            v-for="filter in filter_nationality_list" 
+            :key="filter"
+            @click="type_filter(filter)" 
+            :class="['filter-chip', {'active': isActive === filter}]">
+            {{ $t('filters.nationalities.' + filter) }}
+            <span class="count">{{ counts(filter) }}</span>
+          </button>
+        </div>
       </div>
-      <!-- era -->
-      <div class="filter-items">
-        <ul>
-          <li v-for="filter in filter_era_list">
-              <button v-on:click="type_filter(filter)" :class="{'active': isActive === filter}">{{ $t('filters.eras.' + filter) }}({{ counts(filter) }})</button>
-          </li>
-        </ul>
+
+      <!-- Era Filter -->
+      <div class="filter-group">
+        <div class="filter-label">Era</div>
+        <div class="filter-scroll">
+          <button 
+            v-for="filter in filter_era_list" 
+            :key="filter"
+            @click="type_filter(filter)" 
+            :class="['filter-chip', {'active': isActive === filter}]">
+            {{ $t('filters.eras.' + filter) }}
+            <span class="count">{{ counts(filter) }}</span>
+          </button>
+        </div>
       </div>
     </div>
-    <div class="container">
-      <div v-for="item in filteredItems" :key="item.name">
-        <section>
-          <h1>{{ item.date }} <img :src="publicPath + 'flag/' + item.nationality + '.png'"></h1>
-          <p>{{ item.name }}</p>
-          <img :src="publicPath + item.img" >
-          <p>{{ $i18n.locale === 'en' && item.description_en ? item.description_en : item.description }}</p>
-        </section>
+
+    <!-- Content Grid -->
+    <div class="grid-container">
+      <div v-for="item in filteredItems" :key="item.name" class="card">
+        <div class="card-header">
+          <span class="date">{{ item.date }}</span>
+          <img :src="publicPath + 'flag/' + item.nationality + '.png'" class="flag" :alt="item.nationality">
+        </div>
+        <div class="card-body">
+          <div class="logo-container">
+            <img :src="publicPath + item.img" :alt="item.name" class="logo">
+          </div>
+          <h2 class="name">{{ item.name }}</h2>
+          <p class="desc">{{ $i18n.locale === 'en' && item.description_en ? item.description_en : item.description }}</p>
+        </div>
       </div>
+    </div>
   </div>
-</div>
 </template>
 
-<style>
-.form-group{
+<style scoped>
+.main-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+/* Search */
+.search-container {
+  margin-bottom: 2rem;
   text-align: center;
 }
 
-.form-group input{
-  outline: 0;
-  border: 0;
-}
-
-.form-group input[type="text"]{
-  width: 256px;
-  padding: 8px 4px 6px 4px;
-  background: #FAFAFA;
+.search-input {
+  width: 100%;
+  max-width: 600px;
+  padding: 1rem 1.5rem;
   font-size: 1.2rem;
-  border-bottom: 1px solid rgba(0,0,0,.4);
+  font-family: var(--font-main);
+  border: var(--border-width) solid var(--text-color);
+  border-radius: 999px;
+  outline: none;
+  transition: all 0.2s ease;
 }
 
-.filter-items-group {
-  padding-top: 15px;
-}
-.filter-items {
-  text-align: center;
+.search-input:focus {
+  box-shadow: 4px 4px 0px var(--text-color);
+  transform: translate(-2px, -2px);
 }
 
-.filter-items ul{
-  align-items: center;
+/* Filters */
+.filters-container {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.filter-label {
+  font-size: 0.8rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  opacity: 0.6;
+}
+
+.filter-scroll {
+  display: flex;
+  gap: 0.8rem;
+  overflow-x: auto;
+  padding-bottom: 0.5rem; /* Scrollbar space */
+  scrollbar-width: thin;
+}
+
+.filter-scroll::-webkit-scrollbar {
+  height: 4px;
+}
+.filter-scroll::-webkit-scrollbar-thumb {
+  background-color: var(--text-color);
+  border-radius: 4px;
+}
+
+.filter-chip {
+  flex: 0 0 auto;
+  background: transparent;
+  border: var(--border-width) solid var(--text-color);
+  border-radius: var(--border-radius);
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.filter-chip:hover {
+  background-color: #f0f0f0;
+}
+
+.filter-chip.active {
+  background-color: var(--text-color);
+  color: var(--bg-color);
+  box-shadow: 2px 2px 0px rgba(0,0,0,0.2);
+}
+
+.filter-chip .count {
   font-size: 0.8em;
-  justify-content: center;
-  list-style-type: none;
-  margin: 0;
-  padding: 0 0 15px 0;
+  margin-left: 4px;
+  opacity: 0.8;
 }
 
-@media screen and ( min-width: 700px ){
-  .filter-items li:not(:first-of-type):before {
-    content: ' - ';
-    display: inline-block;
-    margin: 0 2px;
-    padding: 0 5px;
-  }
+/* Grid & Cards */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2rem;
 }
 
-.filter-items li button{
-  /*outline: 0;*/
-  border: 0;
-  background: #FAFAFA;
-  font-size: 1em;
-  margin: 0;
-  display: inline-block;
-  min-width: 40px;
-  padding: 10px 10px;
-  text-align: center;
+.card {
+  border: var(--border-width) solid var(--text-color);
+  border-radius: var(--border-radius);
+  padding: 1.5rem;
+  background: var(--bg-color);
+  box-shadow: var(--shadow-offset) var(--shadow-offset) 0px var(--text-color);
+  transition: all 0.2s ease;
+  display: flex;
+  flex-direction: column;
 }
 
-.filter-items .active{
+.card:hover {
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0px var(--text-color);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  font-family: var(--font-heading);
+  font-size: 0.9rem;
   font-weight: bold;
 }
 
-.container{
+.flag {
+  height: 1.2rem;
+  width: auto;
+  border: 1px solid #eee; /* subtle border for white flags */
+}
+
+.logo-container {
+  height: 80px;
   display: flex;
-  flex-wrap: wrap;
+  align-items: center;
   justify-content: center;
+  margin-bottom: 1rem;
 }
 
-.container section{
-  width: 300px;
-  height: 100%;
-  margin: 10px;
-  padding: 15px;
-}
-
-.container section img{
-  height: 50px;
-  width: auto;
+.logo {
+  max-height: 100%;
   max-width: 100%;
+  object-fit: contain;
 }
 
-.container h1{
-  font-size: 1.5rem;
+.name {
+  font-size: 1.4rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
 }
 
-.container h1 img{
-  height: 1rem;
-  width: auto;
+.desc {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #333;
+  flex-grow: 1; /* Push footer down if we had one */
 }
-
-.container p{
-  margin-top: 10px;
-}
-
 </style>
