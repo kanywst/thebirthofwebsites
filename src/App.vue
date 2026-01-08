@@ -1,7 +1,7 @@
 <script>
-import Header from "@/components/Header"
-import Birth from "@/components/Birth"
-import Footer from "@/components/Footer"
+import Header from "@/components/Header.vue"
+import Birth from "@/components/Birth.vue"
+import Footer from "@/components/Footer.vue"
 
 export default{
   components: {
