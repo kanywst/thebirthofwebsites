@@ -34,7 +34,7 @@ export default{
       active: false, //Make all the default active
       //type
       filter_type: '',
-      filter_type_list: ['All','SNS','EC','portal site','IT','porn','hardware','search engine','blog','video','knowledge market','service','language'],
+      filter_type_list: ['All','SNS','EC','portal site','IT','porn','hardware','search engine','blog','video','knowledge market','service','language','CNCF'],
       //nationality
       filter_nationality: '',
       filter_nationality_list: ['日本','アメリカ','ドイツ','アイルランド','中国','韓国','カナダ','ハンガリー','オランダ','フランス','イギリス','エストニア'],

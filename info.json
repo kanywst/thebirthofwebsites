@@ -982,5 +982,141 @@
     "img": "liveleak.png",
     "nationality": "United-States-of-America",
     "description": "現実に発生した戦争・テロ・犯罪・事故・災害などの出来事をありのままに配信することを標榜するニュースサイトの一種だが、その中には一般的に残虐で猟奇的であると受け止められる記事が多く含まれていることでも知られている。なお、英語圏においてグロテスクな写真（グロ画像）や悪趣味なビデオ（グロ動画）が含まれるショックサイトと呼ばれる分野に属しており、同種サイトの Ogrish.com は2006年10月から LiveLeak へ統合されてリダイレクトされるようになった。"
+  },
+  {
+    "date": "2014-06-06",
+    "name": "Kubernetes",
+    "type": "CNCF,Container Orchestration,アメリカ,平成",
+    "img": "kubernetes.svg",
+    "nationality": "United-States-of-America",
+    "description": "Googleのエンジニアによって開発された、コンテナ化されたアプリケーションのデプロイ、スケーリング、管理を自動化するためのオープンソースシステム。「K8s」と略されることが多い。"
+  },
+  {
+    "date": "2012-11-24",
+    "name": "Prometheus",
+    "type": "CNCF,Monitoring,ドイツ,平成",
+    "img": "prometheus.svg",
+    "nationality": "Germany",
+    "description": "SoundCloudによって開発された、イベントモニタリングとアラートのためのオープンソースシステム。多次元データモデルと強力なクエリ言語PromQLが特徴。"
+  },
+  {
+    "date": "2011-10-01",
+    "name": "Fluentd",
+    "type": "CNCF,Logging,日本,平成",
+    "img": "fluentd.svg",
+    "nationality": "Japan",
+    "description": "古橋貞之氏らによって開発されたオープンソースのデータコレクター。ログ収集を統一し、様々なデータソースと出力先を柔軟に接続することができる。"
+  },
+  {
+    "date": "2016-09-14",
+    "name": "Envoy",
+    "type": "CNCF,Service Mesh,アメリカ,平成",
+    "img": "envoy.svg",
+    "nationality": "United-States-of-America",
+    "description": "Lyftによって開発された、クラウドネイティブなアプリケーションのための高性能なエッジ/ミドルおよびサービスプロキシ。"
+  },
+  {
+    "date": "2015-11-02",
+    "name": "Helm",
+    "type": "CNCF,Package Manager,アメリカ,平成",
+    "img": "helm.svg",
+    "nationality": "United-States-of-America",
+    "description": "Deisによって開発されたKubernetesのパッケージマネージャー。Kubernetesアプリケーションの定義、インストール、アップグレードを容易にする。"
+  },
+  {
+    "date": "2017-12-01",
+    "name": "SPIFFE",
+    "type": "CNCF,Security,アメリカ,平成",
+    "img": "spiffe.svg",
+    "nationality": "United-States-of-America",
+    "description": "異種環境間でのソフトウェアサービスのIDを安全にブートストラップし、認証するための標準規格。"
+  },
+  {
+    "date": "2017-12-01",
+    "name": "SPIRE",
+    "type": "CNCF,Security,アメリカ,平成",
+    "img": "spire.svg",
+    "nationality": "United-States-of-America",
+    "description": "SPIFFE APIの実装であり、ワークロードに対してSPIFFE IDを証明書として発行し、管理するツールチェーン。"
+  },
+  {
+    "date": "2016-01-01",
+    "name": "Open Policy Agent",
+    "type": "CNCF,Policy,アメリカ,平成",
+    "img": "opa.svg",
+    "nationality": "United-States-of-America",
+    "description": "Styraによって開発された、汎用的なポリシーエンジン。Rego言語を使用してポリシーをコードとして記述し、様々なソフトウェアスタックに適用できる。"
+  },
+  {
+    "date": "2017-04-25",
+    "name": "Linkerd",
+    "type": "CNCF,Service Mesh,アメリカ,平成",
+    "img": "linkerd.svg",
+    "nationality": "United-States-of-America",
+    "description": "Buoyantによって開発された、世界初のサービスメッシュ。Kubernetes向けに設計されており、超軽量で高速、かつ安全であることを特徴とする。"
+  },
+  {
+    "date": "2015-01-01",
+    "name": "Jaeger",
+    "type": "CNCF,Tracing,アメリカ,平成",
+    "img": "jaeger.svg",
+    "nationality": "United-States-of-America",
+    "description": "Uberによって開発された、分散トレーシングシステム。マイクロサービスベースの分散システムのモニタリングとトラブルシューティングに使用される。"
+  },
+  {
+    "date": "2017-05-24",
+    "name": "Istio",
+    "type": "CNCF,Service Mesh,アメリカ,平成",
+    "img": "istio.svg",
+    "nationality": "United-States-of-America",
+    "description": "Google, IBM, Lyftによって共同開発されたオープンソースのサービスメッシュ。トラフィック管理、セキュリティ、オブザーバビリティ機能を提供する。"
+  },
+  {
+    "date": "2016-02-01",
+    "name": "Harbor",
+    "type": "CNCF,Registry,アメリカ,平成",
+    "img": "harbor.svg",
+    "nationality": "United-States-of-America",
+    "description": "VMwareによって開発された、信頼できるクラウドネイティブ・レジストリ。コンテンツの保存、署名、スキャンを行い、脆弱性から保護する。"
+  },
+  {
+    "date": "2016-05-01",
+    "name": "Falco",
+    "type": "CNCF,Security,アメリカ,平成",
+    "img": "falco.svg",
+    "nationality": "United-States-of-America",
+    "description": "Sysdigによって開発された、クラウドネイティブ環境向けのランタイムセキュリティツール。システムコールを監視し、不審な動作を検知する。"
+  },
+  {
+    "date": "2013-06-01",
+    "name": "etcd",
+    "type": "CNCF,Key-Value Store,アメリカ,平成",
+    "img": "etcd.svg",
+    "nationality": "United-States-of-America",
+    "description": "CoreOSによって開発された、分散型キーバリューストア。Kubernetesのバッキングストアとして使用され、クラスタデータの一貫性と高可用性を保証する。"
+  },
+  {
+    "date": "2017-10-01",
+    "name": "cert-manager",
+    "type": "CNCF,Security,イギリス,平成",
+    "img": "cert-manager.svg",
+    "nationality": "United-Kingdom",
+    "description": "Jetstackによって開発された、Kubernetes向けの証明書管理コントローラー。Let's Encryptなどの発行元から証明書を自動的に取得・更新する。"
+  },
+  {
+    "date": "2017-10-17",
+    "name": "ArgoCD",
+    "type": "CNCF,Continuous Delivery,アメリカ,平成",
+    "img": "argo.svg",
+    "nationality": "United-States-of-America",
+    "description": "Intuitによって開発された、Kubernetesのための宣言的GitOps継続的デリバリーツール。Gitリポジトリの状態とクラスタの状態を自動的に同期させる。"
+  },
+  {
+    "date": "2015-12-01",
+    "name": "Cilium",
+    "type": "CNCF,Networking,スイス,平成",
+    "img": "cilium.svg",
+    "nationality": "Switzerland",
+    "description": "Isovalentによって開発された、eBPFベースのネットワーキング、セキュリティ、およびオブザーバビリティソリューション。Kubernetes環境で高度なパケットフィルタリングと可視化を提供する。"
   }
 ]
