@@ -239,8 +239,8 @@
     "type": "porn,アメリカ,平成",
     "img": "xvideos.gif",
     "nationality": "United-States-of-America",
-    "description": "2012年4月時点での月間訪問者数は3億5000万で、毎月29ペタバイトのデータがやり取りされていた。「XVideos」の呼称について、日本では「エックスビデオ」もしくは「クロスビデオ」など複数あったが、公式には「エックスビデオズ」である。XVideosが他のアダルト動画サービスを凌駕して人気が出た理由として、「動画数が多い」「全て無料」「再生が軽く、スマートフォンでの視聴が楽」「シーク移動がスムーズ」などが挙げられている。",
-    "description_en": "As of April 2012, the number of monthly visitors was 350 million, and 29 petabytes of data were exchanged every month. Regarding the name \"XVideos\", there were multiple names in Japan such as \"X Video\" or \"Cross Video\", but officially it is \"XVideos\". Reasons cited for XVideos surpassing other adult video services in popularity include \"large number of videos\", \"all free\", \"light playback, easy viewing on smartphones\", and \"smooth seek movement\"."
+    "description": "世界最大級のアダルト動画共有サイト。2024年現在も月間数十億のアクセスがあり、膨大なユーザー投稿コンテンツをホストしている。",
+    "description_en": "One of the world's largest adult video sharing sites. As of 2024, it continues to receive billions of monthly visits, hosting vast amounts of user-generated content."
   },
   {
     "date": "1998-11-12",
@@ -248,8 +248,8 @@
     "type": "portal site,中国,平成",
     "img": "tencent.png",
     "nationality": "China",
-    "description": "売上高では世界最大のゲーム会社であり、アプリの収益は世界一を誇り、アクティビジョン・ブリザードやユービーアイソフトなど他のゲーム企業の大株主でもある。創業者の馬化騰はアジア1位の富豪にもなっており、時価総額ではアジア最大の企業だったこともある。2017年にはアジアの企業で初めて5000億ドルを突破し、フェイスブックを超えてアップル・グーグル・アマゾン・マイクロソフトといった世界五大企業に入っている。このうちグーグルとはクロスライセンスで提携している。",
-    "description_en": "It is the world's largest game company in terms of sales, boasts the world's highest app revenue, and is a major shareholder in other game companies such as Activision Blizzard and Ubisoft. Founder Ma Huateng has been the richest man in Asia, and it has been the largest company in Asia by market capitalization. In 2017, it became the first Asian company to surpass $500 billion, surpassing Facebook and entering the world's top five companies along with Apple, Google, Amazon, and Microsoft. Among them, it has a cross-licensing partnership with Google."
+    "description": "売上高では世界最大のゲーム会社であり、WeChatなどのアプリで中国のデジタルライフを支配している。2024年現在、時価総額で世界トップクラスのテクノロジー企業の一つ。",
+    "description_en": "The world's largest game company by revenue, dominating Chinese digital life with apps like WeChat. As of 2024, it remains one of the world's top technology companies by market capitalization."
   },
   {
     "date": "1999-03",
@@ -1528,5 +1528,545 @@
     "nationality": "Japan",
     "description": "スマホ一つで簡単に売り買いできるフリマアプリ。日本発のユニコーン企業として、C2C（個人間取引）市場を牽引し、海外展開も積極的に行っている。",
     "description_en": "A Japanese e-commerce company that operates the Mercari marketplace app, allowing users to buy and sell items quickly from their smartphones."
+  },
+  {
+    "date": "1985-10-14",
+    "name": "C++",
+    "type": "language,アメリカ,昭和",
+    "img": "cpp.svg",
+    "nationality": "United-States-of-America",
+    "description": "ベル研究所のビャーネ・ストロヴストルップによって、C言語の拡張として開発された。当初は「C with Classes」と呼ばれていたが、後にC++と改名された。システムプログラミングからゲーム開発まで幅広く利用されている。",
+    "description_en": "Developed by Bjarne Stroustrup at Bell Labs as an extension of the C language. Initially called \"C with Classes\", it was later renamed C++. It is widely used from system programming to game development."
+  },
+  {
+    "date": "2000-07-11",
+    "name": "C#",
+    "type": "language,アメリカ,平成",
+    "img": "csharp.svg",
+    "nationality": "United-States-of-America",
+    "description": "マイクロソフトのアンダース・ヘルスバーグによって設計された、強力に型付けされたオブジェクト指向言語。.NET Frameworkの一部として開発され、Javaに似た構文を持つが、独自の進化を遂げている。",
+    "description_en": "A strongly typed, object-oriented language designed by Anders Hejlsberg at Microsoft. Developed as part of the .NET Framework, it has a syntax similar to Java but has evolved uniquely."
+  },
+  {
+    "date": "2009-11-10",
+    "name": "Go",
+    "type": "language,アメリカ,平成",
+    "img": "go.svg",
+    "nationality": "United-States-of-America",
+    "description": "Googleのロバート・グリーズマー、ロブ・パイク、ケン・トンプソンによって設計された。シンプルさと効率性を重視し、並行処理を強力にサポートしている。",
+    "description_en": "Designed by Robert Griesemer, Rob Pike, and Ken Thompson at Google. It emphasizes simplicity and efficiency, and strongly supports concurrent processing."
+  },
+  {
+    "date": "2015-05-15",
+    "name": "Rust",
+    "type": "language,アメリカ,平成",
+    "img": "rust.svg",
+    "nationality": "United-States-of-America",
+    "description": "Mozillaのグレイドン・ホアレによって設計されたシステムプログラミング言語。メモリ安全性と並行性を重視し、C++の代替として注目されている。",
+    "description_en": "A system programming language designed by Graydon Hoare at Mozilla. It focuses on memory safety and concurrency, and is attracting attention as an alternative to C++."
+  },
+  {
+    "date": "2014-06-02",
+    "name": "Swift",
+    "type": "language,アメリカ,平成",
+    "img": "swift.svg",
+    "nationality": "United-States-of-America",
+    "description": "Appleによって開発されたプログラミング言語。iOS、macOS、watchOS、tvOSアプリ開発のために設計され、Objective-Cの後継としてモダンな機能を取り入れている。",
+    "description_en": "A programming language developed by Apple. Designed for iOS, macOS, watchOS, and tvOS app development, it incorporates modern features as a successor to Objective-C."
+  },
+  {
+    "date": "2011-07-19",
+    "name": "Kotlin",
+    "type": "language,ロシア,平成",
+    "img": "kotlin.svg",
+    "nationality": "Russia",
+    "description": "JetBrainsによって開発された静的型付け言語。Java仮想マシン（JVM）上で動作し、Javaとの完全な相互運用性を持つ。Androidアプリ開発の推奨言語となっている。",
+    "description_en": "A statically typed language developed by JetBrains. It runs on the Java Virtual Machine (JVM) and has full interoperability with Java. It is the recommended language for Android app development."
+  },
+  {
+    "date": "2012-10-01",
+    "name": "TypeScript",
+    "type": "language,アメリカ,平成",
+    "img": "typescript.svg",
+    "nationality": "United-States-of-America",
+    "description": "マイクロソフトによって開発された、JavaScriptのスーパーセット言語。静的型付けを追加し、大規模なアプリケーション開発を容易にする。",
+    "description_en": "A superset of JavaScript developed by Microsoft. It adds static typing and facilitates large-scale application development."
+  },
+  {
+    "date": "1969-11-03",
+    "name": "UNIX",
+    "type": "OS,アメリカ,昭和",
+    "img": "unix.svg",
+    "nationality": "United-States-of-America",
+    "description": "AT&Tベル研究所のケン・トンプソン、デニス・リッチーらによって開発されたオペレーティングシステム。シンプルさ、移植性、マルチタスク機能を特徴とし、後の多くのOSに多大な影響を与えた。",
+    "description_en": "An operating system developed by Ken Thompson, Dennis Ritchie, and others at AT&T Bell Labs. Characterized by simplicity, portability, and multitasking capabilities, it has had a profound influence on many subsequent OSs."
+  },
+  {
+    "date": "1991-09-17",
+    "name": "Linux",
+    "type": "OS,フィンランド,平成",
+    "img": "linux.svg",
+    "nationality": "Finland",
+    "description": "リーナス・トーバルズによって開発された、UNIXライクなOSカーネル。オープンソース開発モデルの象徴的存在であり、サーバー、デスクトップ、組み込みシステムなど幅広く利用されている。",
+    "description_en": "A UNIX-like OS kernel developed by Linus Torvalds. It is a symbol of the open source development model and is widely used in servers, desktops, embedded systems, etc."
+  },
+  {
+    "date": "1985-11-20",
+    "name": "Windows",
+    "type": "OS,アメリカ,昭和",
+    "img": "windows.svg",
+    "nationality": "United-States-of-America",
+    "description": "マイクロソフトが開発したオペレーティングシステム。当初はMS-DOS上のGUI環境として登場したが、後に独立したOSとなり、世界で最も広く使われるPC用OSとなった。",
+    "description_en": "An operating system developed by Microsoft. Initially appeared as a GUI environment on MS-DOS, but later became an independent OS and became the most widely used PC OS in the world."
+  },
+  {
+    "date": "1984-01-24",
+    "name": "macOS",
+    "type": "OS,アメリカ,昭和",
+    "img": "macos.svg",
+    "nationality": "United-States-of-America",
+    "description": "Appleが開発したMacintosh用オペレーティングシステム。直感的なGUI（グラフィカルユーザーインターフェース）を一般に普及させた先駆的存在。",
+    "description_en": "The operating system for Macintosh developed by Apple. A pioneer that popularized the intuitive GUI (Graphical User Interface) to the general public."
+  },
+  {
+    "date": "2008-09-23",
+    "name": "Android",
+    "type": "OS,アメリカ,平成",
+    "img": "android.svg",
+    "nationality": "United-States-of-America",
+    "description": "Googleが中心となって開発した、モバイルデバイス向けオペレーティングシステム。Linuxカーネルをベースにしており、スマートフォン市場で圧倒的なシェアを持つ。",
+    "description_en": "A mobile operating system developed primarily by Google. Based on the Linux kernel, it has an overwhelming share in the smartphone market."
+  },
+  {
+    "date": "2007-06-29",
+    "name": "iOS",
+    "type": "OS,アメリカ,平成",
+    "img": "ios.svg",
+    "nationality": "United-States-of-America",
+    "description": "AppleがiPhoneのために開発したモバイルオペレーティングシステム。直感的なマルチタッチインターフェースを採用し、スマートフォンのあり方を一変させた。",
+    "description_en": "A mobile operating system developed by Apple for the iPhone. Adopting an intuitive multi-touch interface, it transformed the way smartphones are used."
+  },
+  {
+    "date": "2005-04-07",
+    "name": "Git",
+    "type": "tool,フィンランド,平成",
+    "img": "git.svg",
+    "nationality": "Finland",
+    "description": "リーナス・トーバルズがLinuxカーネル開発のために設計した分散型バージョン管理システム。高速な動作と強力なブランチ機能を持ち、現代のソフトウェア開発のデファクトスタンダードとなっている。",
+    "description_en": "A distributed version control system designed by Linus Torvalds for Linux kernel development. With fast operation and powerful branching features, it has become the de facto standard for modern software development."
+  },
+  {
+    "date": "1994-04-04",
+    "name": "Netscape",
+    "type": "service,アメリカ,平成",
+    "img": "netscape.svg",
+    "nationality": "United-States-of-America",
+    "description": "マーク・アンドリーセンとジム・クラークによって設立された。Webブラウザ「Netscape Navigator」でインターネット初期の爆発的普及を牽引したが、Microsoftとの「ブラウザ戦争」に敗れた。その後、Mozillaプロジェクトの母体となった。",
+    "description_en": "Founded by Marc Andreessen and Jim Clark. It drove the early explosive growth of the Internet with its web browser \"Netscape Navigator\" for Internet Explorer, but lost the \"browser wars\" to Microsoft. Later became the foundation of the Mozilla project."
+  },
+  {
+    "date": "1987-02-21",
+    "name": "TSMC",
+    "type": "hardware,台湾,昭和",
+    "img": "tsmc.svg",
+    "nationality": "Taiwan",
+    "description": "モリス・チャンによって設立された、世界最大の半導体ファウンドリ（受託製造企業）。「ファブレス」というビジネスモデルを確立し、世界のテクノロジー企業のチップ製造を一手に担う、現代IT産業の心臓部。",
+    "description_en": "The world's largest dedicated semiconductor foundry, founded by Morris Chang. It established the \"fabless\" business model and manufactures chips for global technology companies, serving as the heart of the modern IT industry."
+  },
+  {
+    "date": "1865-05-12",
+    "name": "Nokia",
+    "type": "hardware,フィンランド,明治",
+    "img": "nokia.svg",
+    "nationality": "Finland",
+    "description": "当初は製紙会社として創業したが、後に携帯電話市場の絶対的王者として君臨した。1992年に世界初のGSM携帯電話を発売し、モバイル通信の普及に貢献した。スマートフォンの波に乗り遅れたが、現在は通信インフラの大手。",
+    "description_en": "Founded as a paper mill, it later reigned as the absolute king of the mobile phone market. Launched the world's first GSM mobile phone in 1992. Although it missed the smartphone wave, it is now a major telecommunications infrastructure company."
+  },
+  {
+    "date": "2010-03-18",
+    "name": "KakaoTalk",
+    "type": "Communication,韓国,平成",
+    "img": "kakaotalk.svg",
+    "nationality": "South Korea",
+    "description": "韓国で圧倒的なシェアを誇る無料通話・メッセンジャーアプリ。決済、銀行、タクシー配車など生活のあらゆる場面に関わる「スーパーアプリ」として独自の経済圏を築いている。",
+    "description_en": "A free calling and messaging app with overwhelming market share in South Korea. It has built a unique economic ecosystem as a \"super app\" involved in every aspect of life, including payments, banking, and taxi hailing."
+  },
+  {
+    "date": "2012-06-01",
+    "name": "Grab",
+    "type": "service,シンガポール,平成",
+    "img": "grab.svg",
+    "nationality": "Singapore",
+    "description": "ハーバード・ビジネス・スクールの同級生によって設立された、東南アジア最大のスーパーアプリ。配車サービスから始まり、フードデリバリー、決済、金融サービスへと拡大し、地域のデジタル経済を牽引している。",
+    "description_en": "Southeast Asia's largest super app, founded by Harvard Business School classmates. Starting as a ride-hailing service, it expanded into food delivery, payments, and financial services, driving the regional digital economy."
+  },
+  {
+    "date": "2010-10-01",
+    "name": "Gojek",
+    "type": "service,インドネシア,平成",
+    "img": "gojek.svg",
+    "nationality": "Indonesia",
+    "description": "インドネシア発のスーパーアプリ。当初はバイクタクシー（オジェック）の配車コールセンターとして始まった。フードデリバリーや決済など多岐にわたるサービスを提供し、Grabと激しく競合している。",
+    "description_en": "A super app from Indonesia. Initially started as a call center for motorcycle taxis (Ojek). It provides a wide range of services such as food delivery and payments, competing fiercely with Grab."
+  },
+  {
+    "date": "1999-08-02",
+    "name": "MercadoLibre",
+    "type": "EC,アルゼンチン,平成",
+    "img": "mercadolibre.svg",
+    "nationality": "Argentina",
+    "description": "スタンフォード大の学生だったマルコス・ガルペリンによって設立された、「ラテンアメリカのアマゾン」。ECプラットフォームと決済システム「Mercado Pago」により、南米のeコマース市場を支配している。",
+    "description_en": "The \"Amazon of Latin America\", founded by Marcos Galperin while he was a student at Stanford. It dominates the South American e-commerce market with its EC platform and payment system \"Mercado Pago\"."
+  },
+  {
+    "date": "2007-03-06",
+    "name": "M-Pesa",
+    "type": "FinTech,ケニア,平成",
+    "img": "mpesa.svg",
+    "nationality": "Kenya",
+    "description": "ケニアの通信会社Safaricomが開始したモバイル送金サービス。銀行口座を持たない人々でも携帯電話で送金や決済ができるようにし、アフリカの金融包摂（Financial Inclusion）に革命を起こした。",
+    "description_en": "A mobile money transfer service launched by Kenya's Safaricom. It revolutionized financial inclusion in Africa by allowing unbanked people to send money and make payments via mobile phones."
+  },
+  {
+    "date": "1997-09-23",
+    "name": "Yandex",
+    "type": "search engine,ロシア,平成",
+    "img": "yandex.svg",
+    "nationality": "Russia",
+    "description": "ロシア最大の検索エンジン。Googleに対抗できる数少ないローカル検索エンジンの一つであり、タクシー配車、自動運転、AI開発なども手掛けるロシアのテック大手。",
+    "description_en": "Russia's largest search engine. One of the few local search engines capable of competing with Google, it is a Russian tech giant also involved in taxi hailing, autonomous driving, and AI development."
+  },
+  {
+    "date": "1972-06-27",
+    "name": "Atari",
+    "type": "Game,アメリカ,昭和",
+    "img": "atari.svg",
+    "nationality": "United-States-of-America",
+    "description": "ノーラン・ブッシュネルによって設立された、ビデオゲーム産業のパイオニア。「Pong」や家庭用ゲーム機「Atari 2600」でゲームブームを巻き起こしたが、後に「アタリショック」と呼ばれる市場崩壊も経験した。",
+    "description_en": "A pioneer of the video game industry founded by Nolan Bushnell. Sparked a gaming boom with \"Pong\" and the home console \"Atari 2600\", but later experienced the market collapse known as the \"Video Game Crash of 1983\"."
+  },
+  {
+    "date": "1999-06-01",
+    "name": "Napster",
+    "type": "service,アメリカ,平成",
+    "img": "napster.svg",
+    "nationality": "United-States-of-America",
+    "description": "ショーン・ファニングらが開発したP2Pファイル共有サービス。MP3音楽ファイルの無料共有を可能にし、音楽業界に激震を走らせた。著作権侵害訴訟により閉鎖されたが、その技術と概念は後のストリーミング時代への道を開いた。",
+    "description_en": "A P2P file-sharing service developed by Shawn Fanning and others. It enabled free sharing of MP3 music files, shaking the music industry. Although shut down due to copyright lawsuits, its technology and concept paved the way for the streaming era."
+  },
+  {
+    "date": "1981-07-02",
+    "name": "Infosys",
+    "type": "IT,インド,昭和",
+    "img": "infosys.svg",
+    "nationality": "India",
+    "description": "ナラヤナ・ムルティら7人のエンジニアによって設立された、インドを代表するITコンサルティング・アウトソーシング企業。「グローバル・デリバリー・モデル」を確立し、インドを世界のITバックオフィスへと変貌させた。",
+    "description_en": "India's leading IT consulting and outsourcing company founded by seven engineers including Narayana Murthy. Established the \"Global Delivery Model\" and transformed India into the world's IT back office."
+  },
+  {
+    "date": "2003-09-15",
+    "name": "The Pirate Bay",
+    "type": "Piracy,スウェーデン,平成",
+    "img": "thepiratebay.svg",
+    "nationality": "Sweden",
+    "description": "スウェーデンの反著作権団体「Piratbyrån」によって設立された、世界で最も有名なBitTorrentインデックスサイト。数々の法的措置や強制捜査を受けながらも復活を繰り返し、インターネットの自由と著作権を巡る議論の象徴となった。",
+    "description_en": "The world's most notorious BitTorrent index site, founded by the Swedish anti-copyright group Piratbyrån. Despite numerous legal battles and raids, it repeatedly resurfaced, becoming a symbol of the debate over internet freedom and copyright."
+  },
+  {
+    "date": "2005-03-21",
+    "name": "Megaupload",
+    "type": "Piracy,香港,平成",
+    "img": "megaupload.svg",
+    "nationality": "Hong-Kong",
+    "description": "キム・ドットコムによって設立されたオンラインストレージサービス。手軽なファイル共有手段として絶大な人気を誇ったが、大規模な著作権侵害の温床としてFBIにより閉鎖され、経営陣が逮捕された。",
+    "description_en": "An online storage service founded by Kim Dotcom. While immensely popular for easy file sharing, it was shut down by the FBI and its executives arrested for facilitating massive copyright infringement."
+  },
+  {
+    "date": "2000-05-03",
+    "name": "LimeWire",
+    "type": "Piracy,アメリカ,平成",
+    "img": "limewire.svg",
+    "nationality": "United-States-of-America",
+    "description": "マーク・ゴートンによって開発されたP2Pファイル共有ソフト。Gnutellaネットワークを利用し、Napster後のファイル共有ブームを支えたが、RIAA（全米レコード協会）との訴訟に敗れ、サービスを停止した。",
+    "description_en": "A P2P file-sharing client developed by Mark Gorton. Using the Gnutella network, it sustained the file-sharing boom after Napster but ceased operations after losing a lawsuit against the RIAA."
+  },
+  {
+    "date": "2011-09-05",
+    "name": "Sci-Hub",
+    "type": "Piracy,カザフスタン,平成",
+    "img": "scihub.svg",
+    "nationality": "Kazakhstan",
+    "description": "アレクサンドラ・エルバキヤンによって設立された、学術論文の海賊版サイト。「科学の知識における障壁を取り除く」ことを掲げ、数千万件の論文を無料で公開し、学術出版のあり方に一石を投じている。",
+    "description_en": "A pirate site for academic papers founded by Alexandra Elbakyan. With the mission to \"remove all barriers in the way of science,\" it provides free access to tens of millions of papers, challenging the academic publishing model."
+  },
+  {
+    "date": "2014-02-28",
+    "name": "Popcorn Time",
+    "type": "Piracy,アルゼンチン,平成",
+    "img": "popcorntime.svg",
+    "nationality": "Argentina",
+    "description": "アルゼンチンの開発者グループによって作成された、オープンソースのBitTorrentクライアント。「海賊版のNetflix」とも呼ばれ、ダウンロードを待たずにストリーミング再生できる画期的なUXで人気を博した。",
+    "description_en": "An open-source BitTorrent client created by a group of developers from Argentina. Often called the \"Netflix of piracy,\" it gained popularity for its revolutionary UX that allowed streaming without waiting for downloads."
+  },
+  {
+    "date": "2016-01-01",
+    "name": "Mangamura",
+    "type": "Piracy,日本,平成",
+    "img": "mangamura.svg",
+    "nationality": "Japan",
+    "description": "星野ロミによって運営されていた、日本最大級の海賊版マンガ閲覧サイト。出版業界に甚大な被害を与え、社会問題化。政府によるサイトブロッキング議論の引き金となり、運営者の逮捕と実刑判決に至った。",
+    "description_en": "Japan's largest pirate manga viewing site, operated by Romi Hoshino. It caused immense damage to the publishing industry and became a social issue, triggering debates on site blocking and leading to the arrest and imprisonment of the operator."
+  },
+  {
+    "date": "2002-05-06",
+    "name": "Winny",
+    "type": "Piracy,日本,平成",
+    "img": "winny.svg",
+    "nationality": "Japan",
+    "description": "金子勇（47氏）によって開発されたP2Pファイル共有ソフト。高い匿名性を持ち、映画や音楽だけでなく、警察や自衛隊の内部情報流出事件の温床ともなった。開発者が著作権法違反幇助で逮捕されるという、技術者の責任を巡る大きな論争を巻き起こした。",
+    "description_en": "A P2P file-sharing software developed by Isamu Kaneko (Mr. 47). Known for high anonymity, it became a hotbed for leaks of movies, music, and even sensitive police/military data. The developer's arrest for aiding copyright infringement sparked a major controversy regarding technologist liability."
+  },
+  {
+    "date": "2002-09-20",
+    "name": "Tor",
+    "type": "Dark Web,アメリカ,平成",
+    "img": "tor.svg",
+    "nationality": "United-States-of-America",
+    "description": "米国海軍調査研究所（NRL）によって開発された「Onion Routing」技術をベースにした匿名通信ネットワーク。インターネット上のプライバシーと自由を守るためのツールとして、ジャーナリスト、活動家、そしてダークウェブの基盤として利用されている。",
+    "description_en": "An anonymous communication network based on 'Onion Routing' technology developed by the US Naval Research Laboratory (NRL). Used as a tool for internet privacy and freedom by journalists, activists, and as the foundation of the dark web."
+  },
+  {
+    "date": "2011-02-01",
+    "name": "Silk Road",
+    "type": "Dark Web,アメリカ,平成",
+    "img": "silkroad.svg",
+    "nationality": "United-States-of-America",
+    "description": "ロス・ウルブリヒト（ドレッド・パイレート・ロバーツ）によって開設された、最初の現代的なダークネットマーケット。Torによる匿名性とBitcoinによる決済を組み合わせ、違法薬物などの取引を可能にした。",
+    "description_en": "The first modern darknet market, founded by Ross Ulbricht (Dread Pirate Roberts). It combined Tor's anonymity with Bitcoin payments to enable the trade of illegal drugs and other goods."
+  },
+  {
+    "date": "2000-03-01",
+    "name": "Freenet",
+    "type": "Dark Web,アイルランド,平成",
+    "img": "freenet.svg",
+    "nationality": "Ireland",
+    "description": "イアン・クラークによって開発された、検閲耐性のある分散型データストア。P2Pネットワーク上にデータを分散保存することで、特定のサーバーに依存せず、匿名での情報発信と閲覧を可能にする。",
+    "description_en": "A censorship-resistant decentralized data store developed by Ian Clarke. By distributing data across a P2P network, it enables anonymous publishing and browsing without relying on specific servers."
+  },
+  {
+    "date": "2003-08-01",
+    "name": "I2P",
+    "type": "Dark Web,Multi-national,平成",
+    "img": "i2p.svg",
+    "nationality": "Multi-national",
+    "description": "Invisible Internet Project。隠蔽されたサービス（eepsite）のための匿名ネットワークレイヤー。Torとは異なり、ファイル共有やチャットなどのP2Pアプリケーションの匿名化に特化している。",
+    "description_en": "Invisible Internet Project. An anonymous network layer for hidden services (eepsites). Unlike Tor, it specializes in anonymizing P2P applications like file sharing and chat."
+  },
+  {
+    "date": "2014-12-22",
+    "name": "AlphaBay",
+    "type": "Dark Web,カナダ,平成",
+    "img": "alphabay.svg",
+    "nationality": "Canada",
+    "description": "アレクサンドル・カゼスによって設立された、Silk Road閉鎖後の最大規模のダークネットマーケット。2017年に法執行機関によって閉鎖されるまで、数多くの違法取引が行われていた。",
+    "description_en": "The largest darknet market after the closure of Silk Road, founded by Alexandre Cazes. It hosted numerous illegal transactions until it was shut down by law enforcement in 2017."
+  },
+  {
+    "date": "1969-10-29",
+    "name": "ARPANET",
+    "type": "Infrastructure,アメリカ,昭和",
+    "img": "arpanet.svg",
+    "nationality": "United-States-of-America",
+    "description": "米国防総省の高等研究計画局（ARPA）によって構築された、世界初のパケット交換ネットワークであり、現代のインターネットの始祖。最初のメッセージは「LO」（LOGINと打とうとしてクラッシュした）だった。",
+    "description_en": "The world's first packet-switching network and the precursor to the modern Internet, built by the Advanced Research Projects Agency (ARPA). The first message sent was \"LO\" (it crashed while typing LOGIN)."
+  },
+  {
+    "date": "1990-12-20",
+    "name": "World Wide Web",
+    "type": "IT,スイス,平成",
+    "img": "www.svg",
+    "nationality": "Switzerland",
+    "description": "CERN（欧州原子核研究機構）のティム・バーナーズ＝リーによって発明された、ハイパーテキストシステム。世界初のWebサイト「info.cern.ch」が公開され、インターネットが一般に普及するきっかけとなった。",
+    "description_en": "A hypertext system invented by Tim Berners-Lee at CERN. The world's first website, \"info.cern.ch\", was launched, paving the way for the Internet to become mainstream."
+  },
+  {
+    "date": "1993-01-23",
+    "name": "NCSA Mosaic",
+    "type": "service,アメリカ,平成",
+    "img": "mosaic.svg",
+    "nationality": "United-States-of-America",
+    "description": "イリノイ大学のマーク・アンドリーセンらによって開発された、画像とテキストを同一ウィンドウ内に表示できる最初の普及型Webブラウザ。インターネットを「見る」ものへと変え、後のNetscapeやIEの基礎となった。",
+    "description_en": "The first popular web browser capable of displaying images and text in the same window, developed by Marc Andreessen and others. It transformed the Internet into a visual medium and laid the foundation for Netscape and IE."
+  },
+  {
+    "date": "1999-02-22",
+    "name": "i-mode",
+    "type": "service,日本,平成",
+    "img": "imode.svg",
+    "nationality": "Japan",
+    "description": "NTTドコモが開始した、世界初の成功したモバイルインターネットサービス。携帯電話だけでメールやWeb閲覧、チケット予約などができる画期的なシステムで、日本のガラケー文化の象徴となった。",
+    "description_en": "The world's first successful mobile internet service launched by NTT Docomo. A revolutionary system allowing email, web browsing, and ticket booking on mobile phones, symbolizing Japan's feature phone culture."
+  },
+  {
+    "date": "1999-05-30",
+    "name": "2channel",
+    "type": "SNS,日本,平成",
+    "img": "2channel.svg",
+    "nationality": "Japan",
+    "description": "西村博之（ひろゆき）によって開設された、日本最大の匿名掲示板群（現在は5ちゃんねる）。「電車男」などの社会現象を生み出し、日本のネットスラングやアングラ文化の震源地となった。",
+    "description_en": "Japan's largest anonymous textboard founded by Hiroyuki Nishimura (currently 5channel). It spawned social phenomena like \"Train Man\" and became the epicenter of Japanese internet slang and underground culture."
+  },
+  {
+    "date": "1889-09-23",
+    "name": "Nintendo",
+    "type": "Game,日本,明治",
+    "img": "nintendo.svg",
+    "nationality": "Japan",
+    "description": "京都の花札製造会社として創業。1980年代に「ファミリーコンピュータ（NES）」でビデオゲーム市場を席巻し、マリオやゼルダなどのIPで世界的なエンターテインメント企業となった。",
+    "description_en": "Founded as a Hanafuda playing card company in Kyoto. It dominated the video game market in the 1980s with the NES and became a global entertainment giant with IPs like Mario and Zelda."
+  },
+  {
+    "date": "1960-06-03",
+    "name": "SEGA",
+    "type": "Game,日本,昭和",
+    "img": "sega.svg",
+    "nationality": "Japan",
+    "description": "アミューズメントマシンの輸入・製造から始まり、「メガドライブ（Genesis）」で任天堂と激しいコンソール戦争（Console Wars）を繰り広げた。「ソニック・ザ・ヘッジホッグ」などの代表作を持つ。",
+    "description_en": "Started as an importer/manufacturer of amusement machines, it fought a fierce Console War with Nintendo using the Mega Drive (Genesis). Famous for titles like \"Sonic the Hedgehog\"."
+  },
+  {
+    "date": "2010-09-01",
+    "name": "DeepMind",
+    "type": "AI,イギリス,平成",
+    "img": "deepmind.svg",
+    "nationality": "UK",
+    "description": "デミス・ハサビスらによってロンドンで設立されたAI企業。2014年にGoogleに買収された。囲碁AI「AlphaGo」が世界トップ棋士を破り、第3次AIブームの火付け役となった。",
+    "description_en": "An AI company founded in London by Demis Hassabis and others. Acquired by Google in 2014. Its Go-playing AI \"AlphaGo\" defeated a world champion, igniting the third AI boom."
+  },
+  {
+    "date": "1984-03-07",
+    "name": "BlackBerry",
+    "type": "hardware,カナダ,昭和",
+    "img": "blackberry.svg",
+    "nationality": "Canada",
+    "description": "物理キーボードによるメール機能で、ビジネスパーソンを中心に一世を風靡したスマートフォンの先駆者。iPhone登場以前はスマートフォン市場の覇者だったが、タッチパネルへの移行に遅れた。",
+    "description_en": "A smartphone pioneer that dominated the business world with its physical keyboard email capabilities. It was the king of the smartphone market before the iPhone but lagged in the shift to touchscreens."
+  },
+  {
+    "date": "2003-01-01",
+    "name": "Theranos",
+    "type": "FinTech,アメリカ,平成",
+    "img": "theranos.svg",
+    "nationality": "United-States-of-America",
+    "description": "エリザベス・ホームズによって設立された医療ベンチャー。「数滴の血液で数百種類の検査ができる」と謳い巨額の資金を集めたが、技術は実在せず、シリコンバレー史上最大級の詐欺事件として崩壊した。",
+    "description_en": "A health tech startup founded by Elizabeth Holmes. It raised massive funds claiming to run hundreds of tests with a few drops of blood, but the technology didn't exist, leading to one of Silicon Valley's biggest frauds."
+  },
+  {
+    "date": "2010-07-18",
+    "name": "Mt. Gox",
+    "type": "FinTech,日本,平成",
+    "img": "mtgox.svg",
+    "nationality": "Japan",
+    "description": "かつて世界最大のビットコイン取引所だった東京の企業。2014年に約85万BTC（当時のレートで約480億円）が消失し破綻。仮想通貨のセキュリティと規制の重要性を世界に知らしめた事件。",
+    "description_en": "Once the world's largest Bitcoin exchange, based in Tokyo. It collapsed in 2014 after losing about 850,000 BTC, highlighting the critical need for security and regulation in cryptocurrency."
+  },
+  {
+    "date": "1970-07-01",
+    "name": "Xerox PARC",
+    "type": "IT,アメリカ,昭和",
+    "img": "xeroxparc.svg",
+    "nationality": "United-States-of-America",
+    "description": "パロアルト研究所。GUI（グラフィカルユーザーインターフェース）、マウス、イーサネット、オブジェクト指向など、現代のPC技術の基礎の多くを発明したが、親会社のXeroxはそれを製品化できなかった。",
+    "description_en": "Palo Alto Research Center. Invented many foundations of modern PC technology like the GUI, mouse, Ethernet, and OOP, though its parent company Xerox failed to commercialize them."
+  },
+  {
+    "date": "1976-01-01",
+    "name": "Commodore",
+    "type": "hardware,アメリカ,昭和",
+    "img": "commodore.svg",
+    "nationality": "United-States-of-America",
+    "description": "「Commodore 64」は単一機種として歴史上最も売れたパソコンであり、PCを家庭に普及させた立役者。Amigaシリーズは高度なグラフィックとマルチメディア機能でクリエイターに愛された。",
+    "description_en": "The \"Commodore 64\" remains the best-selling single computer model in history, popularizing PCs in homes. The Amiga series was beloved by creators for its advanced graphics and multimedia capabilities."
+  },
+  {
+    "date": "1995-03-01",
+    "name": "Craigslist",
+    "type": "service,アメリカ,平成",
+    "img": "craigslist.svg",
+    "nationality": "United-States-of-America",
+    "description": "クレイグ・ニューマークがサンフランシスコで開始した、地域密着型のクラシファイドコミュニティサイト。シンプルさを貫き、求人、住宅、販売、サービス、フォーラムなど、インターネット上の掲示板文化の原型を作った。",
+    "description_en": "A local classifieds community site started by Craig Newmark in San Francisco. Sticking to simplicity, it created the archetype for internet bulletin boards covering jobs, housing, sales, services, and forums."
+  },
+  {
+    "date": "1994-11-01",
+    "name": "GeoCities",
+    "type": "service,アメリカ,平成",
+    "img": "geocities.svg",
+    "nationality": "United-States-of-America",
+    "description": "デイビッド・ボネットらが設立した、無料ウェブホスティングサービス。ユーザーが「近所（Neighborhoods）」と呼ばれるテーマ別のコミュニティにホームページを作成できる仕組みで、個人サイトブームを巻き起こした。2009年に米国でのサービスを終了。",
+    "description_en": "A free web hosting service founded by David Bohnett and others. It sparked a personal website boom by allowing users to create homepages in themed communities called \"Neighborhoods\". US service ended in 2009."
+  },
+  {
+    "date": "1969-01-01",
+    "name": "CompuServe",
+    "type": "service,アメリカ,昭和",
+    "img": "compuserve.svg",
+    "nationality": "United-States-of-America",
+    "description": "1980年代から90年代にかけて主要だった商用オンラインサービスプロバイダ。チャット、フォーラム、ソフトウェアライブラリなどを提供し、GIFフォーマットの開発元としても知られる。後にAOLに買収された。",
+    "description_en": "A major commercial online service provider in the 1980s and 90s. Provided chat, forums, and software libraries, and is also known as the creator of the GIF format. Later acquired by AOL."
+  },
+  {
+    "date": "1985-05-24",
+    "name": "AOL",
+    "type": "service,アメリカ,昭和",
+    "img": "aol.svg",
+    "nationality": "United-States-of-America",
+    "description": "アメリカ・オンライン。1990年代のインターネット普及期に、ダイヤルアップ接続と独自のポータルサービスで圧倒的なシェアを誇った。キャッチフレーズ「You've Got Mail」は一世を風靡した。",
+    "description_en": "America Online. Dominated with dial-up connections and its own portal service during the internet adoption era of the 1990s. The catchphrase \"You've Got Mail\" became a cultural phenomenon."
+  },
+  {
+    "date": "1969-05-01",
+    "name": "AMD",
+    "type": "hardware,アメリカ,昭和",
+    "img": "amd.svg",
+    "nationality": "United-States-of-America",
+    "description": "Advanced Micro Devices。Intelの競合としてx86互換プロセッサを製造し、2000年代には64ビット拡張（AMD64）を先導した。現在はCPUとGPU（Radeon）の両方を手掛ける唯一の主要メーカーとして、PC、ゲーム機、データセンターを支える。",
+    "description_en": "Advanced Micro Devices. Manufactured x86 compatible processors as a competitor to Intel and pioneered 64-bit extensions (AMD64) in the 2000s. Currently the only major manufacturer of both CPUs and GPUs (Radeon), powering PCs, consoles, and data centers."
+  },
+  {
+    "date": "1990-11-27",
+    "name": "ARM",
+    "type": "hardware,イギリス,平成",
+    "img": "arm.svg",
+    "nationality": "UK",
+    "description": "Acorn Computers、Apple、VLSI Technologyのジョイントベンチャーとして設立。電力効率に優れたRISCアーキテクチャを設計し、スマートフォン時代の到来とともに、世界中のほぼ全てのモバイルデバイスの頭脳（CPU）となった。",
+    "description_en": "Founded as a joint venture between Acorn Computers, Apple, and VLSI Technology. Designed power-efficient RISC architectures, becoming the brain (CPU) of almost every mobile device worldwide with the advent of the smartphone era."
+  },
+  {
+    "date": "1985-07-01",
+    "name": "Qualcomm",
+    "type": "hardware,アメリカ,昭和",
+    "img": "qualcomm.svg",
+    "nationality": "United-States-of-America",
+    "description": "アーウィン・ジェイコブスらによって設立。CDMA技術を商業化し、3G、4G、5Gと続くモバイル通信規格の進化を主導した。Snapdragonプロセッサは多くのAndroidスマートフォンに搭載されている。",
+    "description_en": "Founded by Irwin Jacobs and others. Commercialized CDMA technology and led the evolution of mobile communication standards through 3G, 4G, and 5G. Its Snapdragon processors power many Android smartphones."
+  },
+  {
+    "date": "2003-07-01",
+    "name": "Tesla",
+    "type": "hardware,アメリカ,平成",
+    "img": "tesla.svg",
+    "nationality": "United-States-of-America",
+    "description": "マーティン・エバーハードとマーク・ターペニングによって設立され、後にイーロン・マスクが参加。電気自動車（EV）を高性能なITガジェットのように再定義し、自動運転技術（Autopilot）やOTAアップデートで自動車産業に革命を起こした。",
+    "description_en": "Founded by Martin Eberhard and Marc Tarpenning, joined later by Elon Musk. Redefined electric vehicles (EVs) as high-performance IT gadgets, revolutionizing the auto industry with Autopilot and OTA updates."
+  },
+  {
+    "date": "2021-01-01",
+    "name": "Anthropic",
+    "type": "AI,アメリカ,平成",
+    "img": "anthropic.svg",
+    "nationality": "United-States-of-America",
+    "description": "OpenAIの元研究幹部であるダリオ・アモデイ、ダニエラ・アモデイ兄妹らによって設立されたAI安全性・研究企業。「Claude」シリーズを開発し、AIの憲法（Constitutional AI）などの概念で、安全性と有益性を重視したAI開発を推進している。",
+    "description_en": "An AI safety and research company founded by former OpenAI executives Dario and Daniela Amodei. Developer of the \"Claude\" series, promoting helpful and harmless AI development through concepts like Constitutional AI."
   }
 ]

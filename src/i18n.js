@@ -5,7 +5,7 @@ export const messages = {
       description: "Do you know the birthdays of IT companies, web services, and applications?"
     },
     footer: {
-      copyright: "Copyright © The Birth of websites,applications 2023"
+      copyright: "Copyright © The Birth of websites,applications 2026"
     },
     search: {
       placeholder: "Search"
@@ -36,7 +36,11 @@ export const messages = {
         Communication: "Communication",
         Design: "Design",
         Music: "Music",
-        Education: "Education"
+        Education: "Education",
+        OS: "Operating System",
+        tool: "Tool",
+        Piracy: "Piracy / P2P",
+        "Dark Web": "Dark Web"
       },
       nationalities: {
         "日本": "Japan",
@@ -55,7 +59,16 @@ export const messages = {
         "ロシア": "Russia",
         "ウクライナ": "Ukraine",
         "オーストラリア": "Australia",
-        "スイス": "Switzerland"
+        "スイス": "Switzerland",
+        "フィンランド": "Finland",
+        "台湾": "Taiwan",
+        "シンガポール": "Singapore",
+        "インドネシア": "Indonesia",
+        "アルゼンチン": "Argentina",
+        "ケニア": "Kenya",
+        "インド": "India",
+        "カザフスタン": "Kazakhstan",
+        "香港": "Hong Kong"
       },
       eras: {
         "平成": "1989-2019",
@@ -71,7 +84,7 @@ export const messages = {
       description: "IT企業、Webサービス、アプリの誕生日を知っていますか？"
     },
     footer: {
-      copyright: "Copyright © The Birth of websites,applications 2023"
+      copyright: "Copyright © The Birth of websites,applications 2026"
     },
     search: {
       placeholder: "検索"
@@ -102,7 +115,11 @@ export const messages = {
         Communication: "通信/チャット",
         Design: "デザイン",
         Music: "音楽",
-        Education: "教育"
+        Education: "教育",
+        OS: "OS",
+        tool: "ツール",
+        Piracy: "海賊版 / P2P",
+        "Dark Web": "ダークウェブ"
       },
       nationalities: {
         "日本": "日本",
@@ -121,7 +138,16 @@ export const messages = {
         "ロシア": "ロシア",
         "ウクライナ": "ウクライナ",
         "オーストラリア": "オーストラリア",
-        "スイス": "スイス"
+        "スイス": "スイス",
+        "フィンランド": "フィンランド",
+        "台湾": "台湾",
+        "シンガポール": "シンガポール",
+        "インドネシア": "インドネシア",
+        "アルゼンチン": "アルゼンチン",
+        "ケニア": "ケニア",
+        "インド": "インド",
+        "カザフスタン": "カザフスタン",
+        "香港": "香港"
       },
       eras: {
         "平成": "平成",
