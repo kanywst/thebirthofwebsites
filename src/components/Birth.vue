@@ -42,7 +42,8 @@ export default{
       filter_era: '',
       filter_era_list: ['平成','昭和','大正','明治'],
       //jsonファイルを読み込む
-      items: items
+      items: items,
+      publicPath: import.meta.env.BASE_URL
     }
   },
   computed: {
@@ -131,9 +132,9 @@ export default{
     <div class="container">
       <div v-for="item in filteredItems" :key="item.name">
         <section>
-          <h1>{{ item.date }} <img :src="'/flag/' + item.nationality + '.png'"></h1>
+          <h1>{{ item.date }} <img :src="publicPath + 'flag/' + item.nationality + '.png'"></h1>
           <p>{{ item.name }}</p>
-          <img :src="'/' + item.img" >
+          <img :src="publicPath + item.img" >
           <p>{{ item.description }}</p>
         </section>
       </div>
