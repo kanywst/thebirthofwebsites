@@ -1687,7 +1687,7 @@
     "name": "KakaoTalk",
     "type": "Communication,韓国,平成",
     "img": "kakaotalk.svg",
-    "nationality": "South Korea",
+    "nationality": "Korea,-South",
     "description": "韓国で圧倒的なシェアを誇る無料通話・メッセンジャーアプリ。決済、銀行、タクシー配車など生活のあらゆる場面に関わる「スーパーアプリ」として独自の経済圏を築いている。",
     "description_en": "A free calling and messaging app with overwhelming market share in South Korea. It has built a unique economic ecosystem as a \"super app\" involved in every aspect of life, including payments, banking, and taxi hailing."
   },
@@ -1939,7 +1939,7 @@
     "name": "DeepMind",
     "type": "AI,イギリス,平成",
     "img": "deepmind.svg",
-    "nationality": "UK",
+    "nationality": "United-Kingdom",
     "description": "デミス・ハサビスらによってロンドンで設立されたAI企業。2014年にGoogleに買収された。囲碁AI「AlphaGo」が世界トップ棋士を破り、第3次AIブームの火付け役となった。",
     "description_en": "An AI company founded in London by Demis Hassabis and others. Acquired by Google in 2014. Its Go-playing AI \"AlphaGo\" defeated a world champion, igniting the third AI boom."
   },
@@ -2038,7 +2038,7 @@
     "name": "ARM",
     "type": "hardware,イギリス,平成",
     "img": "arm.svg",
-    "nationality": "UK",
+    "nationality": "United-Kingdom",
     "description": "Acorn Computers、Apple、VLSI Technologyのジョイントベンチャーとして設立。電力効率に優れたRISCアーキテクチャを設計し、スマートフォン時代の到来とともに、世界中のほぼ全てのモバイルデバイスの頭脳（CPU）となった。",
     "description_en": "Founded as a joint venture between Acorn Computers, Apple, and VLSI Technology. Designed power-efficient RISC architectures, becoming the brain (CPU) of almost every mobile device worldwide with the advent of the smartphone era."
   },
