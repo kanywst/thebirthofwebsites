@@ -5,7 +5,8 @@
     "type": "internet,search engine,アメリカ,平成",
     "img": "google.png",
     "nationality": "United-States-of-America",
-    "description": "スタンフォード大学の博士課程に在籍していたラリー・ペイジとセルゲイ・ブリンによって創業された。「世界中の情報を整理し、世界中の人々がアクセスできて使えるようにすること」を経営理念に掲げている。非公式なスローガンには「邪悪になるな (Don't be evil.)」がある。移転後の本社はGoogleplexという愛称で呼ばれている。"
+    "description": "スタンフォード大学の博士課程に在籍していたラリー・ペイジとセルゲイ・ブリンによって創業された。「世界中の情報を整理し、世界中の人々がアクセスできて使えるようにすること」を経営理念に掲げている。非公式なスローガンには「邪悪になるな (Don't be evil.)」がある。移転後の本社はGoogleplexという愛称で呼ばれている。",
+    "description_en": "Founded by Larry Page and Sergey Brin. Its mission is \"to organize the world's information and make it universally accessible and useful\"."
   },
   {
     "date": "1976-04-01",
@@ -13,7 +14,8 @@
     "type": "hardware,アメリカ,昭和",
     "img": "apple.png",
     "nationality": "United-States-of-America",
-    "description": "ハードウェア製品として、スマートフォンのiPhone、タブレット型情報端末のiPad、パーソナルコンピュータのMac、携帯音楽プレーヤーのiPod、ウェアラブルコンピュータのApple Watch、ソフトウェア製品としては、オペレーティングシステムのmacOS、iOS、watchOS、tvOS、クラウドサービスとしてはiCloudなどの開発・販売を行っている。"
+    "description": "ハードウェア製品として、スマートフォンのiPhone、タブレット型情報端末のiPad、パーソナルコンピュータのMac、携帯音楽プレーヤーのiPod、ウェアラブルコンピュータのApple Watch、ソフトウェア製品としては、オペレーティングシステムのmacOS、iOS、watchOS、tvOS、クラウドサービスとしてはiCloudなどの開発・販売を行っている。",
+    "description_en": "Designs, develops, and sells consumer electronics, computer software, and online services. Famous for iPhone, iPad, Mac, and more."
   },
   {
     "date": "1981-06-25",
@@ -21,7 +23,8 @@
     "type": "IT,アメリカ,昭和",
     "img": "microsoft.png",
     "nationality": "United-States-of-America",
-    "description": "当初は世に登場して間もない8ビットのマイクロプロセッサを搭載したコンピュータ「アルテア」上で動く、BASICインタプリタの開発・販売で成功を収めた。MS-DOSを改良するほかに各機種用のBASICやC言語・FORTRANなどのコンパイラの開発を手がける一方、Altoの見学などMS-DOS上で動作するGUIシステム「Windows」の開発に注力した。"
+    "description": "当初は世に登場して間もない8ビットのマイクロプロセッサを搭載したコンピュータ「アルテア」上で動く、BASICインタプリタの開発・販売で成功を収めた。MS-DOSを改良するほかに各機種用のBASICやC言語・FORTRANなどのコンパイラの開発を手がける一方、Altoの見学などMS-DOS上で動作するGUIシステム「Windows」の開発に注力した。",
+    "description_en": "Develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services."
   },
   {
     "date": "1994-07-05",
@@ -29,7 +32,8 @@
     "type": "EC,アメリカ,平成",
     "img": "amazoncom.png",
     "nationality": "United-States-of-America",
-    "description": "Amazonの設立は、創業者ジェフ・ベゾスが「後悔の最小化フレームワーク」と呼ぶ、ベゾス自身の考え方の結果としてもたらされた。つまり、ベゾスが起業を決意したのは当時のインターネット・バブルにすぐに加わらないことで未来に生じる後悔を避けるためだった。シアトルでベゾスは、のちにAmazon.comとなる企業のための事業計画に取り組んだ。"
+    "description": "Amazonの設立は、創業者ジェフ・ベゾスが「後悔の最小化フレームワーク」と呼ぶ、ベゾス自身の考え方の結果としてもたらされた。つまり、ベゾスが起業を決意したのは当時のインターネット・バブルにすぐに加わらないことで未来に生じる後悔を避けるためだった。シアトルでベゾスは、のちにAmazon.comとなる企業のための事業計画に取り組んだ。",
+    "description_en": "An American multinational technology company which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence."
   },
   {
     "date": "1995-03-01",
@@ -93,7 +97,8 @@
     "type": "service,アメリカ,平成",
     "img": "wikipedia.png",
     "nationality": "United-States-of-America",
-    "description": "ウェブサイトには広告は一切掲載せず、資金的には個人や団体などからの寄付により運営している。記事の自由な複製・改変を認める「GFDL」というコピーレフトなライセンスとインターネットを通じ自由に文章の編集が行えるウィキシステムを採用し、誰もが新規記事の執筆や既存の記事の編集を行えるようになっている。"
+    "description": "ウェブサイトには広告は一切掲載せず、資金的には個人や団体などからの寄付により運営している。記事の自由な複製・改変を認める「GFDL」というコピーレフトなライセンスとインターネットを通じ自由に文章の編集が行えるウィキシステムを採用し、誰もが新規記事の執筆や既存の記事の編集を行えるようになっている。",
+    "description_en": "A free, multilingual open-collaborative online encyclopedia created and maintained by a community of volunteer editors."
   },
   {
     "date": "2002-12-18",
@@ -117,7 +122,8 @@
     "type": "SNS,アメリカ,平成",
     "img": "facebook.png",
     "nationality": "United-States-of-America",
-    "description": "ハーバード大学の学生だったマーク・ザッカーバーグはハッキングをして得た女子学生の身分証明写真をインターネット上に公開し、公開した女子学生の顔を比べて勝ち抜き投票させる「フェイスマッシュ」というゲームを考案した。これは大学内で問題になり、ザッカーバーグはハーバード大学の半年間の保護観察処分を受けるに至った。"
+    "description": "ハーバード大学の学生だったマーク・ザッカーバーグはハッキングをして得た女子学生の身分証明写真をインターネット上に公開し、公開した女子学生の顔を比べて勝ち抜き投票させる「フェイスマッシュ」というゲームを考案した。これは大学内で問題になり、ザッカーバーグはハーバード大学の半年間の保護観察処分を受けるに至った。",
+    "description_en": "An American online social media and social networking service owned by Meta Platforms. Founded by Mark Zuckerberg."
   },
   {
     "date": "2005-02-14",
@@ -125,7 +131,8 @@
     "type": "video sharing,アメリカ,平成",
     "img": "youtube.png",
     "nationality": "United-States-of-America",
-    "description": "YouTubeの発想のきっかけとなったのは、2004年にジャネット・ジャクソンが起こした第38回スーパーボウルでのハプニングと、同じく2004年に発生したスマトラ島沖地震だった。カリムはインターネット上でそれらの事件の動画を探したが、どちらの出来事の動画も簡単には見つけることができず、その体験が動画共有サイトのアイディアを生んだという。"
+    "description": "YouTubeの発想のきっかけとなったのは、2004年にジャネット・ジャクソンが起こした第38回スーパーボウルでのハプニングと、同じく2004年に発生したスマトラ島沖地震だった。カリムはインターネット上でそれらの事件の動画を探したが、どちらの出来事の動画も簡単には見つけることができず、その体験が動画共有サイトのアイディアを生んだという。",
+    "description_en": "An American online video sharing and social media platform owned by Google."
   },
   {
     "date": "2006-12-12",
@@ -164,8 +171,9 @@
     "name": "Instagram",
     "type": "SNS,アメリカ,平成",
     "img": "instagram.png",
-    "nationality" :"United-States-of-America",
-    "description": "ケヴィン・シストロムとマイク・クリーガーが、ベースライン・ヴェンチャーズとアンドリーセン・ホロウィッツの2社から財政的支援を受けて、インスタグラムのグループは始動した。Burbn という名の当初のプロジェクトには数々の機能があった。クリーガーが参加したあとでチームは、モバイルにフォーカスしたものを選択した。そこで残ったものがインスタグラムである。"
+    "nationality": "United-States-of-America",
+    "description": "ケヴィン・シストロムとマイク・クリーガーが、ベースライン・ヴェンチャーズとアンドリーセン・ホロウィッツの2社から財政的支援を受けて、インスタグラムのグループは始動した。Burbn という名の当初のプロジェクトには数々の機能があった。クリーガーが参加したあとでチームは、モバイルにフォーカスしたものを選択した。そこで残ったものがインスタグラムである。",
+    "description_en": "A photo and video sharing social networking service owned by Meta Platforms."
   },
   {
     "date": "2006-08",
@@ -181,7 +189,8 @@
     "type": "SNS,アメリカ,平成",
     "img": "twitter.png",
     "nationality": "United-States-of-America",
-    "description": "創成期にブログ・サービス「ブロガー」を開発し、その後Googleに売却したエヴァン・ウィリアムズやブロガーの開発チームの一員であったビズ・ストーン、ジャック・ドーシーらが中心となって開発した。ドーシーによると、Twitterの基本構想は自身が2000年6月に思いついた。LiveJournalよりもリアルタイム性が高く、どこにいても自分の状況を知人に知らせたり、逆に知人の状況を把握できたりするサービスの可能性に気づいたという。ドーシーはそのアイデアを5年間あたため続け、その後、オデオ社のプロジェクトとして立ち上げた。"
+    "description": "創成期にブログ・サービス「ブロガー」を開発し、その後Googleに売却したエヴァン・ウィリアムズやブロガーの開発チームの一員であったビズ・ストーン、ジャック・ドーシーらが中心となって開発した。ドーシーによると、Twitterの基本構想は自身が2000年6月に思いついた。LiveJournalよりもリアルタイム性が高く、どこにいても自分の状況を知人に知らせたり、逆に知人の状況を把握できたりするサービスの可能性に気づいたという。ドーシーはそのアイデアを5年間あたため続け、その後、オデオ社のプロジェクトとして立ち上げた。",
+    "description_en": "A microblogging and social networking service on which users post and interact with messages known as \"tweets\"."
   },
   {
     "date": "1982",
@@ -465,7 +474,7 @@
   },
   {
     "date": "1984-12",
-    "name" :"Cisco",
+    "name": "Cisco",
     "type": "IT,アメリカ,昭和",
     "img": "cisco.svg",
     "nationality": "United-States-of-America",
@@ -641,7 +650,7 @@
   },
   {
     "date": "1995-06-08",
-    "name" :"PHP",
+    "name": "PHP",
     "type": "language,カナダ,イスラエル,平成",
     "img": "php.svg",
     "nationality": "Canada",
@@ -691,7 +700,7 @@
     "date": "1946-05-07",
     "name": "Sony",
     "type": "hardware,日本,昭和",
-    "img" : "sony.svg",
+    "img": "sony.svg",
     "nationality": "Japan",
     "description": "1946年（昭和21年）、井深大と盛田昭夫により東京通信工業株式会社（略: 東通工）として創業。東通工の設立趣意書には「真面目ナル技術者ノ技能ヲ最高度ニ発揮セシムベキ　自由豁達ニシテ愉快ナル理想工場ノ建設」と記されている。創業当初は真空管電圧計の製造・販売を行っていた。"
   },
@@ -787,7 +796,7 @@
     "date": "1999-08-12",
     "name": "livedoor",
     "type": "IT,日本,平成",
-    "img":"livedoor.svg",
+    "img": "livedoor.svg",
     "nationality": "Japan",
     "description": "一般的なISP事業においては、事業運営に必要なコストを会員からの月会費および接続料によって賄っているが、ライブドアの行った無料サービスでは、当初は「常時バナー広告が表示される専用のウェブブラウザを使ってもらうことで、民間放送のように広告料によって賄おう」というビジネスモデルを採用していた。他のISPと異なり、専用ブラウザ以外によるダイヤルアップ接続はできなかった。ただこのビジネスモデルはライブドアが初めてではなく、すでにアメリカではPC端末も含めて無料というサービスが普及していた。"
   },
@@ -989,7 +998,8 @@
     "type": "CNCF,Container Orchestration,アメリカ,平成",
     "img": "kubernetes.svg",
     "nationality": "United-States-of-America",
-    "description": "Googleのエンジニアによって開発された、コンテナ化されたアプリケーションのデプロイ、スケーリング、管理を自動化するためのオープンソースシステム。「K8s」と略されることが多い。"
+    "description": "Googleのエンジニアによって開発された、コンテナ化されたアプリケーションのデプロイ、スケーリング、管理を自動化するためのオープンソースシステム。「K8s」と略されることが多い。",
+    "description_en": "An open-source system for automating deployment, scaling, and management of containerized applications, originally designed by Google."
   },
   {
     "date": "2012-11-24",
@@ -997,7 +1007,8 @@
     "type": "CNCF,Monitoring,ドイツ,平成",
     "img": "prometheus.svg",
     "nationality": "Germany",
-    "description": "SoundCloudによって開発された、イベントモニタリングとアラートのためのオープンソースシステム。多次元データモデルと強力なクエリ言語PromQLが特徴。"
+    "description": "SoundCloudによって開発された、イベントモニタリングとアラートのためのオープンソースシステム。多次元データモデルと強力なクエリ言語PromQLが特徴。",
+    "description_en": "An open-source monitoring and alerting toolkit designed for reliability and scalability, originally built at SoundCloud."
   },
   {
     "date": "2011-10-01",
@@ -1005,7 +1016,8 @@
     "type": "CNCF,Logging,日本,平成",
     "img": "fluentd.svg",
     "nationality": "Japan",
-    "description": "古橋貞之氏らによって開発されたオープンソースのデータコレクター。ログ収集を統一し、様々なデータソースと出力先を柔軟に接続することができる。"
+    "description": "古橋貞之氏らによって開発されたオープンソースのデータコレクター。ログ収集を統一し、様々なデータソースと出力先を柔軟に接続することができる。",
+    "description_en": "An open-source data collector for unified logging layer, originally developed by Treasure Data."
   },
   {
     "date": "2016-09-14",
@@ -1013,7 +1025,8 @@
     "type": "CNCF,Service Mesh,アメリカ,平成",
     "img": "envoy.svg",
     "nationality": "United-States-of-America",
-    "description": "Lyftによって開発された、クラウドネイティブなアプリケーションのための高性能なエッジ/ミドルおよびサービスプロキシ。"
+    "description": "Lyftによって開発された、クラウドネイティブなアプリケーションのための高性能なエッジ/ミドルおよびサービスプロキシ。",
+    "description_en": "An open-source high-performance edge/middle/service proxy, originally built at Lyft."
   },
   {
     "date": "2015-11-02",
@@ -1021,7 +1034,8 @@
     "type": "CNCF,Package Manager,アメリカ,平成",
     "img": "helm.svg",
     "nationality": "United-States-of-America",
-    "description": "Deisによって開発されたKubernetesのパッケージマネージャー。Kubernetesアプリケーションの定義、インストール、アップグレードを容易にする。"
+    "description": "Deisによって開発されたKubernetesのパッケージマネージャー。Kubernetesアプリケーションの定義、インストール、アップグレードを容易にする。",
+    "description_en": "The package manager for Kubernetes, helping you define, install, and upgrade even the most complex Kubernetes application."
   },
   {
     "date": "2017-12-01",
@@ -1029,7 +1043,8 @@
     "type": "CNCF,Security,アメリカ,平成",
     "img": "spiffe.svg",
     "nationality": "United-States-of-America",
-    "description": "異種環境間でのソフトウェアサービスのIDを安全にブートストラップし、認証するための標準規格。"
+    "description": "異種環境間でのソフトウェアサービスのIDを安全にブートストラップし、認証するための標準規格。",
+    "description_en": "A set of open-source standards for securely identifying software systems in dynamic and heterogeneous environments."
   },
   {
     "date": "2017-12-01",
@@ -1037,7 +1052,8 @@
     "type": "CNCF,Security,アメリカ,平成",
     "img": "spire.svg",
     "nationality": "United-States-of-America",
-    "description": "SPIFFE APIの実装であり、ワークロードに対してSPIFFE IDを証明書として発行し、管理するツールチェーン。"
+    "description": "SPIFFE APIの実装であり、ワークロードに対してSPIFFE IDを証明書として発行し、管理するツールチェーン。",
+    "description_en": "A toolchain of APIs for establishing trust between software systems across a wide variety of hosting environments."
   },
   {
     "date": "2016-01-01",
@@ -1045,7 +1061,8 @@
     "type": "CNCF,Policy,アメリカ,平成",
     "img": "opa.svg",
     "nationality": "United-States-of-America",
-    "description": "Styraによって開発された、汎用的なポリシーエンジン。Rego言語を使用してポリシーをコードとして記述し、様々なソフトウェアスタックに適用できる。"
+    "description": "Styraによって開発された、汎用的なポリシーエンジン。Rego言語を使用してポリシーをコードとして記述し、様々なソフトウェアスタックに適用できる。",
+    "description_en": "An open-source, general-purpose policy engine that unifies policy enforcement across the stack."
   },
   {
     "date": "2017-04-25",
@@ -1053,7 +1070,8 @@
     "type": "CNCF,Service Mesh,アメリカ,平成",
     "img": "linkerd.svg",
     "nationality": "United-States-of-America",
-    "description": "Buoyantによって開発された、世界初のサービスメッシュ。Kubernetes向けに設計されており、超軽量で高速、かつ安全であることを特徴とする。"
+    "description": "Buoyantによって開発された、世界初のサービスメッシュ。Kubernetes向けに設計されており、超軽量で高速、かつ安全であることを特徴とする。",
+    "description_en": "A service mesh for Kubernetes. It makes running services easier and safer by giving you runtime debugging, observability, reliability, and security."
   },
   {
     "date": "2015-01-01",
@@ -1061,7 +1079,8 @@
     "type": "CNCF,Tracing,アメリカ,平成",
     "img": "jaeger.svg",
     "nationality": "United-States-of-America",
-    "description": "Uberによって開発された、分散トレーシングシステム。マイクロサービスベースの分散システムのモニタリングとトラブルシューティングに使用される。"
+    "description": "Uberによって開発された、分散トレーシングシステム。マイクロサービスベースの分散システムのモニタリングとトラブルシューティングに使用される。",
+    "description_en": "Open source, end-to-end distributed tracing. Monitor and troubleshoot transactions in complex distributed systems."
   },
   {
     "date": "2017-05-24",
@@ -1069,7 +1088,8 @@
     "type": "CNCF,Service Mesh,アメリカ,平成",
     "img": "istio.svg",
     "nationality": "United-States-of-America",
-    "description": "Google, IBM, Lyftによって共同開発されたオープンソースのサービスメッシュ。トラフィック管理、セキュリティ、オブザーバビリティ機能を提供する。"
+    "description": "Google, IBM, Lyftによって共同開発されたオープンソースのサービスメッシュ。トラフィック管理、セキュリティ、オブザーバビリティ機能を提供する。",
+    "description_en": "An open platform to connect, manage, and secure microservices, originally developed by Google, IBM, and Lyft."
   },
   {
     "date": "2016-02-01",
@@ -1077,7 +1097,8 @@
     "type": "CNCF,Registry,アメリカ,平成",
     "img": "harbor.svg",
     "nationality": "United-States-of-America",
-    "description": "VMwareによって開発された、信頼できるクラウドネイティブ・レジストリ。コンテンツの保存、署名、スキャンを行い、脆弱性から保護する。"
+    "description": "VMwareによって開発された、信頼できるクラウドネイティブ・レジストリ。コンテンツの保存、署名、スキャンを行い、脆弱性から保護する。",
+    "description_en": "An open source trusted cloud native registry project that stores, signs, and scans content."
   },
   {
     "date": "2016-05-01",
@@ -1085,7 +1106,8 @@
     "type": "CNCF,Security,アメリカ,平成",
     "img": "falco.svg",
     "nationality": "United-States-of-America",
-    "description": "Sysdigによって開発された、クラウドネイティブ環境向けのランタイムセキュリティツール。システムコールを監視し、不審な動作を検知する。"
+    "description": "Sysdigによって開発された、クラウドネイティブ環境向けのランタイムセキュリティツール。システムコールを監視し、不審な動作を検知する。",
+    "description_en": "The cloud-native runtime security project. It detects unexpected application behavior and alerts on threats at runtime."
   },
   {
     "date": "2013-06-01",
@@ -1093,7 +1115,8 @@
     "type": "CNCF,Key-Value Store,アメリカ,平成",
     "img": "etcd.svg",
     "nationality": "United-States-of-America",
-    "description": "CoreOSによって開発された、分散型キーバリューストア。Kubernetesのバッキングストアとして使用され、クラスタデータの一貫性と高可用性を保証する。"
+    "description": "CoreOSによって開発された、分散型キーバリューストア。Kubernetesのバッキングストアとして使用され、クラスタデータの一貫性と高可用性を保証する。",
+    "description_en": "A distributed, reliable key-value store for the most critical data of a distributed system."
   },
   {
     "date": "2017-10-01",
@@ -1101,7 +1124,8 @@
     "type": "CNCF,Security,イギリス,平成",
     "img": "cert-manager.svg",
     "nationality": "United-Kingdom",
-    "description": "Jetstackによって開発された、Kubernetes向けの証明書管理コントローラー。Let's Encryptなどの発行元から証明書を自動的に取得・更新する。"
+    "description": "Jetstackによって開発された、Kubernetes向けの証明書管理コントローラー。Let's Encryptなどの発行元から証明書を自動的に取得・更新する。",
+    "description_en": "A Kubernetes add-on to automate the management and issuance of TLS certificates from various issuing sources."
   },
   {
     "date": "2017-10-17",
@@ -1109,7 +1133,8 @@
     "type": "CNCF,Continuous Delivery,アメリカ,平成",
     "img": "argo.svg",
     "nationality": "United-States-of-America",
-    "description": "Intuitによって開発された、Kubernetesのための宣言的GitOps継続的デリバリーツール。Gitリポジトリの状態とクラスタの状態を自動的に同期させる。"
+    "description": "Intuitによって開発された、Kubernetesのための宣言的GitOps継続的デリバリーツール。Gitリポジトリの状態とクラスタの状態を自動的に同期させる。",
+    "description_en": "A declarative, GitOps continuous delivery tool for Kubernetes."
   },
   {
     "date": "2015-12-01",
@@ -1117,7 +1142,8 @@
     "type": "CNCF,Networking,スイス,平成",
     "img": "cilium.svg",
     "nationality": "Switzerland",
-    "description": "Isovalentによって開発された、eBPFベースのネットワーキング、セキュリティ、およびオブザーバビリティソリューション。Kubernetes環境で高度なパケットフィルタリングと可視化を提供する。"
+    "description": "Isovalentによって開発された、eBPFベースのネットワーキング、セキュリティ、およびオブザーバビリティソリューション。Kubernetes環境で高度なパケットフィルタリングと可視化を提供する。",
+    "description_en": "Open source software for transparently securing the network connectivity between application services using eBPF."
   },
   {
     "date": "2015-12-11",
@@ -1125,7 +1151,8 @@
     "type": "IT,AI,アメリカ,平成",
     "img": "openai.svg",
     "nationality": "United-States-of-America",
-    "description": "サム・アルトマン、イーロン・マスクらによって設立されたAI研究所。汎用人工知能（AGI）が全人類に利益をもたらすことを目指し、ChatGPTなどの画期的なAIモデルを開発している。"
+    "description": "サム・アルトマン、イーロン・マスクらによって設立されたAI研究所。汎用人工知能（AGI）が全人類に利益をもたらすことを目指し、ChatGPTなどの画期的なAIモデルを開発している。",
+    "description_en": "An AI research and deployment company dedicated to ensuring that artificial general intelligence benefits all of humanity."
   },
   {
     "date": "2010-09-29",
@@ -1133,7 +1160,8 @@
     "type": "IT,FinTech,アイルランド,平成",
     "img": "stripe.svg",
     "nationality": "Ireland",
-    "description": "コリソン兄弟によって設立されたオンライン決済処理プラットフォーム。開発者向けの使いやすいAPIを提供し、インターネットビジネスの決済インフラとして急速に普及した。"
+    "description": "コリソン兄弟によって設立されたオンライン決済処理プラットフォーム。開発者向けの使いやすいAPIを提供し、インターネットビジネスの決済インフラとして急速に普及した。",
+    "description_en": "A financial infrastructure platform for the internet. Millions of companies use Stripe to accept payments, send payouts, and manage their businesses."
   },
   {
     "date": "2015-05-13",
@@ -1141,7 +1169,8 @@
     "type": "IT,SNS,アメリカ,平成",
     "img": "discord.svg",
     "nationality": "United-States-of-America",
-    "description": "ゲーマー向けのボイスチャットアプリとしてジェイソン・シトロンらが開発。低遅延の通話とコミュニティ機能により、ゲーム以外のコミュニティにも広く使われるようになった。"
+    "description": "ゲーマー向けのボイスチャットアプリとしてジェイソン・シトロンらが開発。低遅延の通話とコミュニティ機能により、ゲーム以外のコミュニティにも広く使われるようになった。",
+    "description_en": "A voice, video and text communication service used by over a hundred million people to hang out and talk with their friends and communities."
   },
   {
     "date": "2013-01-01",
@@ -1149,7 +1178,8 @@
     "type": "IT,SaaS,アメリカ,平成",
     "img": "notion.png",
     "nationality": "United-States-of-America",
-    "description": "Notion Labsによって開発されたオールインワンのワークスペースツール。メモ、タスク管理、Wiki、データベースなどを柔軟に統合でき、世界中で人気を博している。"
+    "description": "Notion Labsによって開発されたオールインワンのワークスペースツール。メモ、タスク管理、Wiki、データベースなどを柔軟に統合でき、世界中で人気を博している。",
+    "description_en": "A single space where you can think, write, and plan. Capture thoughts, manage projects, or even run an entire company."
   },
   {
     "date": "2012-01-01",
@@ -1157,7 +1187,8 @@
     "type": "IT,Design,アメリカ,平成",
     "img": "figma.svg",
     "nationality": "United-States-of-America",
-    "description": "ブラウザ上で動作するインターフェースデザインツール。リアルタイムでの共同編集機能を特徴とし、デザインプロセスのコラボレーションを革新した。"
+    "description": "ブラウザ上で動作するインターフェースデザインツール。リアルタイムでの共同編集機能を特徴とし、デザインプロセスのコラボレーションを革新した。",
+    "description_en": "A collaborative interface design tool. It keeps everyone on the same page, focusing on the work instead of the tools."
   },
   {
     "date": "2013-01-01",
@@ -1165,7 +1196,8 @@
     "type": "IT,Design,オーストラリア,平成",
     "img": "canva.png",
     "nationality": "Australia",
-    "description": "メラニー・パーキンスらによって設立されたオンライングラフィックデザインツール。「デザインの民主化」を掲げ、誰でも簡単にプロフェッショナルなデザインを作成できる環境を提供している。"
+    "description": "メラニー・パーキンスらによって設立されたオンライングラフィックデザインツール。「デザインの民主化」を掲げ、誰でも簡単にプロフェッショナルなデザインを作成できる環境を提供している。",
+    "description_en": "An online design and publishing tool that makes it easy for anyone to design anything and publish anywhere."
   },
   {
     "date": "2011-04-21",
@@ -1173,7 +1205,8 @@
     "type": "IT,Communication,アメリカ,平成",
     "img": "zoom.svg",
     "nationality": "United-States-of-America",
-    "description": "エリック・ヤンによって設立されたビデオ会議サービス。高品質な映像と安定した接続性により、リモートワークの普及とともに爆発的に利用が拡大した。"
+    "description": "エリック・ヤンによって設立されたビデオ会議サービス。高品質な映像と安定した接続性により、リモートワークの普及とともに爆発的に利用が拡大した。",
+    "description_en": "A communications platform that connects people through video, voice, chat, and content sharing."
   },
   {
     "date": "2012-07-23",
@@ -1181,7 +1214,8 @@
     "type": "IT,Cloud Data,アメリカ,平成",
     "img": "snowflake.svg",
     "nationality": "United-States-of-America",
-    "description": "クラウドネイティブなデータウェアハウスプラットフォーム。コンピュートとストレージを分離したアーキテクチャにより、柔軟なスケーリングとデータ共有を実現した。"
+    "description": "クラウドネイティブなデータウェアハウスプラットフォーム。コンピュートとストレージを分離したアーキテクチャにより、柔軟なスケーリングとデータ共有を実現した。",
+    "description_en": "A cloud computing-based data cloud company. It offers a data-storage and analytics service, generally termed \"data-as-a-service\"."
   },
   {
     "date": "2002-03-14",
@@ -1189,7 +1223,8 @@
     "type": "IT,Aerospace,アメリカ,平成",
     "img": "spacex.svg",
     "nationality": "United-States-of-America",
-    "description": "イーロン・マスクによって設立された宇宙開発企業。再利用可能なロケット「Falcon 9」や衛星インターネット「Starlink」など、宇宙産業に革命をもたらしている。"
+    "description": "イーロン・マスクによって設立された宇宙開発企業。再利用可能なロケット「Falcon 9」や衛星インターネット「Starlink」など、宇宙産業に革命をもたらしている。",
+    "description_en": "An American spacecraft manufacturer, launch service provider and satellite communications company founded by Elon Musk."
   },
   {
     "date": "2013-01-01",
@@ -1197,7 +1232,8 @@
     "type": "IT,AI,アメリカ,平成",
     "img": "databricks.png",
     "nationality": "United-States-of-America",
-    "description": "Apache Sparkの創始者たちによって設立されたデータ＆AI企業。データレイクハウスという概念を提唱し、データ分析とAI開発のための統合プラットフォームを提供している。"
+    "description": "Apache Sparkの創始者たちによって設立されたデータ＆AI企業。データレイクハウスという概念を提唱し、データ分析とAI開発のための統合プラットフォームを提供している。",
+    "description_en": "A unified data analytics platform for massive scale data engineering and data science, founded by the creators of Apache Spark."
   },
   {
     "date": "2006-04-23",
@@ -1205,7 +1241,8 @@
     "type": "IT,Music,スウェーデン,平成",
     "img": "spotify.svg",
     "nationality": "Sweden",
-    "description": "ダニエル・エクとマーティン・ローレンツォンによって設立された世界最大の音楽ストリーミングサービス。音楽業界の海賊版問題を解決し、サブスクリプションモデルを定着させた。"
+    "description": "ダニエル・エクとマーティン・ローレンツォンによって設立された世界最大の音楽ストリーミングサービス。音楽業界の海賊版問題を解決し、サブスクリプションモデルを定着させた。",
+    "description_en": "A digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world."
   },
   {
     "date": "2009-08-14",
@@ -1213,7 +1250,8 @@
     "type": "IT,Communication,アメリカ,平成",
     "img": "slack.svg",
     "nationality": "United-States-of-America",
-    "description": "スチュワート・バターフィールドらによって開発されたビジネスチャットツール。ゲーム開発の社内ツールから生まれ、メールに代わるチームコミュニケーションの標準となった。"
+    "description": "スチュワート・バターフィールドらによって開発されたビジネスチャットツール。ゲーム開発の社内ツールから生まれ、メールに代わるチームコミュニケーションの標準となった。",
+    "description_en": "A messaging app for business that connects people to the information they need."
   },
   {
     "date": "2006-01-01",
@@ -1221,7 +1259,8 @@
     "type": "IT,EC,カナダ,平成",
     "img": "shopify.svg",
     "nationality": "Canada",
-    "description": "トビアス・リュトケらによって設立されたEコマースプラットフォーム。誰でも簡単にオンラインストアを開設できるSaaS型サービスとして、世界中の個人事業主から大企業まで利用されている。"
+    "description": "トビアス・リュトケらによって設立されたEコマースプラットフォーム。誰でも簡単にオンラインストアを開設できるSaaS型サービスとして、世界中の個人事業主から大企業まで利用されている。",
+    "description_en": "An all-in-one commerce platform to start, run, and grow a business."
   },
   {
     "date": "2013-08-14",
@@ -1229,7 +1268,8 @@
     "type": "IT,SNS,ロシア,平成",
     "img": "telegram.svg",
     "nationality": "Russia",
-    "description": "パーヴェル・ドゥーロフ兄弟によって開発されたクラウドベースのインスタントメッセージングアプリ。高度なセキュリティと高速な通信、大規模なグループチャット機能が特徴。"
+    "description": "パーヴェル・ドゥーロフ兄弟によって開発されたクラウドベースのインスタントメッセージングアプリ。高度なセキュリティと高速な通信、大規模なグループチャット機能が特徴。",
+    "description_en": "A cloud-based mobile and desktop messaging app with a focus on security and speed."
   },
   {
     "date": "2014-07-29",
@@ -1237,7 +1277,8 @@
     "type": "IT,Communication,アメリカ,平成",
     "img": "signal.svg",
     "nationality": "United-States-of-America",
-    "description": "モクシー・マーリンスパイクによって開発された、プライバシー重視のメッセンジャーアプリ。強力なエンドツーエンド暗号化技術は業界標準となり、WhatsAppなどにも採用されている。"
+    "description": "モクシー・マーリンスパイクによって開発された、プライバシー重視のメッセンジャーアプリ。強力なエンドツーエンド暗号化技術は業界標準となり、WhatsAppなどにも採用されている。",
+    "description_en": "A cross-platform encrypted messaging service. It uses the Internet to send one-to-one and group messages."
   },
   {
     "date": "2012-09-12",
@@ -1245,7 +1286,8 @@
     "type": "IT,SNS,アメリカ,平成",
     "img": "tinder.svg",
     "nationality": "United-States-of-America",
-    "description": "位置情報を活用したマッチングアプリ。「スワイプ」という直感的な操作を発明し、オンラインデーティングの常識を覆した。"
+    "description": "位置情報を活用したマッチングアプリ。「スワイプ」という直感的な操作を発明し、オンラインデーティングの常識を覆した。",
+    "description_en": "A geosocial networking and online dating application that allows users to anonymously swipe to like or dislike other profiles."
   },
   {
     "date": "2017-08-28",
@@ -1253,7 +1295,8 @@
     "type": "IT,AI,ドイツ,平成",
     "img": "deepl.svg",
     "nationality": "Germany",
-    "description": "ドイツのケルンで開発されたAI翻訳サービス。ニューラルネットワーク技術を駆使し、Google翻訳を超える自然で高精度な翻訳を実現して注目を集めた。"
+    "description": "ドイツのケルンで開発されたAI翻訳サービス。ニューラルネットワーク技術を駆使し、Google翻訳を超える自然で高精度な翻訳を実現して注目を集めた。",
+    "description_en": "A neural machine translation service that offers high-quality translations."
   },
   {
     "date": "2011-09-01",
@@ -1261,7 +1304,8 @@
     "type": "IT,DevOps,ウクライナ,平成",
     "img": "gitlab.svg",
     "nationality": "Ukraine",
-    "description": "ドミトリー・ザポロジェツらによって開発されたDevOpsプラットフォーム。Gitリポジトリ管理からCI/CDまで、ソフトウェア開発の全ライフサイクルを単一のアプリケーションでカバーする。"
+    "description": "ドミトリー・ザポロジェツらによって開発されたDevOpsプラットフォーム。Gitリポジトリ管理からCI/CDまで、ソフトウェア開発の全ライフサイクルを単一のアプリケーションでカバーする。",
+    "description_en": "A web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features."
   },
   {
     "date": "2011-06-01",
@@ -1269,7 +1313,8 @@
     "type": "IT,SaaS,ロシア,平成",
     "img": "miro.svg",
     "nationality": "Russia",
-    "description": "オンラインホワイトボードプラットフォーム。リモートワーク時代におけるビジュアルコラボレーションの標準ツールとして、アイデア出しやワークショップなどで広く利用されている。"
+    "description": "オンラインホワイトボードプラットフォーム。リモートワーク時代におけるビジュアルコラボレーションの標準ツールとして、アイデア出しやワークショップなどで広く利用されている。",
+    "description_en": "An online collaborative whiteboard platform to bring teams together, anytime, anywhere."
   },
   {
     "date": "2011-11-30",
@@ -1277,7 +1322,8 @@
     "type": "IT,Education,アメリカ,平成",
     "img": "duolingo.svg",
     "nationality": "United-States-of-America",
-    "description": "ルイス・フォン・アンらによって設立された語学学習アプリ。ゲームフィケーションを取り入れた学習体験により、世界で最も人気のある教育アプリの一つとなった。"
+    "description": "ルイス・フォン・アンらによって設立された語学学習アプリ。ゲームフィケーションを取り入れた学習体験により、世界で最も人気のある教育アプリの一つとなった。",
+    "description_en": "The world's most popular way to learn a language. It's free, fun, and effective."
   },
   {
     "date": "2009-01-03",
@@ -1285,7 +1331,8 @@
     "type": "IT,Web3,日本,平成",
     "img": "bitcoin.svg",
     "nationality": "Japan",
-    "description": "サトシ・ナカモトを名乗る人物によって公開された世界初の暗号資産。ブロックチェーン技術を基盤とし、中央銀行を介さずに個人間で価値を移転できる革新をもたらした。"
+    "description": "サトシ・ナカモトを名乗る人物によって公開された世界初の暗号資産。ブロックチェーン技術を基盤とし、中央銀行を介さずに個人間で価値を移転できる革新をもたらした。",
+    "description_en": "A decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network."
   },
   {
     "date": "2015-07-30",
@@ -1293,7 +1340,8 @@
     "type": "IT,Web3,カナダ,平成",
     "img": "ethereum.svg",
     "nationality": "Canada",
-    "description": "ヴィタリック・ブテリンらによって開発されたブロックチェーンプラットフォーム。スマートコントラクト機能を備え、DAppsやNFT、DeFiなどの基盤として広く利用されている。"
+    "description": "ヴィタリック・ブテリンらによって開発されたブロックチェーンプラットフォーム。スマートコントラクト機能を備え、DAppsやNFT、DeFiなどの基盤として広く利用されている。",
+    "description_en": "A decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform."
   },
   {
     "date": "2013-03-15",
@@ -1301,7 +1349,8 @@
     "type": "IT,Infrastructure,アメリカ,平成",
     "img": "docker.svg",
     "nationality": "United-States-of-America",
-    "description": "コンテナ仮想化技術を提供するオープンソースソフトウェア。アプリケーションの環境依存を解消し、ポータビリティと一貫性を劇的に向上させた。"
+    "description": "コンテナ仮想化技術を提供するオープンソースソフトウェア。アプリケーションの環境依存を解消し、ポータビリティと一貫性を劇的に向上させた。",
+    "description_en": "A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers."
   },
   {
     "date": "2006-03-14",
@@ -1309,7 +1358,8 @@
     "type": "IT,Infrastructure,アメリカ,平成",
     "img": "aws.svg",
     "nationality": "United-States-of-America",
-    "description": "Amazonが提供する包括的なクラウドコンピューティングプラットフォーム。EC2やS3などのサービスを通じ、現代のWebインフラを定義したリーディングプレイヤー。"
+    "description": "Amazonが提供する包括的なクラウドコンピューティングプラットフォーム。EC2やS3などのサービスを通じ、現代のWebインフラを定義したリーディングプレイヤー。",
+    "description_en": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services."
   },
   {
     "date": "2003-09-12",
@@ -1317,7 +1367,8 @@
     "type": "IT,Game,アメリカ,平成",
     "img": "steam.svg",
     "nationality": "United-States-of-America",
-    "description": "Valve Corporationが運営する世界最大のPCゲームプラットフォーム。ゲームの購入、配信、コミュニティ機能を統合し、デジタル配信を普及させた。"
+    "description": "Valve Corporationが運営する世界最大のPCゲームプラットフォーム。ゲームの購入、配信、コミュニティ機能を統合し、デジタル配信を普及させた。",
+    "description_en": "A video game digital distribution service and storefront by Valve."
   },
   {
     "date": "2005-06-08",
@@ -1325,7 +1376,8 @@
     "type": "IT,Software,アメリカ,平成",
     "img": "unity.svg",
     "nationality": "United-States-of-America",
-    "description": "Unity Technologiesが開発したマルチプラットフォーム対応のゲームエンジン。高度な3D/2D描画機能と使いやすさにより、インディーから大作まで幅広く採用されている。"
+    "description": "Unity Technologiesが開発したマルチプラットフォーム対応のゲームエンジン。高度な3D/2D描画機能と使いやすさにより、インディーから大作まで幅広く採用されている。",
+    "description_en": "A cross-platform game engine developed by Unity Technologies, used to create three-dimensional, two-dimensional, virtual reality, and augmented reality games."
   },
   {
     "date": "2006-09-01",
@@ -1333,7 +1385,8 @@
     "type": "IT,Game,アメリカ,平成",
     "img": "roblox.png",
     "nationality": "United-States-of-America",
-    "description": "ユーザー自身がゲームを作成し、共有・プレイできるゲーミングプラットフォーム。クリエイターエコノミーの先駆けであり、巨大なメタバース空間として成長した。"
+    "description": "ユーザー自身がゲームを作成し、共有・プレイできるゲーミングプラットフォーム。クリエイターエコノミーの先駆けであり、巨大なメタバース空間として成長した。",
+    "description_en": "An online game platform and game creation system that allows users to program games and play games created by other users."
   },
   {
     "date": "2016-01-01",
@@ -1341,7 +1394,8 @@
     "type": "IT,AI,アメリカ,平成",
     "img": "huggingface.png",
     "nationality": "United-States-of-America",
-    "description": "機械学習モデルやデータセットのオープンソース共有プラットフォーム。AI開発におけるデファクトスタンダードとなっており、AIの民主化を推進している。"
+    "description": "機械学習モデルやデータセットのオープンソース共有プラットフォーム。AI開発におけるデファクトスタンダードとなっており、AIの民主化を推進している。",
+    "description_en": "A company and community that develops tools for building applications using machine learning."
   },
   {
     "date": "2009-07-26",
@@ -1349,7 +1403,8 @@
     "type": "IT,Security,アメリカ,平成",
     "img": "cloudflare.svg",
     "nationality": "United-States-of-America",
-    "description": "CDN、セキュリティ、エッジコンピューティングを提供するクラウドサービス。インターネット全体の1割以上のトラフィックを処理し、高速で安全なWeb体験を支えている。"
+    "description": "CDN、セキュリティ、エッジコンピューティングを提供するクラウドサービス。インターネット全体の1割以上のトラフィックを処理し、高速で安全なWeb体験を支えている。",
+    "description_en": "A global network built for the cloud. It secures and ensures the reliability of your external-facing resources."
   },
   {
     "date": "2013-02-01",
@@ -1357,6 +1412,7 @@
     "type": "IT,EC,日本,平成",
     "img": "mercari.svg",
     "nationality": "Japan",
-    "description": "スマホ一つで簡単に売り買いできるフリマアプリ。日本発のユニコーン企業として、C2C（個人間取引）市場を牽引し、海外展開も積極的に行っている。"
+    "description": "スマホ一つで簡単に売り買いできるフリマアプリ。日本発のユニコーン企業として、C2C（個人間取引）市場を牽引し、海外展開も積極的に行っている。",
+    "description_en": "A Japanese e-commerce company that operates the Mercari marketplace app, allowing users to buy and sell items quickly from their smartphones."
   }
 ]

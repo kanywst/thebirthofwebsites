@@ -135,7 +135,7 @@ export default{
           <h1>{{ item.date }} <img :src="publicPath + 'flag/' + item.nationality + '.png'"></h1>
           <p>{{ item.name }}</p>
           <img :src="publicPath + item.img" >
-          <p>{{ item.description }}</p>
+          <p>{{ $i18n.locale === 'en' && item.description_en ? item.description_en : item.description }}</p>
         </section>
       </div>
   </div>
