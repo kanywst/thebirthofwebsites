@@ -34,10 +34,10 @@ export default{
       active: false, //Make all the default active
       //type
       filter_type: '',
-      filter_type_list: ['All','SNS','EC','portal site','IT','porn','hardware','search engine','blog','video','knowledge market','service','language','CNCF'],
+      filter_type_list: ['All','SNS','EC','portal site','IT','porn','hardware','search engine','blog','video','knowledge market','service','language','CNCF','Web3','Infrastructure','Game','AI','Security','FinTech','SaaS','Communication','Design','Music','Education'],
       //nationality
       filter_nationality: '',
-      filter_nationality_list: ['日本','アメリカ','ドイツ','アイルランド','中国','韓国','カナダ','ハンガリー','オランダ','フランス','イギリス','エストニア'],
+      filter_nationality_list: ['日本','アメリカ','ドイツ','アイルランド','中国','韓国','カナダ','ハンガリー','オランダ','フランス','イギリス','エストニア','スウェーデン','ロシア','ウクライナ','オーストラリア','スイス'],
       //era
       filter_era: '',
       filter_era_list: ['平成','昭和','大正','明治'],
