@@ -100,7 +100,7 @@ export default{
   <div>
     <!-- Search -->
     <div class="form-group">
-      <input type="text" v-model="keyword" placeholder="Search">
+      <input type="text" v-model="keyword" :placeholder="$t('search.placeholder')">
     </div>
     <!-- Filter -->
     <div class="filter-items-group">
@@ -108,7 +108,7 @@ export default{
       <div class="filter-items">
         <ul>
           <li v-for="filter in filter_type_list">
-              <button href="#" v-on:click="type_filter(filter)" :class="{'active': isActive === filter}">{{ filter }}({{ counts(filter) }})</button>
+              <button href="#" v-on:click="type_filter(filter)" :class="{'active': isActive === filter}">{{ $t('filters.types.' + filter) }}({{ counts(filter) }})</button>
           </li>
         </ul>
       </div>
@@ -116,7 +116,7 @@ export default{
       <div class="filter-items">
         <ul>
           <li v-for="filter in filter_nationality_list">
-              <button v-on:click="type_filter(filter)" :class="{'active': isActive === filter}">{{ filter }}({{ counts(filter) }})</button>
+              <button v-on:click="type_filter(filter)" :class="{'active': isActive === filter}">{{ $t('filters.nationalities.' + filter) }}({{ counts(filter) }})</button>
           </li>
         </ul>
       </div>
@@ -124,7 +124,7 @@ export default{
       <div class="filter-items">
         <ul>
           <li v-for="filter in filter_era_list">
-              <button v-on:click="type_filter(filter)" :class="{'active': isActive === filter}">{{ filter }}({{ counts(filter) }})</button>
+              <button v-on:click="type_filter(filter)" :class="{'active': isActive === filter}">{{ $t('filters.eras.' + filter) }}({{ counts(filter) }})</button>
           </li>
         </ul>
       </div>

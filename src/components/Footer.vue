@@ -1,16 +1,11 @@
 <script>
-export default{
-  data(){
-    return {
-      copyright: "Copyright © The Birth of websites,applications 2023"
-    }
-  }
+export default {
 }
 </script>
 
 <template>
   <footer>
-    <p>{{ copyright }}</p>
+    <p>{{ $t('footer.copyright') }}</p>
   </footer>
 </template>
 
