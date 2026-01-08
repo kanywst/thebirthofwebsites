@@ -41,7 +41,8 @@
     "type": "portal site,search engine,アメリカ,平成",
     "img": "yahoo.png",
     "nationality": "United-States-of-America",
-    "description": "1994年、スタンフォード大学のジェリー・ヤンとデビッド・ファイロによってウェブディレクトリとして始められた。しかし、2000年代後半にはグーグルやフェイスブックとの競争に敗れて、検索エンジンやポータルサイトなどの主力事業の競争力が低下することになった。"
+    "description": "1994年、スタンフォード大学のジェリー・ヤンとデビッド・ファイロによってウェブディレクトリとして始められた。しかし、2000年代後半にはグーグルやフェイスブックとの競争に敗れて、検索エンジンやポータルサイトなどの主力事業の競争力が低下することになった。",
+    "description_en": "Founded in 1994 by Jerry Yang and David Filo of Stanford University as a web directory. However, in the late 2000s, it lost the competition with Google and Facebook, and the competitiveness of its main businesses such as search engines and portal sites declined."
   },
   {
     "date": "1995-08-24",
@@ -49,7 +50,8 @@
     "type": "portal site,アメリカ,平成",
     "img": "msn.png",
     "nationality": "United-States-of-America",
-    "description": "1995年、Windows 95の発売と共にサービスを開始した。当時の名称は The Microsoft Network であった。当初はいわゆるパソコン通信サービスとして提供されていたが、インターネットの急成長にともにインターネットの接続サービスに転換、ポータルサイトのサービスも開始した。"
+    "description": "1995年、Windows 95の発売と共にサービスを開始した。当時の名称は The Microsoft Network であった。当初はいわゆるパソコン通信サービスとして提供されていたが、インターネットの急成長にともにインターネットの接続サービスに転換、ポータルサイトのサービスも開始した。",
+    "description_en": "Launched in 1995 with the release of Windows 95. The original name was The Microsoft Network. Initially provided as a so-called personal computer communication service, it shifted to an Internet connection service with the rapid growth of the Internet, and also started a portal site service."
   },
   {
     "date": "1995-09-03",
@@ -57,7 +59,8 @@
     "type": "EC,アメリカ,平成",
     "img": "ebay.png",
     "nationality": "United-States-of-America",
-    "description": "eBayの前身となったAuctionWebは、1995年9月3日カリフォルニア州で、当時、コンピュータープログラマーだったイラン系アメリカ人のピエール・オミダイアによって趣味の一環の一つのウェブサイトとして構築された。オークションウェブで最初に売れたものは、「壊れたレーザーポインター」で、落札価格は14.83ドルであった。"
+    "description": "eBayの前身となったAuctionWebは、1995年9月3日カリフォルニア州で、当時、コンピュータープログラマーだったイラン系アメリカ人のピエール・オミダイアによって趣味の一環の一つのウェブサイトとして構築された。オークションウェブで最初に売れたものは、「壊れたレーザーポインター」で、落札価格は14.83ドルであった。",
+    "description_en": "AuctionWeb, the predecessor of eBay, was built on September 3, 1995 in California by Pierre Omidyar, an Iranian-American computer programmer, as part of his hobby. The first item sold on AuctionWeb was a \"broken laser pointer\" for $14.83."
   },
   {
     "date": "1996-01-31",
@@ -65,7 +68,8 @@
     "type": "portal site,search engine,日本,平成",
     "img": "yahoojapan.png",
     "nationality": "Japan",
-    "description": "2009年、1日平均19億のアクセス数を誇り、日本における検索エンジンとしては過半数のシェアを獲得しており、各検索プロバイダを抑えて業界トップの座にある。ただし2010年9月以降からYahoo!独自の検索エンジンからGoogleの検索エンジンへ徐々に移行されており、移行が完了すればGoogleの検索シェアが98%近くとなり、日本で一番使われていることになる。"
+    "description": "2009年、1日平均19億のアクセス数を誇り、日本における検索エンジンとしては過半数のシェアを獲得しており、各検索プロバイダを抑えて業界トップの座にある。ただし2010年9月以降からYahoo!独自の検索エンジンからGoogleの検索エンジンへ徐々に移行されており、移行が完了すればGoogleの検索シェアが98%近くとなり、日本で一番使われていることになる。",
+    "description_en": "In 2009, it boasted an average of 1.9 billion accesses per day, gaining a majority share as a search engine in Japan, beating out other search providers to take the top spot in the industry. However, since September 2010, it has gradually shifted from Yahoo!'s own search engine to Google's search engine. Once the transition is complete, Google's search share will be nearly 98%, making it the most used in Japan."
   },
   {
     "date": "1997-02-07",
@@ -73,7 +77,8 @@
     "type": "EC,日本,平成",
     "img": "rakuten.png",
     "nationality": "Japan",
-    "description": "創業時はECモールを中心とした事業体であったが、現在はオンライン株式販売やクレジットカード等の金利・手数料収入がグループ営業利益の過半数を占めるオンライン金融事業者でもある。また、各種のオンライン事業を手掛ける。"
+    "description": "創業時はECモールを中心とした事業体であったが、現在はオンライン株式販売やクレジットカード等の金利・手数料収入がグループ営業利益の過半数を占めるオンライン金融事業者でもある。また、各種のオンライン事業を手掛ける。",
+    "description_en": "Initially an entity centered on an EC mall, it is now an online financial business operator where income from interest and fees from online stock sales and credit cards accounts for the majority of the group's operating income. It also operates various online businesses."
   },
   {
     "date": "1997-08-29",
@@ -81,7 +86,8 @@
     "type": "video,アメリカ,平成",
     "img": "netflix.png",
     "nationality": "United-States-of-America",
-    "description": "オンラインでのDVDレンタルサービスを事業とすることを思いついたのは『アポロ13』のビデオテープをレンタルした際、返却期限に間に合わず40ドルの延滞料金を支払った経験がきっかけとなっている。1998年、Netflixはわずか30名の従業員と共に、ウェブサイトによるDVDレンタルサービスを世界で初めて開始。"
+    "description": "オンラインでのDVDレンタルサービスを事業とすることを思いついたのは『アポロ13』のビデオテープをレンタルした際、返却期限に間に合わず40ドルの延滞料金を支払った経験がきっかけとなっている。1998年、Netflixはわずか30名の従業員と共に、ウェブサイトによるDVDレンタルサービスを世界で初めて開始。",
+    "description_en": "The idea of starting an online DVD rental business came from an experience of paying a $40 late fee for renting a videotape of \"Apollo 13\" and failing to return it by the due date. In 1998, Netflix launched the world's first online DVD rental service with just 30 employees."
   },
   {
     "date": "1999-07-20",
@@ -89,7 +95,8 @@
     "type": "IT,アメリカ,平成",
     "img": "fc2.png",
     "nationality": "United-States-of-America",
-    "description": "FC2は米国法人であり、2006年の雑誌『Yahoo! Internet Guide』5月号に掲載された代表の高橋理洋のインタビュー記事によると、2006年時点では兄の高橋理洋と弟の高橋人文の2人が中心になって運営がされており、正社員は17名で、ほかに非常勤スタッフが約30名いるとしている"
+    "description": "FC2は米国法人であり、2006年の雑誌『Yahoo! Internet Guide』5月号に掲載された代表の高橋理洋のインタビュー記事によると、2006年時点では兄の高橋理洋と弟の高橋人文の2人が中心になって運営がされており、正社員は17名で、ほかに非常勤スタッフが約30名いるとしている",
+    "description_en": "FC2 is a US corporation. According to an interview with representative Riyou Takahashi published in the May 2006 issue of \"Yahoo! Internet Guide\", as of 2006, the operation was centered on two people, his older brother Riyou Takahashi and his younger brother Jinbun Takahashi, with 17 full-time employees and about 30 part-time staff."
   },
   {
     "date": "2001-01-15",
@@ -106,7 +113,8 @@
     "type": "SNS,アメリカ,平成",
     "img": "linkedin.png",
     "nationality": "United-States-of-America",
-    "description": "LinkedInでは、利用者がビジネス専用のプロフィールを作成し、サービスの中でビジネスのつながりを広げ、ビジネスパートナーや人材を探したり、営業先の顧客や商談先、専門家などとコンタクトを取ることができる。2016年12月、米国マイクロソフト社によって262億ドルで買収される。"
+    "description": "LinkedInでは、利用者がビジネス専用のプロフィールを作成し、サービスの中でビジネスのつながりを広げ、ビジネスパートナーや人材を探したり、営業先の顧客や商談先、専門家などとコンタクトを取ることができる。2016年12月、米国マイクロソフト社によって262億ドルで買収される。",
+    "description_en": "On LinkedIn, users create a business-only profile to expand their business connections within the service, find business partners and human resources, and contact sales customers, business negotiation partners, experts, etc. Acquired by Microsoft for $26.2 billion in December 2016."
   },
   {
     "date": "2003-05-27",
@@ -114,7 +122,8 @@
     "type": "blog,アメリカ,平成",
     "img": "wordpress.png",
     "nationality": "United-States-of-America",
-    "description": "オープンソースのブログソフトウェアである。PHPで開発されており、データベース管理システムとしてMySQLを利用している。単なるブログではなくCMSとしてもしばしば利用されている。b2/cafelogというソフトウェアのフォークとして開発、2003年5月27日に初版がリリースされた。"
+    "description": "オープンソースのブログソフトウェアである。PHPで開発されており、データベース管理システムとしてMySQLを利用している。単なるブログではなくCMSとしてもしばしば利用されている。b2/cafelogというソフトウェアのフォークとして開発、2003年5月27日に初版がリリースされた。",
+    "description_en": "An open source blogging software. Developed in PHP and uses MySQL as a database management system. It is often used as a CMS rather than just a blog. Developed as a fork of software called b2/cafelog, the first version was released on May 27, 2003."
   },
   {
     "date": "2004-02-04",
@@ -140,7 +149,8 @@
     "type": "video sharing,日本,平成",
     "img": "niconico.png",
     "nationality": "Japan",
-    "description": "「ニコニコ動画」という名称は、サービスの立ち上げ以前には動画サービスは著作権問題による訴訟が発生していたことから「カッコいい言葉ではなく、なるべく怒られにくい言いにくい気が抜ける名前」にすることが考えられ、当時ドワンゴ会長の川上量生の「明らかにブラックぽいのに、表面だけ取り繕ったようなふざけた名前があるじゃん。ニコニコローンとかニコニコ金融とか。だからニコニコ動画とかさ」という言葉に、西村博之が「それおもしろい! 絶対それ!」と同意したことから決定したという。"
+    "description": "「ニコニコ動画」という名称は、サービスの立ち上げ以前には動画サービスは著作権問題による訴訟が発生していたことから「カッコいい言葉ではなく、なるべく怒られにくい言いにくい気が抜ける名前」にすることが考えられ、当時ドワンゴ会長の川上量生の「明らかにブラックぽいのに、表面だけ取り繕ったようなふざけた名前があるじゃん。ニコニコローンとかニコニコ金融とか。だからニコニコ動画とかさ」という言葉に、西村博之が「それおもしろい! 絶対それ!」と同意したことから決定したという。",
+    "description_en": "The name \"Niconico Douga\" was decided because before the launch of the service, video services had been sued due to copyright issues, so they considered a name that was \"not cool, but as hard to get angry at and as easy to say as possible\". At the time, Dwango Chairman Nobuo Kawakami said, \"Even though it's clearly black, there are names that are joking like they're just glossing over the surface. Like Niconico Loan or Niconico Finance. So how about Niconico Douga?\" Hiroyuki Nishimura agreed, saying \"That's funny! Absolutely that!\"."
   },
   {
     "date": "2007-02-19",
@@ -148,7 +158,8 @@
     "type": "SNS,アメリカ,平成",
     "img": "tumblr.png",
     "nationality": "United-States-of-America",
-    "description": "メディアミックスブログサービス。ブログとミニブログ、そしてソーシャルブックマークを統合したマイクロブログサービスである。アメリカのDavidville, Inc.により2007年3月1日にサービスが開始された。2011年3月から日本語ベータ版の提供が開始されている。2013年、Yahoo!に買収される。"
+    "description": "メディアミックスブログサービス。ブログとミニブログ、そしてソーシャルブックマークを統合したマイクロブログサービスである。アメリカのDavidville, Inc.により2007年3月1日にサービスが開始された。2011年3月から日本語ベータ版の提供が開始されている。2013年、Yahoo!に買収される。",
+    "description_en": "A media mix blog service. It is a microblog service that integrates blogs, miniblogs, and social bookmarks. Service started on March 1, 2007 by Davidville, Inc. in the US. The Japanese beta version began to be offered in March 2011. Acquired by Yahoo! in 2013."
   },
   {
     "date": "2007-05-25",
@@ -156,7 +167,8 @@
     "type": "porn,カナダ,平成",
     "img": "pornhub.png",
     "nationality": "Canada",
-    "description": "カナダのポルノ動画サイト。YouTubeに次ぐ世界第2位の動画共有サイトである。カニエ・ウェストはPornhubの視聴者であることを公言しており、クリエイティブ・ディレクターとして式典にも参加している。"
+    "description": "カナダのポルノ動画サイト。YouTubeに次ぐ世界第2位の動画共有サイトである。カニエ・ウェストはPornhubの視聴者であることを公言しており、クリエイティブ・ディレクターとして式典にも参加している。",
+    "description_en": "A Canadian pornographic video site. It is the world's second largest video sharing site after YouTube. Kanye West has publicly stated that he is a viewer of Pornhub and has participated in ceremonies as a creative director."
   },
   {
     "date": "2009-02-23",
@@ -164,7 +176,8 @@
     "type": "service,アメリカ,平成",
     "img": "imgur.png",
     "nationality": "United-States-of-America",
-    "description": "オハイオ大学で計算機科学を学んでいたアラン・シャーフが「搾取しない画像管理サービス」と称するサービスは同種のサービスにありがちだったユーザビリティの問題を受けて開発した。当初はRedditのオンラインコミュニティ向けに設計されていたが、サービス開始からたちまち閲覧数が1日1,000以上に上り、5ヶ月間で100万に達した。ウェブサイトはRedditやDiggといったソーシャルニュースに取り上げられて人気が大幅に上昇することになった。"
+    "description": "オハイオ大学で計算機科学を学んでいたアラン・シャーフが「搾取しない画像管理サービス」と称するサービスは同種のサービスにありがちだったユーザビリティの問題を受けて開発した。当初はRedditのオンラインコミュニティ向けに設計されていたが、サービス開始からたちまち閲覧数が1日1,000以上に上り、5ヶ月間で100万に達した。ウェブサイトはRedditやDiggといったソーシャルニュースに取り上げられて人気が大幅に上昇することになった。",
+    "description_en": "Developed by Alan Schaaf, who was studying computer science at Ohio University, as a service called \"non-exploitative image management service\" in response to usability problems common to similar services. Initially designed for the Reddit online community, views quickly rose to over 1,000 per day after launch, reaching 1 million in 5 months. The website was featured on social news sites like Reddit and Digg, and its popularity skyrocketed."
   },
   {
     "date": "2010-10-06",
@@ -181,7 +194,8 @@
     "type": "porn,アメリカ,平成",
     "img": "youporn.png",
     "nationality": "United-States-of-America",
-    "description": "アダルト動画共有サイト初期において、2006年7月に公開し人気を博したPornoTubeは、2006年8月に公開したYouPornに利用者数が劣っていた。2007年10月の時点でYouPornはアレクサ・インターネット調べによると世界で35番目の人気であり、同年に毎月1500万の新規利用者を計上した。総合的に動画を扱うYouPornの主な競合サイトとしては上記サイトやXtube、RedTubeやPornhub等があり、その他多くのアダルト動画共有サイトは特定の性癖別に特化した。"
+    "description": "アダルト動画共有サイト初期において、2006年7月に公開し人気を博したPornoTubeは、2006年8月に公開したYouPornに利用者数が劣っていた。2007年10月の時点でYouPornはアレクサ・インターネット調べによると世界で35番目の人気であり、同年に毎月1500万の新規利用者を計上した。総合的に動画を扱うYouPornの主な競合サイトとしては上記サイトやXtube、RedTubeやPornhub等があり、その他多くのアダルト動画共有サイトは特定の性癖別に特化した。",
+    "description_en": "In the early days of adult video sharing sites, PornoTube, which was released in July 2006 and gained popularity, had fewer users than YouPorn, which was released in August 2006. As of October 2007, YouPorn was the 35th most popular site in the world according to Alexa Internet, and recorded 15 million new users per month in the same year. Major competitors for YouPorn, which handles videos comprehensively, include the sites mentioned above, Xtube, RedTube, and Pornhub, while many other adult video sharing sites specialized in specific fetishes."
   },
   {
     "date": "2006-03-21",
@@ -198,7 +212,8 @@
     "type": "IT,アメリカ,昭和",
     "img": "adobe.png",
     "nationality": "United-States-of-America",
-    "description": "パロアルト研究所にいたチャールズ・ゲシキとジョン・ワーノックは、ページ記述言語・インタープレスの研究開発を行っていたが、ゼロックスはこれをビジネスには利用しようとしなかったため、独立を決意し、1982年にAdobe Systemsを設立した。社名は、当時ロスアルトスにあったワーノックの自宅の裏を流れる22.9 kmの小川Adobe Creekの名前からとったとされている。"
+    "description": "パロアルト研究所にいたチャールズ・ゲシキとジョン・ワーノックは、ページ記述言語・インタープレスの研究開発を行っていたが、ゼロックスはこれをビジネスには利用しようとしなかったため、独立を決意し、1982年にAdobe Systemsを設立した。社名は、当時ロスアルトスにあったワーノックの自宅の裏を流れる22.9 kmの小川Adobe Creekの名前からとったとされている。",
+    "description_en": "Charles Geschke and John Warnock, who were at PARC, were researching and developing the page description language Interpress, but Xerox did not try to use it for business, so they decided to become independent and founded Adobe Systems in 1982. The company name is said to be taken from the name of Adobe Creek, a 22.9 km stream that flowed behind Warnock's home in Los Altos at the time."
   },
   {
     "date": "1996",
@@ -206,7 +221,8 @@
     "type": "service,アメリカ,平成",
     "img": "alexa.png",
     "nationality": "United-States-of-America",
-    "description": "ウェブサイトの利用状況に関するデータを集め、ウェブサイトがどれだけの人に見られているかを調査している。alexa.comでは、ドメインへの1日当たりのアクセス数や訪問者数、直帰率、世界および国内におけるランキングなどを確認できる。なお、Alexa InternetはWayback Machineのデータ提供元でもある"
+    "description": "ウェブサイトの利用状況に関するデータを集め、ウェブサイトがどれだけの人に見られているかを調査している。alexa.comでは、ドメインへの1日当たりのアクセス数や訪問者数、直帰率、世界および国内におけるランキングなどを確認できる。なお、Alexa InternetはWayback Machineのデータ提供元でもある",
+    "description_en": "Collects data on website usage and investigates how many people view websites. At alexa.com, you can check the number of accesses and visitors per day to a domain, bounce rate, and rankings in the world and domestically. Alexa Internet is also a data provider for the Wayback Machine."
   },
   {
     "date": "1996",
@@ -214,7 +230,8 @@
     "type": "portal site,アメリカ,平成",
     "img": "ask.png",
     "nationality": "United-States-of-America",
-    "description": "AskJeevesは1996年にギャレット・グルーナーややデイビッド・ウォーヘンらが設立した会社である。Mr.Jeevesとは、イギリスのユーモア小説「比類なきジーヴス」に登場する有能な執事のことである。AskJeevesの検索エンジンはグレイ・シェヴスキーが設計した質問応答システムを基に開発され、キーワード検索だけでなく質問文による自然語検索にも対応していた。AskJeevesは人気を得て、1999年にNASDAQに上場した。"
+    "description": "AskJeevesは1996年にギャレット・グルーナーややデイビッド・ウォーヘンらが設立した会社である。Mr.Jeevesとは、イギリスのユーモア小説「比類なきジーヴス」に登場する有能な執事のことである。AskJeevesの検索エンジンはグレイ・シェヴスキーが設計した質問応答システムを基に開発され、キーワード検索だけでなく質問文による自然語検索にも対応していた。AskJeevesは人気を得て、1999年にNASDAQに上場した。",
+    "description_en": "AskJeeves is a company founded in 1996 by Garrett Gruener and David Warthen. Mr. Jeeves is a capable butler who appears in the British humor novel \"Jeeves\". The AskJeeves search engine was developed based on a question answering system designed by Gary Chevsky, and supported not only keyword search but also natural language search using question sentences. AskJeeves gained popularity and went public on NASDAQ in 1999."
   },
   {
     "date": "1997",
@@ -222,7 +239,8 @@
     "type": "porn,アメリカ,平成",
     "img": "xvideos.gif",
     "nationality": "United-States-of-America",
-    "description": "2012年4月時点での月間訪問者数は3億5000万で、毎月29ペタバイトのデータがやり取りされていた。「XVideos」の呼称について、日本では「エックスビデオ」もしくは「クロスビデオ」など複数あったが、公式には「エックスビデオズ」である。XVideosが他のアダルト動画サービスを凌駕して人気が出た理由として、「動画数が多い」「全て無料」「再生が軽く、スマートフォンでの視聴が楽」「シーク移動がスムーズ」などが挙げられている。"
+    "description": "2012年4月時点での月間訪問者数は3億5000万で、毎月29ペタバイトのデータがやり取りされていた。「XVideos」の呼称について、日本では「エックスビデオ」もしくは「クロスビデオ」など複数あったが、公式には「エックスビデオズ」である。XVideosが他のアダルト動画サービスを凌駕して人気が出た理由として、「動画数が多い」「全て無料」「再生が軽く、スマートフォンでの視聴が楽」「シーク移動がスムーズ」などが挙げられている。",
+    "description_en": "As of April 2012, the number of monthly visitors was 350 million, and 29 petabytes of data were exchanged every month. Regarding the name \"XVideos\", there were multiple names in Japan such as \"X Video\" or \"Cross Video\", but officially it is \"XVideos\". Reasons cited for XVideos surpassing other adult video services in popularity include \"large number of videos\", \"all free\", \"light playback, easy viewing on smartphones\", and \"smooth seek movement\"."
   },
   {
     "date": "1998-11-12",
@@ -230,7 +248,8 @@
     "type": "portal site,中国,平成",
     "img": "tencent.png",
     "nationality": "China",
-    "description": "売上高では世界最大のゲーム会社であり、アプリの収益は世界一を誇り、アクティビジョン・ブリザードやユービーアイソフトなど他のゲーム企業の大株主でもある。創業者の馬化騰はアジア1位の富豪にもなっており、時価総額ではアジア最大の企業だったこともある。2017年にはアジアの企業で初めて5000億ドルを突破し、フェイスブックを超えてアップル・グーグル・アマゾン・マイクロソフトといった世界五大企業に入っている。このうちグーグルとはクロスライセンスで提携している。"
+    "description": "売上高では世界最大のゲーム会社であり、アプリの収益は世界一を誇り、アクティビジョン・ブリザードやユービーアイソフトなど他のゲーム企業の大株主でもある。創業者の馬化騰はアジア1位の富豪にもなっており、時価総額ではアジア最大の企業だったこともある。2017年にはアジアの企業で初めて5000億ドルを突破し、フェイスブックを超えてアップル・グーグル・アマゾン・マイクロソフトといった世界五大企業に入っている。このうちグーグルとはクロスライセンスで提携している。",
+    "description_en": "It is the world's largest game company in terms of sales, boasts the world's highest app revenue, and is a major shareholder in other game companies such as Activision Blizzard and Ubisoft. Founder Ma Huateng has been the richest man in Asia, and it has been the largest company in Asia by market capitalization. In 2017, it became the first Asian company to surpass $500 billion, surpassing Facebook and entering the world's top five companies along with Apple, Google, Amazon, and Microsoft. Among them, it has a cross-licensing partnership with Google."
   },
   {
     "date": "1999-03",
@@ -238,7 +257,8 @@
     "type": "EC,中国,平成",
     "img": "alibaba.png",
     "nationality": "China",
-    "description": "国際的な知名度を高めたのは、2005年に行ったYahoo!中国の買収案件を成立させたことから。この際、アメリカYahoo!は阿里巴巴集団の株を入手し、2007年現在筆頭株主となっている。"
+    "description": "国際的な知名度を高めたのは、2005年に行ったYahoo!中国の買収案件を成立させたことから。この際、アメリカYahoo!は阿里巴巴集団の株を入手し、2007年現在筆頭株主となっている。",
+    "description_en": "It gained international recognition when the acquisition of Yahoo! China was finalized in 2005. At this time, Yahoo! US acquired shares of Alibaba Group and became the largest shareholder as of 2007."
   },
   {
     "date": "1998-12",
@@ -246,7 +266,8 @@
     "type": "EC,アメリカ,平成",
     "img": "paypal.png",
     "nationality": "United-States-of-America",
-    "description": "1998年12月にPayPal Inc.の社名で設立。2002年にeBayに買収されその子会社となっていたが、2015年7月にPayPal Holdings Inc.の社名で独立した。なお、日本を含む同社の国際部門は、シンガポールを拠点としている。"
+    "description": "1998年12月にPayPal Inc.の社名で設立。2002年にeBayに買収されその子会社となっていたが、2015年7月にPayPal Holdings Inc.の社名で独立した。なお、日本を含む同社の国際部門は、シンガポールを拠点としている。",
+    "description_en": "Founded in December 1998 under the name PayPal Inc. It was acquired by eBay in 2002 and became its subsidiary, but became independent under the name PayPal Holdings Inc. in July 2015. The company's international division, including Japan, is based in Singapore."
   },
   {
     "date": "1999-06",
@@ -254,7 +275,8 @@
     "type": "search engine,韓国,平成",
     "img": "naver.png",
     "nationality": "Korea,-South",
-    "description": "韓国国内では、検索回数で77%(2010年現在)でGoogleやYahooといった他社を圧倒するシェアを有する検索サイトである（Yahoo!Koreaは、2012年12月31日でサービス終了）。また、2007年12月の調査では世界でも2.4%のシェアを有して5位に位置していた。"
+    "description": "韓国国内では、検索回数で77%(2010年現在)でGoogleやYahooといった他社を圧倒するシェアを有する検索サイトである（Yahoo!Koreaは、2012年12月31日でサービス終了）。また、2007年12月の調査では世界でも2.4%のシェアを有して5位に位置していた。",
+    "description_en": "In South Korea, it is a search site with an overwhelming share of 77% (as of 2010) in search volume, surpassing other companies such as Google and Yahoo (Yahoo! Korea ended its service on December 31, 2012). In a survey in December 2007, it had a 2.4% share globally, ranking 5th."
   },
   {
     "date": "1999-08-23",
@@ -262,7 +284,8 @@
     "type": "blog,アメリカ,平成",
     "img": "blogger.png",
     "nationality": "United-States-of-America",
-    "description": "2003年2月、Pyra Labsは非公開のうちに買収された。買収により、それまで有料だったプレミアムサービスが無料化された。約1年後、Pyra Labsの共同設立者であるエヴァン・ウィリアムズはGoogleを去り、Twitterを設立している。"
+    "description": "2003年2月、Pyra Labsは非公開のうちに買収された。買収により、それまで有料だったプレミアムサービスが無料化された。約1年後、Pyra Labsの共同設立者であるエヴァン・ウィリアムズはGoogleを去り、Twitterを設立している。",
+    "description_en": "In February 2003, Pyra Labs was acquired privately. The acquisition made premium services, which had previously been paid, free. About a year later, Evan Williams, co-founder of Pyra Labs, left Google to found Twitter."
   },
   {
     "date": "2000-01-01",
@@ -270,7 +293,8 @@
     "type": "seaarch engine,中国,平成",
     "img": "baidu.png",
     "nationality": "China",
-    "description": "創業者の李彦宏は、北京大学を卒業後にニューヨーク州立大学へ留学。Dow Jones & Company, Inc.やInfoseekなどを経て、中国帰国後の2000年1月にBaidu, Inc.を創業している。その後急成長を遂げ、2005年5月NASDAQに上場した。"
+    "description": "創業者の李彦宏は、北京大学を卒業後にニューヨーク州立大学へ留学。Dow Jones & Company, Inc.やInfoseekなどを経て、中国帰国後の2000年1月にBaidu, Inc.を創業している。その後急成長を遂げ、2005年5月NASDAQに上場した。",
+    "description_en": "Founder Robin Li studied at the State University of New York after graduating from Peking University. After working for Dow Jones & Company, Inc. and Infoseek, he returned to China and founded Baidu, Inc. in January 2000. It subsequently grew rapidly and was listed on NASDAQ in May 2005."
   },
   {
     "date": "2000-05",
@@ -278,7 +302,8 @@
     "type": "knowledge market,アメリカ,平成",
     "img": "stackoverflow.png",
     "nationality": "United-States-of-America",
-    "description": "Stack Overflowという名称は、2008年4月、Atwoodが運営するブログの読者による投票で決定された。本サービスはコンピュータ・プログラミングの広範囲なトピックを扱っていることが特色である。ウェブサイトは質問と回答を行う機能、またそれらに対する評価付け、wikiやdiggに似た文書の編集機能を備えており、ユーザの活発な参加を促している。"
+    "description": "Stack Overflowという名称は、2008年4月、Atwoodが運営するブログの読者による投票で決定された。本サービスはコンピュータ・プログラミングの広範囲なトピックを扱っていることが特色である。ウェブサイトは質問と回答を行う機能、またそれらに対する評価付け、wikiやdiggに似た文書の編集機能を備えており、ユーザの活発な参加を促している。",
+    "description_en": "The name Stack Overflow was decided by a vote of readers of the blog run by Atwood in April 2008. The service is characterized by covering a wide range of computer programming topics. The website features question and answer functions, ratings for them, and document editing functions similar to wiki and digg, encouraging active user participation."
   },
   {
     "date": "2004-02",
@@ -286,7 +311,8 @@
     "type": "SNS,カナダ,平成",
     "img": "flickr.png",
     "nationality": "Canada",
-    "description": "Flickrはカナダ・バンクーバーに本拠を持つルディコープ社が2004年2月に開設した。Flickrのサービスは、ルディコープ社が開発していた大規模多人数参加型オンラインゲーム『Game Neverending』のために開発されたツールを流用した物である。しかし、Flickrの方がより企業化できそうな事業であることが分かったため、『Game Neverending』の開発は棚上げになってしまった。"
+    "description": "Flickrはカナダ・バンクーバーに本拠を持つルディコープ社が2004年2月に開設した。Flickrのサービスは、ルディコープ社が開発していた大規模多人数参加型オンラインゲーム『Game Neverending』のために開発されたツールを流用した物である。しかし、Flickrの方がより企業化できそうな事業であることが分かったため、『Game Neverending』の開発は棚上げになってしまった。",
+    "description_en": "Flickr was launched in February 2004 by Ludicorp, based in Vancouver, Canada. The Flickr service was a diversion of tools developed for the massively multiplayer online game \"Game Neverending\" that Ludicorp was developing. However, since Flickr turned out to be a more viable business, the development of \"Game Neverending\" was shelved."
   },
   {
     "date": "2005",
@@ -294,7 +320,8 @@
     "type": "service,アメリカ,平成",
     "img": "reddit.png",
     "nationality": "United-States-of-America",
-    "description": "redditはサンフランシスコに拠点を置く。スティーブ・ホフマンとアレクシス・オハニアが2005年に創設し、Y Combinatorから初期の出資を得た。創設チームにはクリストファー・スローが2006年1月に加わり、Infogamiの合併の結果、アーロン・スワーツが同年2月に加わった。合併企業はnot a bugとしても知られている。"
+    "description": "redditはサンフランシスコに拠点を置く。スティーブ・ホフマンとアレクシス・オハニアが2005年に創設し、Y Combinatorから初期の出資を得た。創設チームにはクリストファー・スローが2006年1月に加わり、Infogamiの合併の結果、アーロン・スワーツが同年2月に加わった。合併企業はnot a bugとしても知られている。",
+    "description_en": "reddit is based in San Francisco. Founded in 2005 by Steve Huffman and Alexis Ohanian, it received initial funding from Y Combinator. Christopher Slowe joined the founding team in January 2006, and Aaron Swartz joined in February of the same year as a result of the merger with Infogami. The merged company is also known as not a bug."
   },
   {
     "date": "2007",
@@ -302,7 +329,8 @@
     "type": "service,アメリカ,平成",
     "img": "dropbox.png",
     "nationality": "United-States-of-America",
-    "description": "Dropboxは、マサチューセッツ工科大学の学生（当時）であるドリュー・ヒューストンとアラシュ・フェルドーシにより2007年に設立されたサービスで、2008年3月にクローズドベータを開始し、同年9月に正式サービスをスタート。2011年4月には日本語に正式対応した"
+    "description": "Dropboxは、マサチューセッツ工科大学の学生（当時）であるドリュー・ヒューストンとアラシュ・フェルドーシにより2007年に設立されたサービスで、2008年3月にクローズドベータを開始し、同年9月に正式サービスをスタート。2011年4月には日本語に正式対応した",
+    "description_en": "Dropbox is a service founded in 2007 by Drew Houston and Arash Ferdowsi, who were students at the Massachusetts Institute of Technology at the time. Closed beta began in March 2008, and the official service started in September of the same year. Japanese was officially supported in April 2011."
   },
   {
     "date": "2008-04",
@@ -310,7 +338,8 @@
     "type": "service,アメリカ,平成",
     "img": "github.png",
     "nationality": "United-States-of-America",
-    "description": "Ruby on RailsおよびErlangで記述されており、アメリカのカリフォルニア州サンフランシスコ市に拠点を置くGitHub社によって保守されている。2018年6月4日にマイクロソフトがGitHub社を75億USドル（約8200億円）で買収すると発表。"
+    "description": "Ruby on RailsおよびErlangで記述されており、アメリカのカリフォルニア州サンフランシスコ市に拠点を置くGitHub社によって保守されている。2018年6月4日にマイクロソフトがGitHub社を75億USドル（約8200億円）で買収すると発表。",
+    "description_en": "Written in Ruby on Rails and Erlang, and maintained by GitHub, Inc. based in San Francisco, California, USA. On June 4, 2018, Microsoft announced it would acquire GitHub for $7.5 billion."
   },
   {
     "date": "2009",
@@ -318,7 +347,8 @@
     "type": "SNS,アメリカ,平成",
     "img": "whatsapp.png",
     "nationality": "United-States-of-America",
-    "description": "WhatsApp Incは、カリフォルニア州サンタクララで2009年に元Yahoo!社員のブライアン・アクトンとジャン・コウムが設立した。社名のWhatsAppは、「What's Up（どうしてる？）」と「App（アプリ）」を掛けた駄洒落に由来する。"
+    "description": "WhatsApp Incは、カリフォルニア州サンタクララで2009年に元Yahoo!社員のブライアン・アクトンとジャン・コウムが設立した。社名のWhatsAppは、「What's Up（どうしてる？）」と「App（アプリ）」を掛けた駄洒落に由来する。",
+    "description_en": "WhatsApp Inc. was founded in Santa Clara, California in 2009 by former Yahoo! employees Brian Acton and Jan Koum. The company name WhatsApp comes from a pun on \"What's Up\" and \"App\"."
   },
   {
     "date": "2009-06-01",
@@ -326,7 +356,8 @@
     "type": "search engine,アメリカ,平成",
     "img": "bing.png",
     "nationality": "United-States-of-America",
-    "description": "Microsoftが提供する検索エンジンである。「意思決定エンジン」というコンセプトを掲げ、他の検索エンジンとの差別化を図っている。"
+    "description": "Microsoftが提供する検索エンジンである。「意思決定エンジン」というコンセプトを掲げ、他の検索エンジンとの差別化を図っている。",
+    "description_en": "A search engine provided by Microsoft. Under the concept of a \"decision engine\", it attempts to differentiate itself from other search engines."
   },
   {
     "date": "2010-03",
@@ -334,7 +365,8 @@
     "type": "SNS,アメリカ,平成",
     "img": "pinterest.png",
     "nationality": "United-States-of-America",
-    "description": "Pinterestは黎明期のソーシャルと同様、デビッド・ガルブレイスによる2005年のプロジェクトであるWistsのような画像ブックマークシステムであり、ユーザーは自身の異なる掲示板で画像の保存やカテゴライズを行うことが可能である。"
+    "description": "Pinterestは黎明期のソーシャルと同様、デビッド・ガルブレイスによる2005年のプロジェクトであるWistsのような画像ブックマークシステムであり、ユーザーは自身の異なる掲示板で画像の保存やカテゴライズを行うことが可能である。",
+    "description_en": "Pinterest is an image bookmarking system like Wists, a 2005 project by David Galbraith, similar to early social media, allowing users to save and categorize images on their own different boards."
   },
   {
     "date": "2011-09",
@@ -342,7 +374,8 @@
     "type": "SNS,アメリカ,平成",
     "img": "snapchat.png",
     "nationality": "United-States-of-America",
-    "description": "Snapchatはスタンフォード大学におけるスピーゲルの授業の1つで行われたプロジェクト内で主要な設計者だったスピーゲルとボビー・マーフィー、レギー・ブラウンによって始められた。スピーゲルが2011年4月、自身の最後のプロジェクトのための製品デザイン授業でアイデアを思いついたが、クラスメートは非永久的な写真のアイデアに難色を示した。同年9月にスピーゲルの父親のリビングルームでPicabooとして立ち上げられた。"
+    "description": "Snapchatはスタンフォード大学におけるスピーゲルの授業の1つで行われたプロジェクト内で主要な設計者だったスピーゲルとボビー・マーフィー、レギー・ブラウンによって始められた。スピーゲルが2011年4月、自身の最後のプロジェクトのための製品デザイン授業でアイデアを思いついたが、クラスメートは非永久的な写真のアイデアに難色を示した。同年9月にスピーゲルの父親のリビングルームでPicabooとして立ち上げられた。",
+    "description_en": "Snapchat was started by Spiegel, Bobby Murphy, and Reggie Brown as main designers in a project in Spiegel's class at Stanford University. Spiegel came up with the idea in his final product design class in April 2011, but classmates balked at the idea of impermanent photos. It launched as Picaboo in Spiegel's father's living room in September of the same year."
   },
   {
     "date": "2011-06",
@@ -350,7 +383,8 @@
     "type": "video,アメリカ,平成",
     "img": "twitch.png",
     "nationality": "United-States-of-America",
-    "description": "2011年6月に総合的なライブストリーミング配信サイト Justin.tv から、コンピュータゲームに特化したプラットフォームとして派生して立ち上げられた。運営はサイト名と同名の組織が行っていたが、2014年8月、AmazonがTwitchを買収したことを正式に発表。"
+    "description": "2011年6月に総合的なライブストリーミング配信サイト Justin.tv から、コンピュータゲームに特化したプラットフォームとして派生して立ち上げられた。運営はサイト名と同名の組織が行っていたが、2014年8月、AmazonがTwitchを買収したことを正式に発表。",
+    "description_en": "Launched in June 2011 as a platform specialized in computer games, derived from the general live streaming site Justin.tv. It was operated by an organization of the same name, but in August 2014, Amazon officially announced the acquisition of Twitch."
   },
   {
     "date": "2001-11-12",
@@ -358,7 +392,8 @@
     "type": "porn,ハンガリー,平成",
     "img": "livejasmin.jpeg",
     "nationality": "Hungary",
-    "description": "ハンガリーの起業家GyörgyGattyánによって2001年に国内のハンガリーの聴衆のためにjasmin.huとして設立された。"
+    "description": "ハンガリーの起業家GyörgyGattyánによって2001年に国内のハンガリーの聴衆のためにjasmin.huとして設立された。",
+    "description_en": "Founded in 2001 as jasmin.hu for a domestic Hungarian audience by Hungarian entrepreneur György Gattyán."
   },
   {
     "date": "2007",
@@ -366,7 +401,8 @@
     "type": "porn,アメリカ,平成",
     "img": "xhamster.png",
     "nationality": "United-States-of-America",
-    "description": "2007年初め、匿名の個人グループが新しいアダルトビデオサービスを作成することを決定し、xHamsterは2007年4月2日に開始されました。xHamsterは2015年にXVideos、Pornhubに続いて3番目に人気のあるポルノインターネットウェブサイトとなりました。 "
+    "description": "2007年初め、匿名の個人グループが新しいアダルトビデオサービスを作成することを決定し、xHamsterは2007年4月2日に開始されました。xHamsterは2015年にXVideos、Pornhubに続いて3番目に人気のあるポルノインターネットウェブサイトとなりました。 ",
+    "description_en": "In early 2007, a group of anonymous individuals decided to create a new adult video service, and xHamster was launched on April 2, 2007. xHamster became the third most popular porn website in 2015, following XVideos and Pornhub."
   },
   {
     "date": "1998",
@@ -374,7 +410,8 @@
     "type": "service,アメリカ,平成",
     "img": "imdb.png",
     "nationality": "United-States-of-America",
-    "description": "IMDbでは映画上映スケジュールや予告編をチェックできるほか、写真ギャラリーやテレビ番組の放送予定、DVDの発売情報、 人気チャートの閲覧や、映画情報を共有することができ、150万本以上の映画とテレビ番組にアクセスできる。"
+    "description": "IMDbでは映画上映スケジュールや予告編をチェックできるほか、写真ギャラリーやテレビ番組の放送予定、DVDの発売情報、 人気チャートの閲覧や、映画情報を共有することができ、150万本以上の映画とテレビ番組にアクセスできる。",
+    "description_en": "IMDb is an online database of information related to films, television programs, home videos, video games, and streaming content online – including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews."
   },
   {
     "date": "1938-03-01",
@@ -382,7 +419,8 @@
     "type": "hardware,韓国,昭和",
     "img": "samsung.png",
     "nationality": "Korea,-South",
-    "description": "李秉喆が早稲田大学中退後、馬山にて友人2人と1万円ずつ出資し設立した協同精米所の事業が失敗、その後1938年3月1日に大邱で設立した三星商会（現:サムスン物産）が今日のサムスングループの始まりである。"
+    "description": "李秉喆が早稲田大学中退後、馬山にて友人2人と1万円ずつ出資し設立した協同精米所の事業が失敗、その後1938年3月1日に大邱で設立した三星商会（現:サムスン物産）が今日のサムスングループの始まりである。",
+    "description_en": "Lee Byung-chul founded a cooperative rice mill in Masan with two friends investing 10,000 yen each after dropping out of Waseda University, but the business failed. Samsung Sanghoe (now Samsung C&T), founded in Daegu on March 1, 1938, is the beginning of today's Samsung Group."
   },
   {
     "date": "2008",
@@ -390,7 +428,8 @@
     "type": "service,アメリカ,平成",
     "img": "bitly.png",
     "nationality": "United-States-of-America",
-    "description": "サービス開始は2009年。創業から間もなくTwitterが同社の短縮URLサービスを採用したことで、短縮URL業界でも大手といえるシェアを獲得した。なお、Twitterは後に自社独自の短縮URLに移行した。"
+    "description": "サービス開始は2009年。創業から間もなくTwitterが同社の短縮URLサービスを採用したことで、短縮URL業界でも大手といえるシェアを獲得した。なお、Twitterは後に自社独自の短縮URLに移行した。",
+    "description_en": "Service started in 2009. Shortly after its founding, Twitter adopted the company's URL shortening service, gaining a major share in the URL shortening industry. Twitter later switched to its own URL shortening service."
   },
   {
     "date": "1962-11-15",
@@ -398,7 +437,8 @@
     "type": "weather,アメリカ,昭和",
     "img": "accuweather.png",
     "nationality": "United-States-of-America",
-    "description": "世界中のマスコミ、企業、政府など計175,559顧客と取引しており、広告付き無料天候配信アプリを提供している。Alexa及びSimilarWeb調査によると2015年7月までにアメリカ内で人気129位のサイトである。"
+    "description": "世界中のマスコミ、企業、政府など計175,559顧客と取引しており、広告付き無料天候配信アプリを提供している。Alexa及びSimilarWeb調査によると2015年7月までにアメリカ内で人気129位のサイトである。",
+    "description_en": "Deals with a total of 175,559 customers including mass media, companies, and governments around the world, and provides a free weather distribution app with ads. According to Alexa and SimilarWeb surveys, it is the 129th most popular site in the US as of July 2015."
   },
   {
     "date": "2010-06-21",
@@ -406,7 +446,8 @@
     "type": "knowledge market,アメリカ,平成",
     "img": "quora.png",
     "nationality": "United-States-of-America",
-    "description": "かつてFacebookに勤務していたアダム・ディアンジェロとチャーリー・シーヴァーとの共同で設立された。ディアンジェロは、2010年1月にQuoraを立ち上げるためにFacebookを退職している。ディアンジェロは、自身とシーヴァーがQuoraを立ち上げた理由は「インターネット上ではどの分野だろうと疑問や答えが大量のサイトにあると考えたけど、未だに誰かが主導して本当に良かったものを構築する人が居なかったから」と述べている。2010年12月においてQuoraのユーザー数が急増を見せた。"
+    "description": "かつてFacebookに勤務していたアダム・ディアンジェロとチャーリー・シーヴァーとの共同で設立された。ディアンジェロは、2010年1月にQuoraを立ち上げるためにFacebookを退職している。ディアンジェロは、自身とシーヴァーがQuoraを立ち上げた理由は「インターネット上ではどの分野だろうと疑問や答えが大量のサイトにあると考えたけど、未だに誰かが主導して本当に良かったものを構築する人が居なかったから」と述べている。2010年12月においてQuoraのユーザー数が急増を見せた。",
+    "description_en": "Founded jointly by Adam D'Angelo and Charlie Cheever, who formerly worked at Facebook. D'Angelo left Facebook in January 2010 to launch Quora. D'Angelo stated that the reason he and Cheever started Quora was \"we thought that questions and answers were on a ton of sites on the internet no matter what field, but no one had come along and built something that was actually good\". In December 2010, Quora saw a surge in users."
   },
   {
     "date": "1998-09",
@@ -414,7 +455,8 @@
     "type": "EC,日本,平成",
     "img": "amazoncojp.png",
     "nationality": "Japan",
-    "description": "2000年11月1日にAmazon.comの日本語版サイト「Amazon.co.jp」としてオープンして以来、事実上1社が独占的に提供する電子商取引としては、日本最大を誇るECサイトである。"
+    "description": "2000年11月1日にAmazon.comの日本語版サイト「Amazon.co.jp」としてオープンして以来、事実上1社が独占的に提供する電子商取引としては、日本最大を誇るECサイトである。",
+    "description_en": "Since opening as the Japanese version of Amazon.com, \"Amazon.co.jp\", on November 1, 2000, it is the largest EC site in Japan for electronic commerce effectively provided exclusively by one company."
   },
   {
     "date": "1988-05-23",
@@ -422,7 +464,8 @@
     "type": "IT,日本,昭和",
     "img": "NTT.svg",
     "nationality": "Japan",
-    "description": "1966年（昭和41年）、日本電信電話公社はかねてよりの念願だったデータ通信サービス実施の認可を受け、翌1967年（昭和42年）に「電信・電話に次ぐ第三の通信、データ通信」を掲げデータ通信本部を設立した。主に官公庁・金融向けシステムの開発を行い、日本の基盤となるシステムを構築してきた。"
+    "description": "1966年（昭和41年）、日本電信電話公社はかねてよりの念願だったデータ通信サービス実施の認可を受け、翌1967年（昭和42年）に「電信・電話に次ぐ第三の通信、データ通信」を掲げデータ通信本部を設立した。主に官公庁・金融向けシステムの開発を行い、日本の基盤となるシステムを構築してきた。",
+    "description_en": "In 1966, Nippon Telegraph and Telephone Public Corporation received approval to implement data communication services, which had been a long-cherished desire, and established the Data Communications Headquarters in 1967 with the slogan \"Data communication, the third communication after telegraph and telephone\". It has mainly developed systems for government agencies and finance, building systems that form the foundation of Japan."
   },
   {
     "date": "1984-06-01",
@@ -430,7 +473,8 @@
     "type": "IT,日本,昭和",
     "img": "KDDI.svg",
     "nationality": "Japan",
-    "description": "2000年に第二電電 (DDI)、ケイディディ (KDD)、日本移動通信 (IDO) が合併し、「株式会社ディーディーアイ」（通称及びロゴマークはKDDI）として発足する。2001年4月に合併時より通称として使用していた「KDDI」を社名とし「ケイディーディーアイ株式会社」に社名変更し、2002年11月に現社名の「KDDI株式会社」に変更。"
+    "description": "2000年に第二電電 (DDI)、ケイディディ (KDD)、日本移動通信 (IDO) が合併し、「株式会社ディーディーアイ」（通称及びロゴマークはKDDI）として発足する。2001年4月に合併時より通称として使用していた「KDDI」を社名とし「ケイディーディーアイ株式会社」に社名変更し、2002年11月に現社名の「KDDI株式会社」に変更。",
+    "description_en": "In 2000, DDI, KDD, and IDO merged to form \"DDI Corporation\" (common name and logo mark KDDI). In April 2001, the company name was changed to \"KDDI Corporation\" using the common name used since the merger, and in November 2002, it was changed to the current company name \"KDDI Corporation\"."
   },
   {
     "date": "1986-12-09",
@@ -438,7 +482,8 @@
     "type": "IT,日本,昭和",
     "img": "softbank.svg",
     "nationality": "Japan",
-    "description": "2006年3月、BBモバイルによる携帯電話事業参入を計画していたソフトバンクグループが、英ボーダフォンからボーダフォン株式会社の株式と資産・負債を日本企業として最高額となる1兆7500億円で買収する旨を発表。同年10月1日をもってボーダフォン日本法人はソフトバンクモバイル、日本テレコムはソフトバンクテレコムへ社名を変更した。"
+    "description": "2006年3月、BBモバイルによる携帯電話事業参入を計画していたソフトバンクグループが、英ボーダフォンからボーダフォン株式会社の株式と資産・負債を日本企業として最高額となる1兆7500億円で買収する旨を発表。同年10月1日をもってボーダフォン日本法人はソフトバンクモバイル、日本テレコムはソフトバンクテレコムへ社名を変更した。",
+    "description_en": "In March 2006, SoftBank Group, which was planning to enter the mobile phone business through BB Mobile, announced that it would acquire shares and assets/liabilities of Vodafone Japan from Vodafone UK for 1.75 trillion yen, the highest amount for a Japanese company. On October 1 of the same year, Vodafone Japan changed its name to SoftBank Mobile and Japan Telecom to SoftBank Telecom."
   },
   {
     "date": "1911",
@@ -446,7 +491,8 @@
     "type": "hardware,アメリカ,明治",
     "img": "IBM.svg",
     "nationality": "United-States-of-America",
-    "description": "IBMは研究機関としても有名でもある、2016年時点では米国特許取得数が23年連続の1位となった。IBMによる発明は、現金自動預け払い機（ATM）、ハードディスク、フロッピーディスク、磁気ストライプカード、リレーショナルデータベース（RDB）、SQLプログラミング言語、バーコード、DRAMなどがある。"
+    "description": "IBMは研究機関としても有名でもある、2016年時点では米国特許取得数が23年連続の1位となった。IBMによる発明は、現金自動預け払い機（ATM）、ハードディスク、フロッピーディスク、磁気ストライプカード、リレーショナルデータベース（RDB）、SQLプログラミング言語、バーコード、DRAMなどがある。",
+    "description_en": "IBM is also famous as a research institute, and as of 2016, it has been No. 1 in US patents for 23 consecutive years. Inventions by IBM include ATMs, hard disks, floppy disks, magnetic stripe cards, relational databases (RDB), SQL programming language, barcodes, DRAM, etc."
   },
   {
     "date": "1977-06-16",
@@ -454,7 +500,8 @@
     "type": "IT,アメリカ,昭和",
     "img": "oracle.svg",
     "nationality": "United-States-of-America",
-    "description": "2007年にはマイクロソフトとIBMに次ぐ世界で第3位のソフトウェア会社となり 、更に2008年にはBEAシステムズの買収によりIBMを抜いて世界で第2位となった。オラクルは、主力のデータベース管理ソフトウェア製品であるOracle Databaseに加え、データベース開発ツール、ERP、CRM、SCMなどの製品を持っている。"
+    "description": "2007年にはマイクロソフトとIBMに次ぐ世界で第3位のソフトウェア会社となり 、更に2008年にはBEAシステムズの買収によりIBMを抜いて世界で第2位となった。オラクルは、主力のデータベース管理ソフトウェア製品であるOracle Databaseに加え、データベース開発ツール、ERP、CRM、SCMなどの製品を持っている。",
+    "description_en": "In 2007, it became the third largest software company in the world after Microsoft and IBM, and in 2008, it acquired BEA Systems to overtake IBM and become the second largest in the world. In addition to its flagship database management software product Oracle Database, Oracle has products such as database development tools, ERP, CRM, and SCM."
   },
   {
     "date": "1939-01-01",
@@ -462,7 +509,8 @@
     "type": "IT,アメリカ,昭和",
     "img": "hp.svg",
     "nationality": "United-States-of-America",
-    "description": "PC事業についてはデルに次ぐ2番手の地位に甘んじていたが、2006年第3四半期におけるPCの販売台数が世界1位となった。以降、2013年第3四半期以降にLenovoに抜かれるまでPCの世界シェア第1位の企業であった。2014年、2015年は2位を維持したが、2016年に再び1位に返り咲いている。"
+    "description": "PC事業についてはデルに次ぐ2番手の地位に甘んじていたが、2006年第3四半期におけるPCの販売台数が世界1位となった。以降、2013年第3四半期以降にLenovoに抜かれるまでPCの世界シェア第1位の企業であった。2014年、2015年は2位を維持したが、2016年に再び1位に返り咲いている。",
+    "description_en": "In the PC business, it was content with second place after Dell, but in the third quarter of 2006, it became number one in the world in PC sales. Since then, it remained the number one PC company in the world market share until it was overtaken by Lenovo in the third quarter of 2013. It remained in second place in 2014 and 2015, but regained first place in 2016."
   },
   {
     "date": "1906",
@@ -470,7 +518,8 @@
     "type": "hardware,アメリカ,明治",
     "img": "xerox.svg",
     "nationality": "United-States-of-America",
-    "description": "ゼロックスはエリザベス2世とチャールズの御用達でもある。1906年、ロチェスターでThe Haloid Photographic Companyとして創業。当初は印画紙や関連機器を製造していた。1958年に「Haloid Xerox」、1961年に「Xerox」と改称した。Xeroxの名称は同じロチェスターで創業されたKodakに倣って、最初と最後が同じ文字で力強い響きの単語として考案されたもので、特別な意味は持たない。"
+    "description": "ゼロックスはエリザベス2世とチャールズの御用達でもある。1906年、ロチェスターでThe Haloid Photographic Companyとして創業。当初は印画紙や関連機器を製造していた。1958年に「Haloid Xerox」、1961年に「Xerox」と改称した。Xeroxの名称は同じロチェスターで創業されたKodakに倣って、最初と最後が同じ文字で力強い響きの単語として考案されたもので、特別な意味は持たない。",
+    "description_en": "Xerox is also a purveyor to Queen Elizabeth II and Charles. Founded in Rochester in 1906 as The Haloid Photographic Company. Initially manufactured photographic paper and related equipment. Renamed to \"Haloid Xerox\" in 1958 and \"Xerox\" in 1961. The name Xerox was devised as a word with a powerful sound starting and ending with the same letter, following Kodak which was founded in the same Rochester, and has no special meaning."
   },
   {
     "date": "1984-12",
@@ -478,7 +527,8 @@
     "type": "IT,アメリカ,昭和",
     "img": "cisco.svg",
     "nationality": "United-States-of-America",
-    "description": "世界最大のコンピュータネットワーク機器開発会社。シスコは 1984 年 12 月、Leonard Bosack（スタンフォード大学コンピュータ サイエンス学科のコンピュータ管理担当）、およびその妻 Sandy Lerner（スタンフォード大学経営大学院のコンピュータ管理担当）によって設立された。"
+    "description": "世界最大のコンピュータネットワーク機器開発会社。シスコは 1984 年 12 月、Leonard Bosack（スタンフォード大学コンピュータ サイエンス学科のコンピュータ管理担当）、およびその妻 Sandy Lerner（スタンフォード大学経営大学院のコンピュータ管理担当）によって設立された。",
+    "description_en": "The world's largest computer networking equipment development company. Cisco was founded in December 1984 by Leonard Bosack (in charge of computer management at Stanford University's Computer Science Department) and his wife Sandy Lerner (in charge of computer management at Stanford University's Graduate School of Business)."
   },
   {
     "date": "1999-03-08",
@@ -486,7 +536,8 @@
     "type": "IT,アメリカ,平成",
     "img": "salesforce.svg",
     "nationality": "United-States-of-America",
-    "description": "セールスフォース・ドットコムは、前オラクル幹部のマーク・ベニオフにより、業務アプリケーションをウェブサービスとして提供するというコンセプトのもと、1999年3月8日に設立された。SaaSタイプの本格的なクラウドコンピューティング・サービスの提供企業としては最初とされる。"
+    "description": "セールスフォース・ドットコムは、前オラクル幹部のマーク・ベニオフにより、業務アプリケーションをウェブサービスとして提供するというコンセプトのもと、1999年3月8日に設立された。SaaSタイプの本格的なクラウドコンピューティング・サービスの提供企業としては最初とされる。",
+    "description_en": "Salesforce.com was founded on March 8, 1999 by former Oracle executive Marc Benioff with the concept of providing business applications as a web service. It is considered the first company to provide a full-scale SaaS type cloud computing service."
   },
   {
     "date": "1968-07-18",
@@ -494,7 +545,8 @@
     "type": "hardware,アメリカ,昭和",
     "img": "intel.svg",
     "nationality": "United-States-of-America",
-    "description": "1968年7月18日 - フェアチャイルドセミコンダクターを退職したロバート・ノイス、ゴードン・ムーア（ムーアの法則で知られる）らが設立した。3番目の社員としてアンドルー・グローヴが入社した。当初は半導体メモリを主力製品とし、磁気コアメモリの置き換え・駆逐を野望とした。"
+    "description": "1968年7月18日 - フェアチャイルドセミコンダクターを退職したロバート・ノイス、ゴードン・ムーア（ムーアの法則で知られる）らが設立した。3番目の社員としてアンドルー・グローヴが入社した。当初は半導体メモリを主力製品とし、磁気コアメモリの置き換え・駆逐を野望とした。",
+    "description_en": "Founded on July 18, 1968 by Robert Noyce and Gordon Moore (known for Moore's Law), who had left Fairchild Semiconductor. Andrew Grove joined as the third employee. Initially, the main product was semiconductor memory, with the ambition of replacing/driving out magnetic core memory."
   },
   {
     "date": "1935-06-20",
@@ -502,7 +554,8 @@
     "type": "hardware,日本,昭和",
     "img": "fujitsu.svg",
     "nationality": "Japan",
-    "description": "理化学研究所と共同開発したスーパーコンピュータ「京」が、計算速度のランキングで世界首位を獲得（2011年時点）。また「非接触型 手のひら静脈認証」などの世界初の商品を開発し、第17回 顧客満足度調査（調査：日経コンピュータ）のハードウェア分野において8部門中6部門で首位を獲得するなど高い商品力を誇る。"
+    "description": "理化学研究所と共同開発したスーパーコンピュータ「京」が、計算速度のランキングで世界首位を獲得（2011年時点）。また「非接触型 手のひら静脈認証」などの世界初の商品を開発し、第17回 顧客満足度調査（調査：日経コンピュータ）のハードウェア分野において8部門中6部門で首位を獲得するなど高い商品力を誇る。",
+    "description_en": "The supercomputer \"K\", jointly developed with RIKEN, ranked first in the world in calculation speed (as of 2011). Also developed world-first products such as \"non-contact palm vein authentication\", and boasts high product power, winning first place in 6 out of 8 categories in the hardware field of the 17th Customer Satisfaction Survey (Survey: Nikkei Computer)."
   },
   {
     "date": "1899-07-17",
@@ -510,7 +563,8 @@
     "type": "hardware,日本,明治",
     "img": "nec.svg",
     "nationality": "Japan",
-    "description": "岩垂邦彦と米国ウェスタン・エレクトリック（現在のアルカテル・ルーセントの前身）が54%を出資する日米合弁会社であった。ウェスタン・エレクトリックは当初沖電機工場（現・沖電気工業）を合弁先に交渉したが、沖電機工場の沖牙太郎との間で条件がまとまらず成立しなかった。このため、ウェスタン・エレクトリックの代理人として交渉に当たっていた岩垂が自ら会社を興して提携相手となった。これは日本最初の合弁企業の事例とされる。"
+    "description": "岩垂邦彦と米国ウェスタン・エレクトリック（現在のアルカテル・ルーセントの前身）が54%を出資する日米合弁会社であった。ウェスタン・エレクトリックは当初沖電機工場（現・沖電気工業）を合弁先に交渉したが、沖電機工場の沖牙太郎との間で条件がまとまらず成立しなかった。このため、ウェスタン・エレクトリックの代理人として交渉に当たっていた岩垂が自ら会社を興して提携相手となった。これは日本最初の合弁企業の事例とされる。",
+    "description_en": "It was a Japan-US joint venture in which Kunihiko Iwadare and Western Electric of the US (predecessor of Alcatel-Lucent) invested 54%. Western Electric initially negotiated a joint venture with Oki Electric Works (currently Oki Electric Industry), but conditions could not be agreed upon with Kibataro Oki of Oki Electric Works. Therefore, Iwadare, who was negotiating as an agent for Western Electric, established a company himself and became a partner. This is considered the first case of a joint venture in Japan."
   },
   {
     "date": "1920-02-01",
@@ -518,7 +572,8 @@
     "type": "hardware,日本,大正",
     "img": "hitachi.svg",
     "nationality": "Japan",
-    "description": "全世界に製造・販売拠点を広げる多国籍企業でもあり、売上の50%は日本国外からもたらされる。米国誌『フォーブス』が毎年発表する世界企業ベスト2000では、コングロマリット（複合企業体）に分類されている（他にコングロマリットとしてはゼネラル・エレクトリック、シーメンス等が分類されている）。近年は、コングロマリットディスカウントに対応するため、事業の集中と選択を徹底して子会社を減らす傾向にある。"
+    "description": "全世界に製造・販売拠点を広げる多国籍企業でもあり、売上の50%は日本国外からもたらされる。米国誌『フォーブス』が毎年発表する世界企業ベスト2000では、コングロマリット（複合企業体）に分類されている（他にコングロマリットとしてはゼネラル・エレクトリック、シーメンス等が分類されている）。近年は、コングロマリットディスカウントに対応するため、事業の集中と選択を徹底して子会社を減らす傾向にある。",
+    "description_en": "It is a multinational company with manufacturing and sales bases all over the world, and 50% of its sales come from outside Japan. In the Forbes Global 2000 list of the world's top companies published annually by the US magazine \"Forbes\", it is classified as a conglomerate (others classified as conglomerates include General Electric and Siemens). In recent years, in order to address the conglomerate discount, there has been a trend to thoroughly concentrate and select businesses and reduce subsidiaries."
   },
   {
     "date": "2011-06-23",
@@ -526,7 +581,8 @@
     "type": "SNS,日本,平成",
     "img": "line.svg",
     "nationality": "Japan",
-    "description": "当時「NHN 日本」であったLINE株式会社会長でNHN創業者の李海珍が、家族や親戚と連絡を取ろうとする東日本大震災被災者の映像を見て発案し、自ら日本に滞在して開発プロジェクトを推進した。規模が拡大した本社の代わりに小さな組織の速やかな意思決定力と集中力を活用するため、韓国本社ではなく、日本に滞在した李海珍推進のもとNHN 日本が開発を担当した。開発陣の国籍は日本、韓国、米国、中国などで、各自が母国語へ翻訳したアプリケーションを手掛けている。"
+    "description": "当時「NHN 日本」であったLINE株式会社会長でNHN創業者の李海珍が、家族や親戚と連絡を取ろうとする東日本大震災被災者の映像を見て発案し、自ら日本に滞在して開発プロジェクトを推進した。規模が拡大した本社の代わりに小さな組織の速やかな意思決定力と集中力を活用するため、韓国本社ではなく、日本に滞在した李海珍推進のもとNHN 日本が開発を担当した。開発陣の国籍は日本、韓国、米国、中国などで、各自が母国語へ翻訳したアプリケーションを手掛けている。",
+    "description_en": "Lee Hae-jin, Chairman of LINE Corporation and founder of NHN, who was then \"NHN Japan\", came up with the idea after seeing footage of victims of the Great East Japan Earthquake trying to contact their families and relatives, and stayed in Japan himself to promote the development project. To utilize the quick decision-making and concentration of a small organization instead of the expanded headquarters, NHN Japan was in charge of development under the promotion of Lee Hae-jin who stayed in Japan, not the Korean headquarters. The development team included Japanese, Korean, American, and Chinese nationals, and each worked on applications translated into their native languages."
   },
   {
     "date": "1984",
@@ -534,7 +590,8 @@
     "type": "hardware,アメリカ,昭和",
     "img": "dell.svg",
     "nationality": "United-States-of-America",
-    "description": "テキサス大学の学生であったマイケル・デルが、1984年にパソコン保守を行う会社として創業した。IBM PC互換機は部品レベルで規格化され誰もがパソコンを製造できたことを利用し、パソコンの製造販売に乗り出す。現在、世界で販売台数はトップクラスである。"
+    "description": "テキサス大学の学生であったマイケル・デルが、1984年にパソコン保守を行う会社として創業した。IBM PC互換機は部品レベルで規格化され誰もがパソコンを製造できたことを利用し、パソコンの製造販売に乗り出す。現在、世界で販売台数はトップクラスである。",
+    "description_en": "Founded in 1984 by Michael Dell, a student at the University of Texas, as a company that performed personal computer maintenance. Taking advantage of the fact that IBM PC compatibles were standardized at the component level and anyone could manufacture a personal computer, he embarked on the manufacturing and sales of personal computers. Currently, it is top class in sales volume in the world."
   },
   {
     "date": "1984",
@@ -542,7 +599,8 @@
     "type": "hardware,中国,昭和",
     "img": "lenovo.svg",
     "nationality": "China",
-    "description": "聯想集団は長らく「Legend」（レジェンド）というブランドを使用していたが、2003年、国外事業の強化に伴い、商標紛争が生じるおそれのあるこの名称を廃し「Lenovo」（レノボ）を採用した。2004年4月1日に英語社名も「Legend」から「Lenovo」に改めた。「Lenovo」は混成語で「le」は「Legend」から、「novo」は「新しい」を表すラテン語の「nova」から採られた。"
+    "description": "聯想集団は長らく「Legend」（レジェンド）というブランドを使用していたが、2003年、国外事業の強化に伴い、商標紛争が生じるおそれのあるこの名称を廃し「Lenovo」（レノボ）を採用した。2004年4月1日に英語社名も「Legend」から「Lenovo」に改めた。「Lenovo」は混成語で「le」は「Legend」から、「novo」は「新しい」を表すラテン語の「nova」から採られた。",
+    "description_en": "Lenovo Group used the brand \"Legend\" for a long time, but in 2003, with the strengthening of overseas business, it abandoned this name, which could cause trademark disputes, and adopted \"Lenovo\". On April 1, 2004, the English company name was also changed from \"Legend\" to \"Lenovo\". \"Lenovo\" is a portmanteau word, with \"le\" from \"Legend\" and \"novo\" from the Latin \"nova\" meaning \"new\"."
   },
   {
     "date": "1972",
@@ -550,7 +608,8 @@
     "type": "IT,ドイツ,昭和",
     "img": "sap.svg",
     "nationality": "Germany",
-    "description": "第二次世界大戦後に創業したドイツ企業の中で最も成功した企業の一つであり、時価総額は2016年現在で約965億ユーロ（約11兆円）でドイツ最大の企業である。2017年時点、世界190ヶ国で345,000社の顧客を抱え、経済誌フォーブズが毎年選出するフォーブズ・グローバル2000にランクインする企業のうち87%がSAPの顧客である。"
+    "description": "第二次世界大戦後に創業したドイツ企業の中で最も成功した企業の一つであり、時価総額は2016年現在で約965億ユーロ（約11兆円）でドイツ最大の企業である。2017年時点、世界190ヶ国で345,000社の顧客を抱え、経済誌フォーブズが毎年選出するフォーブズ・グローバル2000にランクインする企業のうち87%がSAPの顧客である。",
+    "description_en": "One of the most successful companies founded in Germany after World War II, with a market capitalization of about 96.5 billion euros (about 11 trillion yen) as of 2016, making it the largest company in Germany. As of 2017, it has 345,000 customers in 190 countries around the world, and 87% of the companies ranked in the Forbes Global 2000 selected annually by the economic magazine Forbes are SAP customers."
   },
   {
     "date": "1989",
@@ -558,7 +617,8 @@
     "type": "IT,アイルランド,昭和",
     "img": "accenture.svg",
     "nationality": "Ireland",
-    "description": "アンダーセン・コンサルティングは社内公募で新社名を募集、最終的に“accent”と“future”（accent on future）の造語であるaccentureを選定した。社名変更は2001年1月1日に行われ、アンダーセン・コンサルティングの社名は20世紀と共に消滅した。"
+    "description": "アンダーセン・コンサルティングは社内公募で新社名を募集、最終的に“accent”と“future”（accent on future）の造語であるaccentureを選定した。社名変更は2001年1月1日に行われ、アンダーセン・コンサルティングの社名は20世紀と共に消滅した。",
+    "description_en": "Andersen Consulting solicited a new company name internally, and finally selected accenture, a coined word of \"accent\" and \"future\" (accent on future). The name change took place on January 1, 2001, and the name Andersen Consulting disappeared with the 20th century."
   },
   {
     "date": "1996",
@@ -566,7 +626,8 @@
     "type": "services,オランダ,平成",
     "img": "bookingcom.png",
     "nationality": "Netherlands",
-    "description": "オランダのトゥウェンテ大学で情報工学を専攻していたGeert-Jan Bruinsmaは、インターネットを使った起業を志望する大学生であったが、友人とのディナー中にオンラインホテル予約のアイデアを得て、大学卒業後の1996年11月に「Booking.nl」を設立した。1997年1月にウェブサイトを使ったサービスを開始（宿泊施設登録数は10軒）、設立後の約2年間はブルインズマ1人で全ての業務を行う個人企業であったが、設立時点で、写真を閲覧しながら、自身の言語で説明を読むことができ、簡単なステップでホテルを予約できるシステムの構築が考えられていた。"
+    "description": "オランダのトゥウェンテ大学で情報工学を専攻していたGeert-Jan Bruinsmaは、インターネットを使った起業を志望する大学生であったが、友人とのディナー中にオンラインホテル予約のアイデアを得て、大学卒業後の1996年11月に「Booking.nl」を設立した。1997年1月にウェブサイトを使ったサービスを開始（宿泊施設登録数は10軒）、設立後の約2年間はブルインズマ1人で全ての業務を行う個人企業であったが、設立時点で、写真を閲覧しながら、自身の言語で説明を読むことができ、簡単なステップでホテルを予約できるシステムの構築が考えられていた。",
+    "description_en": "Geert-Jan Bruinsma, who majored in information engineering at the University of Twente in the Netherlands, was a university student who aspired to start a business using the Internet. He got the idea for online hotel reservations during dinner with friends, and established \"Booking.nl\" in November 1996 after graduating from university. Started service using a website in January 1997 (10 accommodations registered). For about two years after establishment, it was a sole proprietorship where Bruinsma did all the work alone, but at the time of establishment, a system was considered where users could view photos, read descriptions in their own language, and book hotels in simple steps."
   },
   {
     "date": "1996-10",
@@ -574,7 +635,8 @@
     "type": "service,アメリカ,平成",
     "img": "expedia.svg",
     "nationality": "United-States-of-America",
-    "description": "エクスペディア・グループは、アメリカ合衆国・ベルビューに本拠地を置くオンライン旅行会社であり、「エクスペディア」の運営のほか、多数のグループ企業を統括している。売上高はオンライン旅行会社として世界2位、取扱額は世界1位である。"
+    "description": "エクスペディア・グループは、アメリカ合衆国・ベルビューに本拠地を置くオンライン旅行会社であり、「エクスペディア」の運営のほか、多数のグループ企業を統括している。売上高はオンライン旅行会社として世界2位、取扱額は世界1位である。",
+    "description_en": "Expedia Group is an online travel agency headquartered in Bellevue, USA, and manages many group companies in addition to operating \"Expedia\". It is second in the world in sales as an online travel agency, and first in the world in transaction volume."
   },
   {
     "date": "1991",
@@ -582,7 +644,8 @@
     "type": "service,アメリカ,平成",
     "img": "hotels.svg",
     "nationality": "United-States-of-America",
-    "description": "ホテルズドットコムの前身である、Hotel Reservations Network, Inc（しばしばHRNと略された）は、1991年にBob DienerとDavid Litmanにより共同設立された。設立当初、HRNはもっぱら電話を通じた主要都市のホテル予約サービスを行っていたが、インターネットの普及していない当時、多くのホテルが仲介手数料の支払いを踏み倒したため、資金繰りに苦しんだ。1999年7月、経営が軌道に乗る中、HRNはIAC/InterActiveCorpの子会社となった。"
+    "description": "ホテルズドットコムの前身である、Hotel Reservations Network, Inc（しばしばHRNと略された）は、1991年にBob DienerとDavid Litmanにより共同設立された。設立当初、HRNはもっぱら電話を通じた主要都市のホテル予約サービスを行っていたが、インターネットの普及していない当時、多くのホテルが仲介手数料の支払いを踏み倒したため、資金繰りに苦しんだ。1999年7月、経営が軌道に乗る中、HRNはIAC/InterActiveCorpの子会社となった。",
+    "description_en": "Hotel Reservations Network, Inc. (often abbreviated as HRN), the predecessor of Hotels.com, was co-founded in 1991 by Bob Diener and David Litman. Initially, HRN provided hotel reservation services in major cities exclusively by telephone, but at a time when the Internet was not widespread, many hotels defaulted on commission payments, so they struggled with cash flow. In July 1999, as management got on track, HRN became a subsidiary of IAC/InterActiveCorp."
   },
   {
     "date": "2008-11",
@@ -590,7 +653,8 @@
     "type": "service,アメリカ,平成",
     "img": "groupon.svg",
     "nationality": "United-States-of-America",
-    "description": "2008年10月にシカゴのピザ半額キャンペーンから始まった。シカゴの即興コメディシーンとの結びつきといわれている。2017年3月、シンガポールの現地法人グルーポン・シンガポールを東南アジアを拠点とするO2O企業のFiveに売却することを発表。"
+    "description": "2008年10月にシカゴのピザ半額キャンペーンから始まった。シカゴの即興コメディシーンとの結びつきといわれている。2017年3月、シンガポールの現地法人グルーポン・シンガポールを東南アジアを拠点とするO2O企業のFiveに売却することを発表。",
+    "description_en": "Started in October 2008 with a pizza half-price campaign in Chicago. It is said to be connected to the Chicago improv comedy scene. In March 2017, it announced the sale of its local subsidiary Groupon Singapore to Five, an O2O company based in Southeast Asia."
   },
   {
     "date": "2000-02-01",
@@ -598,7 +662,8 @@
     "type": "service,アメリカ,平成",
     "img": "tripadvisor.svg",
     "nationality": "United-States-of-America",
-    "description": "TripAdvisor, Inc.は、2000年2月1日、Stephen KauferやLangley Steinertを中心に設立された。ソフトウェア開発会社に勤務していたカウファーは、1998年の夏以降、旅行代理店の営業・宣伝によるバイアスの無い、旅行者の生の声を提供する企業を作れないかと考え、2000年に会社を設立、当初はブロガーのコメントの集約が中心であったが、2001年後半、旅行者自らが口コミを投稿できるプラットフォームの提供を開始した。"
+    "description": "TripAdvisor, Inc.は、2000年2月1日、Stephen KauferやLangley Steinertを中心に設立された。ソフトウェア開発会社に勤務していたカウファーは、1998年の夏以降、旅行代理店の営業・宣伝によるバイアスの無い、旅行者の生の声を提供する企業を作れないかと考え、2000年に会社を設立、当初はブロガーのコメントの集約が中心であったが、2001年後半、旅行者自らが口コミを投稿できるプラットフォームの提供を開始した。",
+    "description_en": "TripAdvisor, Inc. was founded on February 1, 2000, led by Stephen Kaufer and Langley Steinert. Kaufer, who worked at a software development company, wondered if he could create a company that provided the raw voices of travelers without bias from travel agency sales and advertising after the summer of 1998. He established the company in 2000. Initially, it focused on aggregating comments from bloggers, but in late 2001, it began providing a platform where travelers could post reviews themselves."
   },
   {
     "date": "2008-08",
@@ -606,7 +671,8 @@
     "type": "service,アメリカ,平成",
     "img": "airbnb.svg",
     "nationality": "United-States-of-America",
-    "description": "ロードアイランド州の美術大学、RISDで出会った、Brian CheskyとJoe Gebbiaの2人は、卒業後の2007年10月、サンフランシスコに引っ越してすぐ、 アメリカのインダストリアルデザイナー協会が主催するインダストリアルデザイン会議の際にエアベッド＆ブレックファストの初期コンセプトを作り出した。元のサイトは、飽和した市場でホテルを予約することができない参加者に、短期的な宿と朝食と他に類をみないビジネスネットワーキングの機会を提供した。"
+    "description": "ロードアイランド州の美術大学、RISDで出会った、Brian CheskyとJoe Gebbiaの2人は、卒業後の2007年10月、サンフランシスコに引っ越してすぐ、 アメリカのインダストリアルデザイナー協会が主催するインダストリアルデザイン会議の際にエアベッド＆ブレックファストの初期コンセプトを作り出した。元のサイトは、飽和した市場でホテルを予約することができない参加者に、短期的な宿と朝食と他に類をみないビジネスネットワーキングの機会を提供した。",
+    "description_en": "Brian Chesky and Joe Gebbia, who met at RISD, an art college in Rhode Island, created the initial concept of AirBed & Breakfast in October 2007, shortly after moving to San Francisco after graduation, during an industrial design conference hosted by the Industrial Designers Society of America. The original site provided attendees who could not book a hotel in a saturated market with short-term lodging and breakfast, and a unique business networking opportunity."
   },
   {
     "date": "1993",
@@ -614,7 +680,8 @@
     "type": "IT,アメリカ,平成",
     "img": "redhat.svg",
     "nationality": "United-States-of-America",
-    "description": "Linuxの歴史の初期から、より一般的なユーザーが利用できるように、Linuxカーネル と GNUプロジェクト、BSD、X11等のソフトウエアを組み合わせて、ネットワークサーバ や ワークステーションとして使えるようにして来た。2001年にレッドハット系のCaldera、Conectiva、SuSE、Turbolinuxが集まって共同のGNU/Linuxの基本となる United Linux が公開されているが、現在事実上活動停止の状態にある。この背景には、SuSEがノベルに買収されたり、SCO Groupによる IBM 提訴などがあるとされる。「法的には存在しているが、明かりは消した」状態であると最近のニュースメディアでは報道された。"
+    "description": "Linuxの歴史の初期から、より一般的なユーザーが利用できるように、Linuxカーネル と GNUプロジェクト、BSD、X11等のソフトウエアを組み合わせて、ネットワークサーバ や ワークステーションとして使えるようにして来た。2001年にレッドハット系のCaldera、Conectiva、SuSE、Turbolinuxが集まって共同のGNU/Linuxの基本となる United Linux が公開されているが、現在事実上活動停止の状態にある。この背景には、SuSEがノベルに買収されたり、SCO Groupによる IBM 提訴などがあるとされる。「法的には存在しているが、明かりは消した」状態であると最近のニュースメディアでは報道された。",
+    "description_en": "From the early history of Linux, it has combined the Linux kernel with software from the GNU Project, BSD, X11, etc. to make it usable by more general users as network servers and workstations. In 2001, Red Hat affiliates Caldera, Conectiva, SuSE, and Turbolinux gathered to release United Linux, which would be the basis of a joint GNU/Linux, but it is currently virtually inactive. This background is said to include the acquisition of SuSE by Novell and the lawsuit against IBM by the SCO Group. Recent news media reported that \"it legally exists, but the lights are out\"."
   },
   {
     "date": "1972",
@@ -622,7 +689,8 @@
     "type": "language,アメリカ,昭和",
     "img": "C.svg",
     "nationality": "United-States-of-America",
-    "description": "C言語は、AT&Tベル研究所のケン・トンプソンが開発したB言語の改良として誕生した。「UNIXを開発するためにC言語が作り出された」と言われることがあるが、「The Development of the C Language」によると、これは正しくなく、経緯は以下の通りである。C言語は、当初はあくまでもOS上で動くユーティリティを作成する目的で作り出されたものである。"
+    "description": "C言語は、AT&Tベル研究所のケン・トンプソンが開発したB言語の改良として誕生した。「UNIXを開発するためにC言語が作り出された」と言われることがあるが、「The Development of the C Language」によると、これは正しくなく、経緯は以下の通りである。C言語は、当初はあくまでもOS上で動くユーティリティを作成する目的で作り出されたものである。",
+    "description_en": "The C language was born as an improvement of the B language developed by Ken Thompson of AT&T Bell Laboratories. It is sometimes said that \"C language was created to develop UNIX\", but according to \"The Development of the C Language\", this is incorrect, and the circumstances are as follows. C language was initially created solely for the purpose of creating utilities that run on the OS."
   },
   {
     "date": "1995",
@@ -630,7 +698,8 @@
     "type": "language,アメリカ,平成",
     "img": "java.svg",
     "nationality": "United-States-of-America",
-    "description": "Javaプラットフォームおよびプログラミング言語Javaは、1990年12月にサン・マイクロシステムズが1つの内部プロジェクトを立ち上げたことから始まった。この内部プロジェクトでは、C/C++の代替となるプログラミング言語を開発した。この言語は、プロジェクトで Greenオペレーティングシステム (Green OS) と共に、同OSの標準言語として開発された。この言語は、1992年頃プロジェクト内ではOakと呼ばれていたが、後にJavaの呼称に変更されることになる。呼称変更の理由は、Oakはすでに別の会社が商標として使っていたからである。"
+    "description": "Javaプラットフォームおよびプログラミング言語Javaは、1990年12月にサン・マイクロシステムズが1つの内部プロジェクトを立ち上げたことから始まった。この内部プロジェクトでは、C/C++の代替となるプログラミング言語を開発した。この言語は、プロジェクトで Greenオペレーティングシステム (Green OS) と共に、同OSの標準言語として開発された。この言語は、1992年頃プロジェクト内ではOakと呼ばれていたが、後にJavaの呼称に変更されることになる。呼称変更の理由は、Oakはすでに別の会社が商標として使っていたからである。",
+    "description_en": "The Java platform and the programming language Java began with a single internal project launched by Sun Microsystems in December 1990. This internal project developed a programming language to replace C/C++. This language was developed as the standard language for the Green operating system (Green OS) in the project. This language was called Oak within the project around 1992, but was later changed to Java. The reason for the name change was that Oak was already used as a trademark by another company."
   },
   {
     "date": "1991",
@@ -638,7 +707,8 @@
     "type": "language,アメリカ,平成",
     "img": "python.svg",
     "nationality": "United-States-of-America",
-    "description": "1991年にヴァンロッサムがPython 0.90のソースコードを公開した。この時点ですでにオブジェクト指向言語の特徴である継承、クラス、例外処理、メソッドやさらに抽象データ型である文字列、リストの概念を利用している。これはModula-3のモジュールを参考にしていた。"
+    "description": "1991年にヴァンロッサムがPython 0.90のソースコードを公開した。この時点ですでにオブジェクト指向言語の特徴である継承、クラス、例外処理、メソッドやさらに抽象データ型である文字列、リストの概念を利用している。これはModula-3のモジュールを参考にしていた。",
+    "description_en": "In 1991, Van Rossum released the source code for Python 0.90. At this point, it already used object-oriented language features such as inheritance, classes, exception handling, methods, and abstract data types such as strings and lists. This referenced Modula-3 modules."
   },
   {
     "date": "1987-12-18",
@@ -646,7 +716,8 @@
     "type": "language,アメリカ,昭和",
     "img": "perl.png",
     "nationality": "United-States-of-America",
-    "description": "6台の VAX 機と6台の Sun 機のためのコンフィギュレーション管理制御システムのレポート作成ツールとして誕生した。1988年6月05日、ヘンリー・スペンサー作の美しい正規表現ライブラリを Perl 風にアレンジし、導入した。"
+    "description": "6台の VAX 機と6台の Sun 機のためのコンフィギュレーション管理制御システムのレポート作成ツールとして誕生した。1988年6月05日、ヘンリー・スペンサー作の美しい正規表現ライブラリを Perl 風にアレンジし、導入した。",
+    "description_en": "Created as a configuration management control system report tool for 6 VAX machines and 6 Sun machines. On June 5, 1988, Henry Spencer's beautiful regular expression library was arranged in a Perl style and introduced."
   },
   {
     "date": "1995-06-08",
@@ -654,7 +725,8 @@
     "type": "language,カナダ,イスラエル,平成",
     "img": "php.svg",
     "nationality": "Canada",
-    "description": "ラスマス・ラードフは自身のWebページで利用するため、1994年にCで書かれたCGI用バイナリ群を作成し、 Personal Home Page Tools と命名した。 このCGIソフトウェアは略して PHP Tools と呼ばれることが多かったようである。 その後、利用者からの機能要望が増えたため、オリジナルのPHP Toolsは大きく書き直され、データベースを利用することが出来るようになった。 単純なツール群から一種のフレームワークとしての機能を有するようになったのである。 ラードフは1995年6月8日にGPLの下でPHP Toolsを公開、オープンソースソフトウェアとして最初のリリースを行った。"
+    "description": "ラスマス・ラードフは自身のWebページで利用するため、1994年にCで書かれたCGI用バイナリ群を作成し、 Personal Home Page Tools と命名した。 このCGIソフトウェアは略して PHP Tools と呼ばれることが多かったようである。 その後、利用者からの機能要望が増えたため、オリジナルのPHP Toolsは大きく書き直され、データベースを利用することが出来るようになった。 単純なツール群から一種のフレームワークとしての機能を有するようになったのである。 ラードフは1995年6月8日にGPLの下でPHP Toolsを公開、オープンソースソフトウェアとして最初のリリースを行った。",
+    "description_en": "Rasmus Lerdorf created a set of CGI binaries written in C in 1994 for use on his own web page, and named it Personal Home Page Tools. This CGI software seems to have been often abbreviated as PHP Tools. Later, as requests for functions from users increased, the original PHP Tools was largely rewritten and became able to use databases. From a simple group of tools, it came to have functions as a kind of framework. Lerdorf released PHP Tools under the GPL on June 8, 1995, the first release as open source software."
   },
   {
     "date": "1995",
@@ -662,7 +734,8 @@
     "type": "language,アメリカ,平成",
     "img": "javascript.svg",
     "nationality": "United-States-of-America",
-    "description": "JavaScriptはネットスケープコミュニケーションズのブレンダン・アイクによって開発され、Netscape Navigator 2.0で実装された。開発当初はLiveScriptと呼ばれていたが、1995年にサン・マイクロシステムズ（現・オラクル）が開発したプログラミング言語Javaが当時大きな注目を浴びており、ネットスケープとサン・マイクロシステムズが業務提携していた事もあったため、JavaScriptという名前に変更された。"
+    "description": "JavaScriptはネットスケープコミュニケーションズのブレンダン・アイクによって開発され、Netscape Navigator 2.0で実装された。開発当初はLiveScriptと呼ばれていたが、1995年にサン・マイクロシステムズ（現・オラクル）が開発したプログラミング言語Javaが当時大きな注目を浴びており、ネットスケープとサン・マイクロシステムズが業務提携していた事もあったため、JavaScriptという名前に変更された。",
+    "description_en": "JavaScript was developed by Brendan Eich of Netscape Communications and implemented in Netscape Navigator 2.0. Initially called LiveScript during development, it was renamed to JavaScript because the programming language Java developed by Sun Microsystems (now Oracle) in 1995 was attracting great attention at the time, and Netscape and Sun Microsystems had a business alliance."
   },
   {
     "date": "1993-02-24",
@@ -670,7 +743,8 @@
     "type": "language,日本,平成",
     "img": "ruby.png",
     "nationality": "Japan",
-    "description": "Ruby は1993年2月24日に生まれ、1995年12月にfj上で発表された。名称の Ruby は、プログラミング言語 Perl が6月の誕生石である Pearl（真珠）と同じ発音をすることから、まつもとの同僚の誕生石（7月）のルビーを取って名付けられた。競合言語として Perl の他に Python があり、「Matz（まつもと） が Python に満足していれば Ruby は生まれなかったであろう」と公式のリファレンスの用語集で言及されている。"
+    "description": "Ruby は1993年2月24日に生まれ、1995年12月にfj上で発表された。名称の Ruby は、プログラミング言語 Perl が6月の誕生石である Pearl（真珠）と同じ発音をすることから、まつもとの同僚の誕生石（7月）のルビーを取って名付けられた。競合言語として Perl の他に Python があり、「Matz（まつもと） が Python に満足していれば Ruby は生まれなかったであろう」と公式のリファレンスの用語集で言及されている。",
+    "description_en": "Ruby was born on February 24, 1993, and announced on fj in December 1995. The name Ruby was chosen from ruby, the birthstone for July (Matsumoto's colleague's birth month), because the programming language Perl sounds the same as Pearl, the birthstone for June. In addition to Perl, Python is a competing language, and the official reference glossary mentions that \"if Matz (Matsumoto) had been satisfied with Python, Ruby would not have been born\"."
   },
   {
     "date": "2007-03",
@@ -678,7 +752,8 @@
     "type": "video,アメリカ,平成",
     "img": "hulu.svg",
     "nationality": "United-States-of-America",
-    "description": "アメリカの動画配信サービスでは全体でYouTubeに次ぐ2位であり、上位10社の中で最も急成長している。Huluはテレビ局や映画会社が共同設立しており、YouTubeと比べて提供できるコンテンツが豊富にある。CEOのジェーソン・カイラーによれば、かつてオンライン・ショッピングサイトのアマゾンに10年余り勤務した後に、上級副社長の地位にあった。カイラーは「テレビ界の経験がゼロの人物」という条件でヘッドハンターが探してきた人材である。カイラーの起用はテレビがインターネットに移行したのではなく、元からインターネットだとして考えられる人物でなければ成功しない、という両社トップの判断によるものであ。"
+    "description": "アメリカの動画配信サービスでは全体でYouTubeに次ぐ2位であり、上位10社の中で最も急成長している。Huluはテレビ局や映画会社が共同設立しており、YouTubeと比べて提供できるコンテンツが豊富にある。CEOのジェーソン・カイラーによれば、かつてオンライン・ショッピングサイトのアマゾンに10年余り勤務した後に、上級副社長の地位にあった。カイラーは「テレビ界の経験がゼロの人物」という条件でヘッドハンターが探してきた人材である。カイラーの起用はテレビがインターネットに移行したのではなく、元からインターネットだとして考えられる人物でなければ成功しない、という両社トップの判断によるものであ。",
+    "description_en": "It is the second largest video distribution service in the US after YouTube, and is the fastest growing among the top 10 companies. Hulu was jointly established by TV stations and movie companies, and has richer content than YouTube. According to CEO Jason Kilar, he held the position of Senior Vice President after working at online shopping site Amazon for over 10 years. Kilar is a talent that headhunters found under the condition of \"a person with zero experience in the TV world\". The appointment of Kilar was due to the judgment of the top management of both companies that it would not succeed unless it was a person who could think that TV had not moved to the Internet, but was originally the Internet."
   },
   {
     "date": "1981-10",
@@ -686,7 +761,8 @@
     "type": "IT,アメリカ,昭和",
     "img": "bloomberg.svg",
     "nationality": "United-States-of-America",
-    "description": "ソロモン・ブラザーズの元幹部で、第108代ニューヨーク市長であるマイケル・ブルームバーグ（以下「マイケル」）が1981年10月に「イノヴェーティヴ・マーケット・システムズ (Innovative Market Systems) 」を設立、後に社名を「ブルームバーグ」と改称した。当初は債券取引の情報を専用端末に配信するサービスを提供していたが、その後、通信社をはじめ、テレビ、ラジオ、雑誌などメディア事業を展開。世界に185の拠点を持ち、社員数は約1万5500人。東京支局でも社員約600名を抱えて、事業を展開している。"
+    "description": "ソロモン・ブラザーズの元幹部で、第108代ニューヨーク市長であるマイケル・ブルームバーグ（以下「マイケル」）が1981年10月に「イノヴェーティヴ・マーケット・システムズ (Innovative Market Systems) 」を設立、後に社名を「ブルームバーグ」と改称した。当初は債券取引の情報を専用端末に配信するサービスを提供していたが、その後、通信社をはじめ、テレビ、ラジオ、雑誌などメディア事業を展開。世界に185の拠点を持ち、社員数は約1万5500人。東京支局でも社員約600名を抱えて、事業を展開している。",
+    "description_en": "Michael Bloomberg (hereinafter \"Michael\"), a former executive at Salomon Brothers and the 108th Mayor of New York City, established \"Innovative Market Systems\" in October 1981, and later renamed the company \"Bloomberg\". Initially, it provided a service to distribute bond trading information to dedicated terminals, but later expanded its media business including news agencies, TV, radio, and magazines. It has 185 bases worldwide and about 15,500 employees. The Tokyo branch also has about 600 employees and is developing business."
   },
   {
     "date": "1917-06",
@@ -694,7 +770,8 @@
     "type": "hardwre,日本,大正",
     "img": "panasonic.svg",
     "nationality": "Japan",
-    "description": "松下幸之助が大阪府東成郡鶴橋町大字猪飼野（現・大阪市東成区玉津二丁目）の借家で電球用ソケットの製造販売を始める。当時は幸之助の妻・むめのと妻の弟である井植歳男（後の三洋電機の創業者）の3人で営業していた。1918年（大正7年）3月7日 - 大阪市北区西野田大開町（現・大阪市福島区大開二丁目）に移転。松下電気器具製作所を創立する。"
+    "description": "松下幸之助が大阪府東成郡鶴橋町大字猪飼野（現・大阪市東成区玉津二丁目）の借家で電球用ソケットの製造販売を始める。当時は幸之助の妻・むめのと妻の弟である井植歳男（後の三洋電機の創業者）の3人で営業していた。1918年（大正7年）3月7日 - 大阪市北区西野田大開町（現・大阪市福島区大開二丁目）に移転。松下電気器具製作所を創立する。",
+    "description_en": "Konosuke Matsushita started manufacturing and selling light bulb sockets in a rented house in Ikaino, Tsuruhashi-cho, Higashinari-gun, Osaka Prefecture (currently Tamatsu 2-chome, Higashinari-ku, Osaka City). At that time, it was operated by three people: Konosuke's wife, Mumeno, and his wife's younger brother, Toshio Iue (later founder of Sanyo Electric). March 7, 1918 - Moved to Noda Ohbiraki-cho, Kita-ku, Osaka City (currently Ohbiraki 2-chome, Fukushima-ku, Osaka City). Founded Matsushita Electric Housewares Manufacturing Works."
   },
   {
     "date": "1946-05-07",
@@ -702,7 +779,8 @@
     "type": "hardware,日本,昭和",
     "img": "sony.svg",
     "nationality": "Japan",
-    "description": "1946年（昭和21年）、井深大と盛田昭夫により東京通信工業株式会社（略: 東通工）として創業。東通工の設立趣意書には「真面目ナル技術者ノ技能ヲ最高度ニ発揮セシムベキ　自由豁達ニシテ愉快ナル理想工場ノ建設」と記されている。創業当初は真空管電圧計の製造・販売を行っていた。"
+    "description": "1946年（昭和21年）、井深大と盛田昭夫により東京通信工業株式会社（略: 東通工）として創業。東通工の設立趣意書には「真面目ナル技術者ノ技能ヲ最高度ニ発揮セシムベキ　自由豁達ニシテ愉快ナル理想工場ノ建設」と記されている。創業当初は真空管電圧計の製造・販売を行っていた。",
+    "description_en": "Founded in 1946 as Tokyo Tsushin Kogyo K.K. (abbreviation: Totsuko) by Masaru Ibuka and Akio Morita. Totsuko's founding prospectus states \"Construction of an ideal factory that is free, open, and pleasant, where serious engineers can exercise their skills to the highest level\". Initially, it manufactured and sold vacuum tube voltmeters."
   },
   {
     "date": "1904-06-25",
@@ -710,7 +788,8 @@
     "type": "hardware,日本,明治",
     "img": "toshiba.svg",
     "nationality": "Japan",
-    "description": "創業者の、初代田中久重（1799年 - 1881年）は、からくり人形「弓曳童子」や和時計「万年時計（万年自鳴鐘）」などを開発したことから、「からくり儀右衛門」として知られる。初代久重が東京・銀座に工場（諸器械製造所）を興し、弟子であり養子の田中大吉（後の2代目久重（1846年 - 1905年）が東京・芝浦に移転させた。この工場の技術者の中に、後の沖電気工業創業者・沖牙太郎や池貝創業者・池貝庄太郎、宮田工業創業者・宮田栄助らがいた。"
+    "description": "創業者の、初代田中久重（1799年 - 1881年）は、からくり人形「弓曳童子」や和時計「万年時計（万年自鳴鐘）」などを開発したことから、「からくり儀右衛門」として知られる。初代久重が東京・銀座に工場（諸器械製造所）を興し、弟子であり養子の田中大吉（後の2代目久重（1846年 - 1905年）が東京・芝浦に移転させた。この工場の技術者の中に、後の沖電気工業創業者・沖牙太郎や池貝創業者・池貝庄太郎、宮田工業創業者・宮田栄助らがいた。",
+    "description_en": "The founder, Hisashige Tanaka the first (1799-1881), is known as \"Karakuri Giemon\" for developing the karakuri doll \"Yumihiki Doji\" and the Japanese clock \"Myriad Year Clock\". The first Hisashige established a factory (instrument manufacturing plant) in Ginza, Tokyo, and his disciple and adopted son Daikichi Tanaka (later Hisashige the second (1846-1905)) moved it to Shibaura, Tokyo. Among the engineers at this factory were Oki Kibataro, founder of Oki Electric Industry, Ikegai Shotaro, founder of Ikegai, and Miyata Eisuke, founder of Miyata Industry."
   },
   {
     "date": "1935-05-01",
@@ -718,7 +797,8 @@
     "type": "hardware,日本,昭和",
     "img": "sharp.svg",
     "nationality": "Japan",
-    "description": "1912年、早川徳次が東京で創業した。徳尾錠というベルトのバックルの発明が始まりである。1915年、金属製繰出鉛筆（早川式繰出鉛筆）を発明。販売開始後、商品名をエバー・レディ・シャープ・ペンシルに変えた。アメリカで爆発的にヒット。現在の社名はこれに由来する。1962年、日本の家電企業で初めて電子レンジを発売（当初は業務用）、1966年には世界初のターンテーブル方式の電子レンジを開発する。"
+    "description": "1912年、早川徳次が東京で創業した。徳尾錠というベルトのバックルの発明が始まりである。1915年、金属製繰出鉛筆（早川式繰出鉛筆）を発明。販売開始後、商品名をエバー・レディ・シャープ・ペンシルに変えた。アメリカで爆発的にヒット。現在の社名はこれに由来する。1962年、日本の家電企業で初めて電子レンジを発売（当初は業務用）、1966年には世界初のターンテーブル方式の電子レンジを開発する。",
+    "description_en": "Founded in Tokyo in 1912 by Tokuji Hayakawa. It started with the invention of a belt buckle called \"Tokubijo\". In 1915, he invented a mechanical pencil (Hayakawa mechanical pencil). After sales began, the product name was changed to Ever-Ready Sharp Pencil. It became an explosive hit in the US. The current company name is derived from this. In 1962, it became the first Japanese home appliance company to release a microwave oven (initially for commercial use), and in 1966 developed the world's first turntable microwave oven."
   },
   {
     "date": "1957",
@@ -726,7 +806,8 @@
     "type": "language,アメリカ,昭和",
     "img": "fortran.jpeg",
     "nationality": "United-States-of-America",
-    "description": "コンピューターにおいて広く使われた世界最初の高級言語である。1956年に最初のマニュアルが、1957年にIBM 704用の最初のコンパイラがリリースされた。名前は「formula translation」に由来する。FORTRANは科学技術計算に向いた手続き型プログラミング言語であり、その長い歴史の間に開発された非常に多くの数学関数やサブルーチンを数値解析ソフトウェアの形で持っている。また、並列計算の並列性を明示的に書くことができ最適化が行いやすく、そのため他の言語より高速である等の理由から、数値予報および気候モデル、構造力学における有限要素法、計算流体力学、計算物理学、計算機化学、計量経済学、動物と植物の品種改良などの大規模な計算を行う分野において、スーパーコンピュータで使われている。"
+    "description": "コンピューターにおいて広く使われた世界最初の高級言語である。1956年に最初のマニュアルが、1957年にIBM 704用の最初のコンパイラがリリースされた。名前は「formula translation」に由来する。FORTRANは科学技術計算に向いた手続き型プログラミング言語であり、その長い歴史の間に開発された非常に多くの数学関数やサブルーチンを数値解析ソフトウェアの形で持っている。また、並列計算の並列性を明示的に書くことができ最適化が行いやすく、そのため他の言語より高速である等の理由から、数値予報および気候モデル、構造力学における有限要素法、計算流体力学、計算物理学、計算機化学、計量経済学、動物と植物の品種改良などの大規模な計算を行う分野において、スーパーコンピュータで使われている。",
+    "description_en": "The world's first high-level language widely used in computers. The first manual was released in 1956, and the first compiler for IBM 704 in 1957. The name comes from \"formula translation\". FORTRAN is a procedural programming language suitable for scientific and technological calculations, and has a great many mathematical functions and subroutines developed over its long history in the form of numerical analysis software. Also, parallelism of parallel calculation can be written explicitly and optimization is easy, so it is faster than other languages, and is used in supercomputers in fields that perform large-scale calculations such as numerical weather prediction and climate models, finite element method in structural mechanics, computational fluid dynamics, computational physics, computational chemistry, econometrics, and breeding of animals and plants."
   },
   {
     "date": "1959",
@@ -734,7 +815,8 @@
     "type": "language,アメリカ,昭和",
     "img": "cobol.jpg",
     "nationality": "United-States-of-America",
-    "description": "非理系の事務員や官吏でもプログラミングできる言語として設計されたため、自然言語である英語に近い記述をめざしたコマンド語彙や構文が採用されている。特に金額計算など事務処理用に広く使われている。COBOLは自然言語に近い構文を持つため、そのソースコードは記述が冗長にはなるが、可読性が高い。本のように、部、節、段落、文という階層で記述される。人によっては関数や数式だらけの言語よりもハードルが低い。リフレクションができないなど、モダンなプログラミング言語に比べて論理制御機能は貧弱である。一方、文字列解析や文字列編集、帳票、画面編集などの事務処理機能は豊富である。"
+    "description": "非理系の事務員や官吏でもプログラミングできる言語として設計されたため、自然言語である英語に近い記述をめざしたコマンド語彙や構文が採用されている。特に金額計算など事務処理用に広く使われている。COBOLは自然言語に近い構文を持つため、そのソースコードは記述が冗長にはなるが、可読性が高い。本のように、部、節、段落、文という階層で記述される。人によっては関数や数式だらけの言語よりもハードルが低い。リフレクションができないなど、モダンなプログラミング言語に比べて論理制御機能は貧弱である。一方、文字列解析や文字列編集、帳票、画面編集などの事務処理機能は豊富である。",
+    "description_en": "Designed so that non-science clerks and officials could program, command vocabulary and syntax aiming to be close to natural language English were adopted. It is widely used especially for administrative processing such as monetary calculation. Since COBOL has a syntax close to natural language, its source code is redundant but highly readable. Like a book, it is described in a hierarchy of divisions, sections, paragraphs, and sentences. For some people, the hurdle is lower than languages full of functions and formulas. Compared to modern programming languages, logical control functions are poor, such as inability to do reflection. On the other hand, administrative processing functions such as string analysis, string editing, forms, and screen editing are abundant."
   },
   {
     "date": "1958",
@@ -742,7 +824,8 @@
     "type": "language,アメリカ,昭和",
     "img": "lisp.png",
     "nationality": "United-States-of-America",
-    "description": "1958年にはじめて設計されたLISPは、現在広範囲に使用されている高水準プログラミング言語の中でもFORTRANに次いで2番目に古い。ただし、FORTRANと同様に、現在のLISPは初期のものから非常に大きく変化している。れまでに多数の方言が存在してきたが、今日最も広く知られるLISP方言は、Common LispとSchemeである。"
+    "description": "1958年にはじめて設計されたLISPは、現在広範囲に使用されている高水準プログラミング言語の中でもFORTRANに次いで2番目に古い。ただし、FORTRANと同様に、現在のLISPは初期のものから非常に大きく変化している。れまでに多数の方言が存在してきたが、今日最も広く知られるLISP方言は、Common LispとSchemeである。",
+    "description_en": "LISP, first designed in 1958, is the second oldest high-level programming language widely used today, after FORTRAN. However, like FORTRAN, current LISP has changed significantly from the early versions. Many dialects have existed, but the most widely known LISP dialects today are Common Lisp and Scheme."
   },
   {
     "date": "1972",
@@ -750,7 +833,8 @@
     "type": "language,フランス,昭和",
     "img": "swi-prolog.png",
     "nationality": "France",
-    "description": "1972年ごろにフランスのアラン・カルメラウアーとフィリップ・ルーセルによって考案された。成立の事情から、Prolog プログラムは論理式とみなされ、その実行は述語論理によって述語が定義された環境における定理証明に擬して解釈されることが多い。利用者は論理プログラミングの枠組みを、取り分け述語論理を学習することで、この枠組みに極めて忠実なこの言語の基礎的な構造のほとんどを理解できる。"
+    "description": "1972年ごろにフランスのアラン・カルメラウアーとフィリップ・ルーセルによって考案された。成立の事情から、Prolog プログラムは論理式とみなされ、その実行は述語論理によって述語が定義された環境における定理証明に擬して解釈されることが多い。利用者は論理プログラミングの枠組みを、取り分け述語論理を学習することで、この枠組みに極めて忠実なこの言語の基礎的な構造のほとんどを理解できる。",
+    "description_en": "Devised around 1972 by Alain Colmerauer and Philippe Roussel in France. Due to the circumstances of its establishment, Prolog programs are regarded as logical formulas, and their execution is often interpreted as simulating theorem proving in an environment where predicates are defined by predicate logic. Users can understand most of the basic structure of this language, which is extremely faithful to this framework, by learning the framework of logic programming, especially predicate logic."
   },
   {
     "date": "1985",
@@ -758,7 +842,8 @@
     "type": "language,イギリス,昭和",
     "img": "haskell.svg",
     "nationality": "United-Kingdom",
-    "description": "1985年、遅延関数言語である Miranda がリサーチ・ソフトウェア社によって発表された。1987年にはこのような非正格な純粋関数型プログラミング言語が十二以上存在していたが、そのうち最も広く使われていた Miranda はパブリックドメインではなかった。オレゴン州ポートランドで開催されたFPCA'87において開かれた会議中に、遅延関数型言語のオープンな標準を作成するための委員会が発足されるべき、という強い合意が参加者のあいだで形成された。"
+    "description": "1985年、遅延関数言語である Miranda がリサーチ・ソフトウェア社によって発表された。1987年にはこのような非正格な純粋関数型プログラミング言語が十二以上存在していたが、そのうち最も広く使われていた Miranda はパブリックドメインではなかった。オレゴン州ポートランドで開催されたFPCA'87において開かれた会議中に、遅延関数型言語のオープンな標準を作成するための委員会が発足されるべき、という強い合意が参加者のあいだで形成された。",
+    "description_en": "In 1985, Miranda, a lazy functional language, was announced by Research Software. In 1987, more than a dozen such non-strict purely functional programming languages existed, but Miranda, the most widely used of them, was not public domain. During a meeting held at FPCA '87 in Portland, Oregon, a strong consensus was formed among participants that a committee should be established to create an open standard for lazy functional languages."
   },
   {
     "date": "1881",
@@ -766,7 +851,8 @@
     "type": "hardware,日本,明治",
     "img": "oki.svg",
     "nationality": "Japan",
-    "description": "日本最初の通信機器メーカーとして1881年（明治14年）創業以来、130年以上の歴史をもつ。長年にわたり電話交換機の製造を行ってきた経緯から、いわゆる「電電ファミリー」と呼ばれる企業であり、旧・日本電信電話公社以来の関係から、日本電信電話株式会社・NTTグループとの関係が強い。"
+    "description": "日本最初の通信機器メーカーとして1881年（明治14年）創業以来、130年以上の歴史をもつ。長年にわたり電話交換機の製造を行ってきた経緯から、いわゆる「電電ファミリー」と呼ばれる企業であり、旧・日本電信電話公社以来の関係から、日本電信電話株式会社・NTTグループとの関係が強い。",
+    "description_en": "Has a history of over 130 years since its establishment in 1881 as Japan's first telecommunications equipment manufacturer. Due to its history of manufacturing telephone exchanges for many years, it is a company called the so-called \"Denden family\", and has a strong relationship with Nippon Telegraph and Telephone Corporation / NTT Group from the relationship since the former Nippon Telegraph and Telephone Public Corporation."
   },
   {
     "date": "1965-04-01",
@@ -774,7 +860,8 @@
     "type": "IT,日本,昭和",
     "img": "nri.png",
     "nationality": "Japan",
-    "description": "日本初の本格的な民間シンクタンク[2]である株式会社野村総合研究所 (NRI) と、日本で初めて商用コンピュータを導入したシステム開発会社である野村コンピュータシステム株式会社 (NCC) が合併し、現在の野村総合研究所が誕生した。この合併により、リサーチ、コンサルティング、ITソリューション、システム運用等をトータルに提供する会社となる。"
+    "description": "日本初の本格的な民間シンクタンク[2]である株式会社野村総合研究所 (NRI) と、日本で初めて商用コンピュータを導入したシステム開発会社である野村コンピュータシステム株式会社 (NCC) が合併し、現在の野村総合研究所が誕生した。この合併により、リサーチ、コンサルティング、ITソリューション、システム運用等をトータルに提供する会社となる。",
+    "description_en": "Established by the merger of Nomura Research Institute (NRI), Japan's first full-scale private think tank, and Nomura Computer Systems (NCC), a system development company that introduced commercial computers for the first time in Japan. Through this merger, it became a company that provides research, consulting, IT solutions, system operation, etc. in total."
   },
   {
     "date": "1977",
@@ -782,7 +869,8 @@
     "type": "IT,日本,昭和",
     "img": "ascii.svg",
     "nationality": "Japan",
-    "description": "1977年（昭和52年）に当時雑誌『I/O』（アイオー）の編集者であった西和彦、郡司明郎、塚本慶一郎（後に独立してインプレスを設立）らが独立し月刊アスキーなどの雑誌を発行するために設立した会社が、アスキー（旧法人）である。"
+    "description": "1977年（昭和52年）に当時雑誌『I/O』（アイオー）の編集者であった西和彦、郡司明郎、塚本慶一郎（後に独立してインプレスを設立）らが独立し月刊アスキーなどの雑誌を発行するために設立した会社が、アスキー（旧法人）である。",
+    "description_en": "ASCII (former corporation) was established in 1977 by Kazuhiko Nishi, Akio Gunji, and Keiichiro Tsukamoto (who later became independent and founded Impress), who were editors of the magazine \"I/O\" at the time, to publish magazines such as Monthly ASCII."
   },
   {
     "date": "1981-06-02",
@@ -790,7 +878,8 @@
     "type": "IT,日本,昭和",
     "img": "justsystems.svg",
     "nationality": "Japan",
-    "description": "1983年、PC-100対応日本語ワープロソフト「JS-WORD」を開発したことを契機に日本語ワープロソフトの開発・販売に進出し、1985年には同社の看板製品となる「一太郎」を発売。以後、バージョンアップを重ねるごとに人気を高め、一太郎はDOS版日本語ワープロの代名詞的存在となった。コンピュータ上の日本語処理について熱心に研究しており、同社のかな漢字変換ソフトウェア「ATOK」は高い変換精度を有する。XML関連技術の研究開発にも積極的でGoogle、マイクロソフト、アップル、IBM、サン・マイクロシステムズ、ヒューレット・パッカードらとUnicodeコンソーシアムに参加していた日本で唯一の企業である。"
+    "description": "1983年、PC-100対応日本語ワープロソフト「JS-WORD」を開発したことを契機に日本語ワープロソフトの開発・販売に進出し、1985年には同社の看板製品となる「一太郎」を発売。以後、バージョンアップを重ねるごとに人気を高め、一太郎はDOS版日本語ワープロの代名詞的存在となった。コンピュータ上の日本語処理について熱心に研究しており、同社のかな漢字変換ソフトウェア「ATOK」は高い変換精度を有する。XML関連技術の研究開発にも積極的でGoogle、マイクロソフト、アップル、IBM、サン・マイクロシステムズ、ヒューレット・パッカードらとUnicodeコンソーシアムに参加していた日本で唯一の企業である。",
+    "description_en": "Entered the development and sales of Japanese word processing software with the development of \"JS-WORD\" for PC-100 in 1983, and released \"Ichitaro\", which became the company's flagship product, in 1985. Since then, its popularity increased with each version upgrade, and Ichitaro became synonymous with DOS Japanese word processors. It is enthusiastically researching Japanese processing on computers, and its kana-kanji conversion software \"ATOK\" has high conversion accuracy. It is the only Japanese company that participated in the Unicode Consortium with Google, Microsoft, Apple, IBM, Sun Microsystems, Hewlett-Packard, etc., and is also active in research and development of XML-related technologies."
   },
   {
     "date": "1999-08-12",
@@ -798,7 +887,8 @@
     "type": "IT,日本,平成",
     "img": "livedoor.svg",
     "nationality": "Japan",
-    "description": "一般的なISP事業においては、事業運営に必要なコストを会員からの月会費および接続料によって賄っているが、ライブドアの行った無料サービスでは、当初は「常時バナー広告が表示される専用のウェブブラウザを使ってもらうことで、民間放送のように広告料によって賄おう」というビジネスモデルを採用していた。他のISPと異なり、専用ブラウザ以外によるダイヤルアップ接続はできなかった。ただこのビジネスモデルはライブドアが初めてではなく、すでにアメリカではPC端末も含めて無料というサービスが普及していた。"
+    "description": "一般的なISP事業においては、事業運営に必要なコストを会員からの月会費および接続料によって賄っているが、ライブドアの行った無料サービスでは、当初は「常時バナー広告が表示される専用のウェブブラウザを使ってもらうことで、民間放送のように広告料によって賄おう」というビジネスモデルを採用していた。他のISPと異なり、専用ブラウザ以外によるダイヤルアップ接続はできなかった。ただこのビジネスモデルはライブドアが初めてではなく、すでにアメリカではPC端末も含めて無料というサービスが普及していた。",
+    "description_en": "In general ISP businesses, business operation costs are covered by monthly membership fees and connection fees from members, but in the free service provided by Livedoor, initially \"users were asked to use a dedicated web browser that constantly displayed banner ads, covering costs with advertising fees like commercial broadcasting\". Unlike other ISPs, dial-up connection was not possible except with the dedicated browser. However, this business model was not the first for Livedoor, and free services including PC terminals were already widespread in the US."
   },
   {
     "date": "1982-02-24",
@@ -806,7 +896,8 @@
     "type": "IT,アメリカ,昭和",
     "img": "sunmicrosystems.svg",
     "nationality": "United-States-of-America",
-    "description": "UNIX戦争に伴う各ベンダとの競合状態において、ビル・ジョイなどのUNIX神話に名を残したスーパーエンジニアの功績やいち早いインターネットに向けたサーバ群の取り組みによりアメリカ合衆国を中心とする世界市場において、1990年代前半、サンは一人勝ちの様相を示した。日本市場では富士通・東芝・CTCなどと提携し、通信系や企業基幹系に浸透しつつあったUNIX市場において、その価格性能比と知名度で進出した。その結果、日本市場では競合するHP・日本電気陣営や、IBM・日立陣営などと並び、有力な商用UNIX系ベンダーとなった。"
+    "description": "UNIX戦争に伴う各ベンダとの競合状態において、ビル・ジョイなどのUNIX神話に名を残したスーパーエンジニアの功績やいち早いインターネットに向けたサーバ群の取り組みによりアメリカ合衆国を中心とする世界市場において、1990年代前半、サンは一人勝ちの様相を示した。日本市場では富士通・東芝・CTCなどと提携し、通信系や企業基幹系に浸透しつつあったUNIX市場において、その価格性能比と知名度で進出した。その結果、日本市場では競合するHP・日本電気陣営や、IBM・日立陣営などと並び、有力な商用UNIX系ベンダーとなった。",
+    "description_en": "In the state of competition with various vendors accompanying the UNIX wars, Sun showed an aspect of being the sole winner in the world market centered on the United States in the early 1990s due to the achievements of super engineers such as Bill Joy who left their names in UNIX mythology and efforts toward server groups for the early Internet. In the Japanese market, it partnered with Fujitsu, Toshiba, CTC, etc., and entered the UNIX market, which was permeating communication systems and corporate backbone systems, with its price-performance ratio and name recognition. As a result, it became a leading commercial UNIX vendor in the Japanese market, alongside the competing HP/NEC camp and IBM/Hitachi camp."
   },
   {
     "date": "1993-04",
@@ -814,7 +905,8 @@
     "type": "hardware,アメリカ,平成",
     "img": "nvidia.svg",
     "nationality": "United-States-of-America",
-    "description": "デスクトップパソコンやノートパソコン向けのGPUであるGeForceシリーズ、プロフェッショナル向けでワークステーションに搭載されるQuadroやNVSシリーズで有名だが、スーパーコンピュータ向けの演算専用プロセッサであるTesla（テスラ）や、携帯電話やスマートフォン・タブレット端末向けのSoC（システム・オン・チップ）であるTegra（テグラ）の開発販売も手掛ける。また近年は、自動運転技術の開発にも力を入れている。"
+    "description": "デスクトップパソコンやノートパソコン向けのGPUであるGeForceシリーズ、プロフェッショナル向けでワークステーションに搭載されるQuadroやNVSシリーズで有名だが、スーパーコンピュータ向けの演算専用プロセッサであるTesla（テスラ）や、携帯電話やスマートフォン・タブレット端末向けのSoC（システム・オン・チップ）であるTegra（テグラ）の開発販売も手掛ける。また近年は、自動運転技術の開発にも力を入れている。",
+    "description_en": "Famous for the GeForce series of GPUs for desktop and laptop computers, and the Quadro and NVS series for professionals installed in workstations, but also develops and sells Tesla, a dedicated processor for calculations for supercomputers, and Tegra, a SoC (System on a Chip) for mobile phones, smartphones, and tablets. In recent years, it has also been focusing on the development of autonomous driving technology."
   },
   {
     "date": "1998",
@@ -822,7 +914,8 @@
     "type": "IT,アメリカ,平成",
     "img": "vmware.svg",
     "nationality": "United-States-of-America",
-    "description": "現代の業務用ITシステム環境では、サーバーやクライアント、ネットワーク、クラウド環境等の仮想化によりシステムを効率的に運用することが一般的となってきているが、その仮想環境を構築する際のデファクトスタンダードとして用いられるのがVMware製品群である。IT基盤製品が中心であるため、システム利用者が直接VMware製品を目にするケースはそれほど多くはないものの、日本においてもほぼ全ての企業で採用されている。"
+    "description": "現代の業務用ITシステム環境では、サーバーやクライアント、ネットワーク、クラウド環境等の仮想化によりシステムを効率的に運用することが一般的となってきているが、その仮想環境を構築する際のデファクトスタンダードとして用いられるのがVMware製品群である。IT基盤製品が中心であるため、システム利用者が直接VMware製品を目にするケースはそれほど多くはないものの、日本においてもほぼ全ての企業で採用されている。",
+    "description_en": "In modern business IT system environments, it has become common to operate systems efficiently by virtualizing servers, clients, networks, cloud environments, etc., and the VMware product group is used as the de facto standard when building such virtual environments. Since they are mainly IT infrastructure products, it is not so common for system users to see VMware products directly, but they are adopted by almost all companies in Japan as well."
   },
   {
     "date": "2009-03",
@@ -830,7 +923,8 @@
     "type": "IT,アメリカ,平成",
     "img": "uber.png",
     "nationality": "United-States-of-America",
-    "description": "Uberは2009年3月にトラビス・カラニックとギャレット・キャンプにより設立。2015年の予約売上は108億4000万ドル（約1兆3000億円）と推定されている。特徴としては、一般的なタクシーの配車に加え、一般人が自分の空き時間と自家用車を使って他人を運ぶ仕組みを構築している点で、顧客が運転手を評価すると同時に、運転手も顧客を評価する「相互評価」を実施している。"
+    "description": "Uberは2009年3月にトラビス・カラニックとギャレット・キャンプにより設立。2015年の予約売上は108億4000万ドル（約1兆3000億円）と推定されている。特徴としては、一般的なタクシーの配車に加え、一般人が自分の空き時間と自家用車を使って他人を運ぶ仕組みを構築している点で、顧客が運転手を評価すると同時に、運転手も顧客を評価する「相互評価」を実施している。",
+    "description_en": "Uber was founded in March 2009 by Travis Kalanick and Garrett Camp. Booking sales in 2015 are estimated at $10.84 billion (about 1.3 trillion yen). Features include building a mechanism where ordinary people transport others using their free time and private cars in addition to general taxi dispatch, and implementing \"mutual evaluation\" where customers evaluate drivers and drivers evaluate customers."
   },
   {
     "date": "2003-08",
@@ -838,7 +932,8 @@
     "type": "SNS,アメリカ,平成",
     "img": "myspace.svg",
     "nationality": "United-States-of-America",
-    "description": "現在見るようなソーシャル・ネットワーキング・サービスが作成される以前、MySpace.comというドメインは1998年にオンラインでのファイル蓄積・ファイル共有サービスを行う企業によって取られていた。このサービスは登録無料で、ユーザーは小さい容量のスペースを割り当てられ、新しいユーザーを紹介するごとに使える容量が増加するという仕組みだった。しかしサービスの遅さと収入の伸び悩みから、このサイトは閉鎖されユーザーの全情報を2001年に売却した。"
+    "description": "現在見るようなソーシャル・ネットワーキング・サービスが作成される以前、MySpace.comというドメインは1998年にオンラインでのファイル蓄積・ファイル共有サービスを行う企業によって取られていた。このサービスは登録無料で、ユーザーは小さい容量のスペースを割り当てられ、新しいユーザーを紹介するごとに使える容量が増加するという仕組みだった。しかしサービスの遅さと収入の伸び悩みから、このサイトは閉鎖されユーザーの全情報を2001年に売却した。",
+    "description_en": "Before social networking services as we see them today were created, the domain MySpace.com was taken by a company providing online file storage and file sharing services in 1998. This service was free to register, users were assigned a small amount of space, and the usable capacity increased for each new user introduced. However, due to slow service and sluggish revenue growth, this site was closed and all user information was sold in 2001."
   },
   {
     "date": "2002",
@@ -846,7 +941,8 @@
     "type": "SNS,カナダ,平成",
     "img": "friendster.png",
     "nationality": "Canada",
-    "description": "まだMyspace（2003年開始）、Facebook（2004年開始）が無く、他のソーシャル・ネットワーキング・サイトも広く使われる前の[14]2002年、Friendsterはカナダのコンピュータプログラマーであるジョナサン・エイブラムスが設立した[15]。Pets.com（1997年開始）のようなその他いくつかの小規模なソーシャル・ネットワーキング・サイトが先行していた中でFriendsterは会員数が100万人に達したサイトの一角になるまで成長した。"
+    "description": "まだMyspace（2003年開始）、Facebook（2004年開始）が無く、他のソーシャル・ネットワーキング・サイトも広く使われる前の[14]2002年、Friendsterはカナダのコンピュータプログラマーであるジョナサン・エイブラムスが設立した[15]。Pets.com（1997年開始）のようなその他いくつかの小規模なソーシャル・ネットワーキング・サイトが先行していた中でFriendsterは会員数が100万人に達したサイトの一角になるまで成長した。",
+    "description_en": "In 2002, before Myspace (started in 2003) and Facebook (started in 2004) existed and other social networking sites were widely used, Friendster was founded by Canadian computer programmer Jonathan Abrams. While several other small social networking sites such as Pets.com (started in 1997) preceded it, Friendster grew to become one of the sites with 1 million members."
   },
   {
     "date": "1997",
@@ -854,7 +950,8 @@
     "type": "SNS,アメリカ,平成",
     "img": "sixdegrees.jpg",
     "nationality": "United-States-of-America",
-    "description": "1997年〜2001年に運営されていたサイトです。サービス名である「Six degress」とは、自分の知り合いを6人たどれば、全世界中の人と連絡が取れるという「Six Degrees of Separations」（6次の隔たり）理論に由来しています。「6次の隔たり」はSNSにとっては重要な要素であり、日本SNSサイト「Gree」はこの「Six Degrees of Separations」から命名されています。"
+    "description": "1997年〜2001年に運営されていたサイトです。サービス名である「Six degress」とは、自分の知り合いを6人たどれば、全世界中の人と連絡が取れるという「Six Degrees of Separations」（6次の隔たり）理論に由来しています。「6次の隔たり」はSNSにとっては重要な要素であり、日本SNSサイト「Gree」はこの「Six Degrees of Separations」から命名されています。",
+    "description_en": "A site operated from 1997 to 2001. The service name \"Six Degrees\" is derived from the \"Six Degrees of Separation\" theory that if you trace 6 acquaintances, you can contact anyone in the world. \"Six degrees of separation\" is an important element for SNS, and the Japanese SNS site \"Gree\" is named after this \"Six Degrees of Separation\"."
   },
   {
     "date": "2004-02-21",
@@ -862,7 +959,8 @@
     "type": "SNS,日本,平成",
     "img": "gree.svg",
     "nationality": "Japan",
-    "description": "創業者の田中良和が個人的な趣味の一環として一人でGREEを開発し、サービスの提供を開始。その後、2004年12月に設立されたグリー株式会社によってGREEの本格的な運営が開始された。GREEは無料で登録でき、登録には携帯電話（au、docomo、SoftBankのいずれか）のメールアドレスが必要となる。現在はMobageとともに基本無料の携帯電話向けブラウザゲームを前面に押し出したSNSとして知られるが、当初はmixiのように交流機能を主軸としたPC向けのSNSだった。"
+    "description": "創業者の田中良和が個人的な趣味の一環として一人でGREEを開発し、サービスの提供を開始。その後、2004年12月に設立されたグリー株式会社によってGREEの本格的な運営が開始された。GREEは無料で登録でき、登録には携帯電話（au、docomo、SoftBankのいずれか）のメールアドレスが必要となる。現在はMobageとともに基本無料の携帯電話向けブラウザゲームを前面に押し出したSNSとして知られるが、当初はmixiのように交流機能を主軸としたPC向けのSNSだった。",
+    "description_en": "Founder Yoshikazu Tanaka developed GREE alone as part of his personal hobby and started providing the service. After that, GREE, Inc., established in December 2004, began full-scale operation of GREE. GREE can be registered for free, and an email address of a mobile phone (au, docomo, or SoftBank) is required for registration. Currently, along with Mobage, it is known for pushing basic free mobile browser games to the forefront, but initially it was a PC-oriented SNS with interaction functions as the main axis like mixi."
   },
   {
     "date": "2006-02-07",
@@ -870,7 +968,8 @@
     "type": "SNS,日本,平成",
     "img": "mobage.png",
     "nationality": "Japan",
-    "description": "携帯電話端末専用のためパソコン、PHS端末からのアクセスは一切出来なかったが、2008年7月2日以降、全会員を対象にパソコンやiPhone・W-ZERO3シリーズ等スマートフォンへの対応のためのPC版のクローズドβをリリースし[7][8]、7月24日からは全会員対象のオープンβに移行した。その後PC向けサービスは「Yahoo!モバゲー」、スマートフォン向けサービスは「Mobage for Smartphone」に移行している。携帯電話会社による公式サイトではなく、いわゆる勝手サイトである。"
+    "description": "携帯電話端末専用のためパソコン、PHS端末からのアクセスは一切出来なかったが、2008年7月2日以降、全会員を対象にパソコンやiPhone・W-ZERO3シリーズ等スマートフォンへの対応のためのPC版のクローズドβをリリースし[7][8]、7月24日からは全会員対象のオープンβに移行した。その後PC向けサービスは「Yahoo!モバゲー」、スマートフォン向けサービスは「Mobage for Smartphone」に移行している。携帯電話会社による公式サイトではなく、いわゆる勝手サイトである。",
+    "description_en": "Since it was dedicated to mobile phone terminals, access from PCs and PHS terminals was not possible at all, but after July 2, 2008, a closed beta of the PC version for support for PCs and smartphones such as iPhone and W-ZERO3 series was released for all members, and it shifted to open beta for all members from July 24. Since then, PC services have shifted to \"Yahoo! Mobage\" and smartphone services to \"Mobage for Smartphone\". It is not an official site by a mobile phone company, but a so-called unofficial site."
   },
   {
     "date": "1999-02",
@@ -878,7 +977,8 @@
     "type": "SNS,中国,平成",
     "img": "qq.svg",
     "nationality": "China",
-    "description": "中国本土において最も普及しているコミュニケーションツールであり、とくに若者の間で支持され、携帯やメールと同じ感覚で使用されている。一般家庭だけでなく、ネットカフェ、勤務先、学校などの公衆用のパソコンにもよくインストールされている。"
+    "description": "中国本土において最も普及しているコミュニケーションツールであり、とくに若者の間で支持され、携帯やメールと同じ感覚で使用されている。一般家庭だけでなく、ネットカフェ、勤務先、学校などの公衆用のパソコンにもよくインストールされている。",
+    "description_en": "It is the most popular communication tool in mainland China, especially supported by young people, and is used with the same feeling as mobile phones and email. It is often installed not only in ordinary households but also in public computers such as internet cafes, workplaces, and schools."
   },
   {
     "date": "2003-04",
@@ -886,7 +986,8 @@
     "type": "SNS,エストニア,平成",
     "img": "skype.svg",
     "nationality": "Estonia",
-    "description": "ニコラス・センストロムとヤヌス・フリスにより、グローバル P2P テレフォニー カンパニー（世界規模のP2P電話事業者）としてSkype社設立。4月、skype.com と skype.net がレジストラに登録された。"
+    "description": "ニコラス・センストロムとヤヌス・フリスにより、グローバル P2P テレフォニー カンパニー（世界規模のP2P電話事業者）としてSkype社設立。4月、skype.com と skype.net がレジストラに登録された。",
+    "description_en": "Skype company established by Niklas Zennström and Janus Friis as a Global P2P Telephony Company. In April, skype.com and skype.net were registered with the registrar."
   },
   {
     "date": "2004-09-15",
@@ -894,7 +995,8 @@
     "type": "SNS,日本,平成",
     "img": "ameba.svg",
     "nationality": "Japan",
-    "description": "サイバーエージェントは2004年にアメーバブログをスタートし、その後も各種ネットサービスを数々送り出してきた。その中で、スマートフォンの普及に伴いサービスをスマートフォン向きのものへシフトしていくにあたり、これらのサービスを包括したプラットフォームとして「Ameba」を位置づけた。"
+    "description": "サイバーエージェントは2004年にアメーバブログをスタートし、その後も各種ネットサービスを数々送り出してきた。その中で、スマートフォンの普及に伴いサービスをスマートフォン向きのものへシフトしていくにあたり、これらのサービスを包括したプラットフォームとして「Ameba」を位置づけた。",
+    "description_en": "CyberAgent started Ameba Blog in 2004, and since then has sent out numerous various net services. Among them, in shifting services to those suitable for smartphones with the spread of smartphones, \"Ameba\" was positioned as a platform encompassing these services."
   },
   {
     "date": "2004-03-03",
@@ -902,7 +1004,8 @@
     "type": "SNS,日本,平成",
     "img": "mixi.png",
     "nationality": "Japan",
-    "description": "サービス名の由来は、公式サイトの説明[2]によると、「mix（交流する）」と「i（人）」を組み合わせた造語で、利用者同士の交流が深まることを願って名づけられたものである。当初mixiは、既に入会している登録ユーザーから招待を受けないと利用登録ができないという、完全招待制を採用していた。この方式は、ユーザーそれぞれの素性が明らかになり、健全で安心感のある居心地の良いコミュニティを維持するという目的で採用されている。 なお、招待した側とされた側は自動的にマイミクシィ（友人登録）となり、登録後3ヶ月間は外すことが出来ない。"
+    "description": "サービス名の由来は、公式サイトの説明[2]によると、「mix（交流する）」と「i（人）」を組み合わせた造語で、利用者同士の交流が深まることを願って名づけられたものである。当初mixiは、既に入会している登録ユーザーから招待を受けないと利用登録ができないという、完全招待制を採用していた。この方式は、ユーザーそれぞれの素性が明らかになり、健全で安心感のある居心地の良いコミュニティを維持するという目的で採用されている。 なお、招待した側とされた側は自動的にマイミクシィ（友人登録）となり、登録後3ヶ月間は外すことが出来ない。",
+    "description_en": "According to the official website explanation, the origin of the service name is a coined word combining \"mix\" (to interact) and \"i\" (person), named with the hope that exchanges between users will deepen. Initially, mixi adopted a complete invitation system where user registration was not possible unless an invitation was received from a registered user who was already a member. This method was adopted for the purpose of clarifying the identity of each user and maintaining a healthy, secure, and comfortable community. The inviter and the invited automatically become my mixi (friend registration) and cannot be removed for 3 months after registration."
   },
   {
     "date": "2011-01-21",
@@ -910,7 +1013,8 @@
     "type": "SNS,中国,平成",
     "img": "wechat.png",
     "nationality": "China",
-    "description": "テンセントが以前より提供していた、インスタントメッセンジャーテンセントQQの発展型として、メッセンジャー機能とソーシャル・ネットワーキング・サービス機能の融合が特徴と評される。金盾の影響を受けない。世界版であるWeChatでは、Facebookアカウントでの登録が可能である。テンセントは、豊富な資金力を背景にWeChatの海外展開を進めているとされ、世界的各地に遍在する中国人ユーザーからの紹介も、普及の一助になっていると言われる。"
+    "description": "テンセントが以前より提供していた、インスタントメッセンジャーテンセントQQの発展型として、メッセンジャー機能とソーシャル・ネットワーキング・サービス機能の融合が特徴と評される。金盾の影響を受けない。世界版であるWeChatでは、Facebookアカウントでの登録が可能である。テンセントは、豊富な資金力を背景にWeChatの海外展開を進めているとされ、世界的各地に遍在する中国人ユーザーからの紹介も、普及の一助になっていると言われる。",
+    "description_en": "As an evolved form of Tencent QQ, an instant messenger previously provided by Tencent, it is evaluated as characterized by the fusion of messenger functions and social networking service functions. Not affected by the Golden Shield. In WeChat, the global version, registration with a Facebook account is possible. Tencent is said to be proceeding with overseas expansion of WeChat backed by abundant funds, and introductions from Chinese users ubiquitous around the world are also said to be helping its spread."
   },
   {
     "date": "2009-08-14",
@@ -918,7 +1022,8 @@
     "type": "SNS,中国,平成",
     "img": "weibo.png",
     "nationality": "China",
-    "description": "2007年から、twitterに代表される、マイクロブログサービスが国際的に流行していたが、中国は金盾による通信限制のため、独自にマイクロブログサービスを開発し、最初の新浪微博のテストバージョンを2009年8月14日に公開した。"
+    "description": "2007年から、twitterに代表される、マイクロブログサービスが国際的に流行していたが、中国は金盾による通信限制のため、独自にマイクロブログサービスを開発し、最初の新浪微博のテストバージョンを2009年8月14日に公開した。",
+    "description_en": "Since 2007, microblog services represented by twitter have been popular internationally, but China developed its own microblog service due to communication restrictions by the Golden Shield, and released the first test version of Sina Weibo on August 14, 2009."
   },
   {
     "date": "2011-06-28",
@@ -926,7 +1031,8 @@
     "type": "SNS,アメリカ,平成",
     "img": "googleplus.svg",
     "nationality": "China",
-    "description": "2011年6月、プロジェクトに1年間を費やした末にサービスが開始された。Googleでは新サービスの船出を記念して、プロジェクトに携わった数百人の従業員に水兵帽を配った。2018年12月10日には米グーグル社がGoogle+ APIに個人情報が漏洩する可能性があるバグが存在していたことを発表し、Google+の個人向けサービスを2019年4月に4ヶ月前倒しして終了すると発表した。同社は個人情報を不正に取得された形跡はないとしている。"
+    "description": "2011年6月、プロジェクトに1年間を費やした末にサービスが開始された。Googleでは新サービスの船出を記念して、プロジェクトに携わった数百人の従業員に水兵帽を配った。2018年12月10日には米グーグル社がGoogle+ APIに個人情報が漏洩する可能性があるバグが存在していたことを発表し、Google+の個人向けサービスを2019年4月に4ヶ月前倒しして終了すると発表した。同社は個人情報を不正に取得された形跡はないとしている。",
+    "description_en": "Service started in June 2011 after spending a year on the project. Google distributed sailor hats to hundreds of employees involved in the project to commemorate the launch of the new service. On December 10, 2018, Google announced that there was a bug in the Google+ API that could leak personal information, and announced that the consumer service of Google+ would be terminated in April 2019, four months ahead of schedule. The company stated that there was no evidence that personal information was acquired illegally."
   },
   {
     "date": "1990",
@@ -934,7 +1040,8 @@
     "type": "search engine,カナダ,昭和",
     "img": "archie.jpg",
     "nationality": "Canada",
-    "description": "史上初のインターネット検索エンジンと呼べるものである。1990年にモントリオールのマギル大学の学生が最初の実装を開発した。 初期のarchieは単純にFTPサーバに接続してファイルの一覧を取得し（サーバに負荷をかけないよう、月に一度程度）、UNIXのgrepコマンドで検索していた。 後に、より効率のよいフロントエンド・バックエンドが開発され、archieは単なるローカルのツールにとどまらず、インターネット上のいくつものサイトで提供される人気の高いサービスとなった。 "
+    "description": "史上初のインターネット検索エンジンと呼べるものである。1990年にモントリオールのマギル大学の学生が最初の実装を開発した。 初期のarchieは単純にFTPサーバに接続してファイルの一覧を取得し（サーバに負荷をかけないよう、月に一度程度）、UNIXのgrepコマンドで検索していた。 後に、より効率のよいフロントエンド・バックエンドが開発され、archieは単なるローカルのツールにとどまらず、インターネット上のいくつものサイトで提供される人気の高いサービスとなった。 ",
+    "description_en": "It can be called the first Internet search engine in history. In 1990, a student at McGill University in Montreal developed the first implementation. Early archie simply connected to an FTP server to get a list of files (about once a month so as not to overload the server) and searched with the UNIX grep command. Later, more efficient front-ends and back-ends were developed, and archie became a popular service provided on many sites on the Internet, not just a mere local tool."
   },
   {
     "date": "1994",
@@ -942,7 +1049,8 @@
     "type": "search engine,アメリカ,平成",
     "img": "excite.png",
     "nationality": "United-States-of-America",
-    "description": "1994年にJoe Krausら6人のスタンフォード大学出身の学生らによって、Exciteの前身であるアーキテクスト・ソフトウェアが設立された。ここで自動ハイパーテキスト・リンキング、サブジェクト・グルーピング、自動アブストラクティングなどの機能を備えた検索抽出ツール（エキサイトサーチ）が開発され、エキサイトサービスとしてサービスを開始した。"
+    "description": "1994年にJoe Krausら6人のスタンフォード大学出身の学生らによって、Exciteの前身であるアーキテクスト・ソフトウェアが設立された。ここで自動ハイパーテキスト・リンキング、サブジェクト・グルーピング、自動アブストラクティングなどの機能を備えた検索抽出ツール（エキサイトサーチ）が開発され、エキサイトサービスとしてサービスを開始した。",
+    "description_en": "In 1994, Architext Software, the predecessor of Excite, was established by six students from Stanford University including Joe Kraus. Here, a search extraction tool (Excite Search) equipped with functions such as automatic hypertext linking, subject grouping, and automatic abstracting was developed, and service was started as Excite Service."
   },
   {
     "date": "2005-03-15",
@@ -950,7 +1058,8 @@
     "type": "video,フランス,平成",
     "img": "dailymotion.svg",
     "nationality": "France",
-    "description": "利用登録者数100万人以上、ユニーク数は750万以上というヨーロッパで最も人気が高い動画共有サイトである。日々、9000以上の新しい動画がアップロードされ、1日当たり約1600万以上のページビューがあるという。Dailymotion は他の動画・写真投稿サイト同様、ユーザが画像につけるタグによって動画の検索ができる。登録したユーザーがアップロード可能な動画は、2GB以内で長さは60分まで、最大解像度は3840x2160（4KウルトラHD）である。"
+    "description": "利用登録者数100万人以上、ユニーク数は750万以上というヨーロッパで最も人気が高い動画共有サイトである。日々、9000以上の新しい動画がアップロードされ、1日当たり約1600万以上のページビューがあるという。Dailymotion は他の動画・写真投稿サイト同様、ユーザが画像につけるタグによって動画の検索ができる。登録したユーザーがアップロード可能な動画は、2GB以内で長さは60分まで、最大解像度は3840x2160（4KウルトラHD）である。",
+    "description_en": "It is the most popular video sharing site in Europe with over 1 million registered users and over 7.5 million unique users. Over 9,000 new videos are uploaded daily, and there are about 16 million page views per day. Dailymotion allows users to search for videos by tags attached to images, like other video and photo posting sites. Videos that registered users can upload are within 2GB, up to 60 minutes in length, and maximum resolution is 3840x2160 (4K Ultra HD)."
   },
   {
     "date": "2004-11",
@@ -958,7 +1067,8 @@
     "type": "video,アメリカ,平成",
     "img": "vimeo.svg",
     "nationality": "United-States-of-America",
-    "description": "2010年3月現在で、Vimeo には300万以上のメンバーがおり、1日に平均16,000本以上の新たな映像がアップロードされている。そのうちおよそ1割がHDであった[6]。2017年9月26日にVimeoは、ライブ動画配信プラットフォームを導入するために既存のライブ動画配信サービスのLivestreamを買収した。この買収によりLivestreamは、「Vimeo・Livestream」として組み込まれ、Vimeoは、新サービス「Vimeo Live」を開始した。"
+    "description": "2010年3月現在で、Vimeo には300万以上のメンバーがおり、1日に平均16,000本以上の新たな映像がアップロードされている。そのうちおよそ1割がHDであった[6]。2017年9月26日にVimeoは、ライブ動画配信プラットフォームを導入するために既存のライブ動画配信サービスのLivestreamを買収した。この買収によりLivestreamは、「Vimeo・Livestream」として組み込まれ、Vimeoは、新サービス「Vimeo Live」を開始した。",
+    "description_en": "As of March 2010, Vimeo had over 3 million members and an average of over 16,000 new videos uploaded per day. About 10% of them were HD. On September 26, 2017, Vimeo announced the acquisition of existing live video distribution service Livestream to introduce a live video distribution platform. With this acquisition, Livestream was incorporated as \"Vimeo Livestream\" and Vimeo launched a new service \"Vimeo Live\"."
   },
   {
     "date": "2007",
@@ -966,7 +1076,8 @@
     "type": "porn,アメリカ,平成",
     "img": "redtube.png",
     "nationality": "United-States-of-America",
-    "description": "RedTube（レッドチューブ）は、アメリカのアダルト動画共有サービス。Pornhub、YouPornと共にMindGeekが所有している。"
+    "description": "RedTube（レッドチューブ）は、アメリカのアダルト動画共有サービス。Pornhub、YouPornと共にMindGeekが所有している。",
+    "description_en": "RedTube is an American adult video sharing service. Owned by MindGeek along with Pornhub and YouPorn."
   },
   {
     "date": "2004-10",
@@ -974,7 +1085,8 @@
     "type": "video,韓国,平成",
     "img": "pandoratv.png",
     "nationality": "Korea,-South",
-    "description": "かつては著作権問題を抱えていたが、韓国国内では著作権問題は解決している。また青瓦台や警察庁など行政機関が、パンドラTVを使った定例記者会見映像や広報映像の配信を行ったり、ケーブルテレビ局との提携による番組配信、著作権者の許可を得て『NARUTO -ナルト-』・『攻殻機動隊』・『BLEACH』などのアニメ作品を放映しているが、明らかに無許可の日本アニメやドラマなどもアップロードされ続けている。日本国内では24時間モニタリングされ、違法または問題となるコンテンツがアップされたら削除するようにしている。"
+    "description": "かつては著作権問題を抱えていたが、韓国国内では著作権問題は解決している。また青瓦台や警察庁など行政機関が、パンドラTVを使った定例記者会見映像や広報映像の配信を行ったり、ケーブルテレビ局との提携による番組配信、著作権者の許可を得て『NARUTO -ナルト-』・『攻殻機動隊』・『BLEACH』などのアニメ作品を放映しているが、明らかに無許可の日本アニメやドラマなどもアップロードされ続けている。日本国内では24時間モニタリングされ、違法または問題となるコンテンツがアップされたら削除するようにしている。",
+    "description_en": "It used to have copyright issues, but copyright issues have been resolved within South Korea. Also, administrative agencies such as the Blue House and the National Police Agency distribute regular press conference videos and promotional videos using Pandora TV, distribute programs through partnerships with cable TV stations, and broadcast anime works such as \"NARUTO\", \"Ghost in the Shell\", and \"BLEACH\" with the permission of copyright holders, but obviously unauthorized Japanese anime and dramas continue to be uploaded. In Japan, it is monitored 24 hours a day, and illegal or problematic content is deleted if uploaded."
   },
   {
     "date": "2016-09",
@@ -982,7 +1094,8 @@
     "type": "SNS,中国,平成",
     "img": "tiktok.png",
     "nationality": "China",
-    "description": "2017年11月9日、TikTokの親会社であるByteDanceは、米国の10代をターゲットにした人気のソーシャルメディアプラットフォームを所有するmusical.lyを買収。買収額は最大で10億ドルを費やした。2018年現在、150か国以上・75の言語で利用が可能。TikTokは、Appleが発表した「2018年ベストアプリ」のランキングによると、LINEやGoogleMapなどの代表的なアプリを抑え、日本の無料アプリの年間人気ナンバーワンとなった。"
+    "description": "2017年11月9日、TikTokの親会社であるByteDanceは、米国の10代をターゲットにした人気のソーシャルメディアプラットフォームを所有するmusical.lyを買収。買収額は最大で10億ドルを費やした。2018年現在、150か国以上・75の言語で利用が可能。TikTokは、Appleが発表した「2018年ベストアプリ」のランキングによると、LINEやGoogleMapなどの代表的なアプリを抑え、日本の無料アプリの年間人気ナンバーワンとなった。",
+    "description_en": "On November 9, 2017, ByteDance, the parent company of TikTok, acquired musical.ly, which owns a popular social media platform targeting teens in the US. The acquisition cost was up to $1 billion. As of 2018, it is available in over 150 countries and 75 languages. According to the \"Best Apps of 2018\" ranking announced by Apple, TikTok became the number one free app of the year in Japan, beating representative apps such as LINE and Google Maps."
   },
   {
     "date": "2008-05-19",
@@ -990,7 +1103,8 @@
     "type": "video,アメリカ,平成",
     "img": "liveleak.png",
     "nationality": "United-States-of-America",
-    "description": "現実に発生した戦争・テロ・犯罪・事故・災害などの出来事をありのままに配信することを標榜するニュースサイトの一種だが、その中には一般的に残虐で猟奇的であると受け止められる記事が多く含まれていることでも知られている。なお、英語圏においてグロテスクな写真（グロ画像）や悪趣味なビデオ（グロ動画）が含まれるショックサイトと呼ばれる分野に属しており、同種サイトの Ogrish.com は2006年10月から LiveLeak へ統合されてリダイレクトされるようになった。"
+    "description": "現実に発生した戦争・テロ・犯罪・事故・災害などの出来事をありのままに配信することを標榜するニュースサイトの一種だが、その中には一般的に残虐で猟奇的であると受け止められる記事が多く含まれていることでも知られている。なお、英語圏においてグロテスクな写真（グロ画像）や悪趣味なビデオ（グロ動画）が含まれるショックサイトと呼ばれる分野に属しており、同種サイトの Ogrish.com は2006年10月から LiveLeak へ統合されてリダイレクトされるようになった。",
+    "description_en": "It is a type of news site that claims to distribute events such as wars, terrorism, crimes, accidents, and disasters that actually occurred as they are, but it is also known that many articles that are generally perceived as cruel and bizarre are included. In English-speaking countries, it belongs to a field called shock sites that contain grotesque photos (grotesque images) and bad taste videos (grotesque videos), and Ogrish.com, a similar site, was integrated into LiveLeak and redirected from October 2006."
   },
   {
     "date": "2014-06-06",
