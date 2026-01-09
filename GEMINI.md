@@ -5,7 +5,7 @@ This project, internally named `dateofbirth`, is a Vue.js application that visua
 
 ## 2. Directory Structure
 ```
-/Users/takumaniwa/thebirthofwebsites/
+/thebirthofwebsites/
 ├── public/              # Static assets (images, flags - served directly)
 │   ├── flag/            # Country flag images
 │   └── ...              # Logo images
