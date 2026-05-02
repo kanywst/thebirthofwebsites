@@ -25,13 +25,13 @@
   "devDependencies": {
     "@biomejs/biome": "^2.4.14",
     "@lobehub/icons-static-svg": "^1.88.0",
-    "@types/node": "^22.10.0",
+    "@types/node": "^25.6.0",
     "@vitejs/plugin-vue": "^6.0.6",
     "@vue/test-utils": "^2.4.10",
     "@vue/tsconfig": "^0.9.1",
     "happy-dom": "^20.9.0",
     "simple-icons": "^16.18.0",
-    "typescript": "^5.9.0",
+    "typescript": "^6.0.3",
     "vite": "^8.0.10",
     "vitest": "^4.1.5",
     "vue-tsc": "^3.2.7"
