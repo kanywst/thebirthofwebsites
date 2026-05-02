@@ -2,7 +2,12 @@
   {
     "date": "1998-09-04",
     "name": "Google",
-    "type": "internet,search engine,アメリカ,平成",
+    "type": [
+      "internet",
+      "search engine",
+      "アメリカ",
+      "平成"
+    ],
     "img": "google.png",
     "nationality": "United-States-of-America",
     "description": "スタンフォード大学の博士課程に在籍していたラリー・ペイジとセルゲイ・ブリンによって創業された。「世界中の情報を整理し、世界中の人々がアクセスできて使えるようにすること」を経営理念に掲げている。非公式なスローガンには「邪悪になるな (Don't be evil.)」がある。移転後の本社はGoogleplexという愛称で呼ばれている。",
@@ -11,7 +16,11 @@
   {
     "date": "1976-04-01",
     "name": "Apple",
-    "type": "hardware,アメリカ,昭和",
+    "type": [
+      "hardware",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "apple.png",
     "nationality": "United-States-of-America",
     "description": "ハードウェア製品として、スマートフォンのiPhone、タブレット型情報端末のiPad、パーソナルコンピュータのMac、携帯音楽プレーヤーのiPod、ウェアラブルコンピュータのApple Watch、ソフトウェア製品としては、オペレーティングシステムのmacOS、iOS、watchOS、tvOS、クラウドサービスとしてはiCloudなどの開発・販売を行っている。",
@@ -20,7 +29,11 @@
   {
     "date": "1981-06-25",
     "name": "Microsoft",
-    "type": "IT,アメリカ,昭和",
+    "type": [
+      "IT",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "microsoft.png",
     "nationality": "United-States-of-America",
     "description": "当初は世に登場して間もない8ビットのマイクロプロセッサを搭載したコンピュータ「アルテア」上で動く、BASICインタプリタの開発・販売で成功を収めた。MS-DOSを改良するほかに各機種用のBASICやC言語・FORTRANなどのコンパイラの開発を手がける一方、Altoの見学などMS-DOS上で動作するGUIシステム「Windows」の開発に注力した。",
@@ -29,7 +42,11 @@
   {
     "date": "1994-07-05",
     "name": "Amazon",
-    "type": "EC,アメリカ,平成",
+    "type": [
+      "EC",
+      "アメリカ",
+      "平成"
+    ],
     "img": "amazoncom.png",
     "nationality": "United-States-of-America",
     "description": "Amazonの設立は、創業者ジェフ・ベゾスが「後悔の最小化フレームワーク」と呼ぶ、ベゾス自身の考え方の結果としてもたらされた。つまり、ベゾスが起業を決意したのは当時のインターネット・バブルにすぐに加わらないことで未来に生じる後悔を避けるためだった。シアトルでベゾスは、のちにAmazon.comとなる企業のための事業計画に取り組んだ。",
@@ -38,7 +55,12 @@
   {
     "date": "1995-03-01",
     "name": "Yahoo",
-    "type": "portal site,search engine,アメリカ,平成",
+    "type": [
+      "portal site",
+      "search engine",
+      "アメリカ",
+      "平成"
+    ],
     "img": "yahoo.png",
     "nationality": "United-States-of-America",
     "description": "1994年、スタンフォード大学のジェリー・ヤンとデビッド・ファイロによってウェブディレクトリとして始められた。しかし、2000年代後半にはグーグルやフェイスブックとの競争に敗れて、検索エンジンやポータルサイトなどの主力事業の競争力が低下することになった。",
@@ -47,7 +69,11 @@
   {
     "date": "1995-08-24",
     "name": "MSN",
-    "type": "portal site,アメリカ,平成",
+    "type": [
+      "portal site",
+      "アメリカ",
+      "平成"
+    ],
     "img": "msn.png",
     "nationality": "United-States-of-America",
     "description": "1995年、Windows 95の発売と共にサービスを開始した。当時の名称は The Microsoft Network であった。当初はいわゆるパソコン通信サービスとして提供されていたが、インターネットの急成長にともにインターネットの接続サービスに転換、ポータルサイトのサービスも開始した。",
@@ -56,7 +82,11 @@
   {
     "date": "1995-09-03",
     "name": "ebay",
-    "type": "EC,アメリカ,平成",
+    "type": [
+      "EC",
+      "アメリカ",
+      "平成"
+    ],
     "img": "ebay.png",
     "nationality": "United-States-of-America",
     "description": "eBayの前身となったAuctionWebは、1995年9月3日カリフォルニア州で、当時、コンピュータープログラマーだったイラン系アメリカ人のピエール・オミダイアによって趣味の一環の一つのウェブサイトとして構築された。オークションウェブで最初に売れたものは、「壊れたレーザーポインター」で、落札価格は14.83ドルであった。",
@@ -65,7 +95,12 @@
   {
     "date": "1996-01-31",
     "name": "Yahoo!Japan",
-    "type": "portal site,search engine,日本,平成",
+    "type": [
+      "portal site",
+      "search engine",
+      "日本",
+      "平成"
+    ],
     "img": "yahoojapan.png",
     "nationality": "Japan",
     "description": "2009年、1日平均19億のアクセス数を誇り、日本における検索エンジンとしては過半数のシェアを獲得しており、各検索プロバイダを抑えて業界トップの座にある。ただし2010年9月以降からYahoo!独自の検索エンジンからGoogleの検索エンジンへ徐々に移行されており、移行が完了すればGoogleの検索シェアが98%近くとなり、日本で一番使われていることになる。",
@@ -74,7 +109,11 @@
   {
     "date": "1997-02-07",
     "name": "Rakuten",
-    "type": "EC,日本,平成",
+    "type": [
+      "EC",
+      "日本",
+      "平成"
+    ],
     "img": "rakuten.png",
     "nationality": "Japan",
     "description": "創業時はECモールを中心とした事業体であったが、現在はオンライン株式販売やクレジットカード等の金利・手数料収入がグループ営業利益の過半数を占めるオンライン金融事業者でもある。また、各種のオンライン事業を手掛ける。",
@@ -83,7 +122,11 @@
   {
     "date": "1997-08-29",
     "name": "NETFLIX",
-    "type": "video,アメリカ,平成",
+    "type": [
+      "video",
+      "アメリカ",
+      "平成"
+    ],
     "img": "netflix.png",
     "nationality": "United-States-of-America",
     "description": "オンラインでのDVDレンタルサービスを事業とすることを思いついたのは『アポロ13』のビデオテープをレンタルした際、返却期限に間に合わず40ドルの延滞料金を支払った経験がきっかけとなっている。1998年、Netflixはわずか30名の従業員と共に、ウェブサイトによるDVDレンタルサービスを世界で初めて開始。",
@@ -92,7 +135,11 @@
   {
     "date": "1999-07-20",
     "name": "FC2",
-    "type": "IT,アメリカ,平成",
+    "type": [
+      "IT",
+      "アメリカ",
+      "平成"
+    ],
     "img": "fc2.png",
     "nationality": "United-States-of-America",
     "description": "FC2は米国法人であり、2006年の雑誌『Yahoo! Internet Guide』5月号に掲載された代表の高橋理洋のインタビュー記事によると、2006年時点では兄の高橋理洋と弟の高橋人文の2人が中心になって運営がされており、正社員は17名で、ほかに非常勤スタッフが約30名いるとしている",
@@ -101,7 +148,11 @@
   {
     "date": "2001-01-15",
     "name": "Wikipedia",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "wikipedia.png",
     "nationality": "United-States-of-America",
     "description": "ウェブサイトには広告は一切掲載せず、資金的には個人や団体などからの寄付により運営している。記事の自由な複製・改変を認める「GFDL」というコピーレフトなライセンスとインターネットを通じ自由に文章の編集が行えるウィキシステムを採用し、誰もが新規記事の執筆や既存の記事の編集を行えるようになっている。",
@@ -110,7 +161,11 @@
   {
     "date": "2002-12-18",
     "name": "Linkedin",
-    "type": "SNS,アメリカ,平成",
+    "type": [
+      "SNS",
+      "アメリカ",
+      "平成"
+    ],
     "img": "linkedin.png",
     "nationality": "United-States-of-America",
     "description": "LinkedInでは、利用者がビジネス専用のプロフィールを作成し、サービスの中でビジネスのつながりを広げ、ビジネスパートナーや人材を探したり、営業先の顧客や商談先、専門家などとコンタクトを取ることができる。2016年12月、米国マイクロソフト社によって262億ドルで買収される。",
@@ -119,7 +174,11 @@
   {
     "date": "2003-05-27",
     "name": "WordPress",
-    "type": "blog,アメリカ,平成",
+    "type": [
+      "blog",
+      "アメリカ",
+      "平成"
+    ],
     "img": "wordpress.png",
     "nationality": "United-States-of-America",
     "description": "オープンソースのブログソフトウェアである。PHPで開発されており、データベース管理システムとしてMySQLを利用している。単なるブログではなくCMSとしてもしばしば利用されている。b2/cafelogというソフトウェアのフォークとして開発、2003年5月27日に初版がリリースされた。",
@@ -128,7 +187,11 @@
   {
     "date": "2004-02-04",
     "name": "Facebook",
-    "type": "SNS,アメリカ,平成",
+    "type": [
+      "SNS",
+      "アメリカ",
+      "平成"
+    ],
     "img": "facebook.png",
     "nationality": "United-States-of-America",
     "description": "ハーバード大学の学生だったマーク・ザッカーバーグはハッキングをして得た女子学生の身分証明写真をインターネット上に公開し、公開した女子学生の顔を比べて勝ち抜き投票させる「フェイスマッシュ」というゲームを考案した。これは大学内で問題になり、ザッカーバーグはハーバード大学の半年間の保護観察処分を受けるに至った。",
@@ -137,7 +200,11 @@
   {
     "date": "2005-02-14",
     "name": "YouTube",
-    "type": "video sharing,アメリカ,平成",
+    "type": [
+      "video sharing",
+      "アメリカ",
+      "平成"
+    ],
     "img": "youtube.png",
     "nationality": "United-States-of-America",
     "description": "YouTubeの発想のきっかけとなったのは、2004年にジャネット・ジャクソンが起こした第38回スーパーボウルでのハプニングと、同じく2004年に発生したスマトラ島沖地震だった。カリムはインターネット上でそれらの事件の動画を探したが、どちらの出来事の動画も簡単には見つけることができず、その体験が動画共有サイトのアイディアを生んだという。",
@@ -146,7 +213,11 @@
   {
     "date": "2006-12-12",
     "name": "Niconico",
-    "type": "video sharing,日本,平成",
+    "type": [
+      "video sharing",
+      "日本",
+      "平成"
+    ],
     "img": "niconico.png",
     "nationality": "Japan",
     "description": "「ニコニコ動画」という名称は、サービスの立ち上げ以前には動画サービスは著作権問題による訴訟が発生していたことから「カッコいい言葉ではなく、なるべく怒られにくい言いにくい気が抜ける名前」にすることが考えられ、当時ドワンゴ会長の川上量生の「明らかにブラックぽいのに、表面だけ取り繕ったようなふざけた名前があるじゃん。ニコニコローンとかニコニコ金融とか。だからニコニコ動画とかさ」という言葉に、西村博之が「それおもしろい! 絶対それ!」と同意したことから決定したという。",
@@ -155,7 +226,11 @@
   {
     "date": "2007-02-19",
     "name": "tumblr",
-    "type": "SNS,アメリカ,平成",
+    "type": [
+      "SNS",
+      "アメリカ",
+      "平成"
+    ],
     "img": "tumblr.png",
     "nationality": "United-States-of-America",
     "description": "メディアミックスブログサービス。ブログとミニブログ、そしてソーシャルブックマークを統合したマイクロブログサービスである。アメリカのDavidville, Inc.により2007年3月1日にサービスが開始された。2011年3月から日本語ベータ版の提供が開始されている。2013年、Yahoo!に買収される。",
@@ -164,7 +239,11 @@
   {
     "date": "2007-05-25",
     "name": "Pornhub",
-    "type": "porn,カナダ,平成",
+    "type": [
+      "porn",
+      "カナダ",
+      "平成"
+    ],
     "img": "pornhub.png",
     "nationality": "Canada",
     "description": "カナダのポルノ動画サイト。YouTubeに次ぐ世界第2位の動画共有サイトである。カニエ・ウェストはPornhubの視聴者であることを公言しており、クリエイティブ・ディレクターとして式典にも参加している。",
@@ -173,7 +252,11 @@
   {
     "date": "2009-02-23",
     "name": "imgur",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "imgur.png",
     "nationality": "United-States-of-America",
     "description": "オハイオ大学で計算機科学を学んでいたアラン・シャーフが「搾取しない画像管理サービス」と称するサービスは同種のサービスにありがちだったユーザビリティの問題を受けて開発した。当初はRedditのオンラインコミュニティ向けに設計されていたが、サービス開始からたちまち閲覧数が1日1,000以上に上り、5ヶ月間で100万に達した。ウェブサイトはRedditやDiggといったソーシャルニュースに取り上げられて人気が大幅に上昇することになった。",
@@ -182,7 +265,11 @@
   {
     "date": "2010-10-06",
     "name": "Instagram",
-    "type": "SNS,アメリカ,平成",
+    "type": [
+      "SNS",
+      "アメリカ",
+      "平成"
+    ],
     "img": "instagram.png",
     "nationality": "United-States-of-America",
     "description": "ケヴィン・シストロムとマイク・クリーガーが、ベースライン・ヴェンチャーズとアンドリーセン・ホロウィッツの2社から財政的支援を受けて、インスタグラムのグループは始動した。Burbn という名の当初のプロジェクトには数々の機能があった。クリーガーが参加したあとでチームは、モバイルにフォーカスしたものを選択した。そこで残ったものがインスタグラムである。",
@@ -191,7 +278,11 @@
   {
     "date": "2006-08",
     "name": "YouPorn",
-    "type": "porn,アメリカ,平成",
+    "type": [
+      "porn",
+      "アメリカ",
+      "平成"
+    ],
     "img": "youporn.png",
     "nationality": "United-States-of-America",
     "description": "アダルト動画共有サイト初期において、2006年7月に公開し人気を博したPornoTubeは、2006年8月に公開したYouPornに利用者数が劣っていた。2007年10月の時点でYouPornはアレクサ・インターネット調べによると世界で35番目の人気であり、同年に毎月1500万の新規利用者を計上した。総合的に動画を扱うYouPornの主な競合サイトとしては上記サイトやXtube、RedTubeやPornhub等があり、その他多くのアダルト動画共有サイトは特定の性癖別に特化した。",
@@ -200,7 +291,11 @@
   {
     "date": "2006-03-21",
     "name": "Twitter",
-    "type": "SNS,アメリカ,平成",
+    "type": [
+      "SNS",
+      "アメリカ",
+      "平成"
+    ],
     "img": "twitter.png",
     "nationality": "United-States-of-America",
     "description": "創成期にブログ・サービス「ブロガー」を開発し、その後Googleに売却したエヴァン・ウィリアムズやブロガーの開発チームの一員であったビズ・ストーン、ジャック・ドーシーらが中心となって開発した。ドーシーによると、Twitterの基本構想は自身が2000年6月に思いついた。LiveJournalよりもリアルタイム性が高く、どこにいても自分の状況を知人に知らせたり、逆に知人の状況を把握できたりするサービスの可能性に気づいたという。ドーシーはそのアイデアを5年間あたため続け、その後、オデオ社のプロジェクトとして立ち上げた。",
@@ -209,7 +304,11 @@
   {
     "date": "1982",
     "name": "Adobe",
-    "type": "IT,アメリカ,昭和",
+    "type": [
+      "IT",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "adobe.png",
     "nationality": "United-States-of-America",
     "description": "パロアルト研究所にいたチャールズ・ゲシキとジョン・ワーノックは、ページ記述言語・インタープレスの研究開発を行っていたが、ゼロックスはこれをビジネスには利用しようとしなかったため、独立を決意し、1982年にAdobe Systemsを設立した。社名は、当時ロスアルトスにあったワーノックの自宅の裏を流れる22.9 kmの小川Adobe Creekの名前からとったとされている。",
@@ -218,7 +317,11 @@
   {
     "date": "1996",
     "name": "Alexa Internet",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "alexa.png",
     "nationality": "United-States-of-America",
     "description": "ウェブサイトの利用状況に関するデータを集め、ウェブサイトがどれだけの人に見られているかを調査している。alexa.comでは、ドメインへの1日当たりのアクセス数や訪問者数、直帰率、世界および国内におけるランキングなどを確認できる。なお、Alexa InternetはWayback Machineのデータ提供元でもある",
@@ -227,7 +330,11 @@
   {
     "date": "1996",
     "name": "Ask.com",
-    "type": "portal site,アメリカ,平成",
+    "type": [
+      "portal site",
+      "アメリカ",
+      "平成"
+    ],
     "img": "ask.png",
     "nationality": "United-States-of-America",
     "description": "AskJeevesは1996年にギャレット・グルーナーややデイビッド・ウォーヘンらが設立した会社である。Mr.Jeevesとは、イギリスのユーモア小説「比類なきジーヴス」に登場する有能な執事のことである。AskJeevesの検索エンジンはグレイ・シェヴスキーが設計した質問応答システムを基に開発され、キーワード検索だけでなく質問文による自然語検索にも対応していた。AskJeevesは人気を得て、1999年にNASDAQに上場した。",
@@ -236,7 +343,11 @@
   {
     "date": "1997",
     "name": "Xvideos",
-    "type": "porn,アメリカ,平成",
+    "type": [
+      "porn",
+      "アメリカ",
+      "平成"
+    ],
     "img": "xvideos.gif",
     "nationality": "United-States-of-America",
     "description": "世界最大級のアダルト動画共有サイト。2024年現在も月間数十億のアクセスがあり、膨大なユーザー投稿コンテンツをホストしている。",
@@ -245,7 +356,11 @@
   {
     "date": "1998-11-12",
     "name": "Tencent",
-    "type": "portal site,中国,平成",
+    "type": [
+      "portal site",
+      "中国",
+      "平成"
+    ],
     "img": "tencent.png",
     "nationality": "China",
     "description": "売上高では世界最大のゲーム会社であり、WeChatなどのアプリで中国のデジタルライフを支配している。2024年現在、時価総額で世界トップクラスのテクノロジー企業の一つ。",
@@ -254,7 +369,11 @@
   {
     "date": "1999-03",
     "name": "Alibaba",
-    "type": "EC,中国,平成",
+    "type": [
+      "EC",
+      "中国",
+      "平成"
+    ],
     "img": "alibaba.png",
     "nationality": "China",
     "description": "国際的な知名度を高めたのは、2005年に行ったYahoo!中国の買収案件を成立させたことから。この際、アメリカYahoo!は阿里巴巴集団の株を入手し、2007年現在筆頭株主となっている。",
@@ -263,7 +382,11 @@
   {
     "date": "1998-12",
     "name": "PayPal",
-    "type": "EC,アメリカ,平成",
+    "type": [
+      "EC",
+      "アメリカ",
+      "平成"
+    ],
     "img": "paypal.png",
     "nationality": "United-States-of-America",
     "description": "1998年12月にPayPal Inc.の社名で設立。2002年にeBayに買収されその子会社となっていたが、2015年7月にPayPal Holdings Inc.の社名で独立した。なお、日本を含む同社の国際部門は、シンガポールを拠点としている。",
@@ -272,7 +395,11 @@
   {
     "date": "1999-06",
     "name": "NAVER",
-    "type": "search engine,韓国,平成",
+    "type": [
+      "search engine",
+      "韓国",
+      "平成"
+    ],
     "img": "naver.png",
     "nationality": "Korea,-South",
     "description": "韓国国内では、検索回数で77%(2010年現在)でGoogleやYahooといった他社を圧倒するシェアを有する検索サイトである（Yahoo!Koreaは、2012年12月31日でサービス終了）。また、2007年12月の調査では世界でも2.4%のシェアを有して5位に位置していた。",
@@ -281,7 +408,11 @@
   {
     "date": "1999-08-23",
     "name": "Blogger",
-    "type": "blog,アメリカ,平成",
+    "type": [
+      "blog",
+      "アメリカ",
+      "平成"
+    ],
     "img": "blogger.png",
     "nationality": "United-States-of-America",
     "description": "2003年2月、Pyra Labsは非公開のうちに買収された。買収により、それまで有料だったプレミアムサービスが無料化された。約1年後、Pyra Labsの共同設立者であるエヴァン・ウィリアムズはGoogleを去り、Twitterを設立している。",
@@ -290,7 +421,11 @@
   {
     "date": "2000-01-01",
     "name": "Baidu",
-    "type": "seaarch engine,中国,平成",
+    "type": [
+      "seaarch engine",
+      "中国",
+      "平成"
+    ],
     "img": "baidu.png",
     "nationality": "China",
     "description": "創業者の李彦宏は、北京大学を卒業後にニューヨーク州立大学へ留学。Dow Jones & Company, Inc.やInfoseekなどを経て、中国帰国後の2000年1月にBaidu, Inc.を創業している。その後急成長を遂げ、2005年5月NASDAQに上場した。",
@@ -299,7 +434,11 @@
   {
     "date": "2000-05",
     "name": "Stack Overflow",
-    "type": "knowledge market,アメリカ,平成",
+    "type": [
+      "knowledge market",
+      "アメリカ",
+      "平成"
+    ],
     "img": "stackoverflow.png",
     "nationality": "United-States-of-America",
     "description": "Stack Overflowという名称は、2008年4月、Atwoodが運営するブログの読者による投票で決定された。本サービスはコンピュータ・プログラミングの広範囲なトピックを扱っていることが特色である。ウェブサイトは質問と回答を行う機能、またそれらに対する評価付け、wikiやdiggに似た文書の編集機能を備えており、ユーザの活発な参加を促している。",
@@ -308,7 +447,11 @@
   {
     "date": "2004-02",
     "name": "flickr",
-    "type": "SNS,カナダ,平成",
+    "type": [
+      "SNS",
+      "カナダ",
+      "平成"
+    ],
     "img": "flickr.png",
     "nationality": "Canada",
     "description": "Flickrはカナダ・バンクーバーに本拠を持つルディコープ社が2004年2月に開設した。Flickrのサービスは、ルディコープ社が開発していた大規模多人数参加型オンラインゲーム『Game Neverending』のために開発されたツールを流用した物である。しかし、Flickrの方がより企業化できそうな事業であることが分かったため、『Game Neverending』の開発は棚上げになってしまった。",
@@ -317,7 +460,11 @@
   {
     "date": "2005",
     "name": "Reddit",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "reddit.png",
     "nationality": "United-States-of-America",
     "description": "redditはサンフランシスコに拠点を置く。スティーブ・ホフマンとアレクシス・オハニアが2005年に創設し、Y Combinatorから初期の出資を得た。創設チームにはクリストファー・スローが2006年1月に加わり、Infogamiの合併の結果、アーロン・スワーツが同年2月に加わった。合併企業はnot a bugとしても知られている。",
@@ -326,7 +473,11 @@
   {
     "date": "2007",
     "name": "Dropbox",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "dropbox.png",
     "nationality": "United-States-of-America",
     "description": "Dropboxは、マサチューセッツ工科大学の学生（当時）であるドリュー・ヒューストンとアラシュ・フェルドーシにより2007年に設立されたサービスで、2008年3月にクローズドベータを開始し、同年9月に正式サービスをスタート。2011年4月には日本語に正式対応した",
@@ -335,7 +486,11 @@
   {
     "date": "2008-04",
     "name": "GitHub",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "github.png",
     "nationality": "United-States-of-America",
     "description": "Ruby on RailsおよびErlangで記述されており、アメリカのカリフォルニア州サンフランシスコ市に拠点を置くGitHub社によって保守されている。2018年6月4日にマイクロソフトがGitHub社を75億USドル（約8200億円）で買収すると発表。",
@@ -344,7 +499,11 @@
   {
     "date": "2009",
     "name": "WhatsApp",
-    "type": "SNS,アメリカ,平成",
+    "type": [
+      "SNS",
+      "アメリカ",
+      "平成"
+    ],
     "img": "whatsapp.png",
     "nationality": "United-States-of-America",
     "description": "WhatsApp Incは、カリフォルニア州サンタクララで2009年に元Yahoo!社員のブライアン・アクトンとジャン・コウムが設立した。社名のWhatsAppは、「What's Up（どうしてる？）」と「App（アプリ）」を掛けた駄洒落に由来する。",
@@ -353,7 +512,11 @@
   {
     "date": "2009-06-01",
     "name": "Bing",
-    "type": "search engine,アメリカ,平成",
+    "type": [
+      "search engine",
+      "アメリカ",
+      "平成"
+    ],
     "img": "bing.png",
     "nationality": "United-States-of-America",
     "description": "Microsoftが提供する検索エンジンである。「意思決定エンジン」というコンセプトを掲げ、他の検索エンジンとの差別化を図っている。",
@@ -362,7 +525,11 @@
   {
     "date": "2010-03",
     "name": "Pinterest",
-    "type": "SNS,アメリカ,平成",
+    "type": [
+      "SNS",
+      "アメリカ",
+      "平成"
+    ],
     "img": "pinterest.png",
     "nationality": "United-States-of-America",
     "description": "Pinterestは黎明期のソーシャルと同様、デビッド・ガルブレイスによる2005年のプロジェクトであるWistsのような画像ブックマークシステムであり、ユーザーは自身の異なる掲示板で画像の保存やカテゴライズを行うことが可能である。",
@@ -371,7 +538,11 @@
   {
     "date": "2011-09",
     "name": "SnapChat",
-    "type": "SNS,アメリカ,平成",
+    "type": [
+      "SNS",
+      "アメリカ",
+      "平成"
+    ],
     "img": "snapchat.png",
     "nationality": "United-States-of-America",
     "description": "Snapchatはスタンフォード大学におけるスピーゲルの授業の1つで行われたプロジェクト内で主要な設計者だったスピーゲルとボビー・マーフィー、レギー・ブラウンによって始められた。スピーゲルが2011年4月、自身の最後のプロジェクトのための製品デザイン授業でアイデアを思いついたが、クラスメートは非永久的な写真のアイデアに難色を示した。同年9月にスピーゲルの父親のリビングルームでPicabooとして立ち上げられた。",
@@ -380,7 +551,11 @@
   {
     "date": "2011-06",
     "name": "Twitch",
-    "type": "video,アメリカ,平成",
+    "type": [
+      "video",
+      "アメリカ",
+      "平成"
+    ],
     "img": "twitch.png",
     "nationality": "United-States-of-America",
     "description": "2011年6月に総合的なライブストリーミング配信サイト Justin.tv から、コンピュータゲームに特化したプラットフォームとして派生して立ち上げられた。運営はサイト名と同名の組織が行っていたが、2014年8月、AmazonがTwitchを買収したことを正式に発表。",
@@ -389,7 +564,11 @@
   {
     "date": "2001-11-12",
     "name": "LiveJasmin",
-    "type": "porn,ハンガリー,平成",
+    "type": [
+      "porn",
+      "ハンガリー",
+      "平成"
+    ],
     "img": "livejasmin.jpeg",
     "nationality": "Hungary",
     "description": "ハンガリーの起業家GyörgyGattyánによって2001年に国内のハンガリーの聴衆のためにjasmin.huとして設立された。",
@@ -398,7 +577,11 @@
   {
     "date": "2007",
     "name": "xHamster",
-    "type": "porn,アメリカ,平成",
+    "type": [
+      "porn",
+      "アメリカ",
+      "平成"
+    ],
     "img": "xhamster.png",
     "nationality": "United-States-of-America",
     "description": "2007年初め、匿名の個人グループが新しいアダルトビデオサービスを作成することを決定し、xHamsterは2007年4月2日に開始されました。xHamsterは2015年にXVideos、Pornhubに続いて3番目に人気のあるポルノインターネットウェブサイトとなりました。 ",
@@ -407,7 +590,11 @@
   {
     "date": "1998",
     "name": "Internet Movie Database",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "imdb.png",
     "nationality": "United-States-of-America",
     "description": "IMDbでは映画上映スケジュールや予告編をチェックできるほか、写真ギャラリーやテレビ番組の放送予定、DVDの発売情報、 人気チャートの閲覧や、映画情報を共有することができ、150万本以上の映画とテレビ番組にアクセスできる。",
@@ -416,7 +603,11 @@
   {
     "date": "1938-03-01",
     "name": "Samsung",
-    "type": "hardware,韓国,昭和",
+    "type": [
+      "hardware",
+      "韓国",
+      "昭和"
+    ],
     "img": "samsung.png",
     "nationality": "Korea,-South",
     "description": "李秉喆が早稲田大学中退後、馬山にて友人2人と1万円ずつ出資し設立した協同精米所の事業が失敗、その後1938年3月1日に大邱で設立した三星商会（現:サムスン物産）が今日のサムスングループの始まりである。",
@@ -425,7 +616,11 @@
   {
     "date": "2008",
     "name": "Bitly",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "bitly.png",
     "nationality": "United-States-of-America",
     "description": "サービス開始は2009年。創業から間もなくTwitterが同社の短縮URLサービスを採用したことで、短縮URL業界でも大手といえるシェアを獲得した。なお、Twitterは後に自社独自の短縮URLに移行した。",
@@ -434,7 +629,11 @@
   {
     "date": "1962-11-15",
     "name": "AccuWeather",
-    "type": "weather,アメリカ,昭和",
+    "type": [
+      "weather",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "accuweather.png",
     "nationality": "United-States-of-America",
     "description": "世界中のマスコミ、企業、政府など計175,559顧客と取引しており、広告付き無料天候配信アプリを提供している。Alexa及びSimilarWeb調査によると2015年7月までにアメリカ内で人気129位のサイトである。",
@@ -443,7 +642,11 @@
   {
     "date": "2010-06-21",
     "name": "Quora",
-    "type": "knowledge market,アメリカ,平成",
+    "type": [
+      "knowledge market",
+      "アメリカ",
+      "平成"
+    ],
     "img": "quora.png",
     "nationality": "United-States-of-America",
     "description": "かつてFacebookに勤務していたアダム・ディアンジェロとチャーリー・シーヴァーとの共同で設立された。ディアンジェロは、2010年1月にQuoraを立ち上げるためにFacebookを退職している。ディアンジェロは、自身とシーヴァーがQuoraを立ち上げた理由は「インターネット上ではどの分野だろうと疑問や答えが大量のサイトにあると考えたけど、未だに誰かが主導して本当に良かったものを構築する人が居なかったから」と述べている。2010年12月においてQuoraのユーザー数が急増を見せた。",
@@ -452,7 +655,11 @@
   {
     "date": "1998-09",
     "name": "Amazon Japan",
-    "type": "EC,日本,平成",
+    "type": [
+      "EC",
+      "日本",
+      "平成"
+    ],
     "img": "amazoncojp.png",
     "nationality": "Japan",
     "description": "2000年11月1日にAmazon.comの日本語版サイト「Amazon.co.jp」としてオープンして以来、事実上1社が独占的に提供する電子商取引としては、日本最大を誇るECサイトである。",
@@ -461,7 +668,11 @@
   {
     "date": "1988-05-23",
     "name": "NTT DATA",
-    "type": "IT,日本,昭和",
+    "type": [
+      "IT",
+      "日本",
+      "昭和"
+    ],
     "img": "NTT.svg",
     "nationality": "Japan",
     "description": "1966年（昭和41年）、日本電信電話公社はかねてよりの念願だったデータ通信サービス実施の認可を受け、翌1967年（昭和42年）に「電信・電話に次ぐ第三の通信、データ通信」を掲げデータ通信本部を設立した。主に官公庁・金融向けシステムの開発を行い、日本の基盤となるシステムを構築してきた。",
@@ -470,7 +681,11 @@
   {
     "date": "1984-06-01",
     "name": "KDDI",
-    "type": "IT,日本,昭和",
+    "type": [
+      "IT",
+      "日本",
+      "昭和"
+    ],
     "img": "KDDI.svg",
     "nationality": "Japan",
     "description": "2000年に第二電電 (DDI)、ケイディディ (KDD)、日本移動通信 (IDO) が合併し、「株式会社ディーディーアイ」（通称及びロゴマークはKDDI）として発足する。2001年4月に合併時より通称として使用していた「KDDI」を社名とし「ケイディーディーアイ株式会社」に社名変更し、2002年11月に現社名の「KDDI株式会社」に変更。",
@@ -479,7 +694,11 @@
   {
     "date": "1986-12-09",
     "name": "Softbank",
-    "type": "IT,日本,昭和",
+    "type": [
+      "IT",
+      "日本",
+      "昭和"
+    ],
     "img": "softbank.svg",
     "nationality": "Japan",
     "description": "2006年3月、BBモバイルによる携帯電話事業参入を計画していたソフトバンクグループが、英ボーダフォンからボーダフォン株式会社の株式と資産・負債を日本企業として最高額となる1兆7500億円で買収する旨を発表。同年10月1日をもってボーダフォン日本法人はソフトバンクモバイル、日本テレコムはソフトバンクテレコムへ社名を変更した。",
@@ -488,7 +707,11 @@
   {
     "date": "1911",
     "name": "IBM",
-    "type": "hardware,アメリカ,明治",
+    "type": [
+      "hardware",
+      "アメリカ",
+      "明治"
+    ],
     "img": "IBM.svg",
     "nationality": "United-States-of-America",
     "description": "IBMは研究機関としても有名でもある、2016年時点では米国特許取得数が23年連続の1位となった。IBMによる発明は、現金自動預け払い機（ATM）、ハードディスク、フロッピーディスク、磁気ストライプカード、リレーショナルデータベース（RDB）、SQLプログラミング言語、バーコード、DRAMなどがある。",
@@ -497,7 +720,11 @@
   {
     "date": "1977-06-16",
     "name": "Oracle",
-    "type": "IT,アメリカ,昭和",
+    "type": [
+      "IT",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "oracle.svg",
     "nationality": "United-States-of-America",
     "description": "2007年にはマイクロソフトとIBMに次ぐ世界で第3位のソフトウェア会社となり 、更に2008年にはBEAシステムズの買収によりIBMを抜いて世界で第2位となった。オラクルは、主力のデータベース管理ソフトウェア製品であるOracle Databaseに加え、データベース開発ツール、ERP、CRM、SCMなどの製品を持っている。",
@@ -506,7 +733,11 @@
   {
     "date": "1939-01-01",
     "name": "HP",
-    "type": "IT,アメリカ,昭和",
+    "type": [
+      "IT",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "hp.svg",
     "nationality": "United-States-of-America",
     "description": "PC事業についてはデルに次ぐ2番手の地位に甘んじていたが、2006年第3四半期におけるPCの販売台数が世界1位となった。以降、2013年第3四半期以降にLenovoに抜かれるまでPCの世界シェア第1位の企業であった。2014年、2015年は2位を維持したが、2016年に再び1位に返り咲いている。",
@@ -515,7 +746,11 @@
   {
     "date": "1906",
     "name": "Xerox",
-    "type": "hardware,アメリカ,明治",
+    "type": [
+      "hardware",
+      "アメリカ",
+      "明治"
+    ],
     "img": "xerox.svg",
     "nationality": "United-States-of-America",
     "description": "ゼロックスはエリザベス2世とチャールズの御用達でもある。1906年、ロチェスターでThe Haloid Photographic Companyとして創業。当初は印画紙や関連機器を製造していた。1958年に「Haloid Xerox」、1961年に「Xerox」と改称した。Xeroxの名称は同じロチェスターで創業されたKodakに倣って、最初と最後が同じ文字で力強い響きの単語として考案されたもので、特別な意味は持たない。",
@@ -524,7 +759,11 @@
   {
     "date": "1984-12",
     "name": "Cisco",
-    "type": "IT,アメリカ,昭和",
+    "type": [
+      "IT",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "cisco.svg",
     "nationality": "United-States-of-America",
     "description": "世界最大のコンピュータネットワーク機器開発会社。シスコは 1984 年 12 月、Leonard Bosack（スタンフォード大学コンピュータ サイエンス学科のコンピュータ管理担当）、およびその妻 Sandy Lerner（スタンフォード大学経営大学院のコンピュータ管理担当）によって設立された。",
@@ -533,7 +772,11 @@
   {
     "date": "1999-03-08",
     "name": "Salesforce",
-    "type": "IT,アメリカ,平成",
+    "type": [
+      "IT",
+      "アメリカ",
+      "平成"
+    ],
     "img": "salesforce.svg",
     "nationality": "United-States-of-America",
     "description": "セールスフォース・ドットコムは、前オラクル幹部のマーク・ベニオフにより、業務アプリケーションをウェブサービスとして提供するというコンセプトのもと、1999年3月8日に設立された。SaaSタイプの本格的なクラウドコンピューティング・サービスの提供企業としては最初とされる。",
@@ -542,7 +785,11 @@
   {
     "date": "1968-07-18",
     "name": "Intel",
-    "type": "hardware,アメリカ,昭和",
+    "type": [
+      "hardware",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "intel.svg",
     "nationality": "United-States-of-America",
     "description": "1968年7月18日 - フェアチャイルドセミコンダクターを退職したロバート・ノイス、ゴードン・ムーア（ムーアの法則で知られる）らが設立した。3番目の社員としてアンドルー・グローヴが入社した。当初は半導体メモリを主力製品とし、磁気コアメモリの置き換え・駆逐を野望とした。",
@@ -551,7 +798,11 @@
   {
     "date": "1935-06-20",
     "name": "Fujitsu",
-    "type": "hardware,日本,昭和",
+    "type": [
+      "hardware",
+      "日本",
+      "昭和"
+    ],
     "img": "fujitsu.svg",
     "nationality": "Japan",
     "description": "理化学研究所と共同開発したスーパーコンピュータ「京」が、計算速度のランキングで世界首位を獲得（2011年時点）。また「非接触型 手のひら静脈認証」などの世界初の商品を開発し、第17回 顧客満足度調査（調査：日経コンピュータ）のハードウェア分野において8部門中6部門で首位を獲得するなど高い商品力を誇る。",
@@ -560,7 +811,11 @@
   {
     "date": "1899-07-17",
     "name": "NEC",
-    "type": "hardware,日本,明治",
+    "type": [
+      "hardware",
+      "日本",
+      "明治"
+    ],
     "img": "nec.svg",
     "nationality": "Japan",
     "description": "岩垂邦彦と米国ウェスタン・エレクトリック（現在のアルカテル・ルーセントの前身）が54%を出資する日米合弁会社であった。ウェスタン・エレクトリックは当初沖電機工場（現・沖電気工業）を合弁先に交渉したが、沖電機工場の沖牙太郎との間で条件がまとまらず成立しなかった。このため、ウェスタン・エレクトリックの代理人として交渉に当たっていた岩垂が自ら会社を興して提携相手となった。これは日本最初の合弁企業の事例とされる。",
@@ -569,7 +824,11 @@
   {
     "date": "1920-02-01",
     "name": "HITACHI",
-    "type": "hardware,日本,大正",
+    "type": [
+      "hardware",
+      "日本",
+      "大正"
+    ],
     "img": "hitachi.svg",
     "nationality": "Japan",
     "description": "全世界に製造・販売拠点を広げる多国籍企業でもあり、売上の50%は日本国外からもたらされる。米国誌『フォーブス』が毎年発表する世界企業ベスト2000では、コングロマリット（複合企業体）に分類されている（他にコングロマリットとしてはゼネラル・エレクトリック、シーメンス等が分類されている）。近年は、コングロマリットディスカウントに対応するため、事業の集中と選択を徹底して子会社を減らす傾向にある。",
@@ -578,7 +837,11 @@
   {
     "date": "2011-06-23",
     "name": "LINE",
-    "type": "SNS,日本,平成",
+    "type": [
+      "SNS",
+      "日本",
+      "平成"
+    ],
     "img": "line.svg",
     "nationality": "Japan",
     "description": "当時「NHN 日本」であったLINE株式会社会長でNHN創業者の李海珍が、家族や親戚と連絡を取ろうとする東日本大震災被災者の映像を見て発案し、自ら日本に滞在して開発プロジェクトを推進した。規模が拡大した本社の代わりに小さな組織の速やかな意思決定力と集中力を活用するため、韓国本社ではなく、日本に滞在した李海珍推進のもとNHN 日本が開発を担当した。開発陣の国籍は日本、韓国、米国、中国などで、各自が母国語へ翻訳したアプリケーションを手掛けている。",
@@ -587,7 +850,11 @@
   {
     "date": "1984",
     "name": "DELL",
-    "type": "hardware,アメリカ,昭和",
+    "type": [
+      "hardware",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "dell.svg",
     "nationality": "United-States-of-America",
     "description": "テキサス大学の学生であったマイケル・デルが、1984年にパソコン保守を行う会社として創業した。IBM PC互換機は部品レベルで規格化され誰もがパソコンを製造できたことを利用し、パソコンの製造販売に乗り出す。現在、世界で販売台数はトップクラスである。",
@@ -596,7 +863,11 @@
   {
     "date": "1984",
     "name": "Lenovo",
-    "type": "hardware,中国,昭和",
+    "type": [
+      "hardware",
+      "中国",
+      "昭和"
+    ],
     "img": "lenovo.svg",
     "nationality": "China",
     "description": "聯想集団は長らく「Legend」（レジェンド）というブランドを使用していたが、2003年、国外事業の強化に伴い、商標紛争が生じるおそれのあるこの名称を廃し「Lenovo」（レノボ）を採用した。2004年4月1日に英語社名も「Legend」から「Lenovo」に改めた。「Lenovo」は混成語で「le」は「Legend」から、「novo」は「新しい」を表すラテン語の「nova」から採られた。",
@@ -605,7 +876,11 @@
   {
     "date": "1972",
     "name": "SAP",
-    "type": "IT,ドイツ,昭和",
+    "type": [
+      "IT",
+      "ドイツ",
+      "昭和"
+    ],
     "img": "sap.svg",
     "nationality": "Germany",
     "description": "第二次世界大戦後に創業したドイツ企業の中で最も成功した企業の一つであり、時価総額は2016年現在で約965億ユーロ（約11兆円）でドイツ最大の企業である。2017年時点、世界190ヶ国で345,000社の顧客を抱え、経済誌フォーブズが毎年選出するフォーブズ・グローバル2000にランクインする企業のうち87%がSAPの顧客である。",
@@ -614,7 +889,11 @@
   {
     "date": "1989",
     "name": "Accenture",
-    "type": "IT,アイルランド,昭和",
+    "type": [
+      "IT",
+      "アイルランド",
+      "昭和"
+    ],
     "img": "accenture.svg",
     "nationality": "Ireland",
     "description": "アンダーセン・コンサルティングは社内公募で新社名を募集、最終的に“accent”と“future”（accent on future）の造語であるaccentureを選定した。社名変更は2001年1月1日に行われ、アンダーセン・コンサルティングの社名は20世紀と共に消滅した。",
@@ -623,7 +902,11 @@
   {
     "date": "1996",
     "name": "Booking.com",
-    "type": "services,オランダ,平成",
+    "type": [
+      "services",
+      "オランダ",
+      "平成"
+    ],
     "img": "bookingcom.png",
     "nationality": "Netherlands",
     "description": "オランダのトゥウェンテ大学で情報工学を専攻していたGeert-Jan Bruinsmaは、インターネットを使った起業を志望する大学生であったが、友人とのディナー中にオンラインホテル予約のアイデアを得て、大学卒業後の1996年11月に「Booking.nl」を設立した。1997年1月にウェブサイトを使ったサービスを開始（宿泊施設登録数は10軒）、設立後の約2年間はブルインズマ1人で全ての業務を行う個人企業であったが、設立時点で、写真を閲覧しながら、自身の言語で説明を読むことができ、簡単なステップでホテルを予約できるシステムの構築が考えられていた。",
@@ -632,7 +915,11 @@
   {
     "date": "1996-10",
     "name": "Expedia",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "expedia.svg",
     "nationality": "United-States-of-America",
     "description": "エクスペディア・グループは、アメリカ合衆国・ベルビューに本拠地を置くオンライン旅行会社であり、「エクスペディア」の運営のほか、多数のグループ企業を統括している。売上高はオンライン旅行会社として世界2位、取扱額は世界1位である。",
@@ -641,7 +928,11 @@
   {
     "date": "1991",
     "name": "Hotels.com",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "hotels.svg",
     "nationality": "United-States-of-America",
     "description": "ホテルズドットコムの前身である、Hotel Reservations Network, Inc（しばしばHRNと略された）は、1991年にBob DienerとDavid Litmanにより共同設立された。設立当初、HRNはもっぱら電話を通じた主要都市のホテル予約サービスを行っていたが、インターネットの普及していない当時、多くのホテルが仲介手数料の支払いを踏み倒したため、資金繰りに苦しんだ。1999年7月、経営が軌道に乗る中、HRNはIAC/InterActiveCorpの子会社となった。",
@@ -650,7 +941,11 @@
   {
     "date": "2008-11",
     "name": "GROUPON",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "groupon.svg",
     "nationality": "United-States-of-America",
     "description": "2008年10月にシカゴのピザ半額キャンペーンから始まった。シカゴの即興コメディシーンとの結びつきといわれている。2017年3月、シンガポールの現地法人グルーポン・シンガポールを東南アジアを拠点とするO2O企業のFiveに売却することを発表。",
@@ -659,7 +954,11 @@
   {
     "date": "2000-02-01",
     "name": "TripAdvisor",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "tripadvisor.svg",
     "nationality": "United-States-of-America",
     "description": "TripAdvisor, Inc.は、2000年2月1日、Stephen KauferやLangley Steinertを中心に設立された。ソフトウェア開発会社に勤務していたカウファーは、1998年の夏以降、旅行代理店の営業・宣伝によるバイアスの無い、旅行者の生の声を提供する企業を作れないかと考え、2000年に会社を設立、当初はブロガーのコメントの集約が中心であったが、2001年後半、旅行者自らが口コミを投稿できるプラットフォームの提供を開始した。",
@@ -668,7 +967,11 @@
   {
     "date": "2008-08",
     "name": "airbnb",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "airbnb.svg",
     "nationality": "United-States-of-America",
     "description": "ロードアイランド州の美術大学、RISDで出会った、Brian CheskyとJoe Gebbiaの2人は、卒業後の2007年10月、サンフランシスコに引っ越してすぐ、 アメリカのインダストリアルデザイナー協会が主催するインダストリアルデザイン会議の際にエアベッド＆ブレックファストの初期コンセプトを作り出した。元のサイトは、飽和した市場でホテルを予約することができない参加者に、短期的な宿と朝食と他に類をみないビジネスネットワーキングの機会を提供した。",
@@ -677,7 +980,11 @@
   {
     "date": "1993",
     "name": "Red Hat",
-    "type": "IT,アメリカ,平成",
+    "type": [
+      "IT",
+      "アメリカ",
+      "平成"
+    ],
     "img": "redhat.svg",
     "nationality": "United-States-of-America",
     "description": "Linuxの歴史の初期から、より一般的なユーザーが利用できるように、Linuxカーネル と GNUプロジェクト、BSD、X11等のソフトウエアを組み合わせて、ネットワークサーバ や ワークステーションとして使えるようにして来た。2001年にレッドハット系のCaldera、Conectiva、SuSE、Turbolinuxが集まって共同のGNU/Linuxの基本となる United Linux が公開されているが、現在事実上活動停止の状態にある。この背景には、SuSEがノベルに買収されたり、SCO Groupによる IBM 提訴などがあるとされる。「法的には存在しているが、明かりは消した」状態であると最近のニュースメディアでは報道された。",
@@ -686,7 +993,11 @@
   {
     "date": "1972",
     "name": " C programming language",
-    "type": "language,アメリカ,昭和",
+    "type": [
+      "language",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "C.svg",
     "nationality": "United-States-of-America",
     "description": "C言語は、AT&Tベル研究所のケン・トンプソンが開発したB言語の改良として誕生した。「UNIXを開発するためにC言語が作り出された」と言われることがあるが、「The Development of the C Language」によると、これは正しくなく、経緯は以下の通りである。C言語は、当初はあくまでもOS上で動くユーティリティを作成する目的で作り出されたものである。",
@@ -695,7 +1006,11 @@
   {
     "date": "1995",
     "name": "Java",
-    "type": "language,アメリカ,平成",
+    "type": [
+      "language",
+      "アメリカ",
+      "平成"
+    ],
     "img": "java.svg",
     "nationality": "United-States-of-America",
     "description": "Javaプラットフォームおよびプログラミング言語Javaは、1990年12月にサン・マイクロシステムズが1つの内部プロジェクトを立ち上げたことから始まった。この内部プロジェクトでは、C/C++の代替となるプログラミング言語を開発した。この言語は、プロジェクトで Greenオペレーティングシステム (Green OS) と共に、同OSの標準言語として開発された。この言語は、1992年頃プロジェクト内ではOakと呼ばれていたが、後にJavaの呼称に変更されることになる。呼称変更の理由は、Oakはすでに別の会社が商標として使っていたからである。",
@@ -704,7 +1019,11 @@
   {
     "date": "1991",
     "name": "Python",
-    "type": "language,アメリカ,平成",
+    "type": [
+      "language",
+      "アメリカ",
+      "平成"
+    ],
     "img": "python.svg",
     "nationality": "United-States-of-America",
     "description": "1991年にヴァンロッサムがPython 0.90のソースコードを公開した。この時点ですでにオブジェクト指向言語の特徴である継承、クラス、例外処理、メソッドやさらに抽象データ型である文字列、リストの概念を利用している。これはModula-3のモジュールを参考にしていた。",
@@ -713,7 +1032,11 @@
   {
     "date": "1987-12-18",
     "name": "Perl",
-    "type": "language,アメリカ,昭和",
+    "type": [
+      "language",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "perl.png",
     "nationality": "United-States-of-America",
     "description": "6台の VAX 機と6台の Sun 機のためのコンフィギュレーション管理制御システムのレポート作成ツールとして誕生した。1988年6月05日、ヘンリー・スペンサー作の美しい正規表現ライブラリを Perl 風にアレンジし、導入した。",
@@ -722,7 +1045,12 @@
   {
     "date": "1995-06-08",
     "name": "PHP",
-    "type": "language,カナダ,イスラエル,平成",
+    "type": [
+      "language",
+      "カナダ",
+      "イスラエル",
+      "平成"
+    ],
     "img": "php.svg",
     "nationality": "Canada",
     "description": "ラスマス・ラードフは自身のWebページで利用するため、1994年にCで書かれたCGI用バイナリ群を作成し、 Personal Home Page Tools と命名した。 このCGIソフトウェアは略して PHP Tools と呼ばれることが多かったようである。 その後、利用者からの機能要望が増えたため、オリジナルのPHP Toolsは大きく書き直され、データベースを利用することが出来るようになった。 単純なツール群から一種のフレームワークとしての機能を有するようになったのである。 ラードフは1995年6月8日にGPLの下でPHP Toolsを公開、オープンソースソフトウェアとして最初のリリースを行った。",
@@ -731,7 +1059,11 @@
   {
     "date": "1995",
     "name": "JavaScript",
-    "type": "language,アメリカ,平成",
+    "type": [
+      "language",
+      "アメリカ",
+      "平成"
+    ],
     "img": "javascript.svg",
     "nationality": "United-States-of-America",
     "description": "JavaScriptはネットスケープコミュニケーションズのブレンダン・アイクによって開発され、Netscape Navigator 2.0で実装された。開発当初はLiveScriptと呼ばれていたが、1995年にサン・マイクロシステムズ（現・オラクル）が開発したプログラミング言語Javaが当時大きな注目を浴びており、ネットスケープとサン・マイクロシステムズが業務提携していた事もあったため、JavaScriptという名前に変更された。",
@@ -740,7 +1072,11 @@
   {
     "date": "1993-02-24",
     "name": "Ruby",
-    "type": "language,日本,平成",
+    "type": [
+      "language",
+      "日本",
+      "平成"
+    ],
     "img": "ruby.png",
     "nationality": "Japan",
     "description": "Ruby は1993年2月24日に生まれ、1995年12月にfj上で発表された。名称の Ruby は、プログラミング言語 Perl が6月の誕生石である Pearl（真珠）と同じ発音をすることから、まつもとの同僚の誕生石（7月）のルビーを取って名付けられた。競合言語として Perl の他に Python があり、「Matz（まつもと） が Python に満足していれば Ruby は生まれなかったであろう」と公式のリファレンスの用語集で言及されている。",
@@ -749,7 +1085,11 @@
   {
     "date": "2007-03",
     "name": "Hulu",
-    "type": "video,アメリカ,平成",
+    "type": [
+      "video",
+      "アメリカ",
+      "平成"
+    ],
     "img": "hulu.svg",
     "nationality": "United-States-of-America",
     "description": "アメリカの動画配信サービスでは全体でYouTubeに次ぐ2位であり、上位10社の中で最も急成長している。Huluはテレビ局や映画会社が共同設立しており、YouTubeと比べて提供できるコンテンツが豊富にある。CEOのジェーソン・カイラーによれば、かつてオンライン・ショッピングサイトのアマゾンに10年余り勤務した後に、上級副社長の地位にあった。カイラーは「テレビ界の経験がゼロの人物」という条件でヘッドハンターが探してきた人材である。カイラーの起用はテレビがインターネットに移行したのではなく、元からインターネットだとして考えられる人物でなければ成功しない、という両社トップの判断によるものであ。",
@@ -758,7 +1098,11 @@
   {
     "date": "1981-10",
     "name": "Bloomberg",
-    "type": "IT,アメリカ,昭和",
+    "type": [
+      "IT",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "bloomberg.svg",
     "nationality": "United-States-of-America",
     "description": "ソロモン・ブラザーズの元幹部で、第108代ニューヨーク市長であるマイケル・ブルームバーグ（以下「マイケル」）が1981年10月に「イノヴェーティヴ・マーケット・システムズ (Innovative Market Systems) 」を設立、後に社名を「ブルームバーグ」と改称した。当初は債券取引の情報を専用端末に配信するサービスを提供していたが、その後、通信社をはじめ、テレビ、ラジオ、雑誌などメディア事業を展開。世界に185の拠点を持ち、社員数は約1万5500人。東京支局でも社員約600名を抱えて、事業を展開している。",
@@ -767,7 +1111,11 @@
   {
     "date": "1917-06",
     "name": "Panasonic",
-    "type": "hardwre,日本,大正",
+    "type": [
+      "hardwre",
+      "日本",
+      "大正"
+    ],
     "img": "panasonic.svg",
     "nationality": "Japan",
     "description": "松下幸之助が大阪府東成郡鶴橋町大字猪飼野（現・大阪市東成区玉津二丁目）の借家で電球用ソケットの製造販売を始める。当時は幸之助の妻・むめのと妻の弟である井植歳男（後の三洋電機の創業者）の3人で営業していた。1918年（大正7年）3月7日 - 大阪市北区西野田大開町（現・大阪市福島区大開二丁目）に移転。松下電気器具製作所を創立する。",
@@ -776,7 +1124,11 @@
   {
     "date": "1946-05-07",
     "name": "Sony",
-    "type": "hardware,日本,昭和",
+    "type": [
+      "hardware",
+      "日本",
+      "昭和"
+    ],
     "img": "sony.svg",
     "nationality": "Japan",
     "description": "1946年（昭和21年）、井深大と盛田昭夫により東京通信工業株式会社（略: 東通工）として創業。東通工の設立趣意書には「真面目ナル技術者ノ技能ヲ最高度ニ発揮セシムベキ　自由豁達ニシテ愉快ナル理想工場ノ建設」と記されている。創業当初は真空管電圧計の製造・販売を行っていた。",
@@ -785,7 +1137,11 @@
   {
     "date": "1904-06-25",
     "name": "TOSHIBA",
-    "type": "hardware,日本,明治",
+    "type": [
+      "hardware",
+      "日本",
+      "明治"
+    ],
     "img": "toshiba.svg",
     "nationality": "Japan",
     "description": "創業者の、初代田中久重（1799年 - 1881年）は、からくり人形「弓曳童子」や和時計「万年時計（万年自鳴鐘）」などを開発したことから、「からくり儀右衛門」として知られる。初代久重が東京・銀座に工場（諸器械製造所）を興し、弟子であり養子の田中大吉（後の2代目久重（1846年 - 1905年）が東京・芝浦に移転させた。この工場の技術者の中に、後の沖電気工業創業者・沖牙太郎や池貝創業者・池貝庄太郎、宮田工業創業者・宮田栄助らがいた。",
@@ -794,7 +1150,11 @@
   {
     "date": "1935-05-01",
     "name": "SHARP",
-    "type": "hardware,日本,昭和",
+    "type": [
+      "hardware",
+      "日本",
+      "昭和"
+    ],
     "img": "sharp.svg",
     "nationality": "Japan",
     "description": "1912年、早川徳次が東京で創業した。徳尾錠というベルトのバックルの発明が始まりである。1915年、金属製繰出鉛筆（早川式繰出鉛筆）を発明。販売開始後、商品名をエバー・レディ・シャープ・ペンシルに変えた。アメリカで爆発的にヒット。現在の社名はこれに由来する。1962年、日本の家電企業で初めて電子レンジを発売（当初は業務用）、1966年には世界初のターンテーブル方式の電子レンジを開発する。",
@@ -803,7 +1163,11 @@
   {
     "date": "1957",
     "name": "Fortran",
-    "type": "language,アメリカ,昭和",
+    "type": [
+      "language",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "fortran.jpeg",
     "nationality": "United-States-of-America",
     "description": "コンピューターにおいて広く使われた世界最初の高級言語である。1956年に最初のマニュアルが、1957年にIBM 704用の最初のコンパイラがリリースされた。名前は「formula translation」に由来する。FORTRANは科学技術計算に向いた手続き型プログラミング言語であり、その長い歴史の間に開発された非常に多くの数学関数やサブルーチンを数値解析ソフトウェアの形で持っている。また、並列計算の並列性を明示的に書くことができ最適化が行いやすく、そのため他の言語より高速である等の理由から、数値予報および気候モデル、構造力学における有限要素法、計算流体力学、計算物理学、計算機化学、計量経済学、動物と植物の品種改良などの大規模な計算を行う分野において、スーパーコンピュータで使われている。",
@@ -812,7 +1176,11 @@
   {
     "date": "1959",
     "name": "COBOL",
-    "type": "language,アメリカ,昭和",
+    "type": [
+      "language",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "cobol.jpg",
     "nationality": "United-States-of-America",
     "description": "非理系の事務員や官吏でもプログラミングできる言語として設計されたため、自然言語である英語に近い記述をめざしたコマンド語彙や構文が採用されている。特に金額計算など事務処理用に広く使われている。COBOLは自然言語に近い構文を持つため、そのソースコードは記述が冗長にはなるが、可読性が高い。本のように、部、節、段落、文という階層で記述される。人によっては関数や数式だらけの言語よりもハードルが低い。リフレクションができないなど、モダンなプログラミング言語に比べて論理制御機能は貧弱である。一方、文字列解析や文字列編集、帳票、画面編集などの事務処理機能は豊富である。",
@@ -821,7 +1189,11 @@
   {
     "date": "1958",
     "name": "LISP",
-    "type": "language,アメリカ,昭和",
+    "type": [
+      "language",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "lisp.png",
     "nationality": "United-States-of-America",
     "description": "1958年にはじめて設計されたLISPは、現在広範囲に使用されている高水準プログラミング言語の中でもFORTRANに次いで2番目に古い。ただし、FORTRANと同様に、現在のLISPは初期のものから非常に大きく変化している。れまでに多数の方言が存在してきたが、今日最も広く知られるLISP方言は、Common LispとSchemeである。",
@@ -830,7 +1202,11 @@
   {
     "date": "1972",
     "name": "Prolog",
-    "type": "language,フランス,昭和",
+    "type": [
+      "language",
+      "フランス",
+      "昭和"
+    ],
     "img": "swi-prolog.png",
     "nationality": "France",
     "description": "1972年ごろにフランスのアラン・カルメラウアーとフィリップ・ルーセルによって考案された。成立の事情から、Prolog プログラムは論理式とみなされ、その実行は述語論理によって述語が定義された環境における定理証明に擬して解釈されることが多い。利用者は論理プログラミングの枠組みを、取り分け述語論理を学習することで、この枠組みに極めて忠実なこの言語の基礎的な構造のほとんどを理解できる。",
@@ -839,7 +1215,11 @@
   {
     "date": "1985",
     "name": "Haskell",
-    "type": "language,イギリス,昭和",
+    "type": [
+      "language",
+      "イギリス",
+      "昭和"
+    ],
     "img": "haskell.svg",
     "nationality": "United-Kingdom",
     "description": "1985年、遅延関数言語である Miranda がリサーチ・ソフトウェア社によって発表された。1987年にはこのような非正格な純粋関数型プログラミング言語が十二以上存在していたが、そのうち最も広く使われていた Miranda はパブリックドメインではなかった。オレゴン州ポートランドで開催されたFPCA'87において開かれた会議中に、遅延関数型言語のオープンな標準を作成するための委員会が発足されるべき、という強い合意が参加者のあいだで形成された。",
@@ -848,7 +1228,11 @@
   {
     "date": "1881",
     "name": "Oki",
-    "type": "hardware,日本,明治",
+    "type": [
+      "hardware",
+      "日本",
+      "明治"
+    ],
     "img": "oki.svg",
     "nationality": "Japan",
     "description": "日本最初の通信機器メーカーとして1881年（明治14年）創業以来、130年以上の歴史をもつ。長年にわたり電話交換機の製造を行ってきた経緯から、いわゆる「電電ファミリー」と呼ばれる企業であり、旧・日本電信電話公社以来の関係から、日本電信電話株式会社・NTTグループとの関係が強い。",
@@ -857,7 +1241,11 @@
   {
     "date": "1965-04-01",
     "name": "NRI",
-    "type": "IT,日本,昭和",
+    "type": [
+      "IT",
+      "日本",
+      "昭和"
+    ],
     "img": "nri.png",
     "nationality": "Japan",
     "description": "日本初の本格的な民間シンクタンク[2]である株式会社野村総合研究所 (NRI) と、日本で初めて商用コンピュータを導入したシステム開発会社である野村コンピュータシステム株式会社 (NCC) が合併し、現在の野村総合研究所が誕生した。この合併により、リサーチ、コンサルティング、ITソリューション、システム運用等をトータルに提供する会社となる。",
@@ -866,7 +1254,11 @@
   {
     "date": "1977",
     "name": "ASCII",
-    "type": "IT,日本,昭和",
+    "type": [
+      "IT",
+      "日本",
+      "昭和"
+    ],
     "img": "ascii.svg",
     "nationality": "Japan",
     "description": "1977年（昭和52年）に当時雑誌『I/O』（アイオー）の編集者であった西和彦、郡司明郎、塚本慶一郎（後に独立してインプレスを設立）らが独立し月刊アスキーなどの雑誌を発行するために設立した会社が、アスキー（旧法人）である。",
@@ -875,7 +1267,11 @@
   {
     "date": "1981-06-02",
     "name": "JustSystems",
-    "type": "IT,日本,昭和",
+    "type": [
+      "IT",
+      "日本",
+      "昭和"
+    ],
     "img": "justsystems.svg",
     "nationality": "Japan",
     "description": "1983年、PC-100対応日本語ワープロソフト「JS-WORD」を開発したことを契機に日本語ワープロソフトの開発・販売に進出し、1985年には同社の看板製品となる「一太郎」を発売。以後、バージョンアップを重ねるごとに人気を高め、一太郎はDOS版日本語ワープロの代名詞的存在となった。コンピュータ上の日本語処理について熱心に研究しており、同社のかな漢字変換ソフトウェア「ATOK」は高い変換精度を有する。XML関連技術の研究開発にも積極的でGoogle、マイクロソフト、アップル、IBM、サン・マイクロシステムズ、ヒューレット・パッカードらとUnicodeコンソーシアムに参加していた日本で唯一の企業である。",
@@ -884,7 +1280,11 @@
   {
     "date": "1999-08-12",
     "name": "livedoor",
-    "type": "IT,日本,平成",
+    "type": [
+      "IT",
+      "日本",
+      "平成"
+    ],
     "img": "livedoor.svg",
     "nationality": "Japan",
     "description": "一般的なISP事業においては、事業運営に必要なコストを会員からの月会費および接続料によって賄っているが、ライブドアの行った無料サービスでは、当初は「常時バナー広告が表示される専用のウェブブラウザを使ってもらうことで、民間放送のように広告料によって賄おう」というビジネスモデルを採用していた。他のISPと異なり、専用ブラウザ以外によるダイヤルアップ接続はできなかった。ただこのビジネスモデルはライブドアが初めてではなく、すでにアメリカではPC端末も含めて無料というサービスが普及していた。",
@@ -893,7 +1293,11 @@
   {
     "date": "1982-02-24",
     "name": "Sun Micro Systems",
-    "type": "IT,アメリカ,昭和",
+    "type": [
+      "IT",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "sunmicrosystems.svg",
     "nationality": "United-States-of-America",
     "description": "UNIX戦争に伴う各ベンダとの競合状態において、ビル・ジョイなどのUNIX神話に名を残したスーパーエンジニアの功績やいち早いインターネットに向けたサーバ群の取り組みによりアメリカ合衆国を中心とする世界市場において、1990年代前半、サンは一人勝ちの様相を示した。日本市場では富士通・東芝・CTCなどと提携し、通信系や企業基幹系に浸透しつつあったUNIX市場において、その価格性能比と知名度で進出した。その結果、日本市場では競合するHP・日本電気陣営や、IBM・日立陣営などと並び、有力な商用UNIX系ベンダーとなった。",
@@ -902,7 +1306,11 @@
   {
     "date": "1993-04",
     "name": "NVIDIA",
-    "type": "hardware,アメリカ,平成",
+    "type": [
+      "hardware",
+      "アメリカ",
+      "平成"
+    ],
     "img": "nvidia.svg",
     "nationality": "United-States-of-America",
     "description": "デスクトップパソコンやノートパソコン向けのGPUであるGeForceシリーズ、プロフェッショナル向けでワークステーションに搭載されるQuadroやNVSシリーズで有名だが、スーパーコンピュータ向けの演算専用プロセッサであるTesla（テスラ）や、携帯電話やスマートフォン・タブレット端末向けのSoC（システム・オン・チップ）であるTegra（テグラ）の開発販売も手掛ける。また近年は、自動運転技術の開発にも力を入れている。",
@@ -911,7 +1319,11 @@
   {
     "date": "1998",
     "name": "VMware",
-    "type": "IT,アメリカ,平成",
+    "type": [
+      "IT",
+      "アメリカ",
+      "平成"
+    ],
     "img": "vmware.svg",
     "nationality": "United-States-of-America",
     "description": "現代の業務用ITシステム環境では、サーバーやクライアント、ネットワーク、クラウド環境等の仮想化によりシステムを効率的に運用することが一般的となってきているが、その仮想環境を構築する際のデファクトスタンダードとして用いられるのがVMware製品群である。IT基盤製品が中心であるため、システム利用者が直接VMware製品を目にするケースはそれほど多くはないものの、日本においてもほぼ全ての企業で採用されている。",
@@ -920,7 +1332,11 @@
   {
     "date": "2009-03",
     "name": "Uber",
-    "type": "IT,アメリカ,平成",
+    "type": [
+      "IT",
+      "アメリカ",
+      "平成"
+    ],
     "img": "uber.png",
     "nationality": "United-States-of-America",
     "description": "Uberは2009年3月にトラビス・カラニックとギャレット・キャンプにより設立。2015年の予約売上は108億4000万ドル（約1兆3000億円）と推定されている。特徴としては、一般的なタクシーの配車に加え、一般人が自分の空き時間と自家用車を使って他人を運ぶ仕組みを構築している点で、顧客が運転手を評価すると同時に、運転手も顧客を評価する「相互評価」を実施している。",
@@ -929,7 +1345,11 @@
   {
     "date": "2003-08",
     "name": "Myspace",
-    "type": "SNS,アメリカ,平成",
+    "type": [
+      "SNS",
+      "アメリカ",
+      "平成"
+    ],
     "img": "myspace.svg",
     "nationality": "United-States-of-America",
     "description": "現在見るようなソーシャル・ネットワーキング・サービスが作成される以前、MySpace.comというドメインは1998年にオンラインでのファイル蓄積・ファイル共有サービスを行う企業によって取られていた。このサービスは登録無料で、ユーザーは小さい容量のスペースを割り当てられ、新しいユーザーを紹介するごとに使える容量が増加するという仕組みだった。しかしサービスの遅さと収入の伸び悩みから、このサイトは閉鎖されユーザーの全情報を2001年に売却した。",
@@ -938,7 +1358,11 @@
   {
     "date": "2002",
     "name": "Friendster",
-    "type": "SNS,カナダ,平成",
+    "type": [
+      "SNS",
+      "カナダ",
+      "平成"
+    ],
     "img": "friendster.png",
     "nationality": "Canada",
     "description": "まだMyspace（2003年開始）、Facebook（2004年開始）が無く、他のソーシャル・ネットワーキング・サイトも広く使われる前の[14]2002年、Friendsterはカナダのコンピュータプログラマーであるジョナサン・エイブラムスが設立した[15]。Pets.com（1997年開始）のようなその他いくつかの小規模なソーシャル・ネットワーキング・サイトが先行していた中でFriendsterは会員数が100万人に達したサイトの一角になるまで成長した。",
@@ -947,7 +1371,11 @@
   {
     "date": "1997",
     "name": "SixDegrees.com",
-    "type": "SNS,アメリカ,平成",
+    "type": [
+      "SNS",
+      "アメリカ",
+      "平成"
+    ],
     "img": "sixdegrees.jpg",
     "nationality": "United-States-of-America",
     "description": "1997年〜2001年に運営されていたサイトです。サービス名である「Six degress」とは、自分の知り合いを6人たどれば、全世界中の人と連絡が取れるという「Six Degrees of Separations」（6次の隔たり）理論に由来しています。「6次の隔たり」はSNSにとっては重要な要素であり、日本SNSサイト「Gree」はこの「Six Degrees of Separations」から命名されています。",
@@ -956,7 +1384,11 @@
   {
     "date": "2004-02-21",
     "name": "GREE",
-    "type": "SNS,日本,平成",
+    "type": [
+      "SNS",
+      "日本",
+      "平成"
+    ],
     "img": "gree.svg",
     "nationality": "Japan",
     "description": "創業者の田中良和が個人的な趣味の一環として一人でGREEを開発し、サービスの提供を開始。その後、2004年12月に設立されたグリー株式会社によってGREEの本格的な運営が開始された。GREEは無料で登録でき、登録には携帯電話（au、docomo、SoftBankのいずれか）のメールアドレスが必要となる。現在はMobageとともに基本無料の携帯電話向けブラウザゲームを前面に押し出したSNSとして知られるが、当初はmixiのように交流機能を主軸としたPC向けのSNSだった。",
@@ -965,7 +1397,11 @@
   {
     "date": "2006-02-07",
     "name": "Mobage",
-    "type": "SNS,日本,平成",
+    "type": [
+      "SNS",
+      "日本",
+      "平成"
+    ],
     "img": "mobage.png",
     "nationality": "Japan",
     "description": "携帯電話端末専用のためパソコン、PHS端末からのアクセスは一切出来なかったが、2008年7月2日以降、全会員を対象にパソコンやiPhone・W-ZERO3シリーズ等スマートフォンへの対応のためのPC版のクローズドβをリリースし[7][8]、7月24日からは全会員対象のオープンβに移行した。その後PC向けサービスは「Yahoo!モバゲー」、スマートフォン向けサービスは「Mobage for Smartphone」に移行している。携帯電話会社による公式サイトではなく、いわゆる勝手サイトである。",
@@ -974,7 +1410,11 @@
   {
     "date": "1999-02",
     "name": "Tencent QQ",
-    "type": "SNS,中国,平成",
+    "type": [
+      "SNS",
+      "中国",
+      "平成"
+    ],
     "img": "qq.svg",
     "nationality": "China",
     "description": "中国本土において最も普及しているコミュニケーションツールであり、とくに若者の間で支持され、携帯やメールと同じ感覚で使用されている。一般家庭だけでなく、ネットカフェ、勤務先、学校などの公衆用のパソコンにもよくインストールされている。",
@@ -983,7 +1423,11 @@
   {
     "date": "2003-04",
     "name": "Skype",
-    "type": "SNS,エストニア,平成",
+    "type": [
+      "SNS",
+      "エストニア",
+      "平成"
+    ],
     "img": "skype.svg",
     "nationality": "Estonia",
     "description": "ニコラス・センストロムとヤヌス・フリスにより、グローバル P2P テレフォニー カンパニー（世界規模のP2P電話事業者）としてSkype社設立。4月、skype.com と skype.net がレジストラに登録された。",
@@ -992,7 +1436,11 @@
   {
     "date": "2004-09-15",
     "name": "Ameba",
-    "type": "SNS,日本,平成",
+    "type": [
+      "SNS",
+      "日本",
+      "平成"
+    ],
     "img": "ameba.svg",
     "nationality": "Japan",
     "description": "サイバーエージェントは2004年にアメーバブログをスタートし、その後も各種ネットサービスを数々送り出してきた。その中で、スマートフォンの普及に伴いサービスをスマートフォン向きのものへシフトしていくにあたり、これらのサービスを包括したプラットフォームとして「Ameba」を位置づけた。",
@@ -1001,7 +1449,11 @@
   {
     "date": "2004-03-03",
     "name": "mixi",
-    "type": "SNS,日本,平成",
+    "type": [
+      "SNS",
+      "日本",
+      "平成"
+    ],
     "img": "mixi.png",
     "nationality": "Japan",
     "description": "サービス名の由来は、公式サイトの説明[2]によると、「mix（交流する）」と「i（人）」を組み合わせた造語で、利用者同士の交流が深まることを願って名づけられたものである。当初mixiは、既に入会している登録ユーザーから招待を受けないと利用登録ができないという、完全招待制を採用していた。この方式は、ユーザーそれぞれの素性が明らかになり、健全で安心感のある居心地の良いコミュニティを維持するという目的で採用されている。 なお、招待した側とされた側は自動的にマイミクシィ（友人登録）となり、登録後3ヶ月間は外すことが出来ない。",
@@ -1010,7 +1462,11 @@
   {
     "date": "2011-01-21",
     "name": "WeChat",
-    "type": "SNS,中国,平成",
+    "type": [
+      "SNS",
+      "中国",
+      "平成"
+    ],
     "img": "wechat.png",
     "nationality": "China",
     "description": "テンセントが以前より提供していた、インスタントメッセンジャーテンセントQQの発展型として、メッセンジャー機能とソーシャル・ネットワーキング・サービス機能の融合が特徴と評される。金盾の影響を受けない。世界版であるWeChatでは、Facebookアカウントでの登録が可能である。テンセントは、豊富な資金力を背景にWeChatの海外展開を進めているとされ、世界的各地に遍在する中国人ユーザーからの紹介も、普及の一助になっていると言われる。",
@@ -1019,7 +1475,11 @@
   {
     "date": "2009-08-14",
     "name": "Weibo",
-    "type": "SNS,中国,平成",
+    "type": [
+      "SNS",
+      "中国",
+      "平成"
+    ],
     "img": "weibo.png",
     "nationality": "China",
     "description": "2007年から、twitterに代表される、マイクロブログサービスが国際的に流行していたが、中国は金盾による通信限制のため、独自にマイクロブログサービスを開発し、最初の新浪微博のテストバージョンを2009年8月14日に公開した。",
@@ -1028,7 +1488,11 @@
   {
     "date": "2011-06-28",
     "name": "Google+",
-    "type": "SNS,アメリカ,平成",
+    "type": [
+      "SNS",
+      "アメリカ",
+      "平成"
+    ],
     "img": "googleplus.svg",
     "nationality": "China",
     "description": "2011年6月、プロジェクトに1年間を費やした末にサービスが開始された。Googleでは新サービスの船出を記念して、プロジェクトに携わった数百人の従業員に水兵帽を配った。2018年12月10日には米グーグル社がGoogle+ APIに個人情報が漏洩する可能性があるバグが存在していたことを発表し、Google+の個人向けサービスを2019年4月に4ヶ月前倒しして終了すると発表した。同社は個人情報を不正に取得された形跡はないとしている。",
@@ -1037,7 +1501,11 @@
   {
     "date": "1990",
     "name": "Archie",
-    "type": "search engine,カナダ,昭和",
+    "type": [
+      "search engine",
+      "カナダ",
+      "昭和"
+    ],
     "img": "archie.jpg",
     "nationality": "Canada",
     "description": "史上初のインターネット検索エンジンと呼べるものである。1990年にモントリオールのマギル大学の学生が最初の実装を開発した。 初期のarchieは単純にFTPサーバに接続してファイルの一覧を取得し（サーバに負荷をかけないよう、月に一度程度）、UNIXのgrepコマンドで検索していた。 後に、より効率のよいフロントエンド・バックエンドが開発され、archieは単なるローカルのツールにとどまらず、インターネット上のいくつものサイトで提供される人気の高いサービスとなった。 ",
@@ -1046,7 +1514,11 @@
   {
     "date": "1994",
     "name": "Excite",
-    "type": "search engine,アメリカ,平成",
+    "type": [
+      "search engine",
+      "アメリカ",
+      "平成"
+    ],
     "img": "excite.png",
     "nationality": "United-States-of-America",
     "description": "1994年にJoe Krausら6人のスタンフォード大学出身の学生らによって、Exciteの前身であるアーキテクスト・ソフトウェアが設立された。ここで自動ハイパーテキスト・リンキング、サブジェクト・グルーピング、自動アブストラクティングなどの機能を備えた検索抽出ツール（エキサイトサーチ）が開発され、エキサイトサービスとしてサービスを開始した。",
@@ -1055,7 +1527,11 @@
   {
     "date": "2005-03-15",
     "name": "Dailymotion",
-    "type": "video,フランス,平成",
+    "type": [
+      "video",
+      "フランス",
+      "平成"
+    ],
     "img": "dailymotion.svg",
     "nationality": "France",
     "description": "利用登録者数100万人以上、ユニーク数は750万以上というヨーロッパで最も人気が高い動画共有サイトである。日々、9000以上の新しい動画がアップロードされ、1日当たり約1600万以上のページビューがあるという。Dailymotion は他の動画・写真投稿サイト同様、ユーザが画像につけるタグによって動画の検索ができる。登録したユーザーがアップロード可能な動画は、2GB以内で長さは60分まで、最大解像度は3840x2160（4KウルトラHD）である。",
@@ -1064,7 +1540,11 @@
   {
     "date": "2004-11",
     "name": "Vimeo",
-    "type": "video,アメリカ,平成",
+    "type": [
+      "video",
+      "アメリカ",
+      "平成"
+    ],
     "img": "vimeo.svg",
     "nationality": "United-States-of-America",
     "description": "2010年3月現在で、Vimeo には300万以上のメンバーがおり、1日に平均16,000本以上の新たな映像がアップロードされている。そのうちおよそ1割がHDであった[6]。2017年9月26日にVimeoは、ライブ動画配信プラットフォームを導入するために既存のライブ動画配信サービスのLivestreamを買収した。この買収によりLivestreamは、「Vimeo・Livestream」として組み込まれ、Vimeoは、新サービス「Vimeo Live」を開始した。",
@@ -1073,7 +1553,11 @@
   {
     "date": "2007",
     "name": "RedTube",
-    "type": "porn,アメリカ,平成",
+    "type": [
+      "porn",
+      "アメリカ",
+      "平成"
+    ],
     "img": "redtube.png",
     "nationality": "United-States-of-America",
     "description": "RedTube（レッドチューブ）は、アメリカのアダルト動画共有サービス。Pornhub、YouPornと共にMindGeekが所有している。",
@@ -1082,7 +1566,11 @@
   {
     "date": "2004-10",
     "name": "Pandora TV",
-    "type": "video,韓国,平成",
+    "type": [
+      "video",
+      "韓国",
+      "平成"
+    ],
     "img": "pandoratv.png",
     "nationality": "Korea,-South",
     "description": "かつては著作権問題を抱えていたが、韓国国内では著作権問題は解決している。また青瓦台や警察庁など行政機関が、パンドラTVを使った定例記者会見映像や広報映像の配信を行ったり、ケーブルテレビ局との提携による番組配信、著作権者の許可を得て『NARUTO -ナルト-』・『攻殻機動隊』・『BLEACH』などのアニメ作品を放映しているが、明らかに無許可の日本アニメやドラマなどもアップロードされ続けている。日本国内では24時間モニタリングされ、違法または問題となるコンテンツがアップされたら削除するようにしている。",
@@ -1091,7 +1579,11 @@
   {
     "date": "2016-09",
     "name": "TikTok",
-    "type": "SNS,中国,平成",
+    "type": [
+      "SNS",
+      "中国",
+      "平成"
+    ],
     "img": "tiktok.png",
     "nationality": "China",
     "description": "2017年11月9日、TikTokの親会社であるByteDanceは、米国の10代をターゲットにした人気のソーシャルメディアプラットフォームを所有するmusical.lyを買収。買収額は最大で10億ドルを費やした。2018年現在、150か国以上・75の言語で利用が可能。TikTokは、Appleが発表した「2018年ベストアプリ」のランキングによると、LINEやGoogleMapなどの代表的なアプリを抑え、日本の無料アプリの年間人気ナンバーワンとなった。",
@@ -1100,7 +1592,11 @@
   {
     "date": "2008-05-19",
     "name": "LiveLeak",
-    "type": "video,アメリカ,平成",
+    "type": [
+      "video",
+      "アメリカ",
+      "平成"
+    ],
     "img": "liveleak.png",
     "nationality": "United-States-of-America",
     "description": "現実に発生した戦争・テロ・犯罪・事故・災害などの出来事をありのままに配信することを標榜するニュースサイトの一種だが、その中には一般的に残虐で猟奇的であると受け止められる記事が多く含まれていることでも知られている。なお、英語圏においてグロテスクな写真（グロ画像）や悪趣味なビデオ（グロ動画）が含まれるショックサイトと呼ばれる分野に属しており、同種サイトの Ogrish.com は2006年10月から LiveLeak へ統合されてリダイレクトされるようになった。",
@@ -1109,7 +1605,12 @@
   {
     "date": "2014-06-06",
     "name": "Kubernetes",
-    "type": "CNCF,Container Orchestration,アメリカ,平成",
+    "type": [
+      "CNCF",
+      "Container Orchestration",
+      "アメリカ",
+      "平成"
+    ],
     "img": "kubernetes.svg",
     "nationality": "United-States-of-America",
     "description": "Googleのエンジニアによって開発された、コンテナ化されたアプリケーションのデプロイ、スケーリング、管理を自動化するためのオープンソースシステム。「K8s」と略されることが多い。",
@@ -1118,7 +1619,12 @@
   {
     "date": "2012-11-24",
     "name": "Prometheus",
-    "type": "CNCF,Monitoring,ドイツ,平成",
+    "type": [
+      "CNCF",
+      "Monitoring",
+      "ドイツ",
+      "平成"
+    ],
     "img": "prometheus.svg",
     "nationality": "Germany",
     "description": "SoundCloudによって開発された、イベントモニタリングとアラートのためのオープンソースシステム。多次元データモデルと強力なクエリ言語PromQLが特徴。",
@@ -1127,7 +1633,12 @@
   {
     "date": "2011-10-01",
     "name": "Fluentd",
-    "type": "CNCF,Logging,日本,平成",
+    "type": [
+      "CNCF",
+      "Logging",
+      "日本",
+      "平成"
+    ],
     "img": "fluentd.svg",
     "nationality": "Japan",
     "description": "古橋貞之氏らによって開発されたオープンソースのデータコレクター。ログ収集を統一し、様々なデータソースと出力先を柔軟に接続することができる。",
@@ -1136,7 +1647,12 @@
   {
     "date": "2016-09-14",
     "name": "Envoy",
-    "type": "CNCF,Service Mesh,アメリカ,平成",
+    "type": [
+      "CNCF",
+      "Service Mesh",
+      "アメリカ",
+      "平成"
+    ],
     "img": "envoy.svg",
     "nationality": "United-States-of-America",
     "description": "Lyftによって開発された、クラウドネイティブなアプリケーションのための高性能なエッジ/ミドルおよびサービスプロキシ。",
@@ -1145,7 +1661,12 @@
   {
     "date": "2015-11-02",
     "name": "Helm",
-    "type": "CNCF,Package Manager,アメリカ,平成",
+    "type": [
+      "CNCF",
+      "Package Manager",
+      "アメリカ",
+      "平成"
+    ],
     "img": "helm.svg",
     "nationality": "United-States-of-America",
     "description": "Deisによって開発されたKubernetesのパッケージマネージャー。Kubernetesアプリケーションの定義、インストール、アップグレードを容易にする。",
@@ -1154,7 +1675,12 @@
   {
     "date": "2017-12-01",
     "name": "SPIFFE",
-    "type": "CNCF,Security,アメリカ,平成",
+    "type": [
+      "CNCF",
+      "Security",
+      "アメリカ",
+      "平成"
+    ],
     "img": "spiffe.svg",
     "nationality": "United-States-of-America",
     "description": "異種環境間でのソフトウェアサービスのIDを安全にブートストラップし、認証するための標準規格。",
@@ -1163,7 +1689,12 @@
   {
     "date": "2017-12-01",
     "name": "SPIRE",
-    "type": "CNCF,Security,アメリカ,平成",
+    "type": [
+      "CNCF",
+      "Security",
+      "アメリカ",
+      "平成"
+    ],
     "img": "spire.svg",
     "nationality": "United-States-of-America",
     "description": "SPIFFE APIの実装であり、ワークロードに対してSPIFFE IDを証明書として発行し、管理するツールチェーン。",
@@ -1172,7 +1703,12 @@
   {
     "date": "2016-01-01",
     "name": "Open Policy Agent",
-    "type": "CNCF,Policy,アメリカ,平成",
+    "type": [
+      "CNCF",
+      "Policy",
+      "アメリカ",
+      "平成"
+    ],
     "img": "opa.svg",
     "nationality": "United-States-of-America",
     "description": "Styraによって開発された、汎用的なポリシーエンジン。Rego言語を使用してポリシーをコードとして記述し、様々なソフトウェアスタックに適用できる。",
@@ -1181,7 +1717,12 @@
   {
     "date": "2017-04-25",
     "name": "Linkerd",
-    "type": "CNCF,Service Mesh,アメリカ,平成",
+    "type": [
+      "CNCF",
+      "Service Mesh",
+      "アメリカ",
+      "平成"
+    ],
     "img": "linkerd.svg",
     "nationality": "United-States-of-America",
     "description": "Buoyantによって開発された、世界初のサービスメッシュ。Kubernetes向けに設計されており、超軽量で高速、かつ安全であることを特徴とする。",
@@ -1190,7 +1731,12 @@
   {
     "date": "2015-01-01",
     "name": "Jaeger",
-    "type": "CNCF,Tracing,アメリカ,平成",
+    "type": [
+      "CNCF",
+      "Tracing",
+      "アメリカ",
+      "平成"
+    ],
     "img": "jaeger.svg",
     "nationality": "United-States-of-America",
     "description": "Uberによって開発された、分散トレーシングシステム。マイクロサービスベースの分散システムのモニタリングとトラブルシューティングに使用される。",
@@ -1199,7 +1745,12 @@
   {
     "date": "2017-05-24",
     "name": "Istio",
-    "type": "CNCF,Service Mesh,アメリカ,平成",
+    "type": [
+      "CNCF",
+      "Service Mesh",
+      "アメリカ",
+      "平成"
+    ],
     "img": "istio.svg",
     "nationality": "United-States-of-America",
     "description": "Google, IBM, Lyftによって共同開発されたオープンソースのサービスメッシュ。トラフィック管理、セキュリティ、オブザーバビリティ機能を提供する。",
@@ -1208,7 +1759,12 @@
   {
     "date": "2016-02-01",
     "name": "Harbor",
-    "type": "CNCF,Registry,アメリカ,平成",
+    "type": [
+      "CNCF",
+      "Registry",
+      "アメリカ",
+      "平成"
+    ],
     "img": "harbor.svg",
     "nationality": "United-States-of-America",
     "description": "VMwareによって開発された、信頼できるクラウドネイティブ・レジストリ。コンテンツの保存、署名、スキャンを行い、脆弱性から保護する。",
@@ -1217,7 +1773,12 @@
   {
     "date": "2016-05-01",
     "name": "Falco",
-    "type": "CNCF,Security,アメリカ,平成",
+    "type": [
+      "CNCF",
+      "Security",
+      "アメリカ",
+      "平成"
+    ],
     "img": "falco.svg",
     "nationality": "United-States-of-America",
     "description": "Sysdigによって開発された、クラウドネイティブ環境向けのランタイムセキュリティツール。システムコールを監視し、不審な動作を検知する。",
@@ -1226,7 +1787,12 @@
   {
     "date": "2013-06-01",
     "name": "etcd",
-    "type": "CNCF,Key-Value Store,アメリカ,平成",
+    "type": [
+      "CNCF",
+      "Key-Value Store",
+      "アメリカ",
+      "平成"
+    ],
     "img": "etcd.svg",
     "nationality": "United-States-of-America",
     "description": "CoreOSによって開発された、分散型キーバリューストア。Kubernetesのバッキングストアとして使用され、クラスタデータの一貫性と高可用性を保証する。",
@@ -1235,7 +1801,12 @@
   {
     "date": "2017-10-01",
     "name": "cert-manager",
-    "type": "CNCF,Security,イギリス,平成",
+    "type": [
+      "CNCF",
+      "Security",
+      "イギリス",
+      "平成"
+    ],
     "img": "cert-manager.svg",
     "nationality": "United-Kingdom",
     "description": "Jetstackによって開発された、Kubernetes向けの証明書管理コントローラー。Let's Encryptなどの発行元から証明書を自動的に取得・更新する。",
@@ -1244,7 +1815,12 @@
   {
     "date": "2017-10-17",
     "name": "ArgoCD",
-    "type": "CNCF,Continuous Delivery,アメリカ,平成",
+    "type": [
+      "CNCF",
+      "Continuous Delivery",
+      "アメリカ",
+      "平成"
+    ],
     "img": "argo.svg",
     "nationality": "United-States-of-America",
     "description": "Intuitによって開発された、Kubernetesのための宣言的GitOps継続的デリバリーツール。Gitリポジトリの状態とクラスタの状態を自動的に同期させる。",
@@ -1253,7 +1829,12 @@
   {
     "date": "2015-12-01",
     "name": "Cilium",
-    "type": "CNCF,Networking,スイス,平成",
+    "type": [
+      "CNCF",
+      "Networking",
+      "スイス",
+      "平成"
+    ],
     "img": "cilium.svg",
     "nationality": "Switzerland",
     "description": "Isovalentによって開発された、eBPFベースのネットワーキング、セキュリティ、およびオブザーバビリティソリューション。Kubernetes環境で高度なパケットフィルタリングと可視化を提供する。",
@@ -1262,7 +1843,12 @@
   {
     "date": "2015-12-11",
     "name": "OpenAI",
-    "type": "IT,AI,アメリカ,平成",
+    "type": [
+      "IT",
+      "AI",
+      "アメリカ",
+      "平成"
+    ],
     "img": "openai.svg",
     "nationality": "United-States-of-America",
     "description": "サム・アルトマン、イーロン・マスクらによって設立されたAI研究所。汎用人工知能（AGI）が全人類に利益をもたらすことを目指し、ChatGPTなどの画期的なAIモデルを開発している。",
@@ -1271,7 +1857,12 @@
   {
     "date": "2010-09-29",
     "name": "Stripe",
-    "type": "IT,FinTech,アイルランド,平成",
+    "type": [
+      "IT",
+      "FinTech",
+      "アイルランド",
+      "平成"
+    ],
     "img": "stripe.svg",
     "nationality": "Ireland",
     "description": "コリソン兄弟によって設立されたオンライン決済処理プラットフォーム。開発者向けの使いやすいAPIを提供し、インターネットビジネスの決済インフラとして急速に普及した。",
@@ -1280,7 +1871,12 @@
   {
     "date": "2015-05-13",
     "name": "Discord",
-    "type": "IT,SNS,アメリカ,平成",
+    "type": [
+      "IT",
+      "SNS",
+      "アメリカ",
+      "平成"
+    ],
     "img": "discord.svg",
     "nationality": "United-States-of-America",
     "description": "ゲーマー向けのボイスチャットアプリとしてジェイソン・シトロンらが開発。低遅延の通話とコミュニティ機能により、ゲーム以外のコミュニティにも広く使われるようになった。",
@@ -1289,7 +1885,12 @@
   {
     "date": "2013-01-01",
     "name": "Notion",
-    "type": "IT,SaaS,アメリカ,平成",
+    "type": [
+      "IT",
+      "SaaS",
+      "アメリカ",
+      "平成"
+    ],
     "img": "notion.png",
     "nationality": "United-States-of-America",
     "description": "Notion Labsによって開発されたオールインワンのワークスペースツール。メモ、タスク管理、Wiki、データベースなどを柔軟に統合でき、世界中で人気を博している。",
@@ -1298,7 +1899,12 @@
   {
     "date": "2012-01-01",
     "name": "Figma",
-    "type": "IT,Design,アメリカ,平成",
+    "type": [
+      "IT",
+      "Design",
+      "アメリカ",
+      "平成"
+    ],
     "img": "figma.svg",
     "nationality": "United-States-of-America",
     "description": "ブラウザ上で動作するインターフェースデザインツール。リアルタイムでの共同編集機能を特徴とし、デザインプロセスのコラボレーションを革新した。",
@@ -1307,7 +1913,12 @@
   {
     "date": "2013-01-01",
     "name": "Canva",
-    "type": "IT,Design,オーストラリア,平成",
+    "type": [
+      "IT",
+      "Design",
+      "オーストラリア",
+      "平成"
+    ],
     "img": "canva.png",
     "nationality": "Australia",
     "description": "メラニー・パーキンスらによって設立されたオンライングラフィックデザインツール。「デザインの民主化」を掲げ、誰でも簡単にプロフェッショナルなデザインを作成できる環境を提供している。",
@@ -1316,7 +1927,12 @@
   {
     "date": "2011-04-21",
     "name": "Zoom",
-    "type": "IT,Communication,アメリカ,平成",
+    "type": [
+      "IT",
+      "Communication",
+      "アメリカ",
+      "平成"
+    ],
     "img": "zoom.svg",
     "nationality": "United-States-of-America",
     "description": "エリック・ヤンによって設立されたビデオ会議サービス。高品質な映像と安定した接続性により、リモートワークの普及とともに爆発的に利用が拡大した。",
@@ -1325,7 +1941,12 @@
   {
     "date": "2012-07-23",
     "name": "Snowflake",
-    "type": "IT,Cloud Data,アメリカ,平成",
+    "type": [
+      "IT",
+      "Cloud Data",
+      "アメリカ",
+      "平成"
+    ],
     "img": "snowflake.svg",
     "nationality": "United-States-of-America",
     "description": "クラウドネイティブなデータウェアハウスプラットフォーム。コンピュートとストレージを分離したアーキテクチャにより、柔軟なスケーリングとデータ共有を実現した。",
@@ -1334,7 +1955,12 @@
   {
     "date": "2002-03-14",
     "name": "SpaceX",
-    "type": "IT,Aerospace,アメリカ,平成",
+    "type": [
+      "IT",
+      "Aerospace",
+      "アメリカ",
+      "平成"
+    ],
     "img": "spacex.svg",
     "nationality": "United-States-of-America",
     "description": "イーロン・マスクによって設立された宇宙開発企業。再利用可能なロケット「Falcon 9」や衛星インターネット「Starlink」など、宇宙産業に革命をもたらしている。",
@@ -1343,7 +1969,12 @@
   {
     "date": "2013-01-01",
     "name": "Databricks",
-    "type": "IT,AI,アメリカ,平成",
+    "type": [
+      "IT",
+      "AI",
+      "アメリカ",
+      "平成"
+    ],
     "img": "databricks.png",
     "nationality": "United-States-of-America",
     "description": "Apache Sparkの創始者たちによって設立されたデータ＆AI企業。データレイクハウスという概念を提唱し、データ分析とAI開発のための統合プラットフォームを提供している。",
@@ -1352,7 +1983,12 @@
   {
     "date": "2006-04-23",
     "name": "Spotify",
-    "type": "IT,Music,スウェーデン,平成",
+    "type": [
+      "IT",
+      "Music",
+      "スウェーデン",
+      "平成"
+    ],
     "img": "spotify.svg",
     "nationality": "Sweden",
     "description": "ダニエル・エクとマーティン・ローレンツォンによって設立された世界最大の音楽ストリーミングサービス。音楽業界の海賊版問題を解決し、サブスクリプションモデルを定着させた。",
@@ -1361,7 +1997,12 @@
   {
     "date": "2009-08-14",
     "name": "Slack",
-    "type": "IT,Communication,アメリカ,平成",
+    "type": [
+      "IT",
+      "Communication",
+      "アメリカ",
+      "平成"
+    ],
     "img": "slack.svg",
     "nationality": "United-States-of-America",
     "description": "スチュワート・バターフィールドらによって開発されたビジネスチャットツール。ゲーム開発の社内ツールから生まれ、メールに代わるチームコミュニケーションの標準となった。",
@@ -1370,7 +2011,12 @@
   {
     "date": "2006-01-01",
     "name": "Shopify",
-    "type": "IT,EC,カナダ,平成",
+    "type": [
+      "IT",
+      "EC",
+      "カナダ",
+      "平成"
+    ],
     "img": "shopify.svg",
     "nationality": "Canada",
     "description": "トビアス・リュトケらによって設立されたEコマースプラットフォーム。誰でも簡単にオンラインストアを開設できるSaaS型サービスとして、世界中の個人事業主から大企業まで利用されている。",
@@ -1379,7 +2025,12 @@
   {
     "date": "2013-08-14",
     "name": "Telegram",
-    "type": "IT,SNS,ロシア,平成",
+    "type": [
+      "IT",
+      "SNS",
+      "ロシア",
+      "平成"
+    ],
     "img": "telegram.svg",
     "nationality": "Russia",
     "description": "パーヴェル・ドゥーロフ兄弟によって開発されたクラウドベースのインスタントメッセージングアプリ。高度なセキュリティと高速な通信、大規模なグループチャット機能が特徴。",
@@ -1388,7 +2039,12 @@
   {
     "date": "2014-07-29",
     "name": "Signal",
-    "type": "IT,Communication,アメリカ,平成",
+    "type": [
+      "IT",
+      "Communication",
+      "アメリカ",
+      "平成"
+    ],
     "img": "signal.svg",
     "nationality": "United-States-of-America",
     "description": "モクシー・マーリンスパイクによって開発された、プライバシー重視のメッセンジャーアプリ。強力なエンドツーエンド暗号化技術は業界標準となり、WhatsAppなどにも採用されている。",
@@ -1397,7 +2053,12 @@
   {
     "date": "2012-09-12",
     "name": "Tinder",
-    "type": "IT,SNS,アメリカ,平成",
+    "type": [
+      "IT",
+      "SNS",
+      "アメリカ",
+      "平成"
+    ],
     "img": "tinder.svg",
     "nationality": "United-States-of-America",
     "description": "位置情報を活用したマッチングアプリ。「スワイプ」という直感的な操作を発明し、オンラインデーティングの常識を覆した。",
@@ -1406,7 +2067,12 @@
   {
     "date": "2017-08-28",
     "name": "DeepL",
-    "type": "IT,AI,ドイツ,平成",
+    "type": [
+      "IT",
+      "AI",
+      "ドイツ",
+      "平成"
+    ],
     "img": "deepl.svg",
     "nationality": "Germany",
     "description": "ドイツのケルンで開発されたAI翻訳サービス。ニューラルネットワーク技術を駆使し、Google翻訳を超える自然で高精度な翻訳を実現して注目を集めた。",
@@ -1415,7 +2081,12 @@
   {
     "date": "2011-09-01",
     "name": "GitLab",
-    "type": "IT,DevOps,ウクライナ,平成",
+    "type": [
+      "IT",
+      "DevOps",
+      "ウクライナ",
+      "平成"
+    ],
     "img": "gitlab.svg",
     "nationality": "Ukraine",
     "description": "ドミトリー・ザポロジェツらによって開発されたDevOpsプラットフォーム。Gitリポジトリ管理からCI/CDまで、ソフトウェア開発の全ライフサイクルを単一のアプリケーションでカバーする。",
@@ -1424,7 +2095,12 @@
   {
     "date": "2011-06-01",
     "name": "Miro",
-    "type": "IT,SaaS,ロシア,平成",
+    "type": [
+      "IT",
+      "SaaS",
+      "ロシア",
+      "平成"
+    ],
     "img": "miro.svg",
     "nationality": "Russia",
     "description": "オンラインホワイトボードプラットフォーム。リモートワーク時代におけるビジュアルコラボレーションの標準ツールとして、アイデア出しやワークショップなどで広く利用されている。",
@@ -1433,7 +2109,12 @@
   {
     "date": "2011-11-30",
     "name": "Duolingo",
-    "type": "IT,Education,アメリカ,平成",
+    "type": [
+      "IT",
+      "Education",
+      "アメリカ",
+      "平成"
+    ],
     "img": "duolingo.svg",
     "nationality": "United-States-of-America",
     "description": "ルイス・フォン・アンらによって設立された語学学習アプリ。ゲームフィケーションを取り入れた学習体験により、世界で最も人気のある教育アプリの一つとなった。",
@@ -1442,7 +2123,12 @@
   {
     "date": "2009-01-03",
     "name": "Bitcoin",
-    "type": "IT,Web3,日本,平成",
+    "type": [
+      "IT",
+      "Web3",
+      "日本",
+      "平成"
+    ],
     "img": "bitcoin.svg",
     "nationality": "Japan",
     "description": "サトシ・ナカモトを名乗る人物によって公開された世界初の暗号資産。ブロックチェーン技術を基盤とし、中央銀行を介さずに個人間で価値を移転できる革新をもたらした。",
@@ -1451,7 +2137,12 @@
   {
     "date": "2015-07-30",
     "name": "Ethereum",
-    "type": "IT,Web3,カナダ,平成",
+    "type": [
+      "IT",
+      "Web3",
+      "カナダ",
+      "平成"
+    ],
     "img": "ethereum.svg",
     "nationality": "Canada",
     "description": "ヴィタリック・ブテリンらによって開発されたブロックチェーンプラットフォーム。スマートコントラクト機能を備え、DAppsやNFT、DeFiなどの基盤として広く利用されている。",
@@ -1460,7 +2151,12 @@
   {
     "date": "2013-03-15",
     "name": "Docker",
-    "type": "IT,Infrastructure,アメリカ,平成",
+    "type": [
+      "IT",
+      "Infrastructure",
+      "アメリカ",
+      "平成"
+    ],
     "img": "docker.svg",
     "nationality": "United-States-of-America",
     "description": "コンテナ仮想化技術を提供するオープンソースソフトウェア。アプリケーションの環境依存を解消し、ポータビリティと一貫性を劇的に向上させた。",
@@ -1469,7 +2165,12 @@
   {
     "date": "2006-03-14",
     "name": "AWS",
-    "type": "IT,Infrastructure,アメリカ,平成",
+    "type": [
+      "IT",
+      "Infrastructure",
+      "アメリカ",
+      "平成"
+    ],
     "img": "aws.svg",
     "nationality": "United-States-of-America",
     "description": "Amazonが提供する包括的なクラウドコンピューティングプラットフォーム。EC2やS3などのサービスを通じ、現代のWebインフラを定義したリーディングプレイヤー。",
@@ -1478,7 +2179,12 @@
   {
     "date": "2003-09-12",
     "name": "Steam",
-    "type": "IT,Game,アメリカ,平成",
+    "type": [
+      "IT",
+      "Game",
+      "アメリカ",
+      "平成"
+    ],
     "img": "steam.svg",
     "nationality": "United-States-of-America",
     "description": "Valve Corporationが運営する世界最大のPCゲームプラットフォーム。ゲームの購入、配信、コミュニティ機能を統合し、デジタル配信を普及させた。",
@@ -1487,7 +2193,12 @@
   {
     "date": "2005-06-08",
     "name": "Unity",
-    "type": "IT,Software,アメリカ,平成",
+    "type": [
+      "IT",
+      "Software",
+      "アメリカ",
+      "平成"
+    ],
     "img": "unity.svg",
     "nationality": "United-States-of-America",
     "description": "Unity Technologiesが開発したマルチプラットフォーム対応のゲームエンジン。高度な3D/2D描画機能と使いやすさにより、インディーから大作まで幅広く採用されている。",
@@ -1496,7 +2207,12 @@
   {
     "date": "2006-09-01",
     "name": "Roblox",
-    "type": "IT,Game,アメリカ,平成",
+    "type": [
+      "IT",
+      "Game",
+      "アメリカ",
+      "平成"
+    ],
     "img": "roblox.svg",
     "nationality": "United-States-of-America",
     "description": "ユーザー自身がゲームを作成し、共有・プレイできるゲーミングプラットフォーム。クリエイターエコノミーの先駆けであり、巨大なメタバース空間として成長した。",
@@ -1505,7 +2221,12 @@
   {
     "date": "2016-01-01",
     "name": "Hugging Face",
-    "type": "IT,AI,アメリカ,平成",
+    "type": [
+      "IT",
+      "AI",
+      "アメリカ",
+      "平成"
+    ],
     "img": "huggingface.svg",
     "nationality": "United-States-of-America",
     "description": "機械学習モデルやデータセットのオープンソース共有プラットフォーム。AI開発におけるデファクトスタンダードとなっており、AIの民主化を推進している。",
@@ -1514,7 +2235,12 @@
   {
     "date": "2009-07-26",
     "name": "Cloudflare",
-    "type": "IT,Security,アメリカ,平成",
+    "type": [
+      "IT",
+      "Security",
+      "アメリカ",
+      "平成"
+    ],
     "img": "cloudflare.svg",
     "nationality": "United-States-of-America",
     "description": "CDN、セキュリティ、エッジコンピューティングを提供するクラウドサービス。インターネット全体の1割以上のトラフィックを処理し、高速で安全なWeb体験を支えている。",
@@ -1523,7 +2249,12 @@
   {
     "date": "2013-02-01",
     "name": "Mercari",
-    "type": "IT,EC,日本,平成",
+    "type": [
+      "IT",
+      "EC",
+      "日本",
+      "平成"
+    ],
     "img": "mercari.png",
     "nationality": "Japan",
     "description": "スマホ一つで簡単に売り買いできるフリマアプリ。日本発のユニコーン企業として、C2C（個人間取引）市場を牽引し、海外展開も積極的に行っている。",
@@ -1532,7 +2263,11 @@
   {
     "date": "1985-10-14",
     "name": "C++",
-    "type": "language,アメリカ,昭和",
+    "type": [
+      "language",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "cpp.svg",
     "nationality": "United-States-of-America",
     "description": "ベル研究所のビャーネ・ストロヴストルップによって、C言語の拡張として開発された。当初は「C with Classes」と呼ばれていたが、後にC++と改名された。システムプログラミングからゲーム開発まで幅広く利用されている。",
@@ -1541,7 +2276,11 @@
   {
     "date": "2000-07-11",
     "name": "C#",
-    "type": "language,アメリカ,平成",
+    "type": [
+      "language",
+      "アメリカ",
+      "平成"
+    ],
     "img": "csharp.svg",
     "nationality": "United-States-of-America",
     "description": "マイクロソフトのアンダース・ヘルスバーグによって設計された、強力に型付けされたオブジェクト指向言語。.NET Frameworkの一部として開発され、Javaに似た構文を持つが、独自の進化を遂げている。",
@@ -1550,7 +2289,11 @@
   {
     "date": "2009-11-10",
     "name": "Go",
-    "type": "language,アメリカ,平成",
+    "type": [
+      "language",
+      "アメリカ",
+      "平成"
+    ],
     "img": "go.svg",
     "nationality": "United-States-of-America",
     "description": "Googleのロバート・グリーズマー、ロブ・パイク、ケン・トンプソンによって設計された。シンプルさと効率性を重視し、並行処理を強力にサポートしている。",
@@ -1559,7 +2302,11 @@
   {
     "date": "2015-05-15",
     "name": "Rust",
-    "type": "language,アメリカ,平成",
+    "type": [
+      "language",
+      "アメリカ",
+      "平成"
+    ],
     "img": "rust.svg",
     "nationality": "United-States-of-America",
     "description": "Mozillaのグレイドン・ホアレによって設計されたシステムプログラミング言語。メモリ安全性と並行性を重視し、C++の代替として注目されている。",
@@ -1568,7 +2315,11 @@
   {
     "date": "2014-06-02",
     "name": "Swift",
-    "type": "language,アメリカ,平成",
+    "type": [
+      "language",
+      "アメリカ",
+      "平成"
+    ],
     "img": "swift.svg",
     "nationality": "United-States-of-America",
     "description": "Appleによって開発されたプログラミング言語。iOS、macOS、watchOS、tvOSアプリ開発のために設計され、Objective-Cの後継としてモダンな機能を取り入れている。",
@@ -1577,7 +2328,11 @@
   {
     "date": "2011-07-19",
     "name": "Kotlin",
-    "type": "language,ロシア,平成",
+    "type": [
+      "language",
+      "ロシア",
+      "平成"
+    ],
     "img": "kotlin.svg",
     "nationality": "Russia",
     "description": "JetBrainsによって開発された静的型付け言語。Java仮想マシン（JVM）上で動作し、Javaとの完全な相互運用性を持つ。Androidアプリ開発の推奨言語となっている。",
@@ -1586,7 +2341,11 @@
   {
     "date": "2012-10-01",
     "name": "TypeScript",
-    "type": "language,アメリカ,平成",
+    "type": [
+      "language",
+      "アメリカ",
+      "平成"
+    ],
     "img": "typescript.svg",
     "nationality": "United-States-of-America",
     "description": "マイクロソフトによって開発された、JavaScriptのスーパーセット言語。静的型付けを追加し、大規模なアプリケーション開発を容易にする。",
@@ -1595,7 +2354,11 @@
   {
     "date": "1969-11-03",
     "name": "UNIX",
-    "type": "OS,アメリカ,昭和",
+    "type": [
+      "OS",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "unix.svg",
     "nationality": "United-States-of-America",
     "description": "AT&Tベル研究所のケン・トンプソン、デニス・リッチーらによって開発されたオペレーティングシステム。シンプルさ、移植性、マルチタスク機能を特徴とし、後の多くのOSに多大な影響を与えた。",
@@ -1604,7 +2367,11 @@
   {
     "date": "1991-09-17",
     "name": "Linux",
-    "type": "OS,フィンランド,平成",
+    "type": [
+      "OS",
+      "フィンランド",
+      "平成"
+    ],
     "img": "linux.svg",
     "nationality": "Finland",
     "description": "リーナス・トーバルズによって開発された、UNIXライクなOSカーネル。オープンソース開発モデルの象徴的存在であり、サーバー、デスクトップ、組み込みシステムなど幅広く利用されている。",
@@ -1613,7 +2380,11 @@
   {
     "date": "1985-11-20",
     "name": "Windows",
-    "type": "OS,アメリカ,昭和",
+    "type": [
+      "OS",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "windows.svg",
     "nationality": "United-States-of-America",
     "description": "マイクロソフトが開発したオペレーティングシステム。当初はMS-DOS上のGUI環境として登場したが、後に独立したOSとなり、世界で最も広く使われるPC用OSとなった。",
@@ -1622,7 +2393,11 @@
   {
     "date": "1984-01-24",
     "name": "macOS",
-    "type": "OS,アメリカ,昭和",
+    "type": [
+      "OS",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "macos.svg",
     "nationality": "United-States-of-America",
     "description": "Appleが開発したMacintosh用オペレーティングシステム。直感的なGUI（グラフィカルユーザーインターフェース）を一般に普及させた先駆的存在。",
@@ -1631,7 +2406,11 @@
   {
     "date": "2008-09-23",
     "name": "Android",
-    "type": "OS,アメリカ,平成",
+    "type": [
+      "OS",
+      "アメリカ",
+      "平成"
+    ],
     "img": "android.svg",
     "nationality": "United-States-of-America",
     "description": "Googleが中心となって開発した、モバイルデバイス向けオペレーティングシステム。Linuxカーネルをベースにしており、スマートフォン市場で圧倒的なシェアを持つ。",
@@ -1640,7 +2419,11 @@
   {
     "date": "2007-06-29",
     "name": "iOS",
-    "type": "OS,アメリカ,平成",
+    "type": [
+      "OS",
+      "アメリカ",
+      "平成"
+    ],
     "img": "ios.svg",
     "nationality": "United-States-of-America",
     "description": "AppleがiPhoneのために開発したモバイルオペレーティングシステム。直感的なマルチタッチインターフェースを採用し、スマートフォンのあり方を一変させた。",
@@ -1649,7 +2432,11 @@
   {
     "date": "2005-04-07",
     "name": "Git",
-    "type": "tool,フィンランド,平成",
+    "type": [
+      "tool",
+      "フィンランド",
+      "平成"
+    ],
     "img": "git.svg",
     "nationality": "Finland",
     "description": "リーナス・トーバルズがLinuxカーネル開発のために設計した分散型バージョン管理システム。高速な動作と強力なブランチ機能を持ち、現代のソフトウェア開発のデファクトスタンダードとなっている。",
@@ -1658,7 +2445,11 @@
   {
     "date": "1994-04-04",
     "name": "Netscape",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "netscape.svg",
     "nationality": "United-States-of-America",
     "description": "マーク・アンドリーセンとジム・クラークによって設立された。Webブラウザ「Netscape Navigator」でインターネット初期の爆発的普及を牽引したが、Microsoftとの「ブラウザ戦争」に敗れた。その後、Mozillaプロジェクトの母体となった。",
@@ -1667,7 +2458,11 @@
   {
     "date": "1987-02-21",
     "name": "TSMC",
-    "type": "hardware,台湾,昭和",
+    "type": [
+      "hardware",
+      "台湾",
+      "昭和"
+    ],
     "img": "tsmc.svg",
     "nationality": "Taiwan",
     "description": "モリス・チャンによって設立された、世界最大の半導体ファウンドリ（受託製造企業）。「ファブレス」というビジネスモデルを確立し、世界のテクノロジー企業のチップ製造を一手に担う、現代IT産業の心臓部。",
@@ -1676,7 +2471,11 @@
   {
     "date": "1865-05-12",
     "name": "Nokia",
-    "type": "hardware,フィンランド,明治",
+    "type": [
+      "hardware",
+      "フィンランド",
+      "明治"
+    ],
     "img": "nokia.svg",
     "nationality": "Finland",
     "description": "当初は製紙会社として創業したが、後に携帯電話市場の絶対的王者として君臨した。1992年に世界初のGSM携帯電話を発売し、モバイル通信の普及に貢献した。スマートフォンの波に乗り遅れたが、現在は通信インフラの大手。",
@@ -1685,7 +2484,11 @@
   {
     "date": "2010-03-18",
     "name": "KakaoTalk",
-    "type": "Communication,韓国,平成",
+    "type": [
+      "Communication",
+      "韓国",
+      "平成"
+    ],
     "img": "kakaotalk.svg",
     "nationality": "Korea,-South",
     "description": "韓国で圧倒的なシェアを誇る無料通話・メッセンジャーアプリ。決済、銀行、タクシー配車など生活のあらゆる場面に関わる「スーパーアプリ」として独自の経済圏を築いている。",
@@ -1694,7 +2497,11 @@
   {
     "date": "2012-06-01",
     "name": "Grab",
-    "type": "service,シンガポール,平成",
+    "type": [
+      "service",
+      "シンガポール",
+      "平成"
+    ],
     "img": "grab.svg",
     "nationality": "Singapore",
     "description": "ハーバード・ビジネス・スクールの同級生によって設立された、東南アジア最大のスーパーアプリ。配車サービスから始まり、フードデリバリー、決済、金融サービスへと拡大し、地域のデジタル経済を牽引している。",
@@ -1703,7 +2510,11 @@
   {
     "date": "2010-10-01",
     "name": "Gojek",
-    "type": "service,インドネシア,平成",
+    "type": [
+      "service",
+      "インドネシア",
+      "平成"
+    ],
     "img": "gojek.svg",
     "nationality": "Indonesia",
     "description": "インドネシア発のスーパーアプリ。当初はバイクタクシー（オジェック）の配車コールセンターとして始まった。フードデリバリーや決済など多岐にわたるサービスを提供し、Grabと激しく競合している。",
@@ -1712,7 +2523,11 @@
   {
     "date": "1999-08-02",
     "name": "MercadoLibre",
-    "type": "EC,アルゼンチン,平成",
+    "type": [
+      "EC",
+      "アルゼンチン",
+      "平成"
+    ],
     "img": "mercadolibre.svg",
     "nationality": "Argentina",
     "description": "スタンフォード大の学生だったマルコス・ガルペリンによって設立された、「ラテンアメリカのアマゾン」。ECプラットフォームと決済システム「Mercado Pago」により、南米のeコマース市場を支配している。",
@@ -1721,7 +2536,11 @@
   {
     "date": "2007-03-06",
     "name": "M-Pesa",
-    "type": "FinTech,ケニア,平成",
+    "type": [
+      "FinTech",
+      "ケニア",
+      "平成"
+    ],
     "img": "mpesa.svg",
     "nationality": "Kenya",
     "description": "ケニアの通信会社Safaricomが開始したモバイル送金サービス。銀行口座を持たない人々でも携帯電話で送金や決済ができるようにし、アフリカの金融包摂（Financial Inclusion）に革命を起こした。",
@@ -1730,7 +2549,11 @@
   {
     "date": "1997-09-23",
     "name": "Yandex",
-    "type": "search engine,ロシア,平成",
+    "type": [
+      "search engine",
+      "ロシア",
+      "平成"
+    ],
     "img": "yandex.svg",
     "nationality": "Russia",
     "description": "ロシア最大の検索エンジン。Googleに対抗できる数少ないローカル検索エンジンの一つであり、タクシー配車、自動運転、AI開発なども手掛けるロシアのテック大手。",
@@ -1739,7 +2562,11 @@
   {
     "date": "1972-06-27",
     "name": "Atari",
-    "type": "Game,アメリカ,昭和",
+    "type": [
+      "Game",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "atari.svg",
     "nationality": "United-States-of-America",
     "description": "ノーラン・ブッシュネルによって設立された、ビデオゲーム産業のパイオニア。「Pong」や家庭用ゲーム機「Atari 2600」でゲームブームを巻き起こしたが、後に「アタリショック」と呼ばれる市場崩壊も経験した。",
@@ -1748,7 +2575,11 @@
   {
     "date": "1999-06-01",
     "name": "Napster",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "napster.svg",
     "nationality": "United-States-of-America",
     "description": "ショーン・ファニングらが開発したP2Pファイル共有サービス。MP3音楽ファイルの無料共有を可能にし、音楽業界に激震を走らせた。著作権侵害訴訟により閉鎖されたが、その技術と概念は後のストリーミング時代への道を開いた。",
@@ -1757,7 +2588,11 @@
   {
     "date": "1981-07-02",
     "name": "Infosys",
-    "type": "IT,インド,昭和",
+    "type": [
+      "IT",
+      "インド",
+      "昭和"
+    ],
     "img": "infosys.svg",
     "nationality": "India",
     "description": "ナラヤナ・ムルティら7人のエンジニアによって設立された、インドを代表するITコンサルティング・アウトソーシング企業。「グローバル・デリバリー・モデル」を確立し、インドを世界のITバックオフィスへと変貌させた。",
@@ -1766,7 +2601,11 @@
   {
     "date": "2003-09-15",
     "name": "The Pirate Bay",
-    "type": "Piracy,スウェーデン,平成",
+    "type": [
+      "Piracy",
+      "スウェーデン",
+      "平成"
+    ],
     "img": "thepiratebay.svg",
     "nationality": "Sweden",
     "description": "スウェーデンの反著作権団体「Piratbyrån」によって設立された、世界で最も有名なBitTorrentインデックスサイト。数々の法的措置や強制捜査を受けながらも復活を繰り返し、インターネットの自由と著作権を巡る議論の象徴となった。",
@@ -1775,7 +2614,11 @@
   {
     "date": "2005-03-21",
     "name": "Megaupload",
-    "type": "Piracy,香港,平成",
+    "type": [
+      "Piracy",
+      "香港",
+      "平成"
+    ],
     "img": "megaupload.svg",
     "nationality": "Hong-Kong",
     "description": "キム・ドットコムによって設立されたオンラインストレージサービス。手軽なファイル共有手段として絶大な人気を誇ったが、大規模な著作権侵害の温床としてFBIにより閉鎖され、経営陣が逮捕された。",
@@ -1784,7 +2627,11 @@
   {
     "date": "2000-05-03",
     "name": "LimeWire",
-    "type": "Piracy,アメリカ,平成",
+    "type": [
+      "Piracy",
+      "アメリカ",
+      "平成"
+    ],
     "img": "limewire.svg",
     "nationality": "United-States-of-America",
     "description": "マーク・ゴートンによって開発されたP2Pファイル共有ソフト。Gnutellaネットワークを利用し、Napster後のファイル共有ブームを支えたが、RIAA（全米レコード協会）との訴訟に敗れ、サービスを停止した。",
@@ -1793,7 +2640,11 @@
   {
     "date": "2011-09-05",
     "name": "Sci-Hub",
-    "type": "Piracy,カザフスタン,平成",
+    "type": [
+      "Piracy",
+      "カザフスタン",
+      "平成"
+    ],
     "img": "scihub.svg",
     "nationality": "Kazakhstan",
     "description": "アレクサンドラ・エルバキヤンによって設立された、学術論文の海賊版サイト。「科学の知識における障壁を取り除く」ことを掲げ、数千万件の論文を無料で公開し、学術出版のあり方に一石を投じている。",
@@ -1802,7 +2653,11 @@
   {
     "date": "2014-02-28",
     "name": "Popcorn Time",
-    "type": "Piracy,アルゼンチン,平成",
+    "type": [
+      "Piracy",
+      "アルゼンチン",
+      "平成"
+    ],
     "img": "popcorntime.svg",
     "nationality": "Argentina",
     "description": "アルゼンチンの開発者グループによって作成された、オープンソースのBitTorrentクライアント。「海賊版のNetflix」とも呼ばれ、ダウンロードを待たずにストリーミング再生できる画期的なUXで人気を博した。",
@@ -1811,7 +2666,11 @@
   {
     "date": "2016-01-01",
     "name": "Mangamura",
-    "type": "Piracy,日本,平成",
+    "type": [
+      "Piracy",
+      "日本",
+      "平成"
+    ],
     "img": "mangamura.svg",
     "nationality": "Japan",
     "description": "星野ロミによって運営されていた、日本最大級の海賊版マンガ閲覧サイト。出版業界に甚大な被害を与え、社会問題化。政府によるサイトブロッキング議論の引き金となり、運営者の逮捕と実刑判決に至った。",
@@ -1820,7 +2679,11 @@
   {
     "date": "2002-05-06",
     "name": "Winny",
-    "type": "Piracy,日本,平成",
+    "type": [
+      "Piracy",
+      "日本",
+      "平成"
+    ],
     "img": "winny.svg",
     "nationality": "Japan",
     "description": "金子勇（47氏）によって開発されたP2Pファイル共有ソフト。高い匿名性を持ち、映画や音楽だけでなく、警察や自衛隊の内部情報流出事件の温床ともなった。開発者が著作権法違反幇助で逮捕されるという、技術者の責任を巡る大きな論争を巻き起こした。",
@@ -1829,7 +2692,11 @@
   {
     "date": "2002-09-20",
     "name": "Tor",
-    "type": "Dark Web,アメリカ,平成",
+    "type": [
+      "Dark Web",
+      "アメリカ",
+      "平成"
+    ],
     "img": "tor.svg",
     "nationality": "United-States-of-America",
     "description": "米国海軍調査研究所（NRL）によって開発された「Onion Routing」技術をベースにした匿名通信ネットワーク。インターネット上のプライバシーと自由を守るためのツールとして、ジャーナリスト、活動家、そしてダークウェブの基盤として利用されている。",
@@ -1838,7 +2705,11 @@
   {
     "date": "2011-02-01",
     "name": "Silk Road",
-    "type": "Dark Web,アメリカ,平成",
+    "type": [
+      "Dark Web",
+      "アメリカ",
+      "平成"
+    ],
     "img": "silkroad.svg",
     "nationality": "United-States-of-America",
     "description": "ロス・ウルブリヒト（ドレッド・パイレート・ロバーツ）によって開設された、最初の現代的なダークネットマーケット。Torによる匿名性とBitcoinによる決済を組み合わせ、違法薬物などの取引を可能にした。",
@@ -1847,7 +2718,11 @@
   {
     "date": "2000-03-01",
     "name": "Freenet",
-    "type": "Dark Web,アイルランド,平成",
+    "type": [
+      "Dark Web",
+      "アイルランド",
+      "平成"
+    ],
     "img": "freenet.svg",
     "nationality": "Ireland",
     "description": "イアン・クラークによって開発された、検閲耐性のある分散型データストア。P2Pネットワーク上にデータを分散保存することで、特定のサーバーに依存せず、匿名での情報発信と閲覧を可能にする。",
@@ -1856,7 +2731,11 @@
   {
     "date": "2003-08-01",
     "name": "I2P",
-    "type": "Dark Web,Multi-national,平成",
+    "type": [
+      "Dark Web",
+      "Multi-national",
+      "平成"
+    ],
     "img": "i2p.svg",
     "nationality": "Multi-national",
     "description": "Invisible Internet Project。隠蔽されたサービス（eepsite）のための匿名ネットワークレイヤー。Torとは異なり、ファイル共有やチャットなどのP2Pアプリケーションの匿名化に特化している。",
@@ -1865,7 +2744,11 @@
   {
     "date": "2014-12-22",
     "name": "AlphaBay",
-    "type": "Dark Web,カナダ,平成",
+    "type": [
+      "Dark Web",
+      "カナダ",
+      "平成"
+    ],
     "img": "alphabay.svg",
     "nationality": "Canada",
     "description": "アレクサンドル・カゼスによって設立された、Silk Road閉鎖後の最大規模のダークネットマーケット。2017年に法執行機関によって閉鎖されるまで、数多くの違法取引が行われていた。",
@@ -1874,7 +2757,11 @@
   {
     "date": "1969-10-29",
     "name": "ARPANET",
-    "type": "Infrastructure,アメリカ,昭和",
+    "type": [
+      "Infrastructure",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "arpanet.svg",
     "nationality": "United-States-of-America",
     "description": "米国防総省の高等研究計画局（ARPA）によって構築された、世界初のパケット交換ネットワークであり、現代のインターネットの始祖。最初のメッセージは「LO」（LOGINと打とうとしてクラッシュした）だった。",
@@ -1883,7 +2770,11 @@
   {
     "date": "1990-12-20",
     "name": "World Wide Web",
-    "type": "IT,スイス,平成",
+    "type": [
+      "IT",
+      "スイス",
+      "平成"
+    ],
     "img": "www.svg",
     "nationality": "Switzerland",
     "description": "CERN（欧州原子核研究機構）のティム・バーナーズ＝リーによって発明された、ハイパーテキストシステム。世界初のWebサイト「info.cern.ch」が公開され、インターネットが一般に普及するきっかけとなった。",
@@ -1892,7 +2783,11 @@
   {
     "date": "1993-01-23",
     "name": "NCSA Mosaic",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "mosaic.svg",
     "nationality": "United-States-of-America",
     "description": "イリノイ大学のマーク・アンドリーセンらによって開発された、画像とテキストを同一ウィンドウ内に表示できる最初の普及型Webブラウザ。インターネットを「見る」ものへと変え、後のNetscapeやIEの基礎となった。",
@@ -1901,7 +2796,11 @@
   {
     "date": "1999-02-22",
     "name": "i-mode",
-    "type": "service,日本,平成",
+    "type": [
+      "service",
+      "日本",
+      "平成"
+    ],
     "img": "imode.svg",
     "nationality": "Japan",
     "description": "NTTドコモが開始した、世界初の成功したモバイルインターネットサービス。携帯電話だけでメールやWeb閲覧、チケット予約などができる画期的なシステムで、日本のガラケー文化の象徴となった。",
@@ -1910,7 +2809,11 @@
   {
     "date": "1999-05-30",
     "name": "2channel",
-    "type": "SNS,日本,平成",
+    "type": [
+      "SNS",
+      "日本",
+      "平成"
+    ],
     "img": "2channel.svg",
     "nationality": "Japan",
     "description": "西村博之（ひろゆき）によって開設された、日本最大の匿名掲示板群（現在は5ちゃんねる）。「電車男」などの社会現象を生み出し、日本のネットスラングやアングラ文化の震源地となった。",
@@ -1919,7 +2822,11 @@
   {
     "date": "1889-09-23",
     "name": "Nintendo",
-    "type": "Game,日本,明治",
+    "type": [
+      "Game",
+      "日本",
+      "明治"
+    ],
     "img": "nintendo.svg",
     "nationality": "Japan",
     "description": "京都の花札製造会社として創業。1980年代に「ファミリーコンピュータ（NES）」でビデオゲーム市場を席巻し、マリオやゼルダなどのIPで世界的なエンターテインメント企業となった。",
@@ -1928,7 +2835,11 @@
   {
     "date": "1960-06-03",
     "name": "SEGA",
-    "type": "Game,日本,昭和",
+    "type": [
+      "Game",
+      "日本",
+      "昭和"
+    ],
     "img": "sega.svg",
     "nationality": "Japan",
     "description": "アミューズメントマシンの輸入・製造から始まり、「メガドライブ（Genesis）」で任天堂と激しいコンソール戦争（Console Wars）を繰り広げた。「ソニック・ザ・ヘッジホッグ」などの代表作を持つ。",
@@ -1937,7 +2848,11 @@
   {
     "date": "2010-09-01",
     "name": "DeepMind",
-    "type": "AI,イギリス,平成",
+    "type": [
+      "AI",
+      "イギリス",
+      "平成"
+    ],
     "img": "deepmind.svg",
     "nationality": "United-Kingdom",
     "description": "デミス・ハサビスらによってロンドンで設立されたAI企業。2014年にGoogleに買収された。囲碁AI「AlphaGo」が世界トップ棋士を破り、第3次AIブームの火付け役となった。",
@@ -1946,7 +2861,11 @@
   {
     "date": "1984-03-07",
     "name": "BlackBerry",
-    "type": "hardware,カナダ,昭和",
+    "type": [
+      "hardware",
+      "カナダ",
+      "昭和"
+    ],
     "img": "blackberry.svg",
     "nationality": "Canada",
     "description": "物理キーボードによるメール機能で、ビジネスパーソンを中心に一世を風靡したスマートフォンの先駆者。iPhone登場以前はスマートフォン市場の覇者だったが、タッチパネルへの移行に遅れた。",
@@ -1955,7 +2874,11 @@
   {
     "date": "2003-01-01",
     "name": "Theranos",
-    "type": "FinTech,アメリカ,平成",
+    "type": [
+      "FinTech",
+      "アメリカ",
+      "平成"
+    ],
     "img": "theranos.svg",
     "nationality": "United-States-of-America",
     "description": "エリザベス・ホームズによって設立された医療ベンチャー。「数滴の血液で数百種類の検査ができる」と謳い巨額の資金を集めたが、技術は実在せず、シリコンバレー史上最大級の詐欺事件として崩壊した。",
@@ -1964,7 +2887,11 @@
   {
     "date": "2010-07-18",
     "name": "Mt. Gox",
-    "type": "FinTech,日本,平成",
+    "type": [
+      "FinTech",
+      "日本",
+      "平成"
+    ],
     "img": "mtgox.svg",
     "nationality": "Japan",
     "description": "かつて世界最大のビットコイン取引所だった東京の企業。2014年に約85万BTC（当時のレートで約480億円）が消失し破綻。仮想通貨のセキュリティと規制の重要性を世界に知らしめた事件。",
@@ -1973,7 +2900,11 @@
   {
     "date": "1970-07-01",
     "name": "Xerox PARC",
-    "type": "IT,アメリカ,昭和",
+    "type": [
+      "IT",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "xeroxparc.svg",
     "nationality": "United-States-of-America",
     "description": "パロアルト研究所。GUI（グラフィカルユーザーインターフェース）、マウス、イーサネット、オブジェクト指向など、現代のPC技術の基礎の多くを発明したが、親会社のXeroxはそれを製品化できなかった。",
@@ -1982,7 +2913,11 @@
   {
     "date": "1976-01-01",
     "name": "Commodore",
-    "type": "hardware,アメリカ,昭和",
+    "type": [
+      "hardware",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "commodore.svg",
     "nationality": "United-States-of-America",
     "description": "「Commodore 64」は単一機種として歴史上最も売れたパソコンであり、PCを家庭に普及させた立役者。Amigaシリーズは高度なグラフィックとマルチメディア機能でクリエイターに愛された。",
@@ -1991,7 +2926,11 @@
   {
     "date": "1995-03-01",
     "name": "Craigslist",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "craigslist.svg",
     "nationality": "United-States-of-America",
     "description": "クレイグ・ニューマークがサンフランシスコで開始した、地域密着型のクラシファイドコミュニティサイト。シンプルさを貫き、求人、住宅、販売、サービス、フォーラムなど、インターネット上の掲示板文化の原型を作った。",
@@ -2000,7 +2939,11 @@
   {
     "date": "1994-11-01",
     "name": "GeoCities",
-    "type": "service,アメリカ,平成",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
     "img": "geocities.svg",
     "nationality": "United-States-of-America",
     "description": "デイビッド・ボネットらが設立した、無料ウェブホスティングサービス。ユーザーが「近所（Neighborhoods）」と呼ばれるテーマ別のコミュニティにホームページを作成できる仕組みで、個人サイトブームを巻き起こした。2009年に米国でのサービスを終了。",
@@ -2009,7 +2952,11 @@
   {
     "date": "1969-01-01",
     "name": "CompuServe",
-    "type": "service,アメリカ,昭和",
+    "type": [
+      "service",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "compuserve.svg",
     "nationality": "United-States-of-America",
     "description": "1980年代から90年代にかけて主要だった商用オンラインサービスプロバイダ。チャット、フォーラム、ソフトウェアライブラリなどを提供し、GIFフォーマットの開発元としても知られる。後にAOLに買収された。",
@@ -2018,7 +2965,11 @@
   {
     "date": "1985-05-24",
     "name": "AOL",
-    "type": "service,アメリカ,昭和",
+    "type": [
+      "service",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "aol.svg",
     "nationality": "United-States-of-America",
     "description": "アメリカ・オンライン。1990年代のインターネット普及期に、ダイヤルアップ接続と独自のポータルサービスで圧倒的なシェアを誇った。キャッチフレーズ「You've Got Mail」は一世を風靡した。",
@@ -2027,7 +2978,11 @@
   {
     "date": "1969-05-01",
     "name": "AMD",
-    "type": "hardware,アメリカ,昭和",
+    "type": [
+      "hardware",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "amd.svg",
     "nationality": "United-States-of-America",
     "description": "Advanced Micro Devices。Intelの競合としてx86互換プロセッサを製造し、2000年代には64ビット拡張（AMD64）を先導した。現在はCPUとGPU（Radeon）の両方を手掛ける唯一の主要メーカーとして、PC、ゲーム機、データセンターを支える。",
@@ -2036,7 +2991,11 @@
   {
     "date": "1990-11-27",
     "name": "ARM",
-    "type": "hardware,イギリス,平成",
+    "type": [
+      "hardware",
+      "イギリス",
+      "平成"
+    ],
     "img": "arm.svg",
     "nationality": "United-Kingdom",
     "description": "Acorn Computers、Apple、VLSI Technologyのジョイントベンチャーとして設立。電力効率に優れたRISCアーキテクチャを設計し、スマートフォン時代の到来とともに、世界中のほぼ全てのモバイルデバイスの頭脳（CPU）となった。",
@@ -2045,7 +3004,11 @@
   {
     "date": "1985-07-01",
     "name": "Qualcomm",
-    "type": "hardware,アメリカ,昭和",
+    "type": [
+      "hardware",
+      "アメリカ",
+      "昭和"
+    ],
     "img": "qualcomm.svg",
     "nationality": "United-States-of-America",
     "description": "アーウィン・ジェイコブスらによって設立。CDMA技術を商業化し、3G、4G、5Gと続くモバイル通信規格の進化を主導した。Snapdragonプロセッサは多くのAndroidスマートフォンに搭載されている。",
@@ -2054,7 +3017,11 @@
   {
     "date": "2003-07-01",
     "name": "Tesla",
-    "type": "hardware,アメリカ,平成",
+    "type": [
+      "hardware",
+      "アメリカ",
+      "平成"
+    ],
     "img": "tesla.svg",
     "nationality": "United-States-of-America",
     "description": "マーティン・エバーハードとマーク・ターペニングによって設立され、後にイーロン・マスクが参加。電気自動車（EV）を高性能なITガジェットのように再定義し、自動運転技術（Autopilot）やOTAアップデートで自動車産業に革命を起こした。",
@@ -2063,7 +3030,11 @@
   {
     "date": "2021-01-01",
     "name": "Anthropic",
-    "type": "AI,アメリカ,平成",
+    "type": [
+      "AI",
+      "アメリカ",
+      "平成"
+    ],
     "img": "anthropic.svg",
     "nationality": "United-States-of-America",
     "description": "OpenAIの元研究幹部であるダリオ・アモデイ、ダニエラ・アモデイ兄妹らによって設立されたAI安全性・研究企業。「Claude」シリーズを開発し、AIの憲法（Constitutional AI）などの概念で、安全性と有益性を重視したAI開発を推進している。",
