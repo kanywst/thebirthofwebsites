@@ -40,6 +40,18 @@ function injectFill(svg, value) {
   return svg.replace(/<svg/i, `<svg fill="${value}"`)
 }
 
+/**
+ * lobehub icons ship with `width="1em" height="1em" style="flex:none;..."`
+ * which makes the browser render them at the inline em size regardless of
+ * the wrapper's CSS sizing. Strip those so CSS controls dimensions.
+ */
+function stripInlineSizing(svg) {
+  return svg
+    .replace(/\swidth="[^"]*"/i, "")
+    .replace(/\sheight="[^"]*"/i, "")
+    .replace(/\sstyle="[^"]*"/i, "")
+}
+
 function overrideTitle(svg, title) {
   if (/<title>[^<]*<\/title>/i.test(svg)) {
     return svg.replace(/<title>[^<]*<\/title>/i, `<title>${title}</title>`)
@@ -139,7 +151,7 @@ for (const [filename, spec] of Object.entries(MAP)) {
   if (spec.lh) {
     const src = resolve(LH_ICONS, `${spec.lh}.svg`)
     if (existsSync(src)) {
-      const raw = readFileSync(src, "utf8")
+      const raw = stripInlineSizing(readFileSync(src, "utf8"))
       const hex = pickHex(spec)
       content = injectFill(raw, hex ? `#${hex}` : "currentColor")
       source = `lobehub:${spec.lh}${hex ? `#${hex}` : ""}`
@@ -152,7 +164,7 @@ for (const [filename, spec] of Object.entries(MAP)) {
   if (content === null && spec.si) {
     const src = resolve(SI_ICONS, `${spec.si}.svg`)
     if (existsSync(src)) {
-      const raw = readFileSync(src, "utf8")
+      const raw = stripInlineSizing(readFileSync(src, "utf8"))
       const hex = pickHex(spec)
       content = injectFill(raw, hex ? `#${hex}` : "currentColor")
       source = `simple-icons:${spec.si}${hex ? `#${hex}` : ""}`
