@@ -86,7 +86,7 @@ const filteredItems = computed(() => {
 })
 
 function selectFilter(filter: string) {
-  activeFilter.value = filter
+  activeFilter.value = activeFilter.value === filter ? "All" : filter
 }
 
 function count(tag: string): number {
@@ -106,10 +106,12 @@ function count(tag: string): number {
       >
     </div>
 
-    <section class="filters-container" :aria-label="$t('filters.label.category')">
+    <section class="filters-container" :aria-label="$t('filters.label.section')">
       <div class="filter-group">
-        <h2 class="filter-label">{{ $t("filters.label.category") }}</h2>
-        <div class="filter-scroll" role="group">
+        <h2 id="filter-label-category" class="filter-label">
+          {{ $t("filters.label.category") }}
+        </h2>
+        <div class="filter-scroll" role="group" aria-labelledby="filter-label-category">
           <button
             v-for="filter in TYPE_FILTERS"
             :key="filter"
@@ -125,8 +127,10 @@ function count(tag: string): number {
       </div>
 
       <div class="filter-group">
-        <h2 class="filter-label">{{ $t("filters.label.nationality") }}</h2>
-        <div class="filter-scroll" role="group">
+        <h2 id="filter-label-nationality" class="filter-label">
+          {{ $t("filters.label.nationality") }}
+        </h2>
+        <div class="filter-scroll" role="group" aria-labelledby="filter-label-nationality">
           <button
             v-for="filter in NATIONALITY_FILTERS"
             :key="filter"
@@ -142,8 +146,10 @@ function count(tag: string): number {
       </div>
 
       <div class="filter-group">
-        <h2 class="filter-label">{{ $t("filters.label.era") }}</h2>
-        <div class="filter-scroll" role="group">
+        <h2 id="filter-label-era" class="filter-label">
+          {{ $t("filters.label.era") }}
+        </h2>
+        <div class="filter-scroll" role="group" aria-labelledby="filter-label-era">
           <button
             v-for="filter in ERA_FILTERS"
             :key="filter"
