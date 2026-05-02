@@ -76,6 +76,54 @@ const REBRANDS = {
     description_en:
       "Cloud application platform (PaaS) founded in 2007 and acquired by Salesforce in 2010. A long-time favorite for Ruby on Rails and indie developers. On November 28, 2022, Heroku ended its free dyno, free Postgres, and free Redis tiers — closing an era that had fueled countless startups and hobby projects.",
   },
+  Skype: {
+    description:
+      "ニコラス・センストロムとヤヌス・フリスが2003年に設立したP2P電話サービス。スマートフォン以前の国際通話の常識を変えた。2011年5月、Microsoftが85億ドルで買収。長らくMicrosoftのコミュニケーション基盤として使われてきたが、2025年5月5日にコンシューマー版サービスを終了し、ユーザーはMicrosoft Teams（無料版）へ移行した。",
+    description_en:
+      "P2P calling service founded in 2003 by Niklas Zennström and Janus Friis, transforming international phone calls before the smartphone era. Acquired by Microsoft for $8.5B in May 2011. The consumer service shut down on May 5, 2025, with users migrated to the free tier of Microsoft Teams.",
+  },
+  LiveLeak: {
+    description:
+      "戦争・テロ・犯罪・事故・災害といった現実の出来事を生のまま配信するニュース／ショックサイトの代表格。2006年に競合のOgrish.comを統合し、市民ジャーナリズムと「グロサイト」の中間を占めた。2021年5月5日にサービスを終了し、ItemFix.comへリダイレクトされた。",
+    description_en:
+      "News / shock site that distributed raw footage of wars, terrorism, crimes, accidents, and disasters. Absorbed competitor Ogrish.com in 2006, occupying a contested space between citizen journalism and outright shock content. Shut down on May 5, 2021 and redirected to ItemFix.com.",
+  },
+  Vimeo: {
+    description:
+      "プロ・セミプロのクリエイターに支持されてきた動画共有プラットフォーム。2017年9月にライブ配信会社Livestreamを買収。2021年5月にIACからスピンオフしてニューヨーク証券取引所に上場（VMEO）。2025年9月10日、伊Bending Spoonsが約13.8億ドルで全株を取得し、再び非上場化することが発表された。",
+    description_en:
+      "Video sharing platform favored by professional and semi-pro creators. Acquired live-streaming firm Livestream in September 2017. Spun off from IAC and listed on NYSE (VMEO) in May 2021. On September 10, 2025, Italy's Bending Spoons announced a $1.38B all-cash deal to take Vimeo private.",
+  },
+  Yandex: {
+    description:
+      "1997年に公開されたロシア最大の検索エンジン。タクシー配車、自動運転、広告、AI開発まで手がけるロシア最大級のテック企業として成長した。2024年7月、欧米の制裁を背景にYandex N.V.は約54億ドルでロシア事業を分離売却。残された海外資産は「Nebius Group」（オランダ拠点）へ社名変更し、ロシア国内のYandexは国内コンソーシアムが運営する別法人となった。",
+    description_en:
+      "Search engine launched in Russia in 1997, growing into one of the country's largest tech companies (search, ride-hailing, autonomous driving, ads, AI). In July 2024, under Western sanctions, Yandex N.V. divested its Russian operations for ~$5.4B; the remaining international entity rebranded as Netherlands-based Nebius Group, while the domestic Yandex was spun off to a Russian consortium.",
+  },
+  "Red Hat": {
+    description:
+      "1993年に設立されたLinuxディストリビューション企業。商用Linux市場のデファクトスタンダードであるRed Hat Enterprise Linux（RHEL）を中核に、JBoss、OpenShift等のミドルウェア／PaaSへ事業を拡大。2019年7月9日、IBMが約340億ドルでRed Hatの買収を完了した。Red Hatブランドと独立した運営は維持されつつ、IBMのハイブリッドクラウド戦略の中核に位置付けられている。",
+    description_en:
+      "Linux distribution company founded in 1993, anchoring the commercial Linux market with Red Hat Enterprise Linux (RHEL) and expanding into middleware and PaaS via JBoss and OpenShift. IBM closed its acquisition for ~$34B on July 9, 2019; Red Hat continues to operate as a distinct unit and brand, anchoring IBM's hybrid-cloud strategy.",
+  },
+  VMware: {
+    description:
+      "1998年に設立された仮想化ソフトウェアの先駆者。x86サーバ仮想化の事実上の標準として、データセンターからクラウドまで企業ITの基盤を担ってきた。2023年11月22日、半導体大手Broadcomが約690億ドルでVMwareの買収を完了。買収後はライセンス体系のサブスクリプション化や非中核事業の売却など、大規模な再編が進められた。",
+    description_en:
+      "Pioneer of virtualization software founded in 1998. The de facto standard for x86 server virtualization, underpinning enterprise IT from the data center to the cloud. Broadcom closed its acquisition for ~$69B on November 22, 2023, then rapidly moved to subscription licensing and non-core divestments.",
+  },
+  Hulu: {
+    description:
+      "2007年にNBCユニバーサルとフォックスの合弁で設立された米国の動画配信サービス。2019年にDisneyが運営権を取得し、2023年11月にコムキャストが保有していた残り33%の株式を取得して完全子会社化。2024年以降、Disney+との統合が進み、Disneyのストリーミング戦略の一翼を担っている。",
+    description_en:
+      "US video streaming service founded in 2007 as a joint venture between NBCUniversal and Fox. Disney took operational control in 2019 and acquired Comcast's remaining 33% stake in November 2023, making Hulu a wholly-owned subsidiary. Since 2024 the service has been progressively integrated with Disney+.",
+  },
+  Netscape: {
+    description:
+      "1994年にマーク・アンドリーセンとジム・クラークが設立。同年公開のWebブラウザ「Netscape Navigator」でインターネット初期の爆発的普及を牽引したが、Microsoftの「Internet Explorer」に押されて1990年代後半の「ブラウザ戦争」に敗れた。1999年にAOLが買収し、2008年にブランドは終了。オープンソース化されたコードはMozillaプロジェクトの母体となった。",
+    description_en:
+      "Founded in 1994 by Marc Andreessen and Jim Clark. Released Netscape Navigator the same year and drove the explosive early growth of the consumer Web, but lost the late-1990s 'browser wars' to Microsoft's Internet Explorer. Acquired by AOL in 1999; the brand was retired in 2008. Its open-sourced codebase became the foundation of the Mozilla project.",
+  },
 }
 
 let updated = 0

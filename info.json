@@ -987,8 +987,8 @@
     ],
     "img": "redhat.svg",
     "nationality": "United-States-of-America",
-    "description": "Linuxの歴史の初期から、より一般的なユーザーが利用できるように、Linuxカーネル と GNUプロジェクト、BSD、X11等のソフトウエアを組み合わせて、ネットワークサーバ や ワークステーションとして使えるようにして来た。2001年にレッドハット系のCaldera、Conectiva、SuSE、Turbolinuxが集まって共同のGNU/Linuxの基本となる United Linux が公開されているが、現在事実上活動停止の状態にある。この背景には、SuSEがノベルに買収されたり、SCO Groupによる IBM 提訴などがあるとされる。「法的には存在しているが、明かりは消した」状態であると最近のニュースメディアでは報道された。",
-    "description_en": "From the early history of Linux, it has combined the Linux kernel with software from the GNU Project, BSD, X11, etc. to make it usable by more general users as network servers and workstations. In 2001, Red Hat affiliates Caldera, Conectiva, SuSE, and Turbolinux gathered to release United Linux, which would be the basis of a joint GNU/Linux, but it is currently virtually inactive. This background is said to include the acquisition of SuSE by Novell and the lawsuit against IBM by the SCO Group. Recent news media reported that \"it legally exists, but the lights are out\"."
+    "description": "1993年に設立されたLinuxディストリビューション企業。商用Linux市場のデファクトスタンダードであるRed Hat Enterprise Linux（RHEL）を中核に、JBoss、OpenShift等のミドルウェア／PaaSへ事業を拡大。2019年7月9日、IBMが約340億ドルでRed Hatの買収を完了した。Red Hatブランドと独立した運営は維持されつつ、IBMのハイブリッドクラウド戦略の中核に位置付けられている。",
+    "description_en": "Linux distribution company founded in 1993, anchoring the commercial Linux market with Red Hat Enterprise Linux (RHEL) and expanding into middleware and PaaS via JBoss and OpenShift. IBM closed its acquisition for ~$34B on July 9, 2019; Red Hat continues to operate as a distinct unit and brand, anchoring IBM's hybrid-cloud strategy."
   },
   {
     "date": "1972",
@@ -1092,8 +1092,8 @@
     ],
     "img": "hulu.svg",
     "nationality": "United-States-of-America",
-    "description": "アメリカの動画配信サービスでは全体でYouTubeに次ぐ2位であり、上位10社の中で最も急成長している。Huluはテレビ局や映画会社が共同設立しており、YouTubeと比べて提供できるコンテンツが豊富にある。CEOのジェーソン・カイラーによれば、かつてオンライン・ショッピングサイトのアマゾンに10年余り勤務した後に、上級副社長の地位にあった。カイラーは「テレビ界の経験がゼロの人物」という条件でヘッドハンターが探してきた人材である。カイラーの起用はテレビがインターネットに移行したのではなく、元からインターネットだとして考えられる人物でなければ成功しない、という両社トップの判断によるものであ。",
-    "description_en": "It is the second largest video distribution service in the US after YouTube, and is the fastest growing among the top 10 companies. Hulu was jointly established by TV stations and movie companies, and has richer content than YouTube. According to CEO Jason Kilar, he held the position of Senior Vice President after working at online shopping site Amazon for over 10 years. Kilar is a talent that headhunters found under the condition of \"a person with zero experience in the TV world\". The appointment of Kilar was due to the judgment of the top management of both companies that it would not succeed unless it was a person who could think that TV had not moved to the Internet, but was originally the Internet."
+    "description": "2007年にNBCユニバーサルとフォックスの合弁で設立された米国の動画配信サービス。2019年にDisneyが運営権を取得し、2023年11月にコムキャストが保有していた残り33%の株式を取得して完全子会社化。2024年以降、Disney+との統合が進み、Disneyのストリーミング戦略の一翼を担っている。",
+    "description_en": "US video streaming service founded in 2007 as a joint venture between NBCUniversal and Fox. Disney took operational control in 2019 and acquired Comcast's remaining 33% stake in November 2023, making Hulu a wholly-owned subsidiary. Since 2024 the service has been progressively integrated with Disney+."
   },
   {
     "date": "1981-10",
@@ -1326,8 +1326,8 @@
     ],
     "img": "vmware.svg",
     "nationality": "United-States-of-America",
-    "description": "現代の業務用ITシステム環境では、サーバーやクライアント、ネットワーク、クラウド環境等の仮想化によりシステムを効率的に運用することが一般的となってきているが、その仮想環境を構築する際のデファクトスタンダードとして用いられるのがVMware製品群である。IT基盤製品が中心であるため、システム利用者が直接VMware製品を目にするケースはそれほど多くはないものの、日本においてもほぼ全ての企業で採用されている。",
-    "description_en": "In modern business IT system environments, it has become common to operate systems efficiently by virtualizing servers, clients, networks, cloud environments, etc., and the VMware product group is used as the de facto standard when building such virtual environments. Since they are mainly IT infrastructure products, it is not so common for system users to see VMware products directly, but they are adopted by almost all companies in Japan as well."
+    "description": "1998年に設立された仮想化ソフトウェアの先駆者。x86サーバ仮想化の事実上の標準として、データセンターからクラウドまで企業ITの基盤を担ってきた。2023年11月22日、半導体大手Broadcomが約690億ドルでVMwareの買収を完了。買収後はライセンス体系のサブスクリプション化や非中核事業の売却など、大規模な再編が進められた。",
+    "description_en": "Pioneer of virtualization software founded in 1998. The de facto standard for x86 server virtualization, underpinning enterprise IT from the data center to the cloud. Broadcom closed its acquisition for ~$69B on November 22, 2023, then rapidly moved to subscription licensing and non-core divestments."
   },
   {
     "date": "2009-03",
@@ -1430,8 +1430,8 @@
     ],
     "img": "skype.svg",
     "nationality": "Estonia",
-    "description": "ニコラス・センストロムとヤヌス・フリスにより、グローバル P2P テレフォニー カンパニー（世界規模のP2P電話事業者）としてSkype社設立。4月、skype.com と skype.net がレジストラに登録された。",
-    "description_en": "Skype company established by Niklas Zennström and Janus Friis as a Global P2P Telephony Company. In April, skype.com and skype.net were registered with the registrar."
+    "description": "ニコラス・センストロムとヤヌス・フリスが2003年に設立したP2P電話サービス。スマートフォン以前の国際通話の常識を変えた。2011年5月、Microsoftが85億ドルで買収。長らくMicrosoftのコミュニケーション基盤として使われてきたが、2025年5月5日にコンシューマー版サービスを終了し、ユーザーはMicrosoft Teams（無料版）へ移行した。",
+    "description_en": "P2P calling service founded in 2003 by Niklas Zennström and Janus Friis, transforming international phone calls before the smartphone era. Acquired by Microsoft for $8.5B in May 2011. The consumer service shut down on May 5, 2025, with users migrated to the free tier of Microsoft Teams."
   },
   {
     "date": "2004-09-15",
@@ -1547,8 +1547,8 @@
     ],
     "img": "vimeo.svg",
     "nationality": "United-States-of-America",
-    "description": "2010年3月現在で、Vimeo には300万以上のメンバーがおり、1日に平均16,000本以上の新たな映像がアップロードされている。そのうちおよそ1割がHDであった[6]。2017年9月26日にVimeoは、ライブ動画配信プラットフォームを導入するために既存のライブ動画配信サービスのLivestreamを買収した。この買収によりLivestreamは、「Vimeo・Livestream」として組み込まれ、Vimeoは、新サービス「Vimeo Live」を開始した。",
-    "description_en": "As of March 2010, Vimeo had over 3 million members and an average of over 16,000 new videos uploaded per day. About 10% of them were HD. On September 26, 2017, Vimeo announced the acquisition of existing live video distribution service Livestream to introduce a live video distribution platform. With this acquisition, Livestream was incorporated as \"Vimeo Livestream\" and Vimeo launched a new service \"Vimeo Live\"."
+    "description": "プロ・セミプロのクリエイターに支持されてきた動画共有プラットフォーム。2017年9月にライブ配信会社Livestreamを買収。2021年5月にIACからスピンオフしてニューヨーク証券取引所に上場（VMEO）。2025年9月10日、伊Bending Spoonsが約13.8億ドルで全株を取得し、再び非上場化することが発表された。",
+    "description_en": "Video sharing platform favored by professional and semi-pro creators. Acquired live-streaming firm Livestream in September 2017. Spun off from IAC and listed on NYSE (VMEO) in May 2021. On September 10, 2025, Italy's Bending Spoons announced a $1.38B all-cash deal to take Vimeo private."
   },
   {
     "date": "2007",
@@ -1599,8 +1599,8 @@
     ],
     "img": "liveleak.png",
     "nationality": "United-States-of-America",
-    "description": "現実に発生した戦争・テロ・犯罪・事故・災害などの出来事をありのままに配信することを標榜するニュースサイトの一種だが、その中には一般的に残虐で猟奇的であると受け止められる記事が多く含まれていることでも知られている。なお、英語圏においてグロテスクな写真（グロ画像）や悪趣味なビデオ（グロ動画）が含まれるショックサイトと呼ばれる分野に属しており、同種サイトの Ogrish.com は2006年10月から LiveLeak へ統合されてリダイレクトされるようになった。",
-    "description_en": "It is a type of news site that claims to distribute events such as wars, terrorism, crimes, accidents, and disasters that actually occurred as they are, but it is also known that many articles that are generally perceived as cruel and bizarre are included. In English-speaking countries, it belongs to a field called shock sites that contain grotesque photos (grotesque images) and bad taste videos (grotesque videos), and Ogrish.com, a similar site, was integrated into LiveLeak and redirected from October 2006."
+    "description": "戦争・テロ・犯罪・事故・災害といった現実の出来事を生のまま配信するニュース／ショックサイトの代表格。2006年に競合のOgrish.comを統合し、市民ジャーナリズムと「グロサイト」の中間を占めた。2021年5月5日にサービスを終了し、ItemFix.comへリダイレクトされた。",
+    "description_en": "News / shock site that distributed raw footage of wars, terrorism, crimes, accidents, and disasters. Absorbed competitor Ogrish.com in 2006, occupying a contested space between citizen journalism and outright shock content. Shut down on May 5, 2021 and redirected to ItemFix.com."
   },
   {
     "date": "2014-06-06",
@@ -2452,8 +2452,8 @@
     ],
     "img": "netscape.svg",
     "nationality": "United-States-of-America",
-    "description": "マーク・アンドリーセンとジム・クラークによって設立された。Webブラウザ「Netscape Navigator」でインターネット初期の爆発的普及を牽引したが、Microsoftとの「ブラウザ戦争」に敗れた。その後、Mozillaプロジェクトの母体となった。",
-    "description_en": "Founded by Marc Andreessen and Jim Clark. It drove the early explosive growth of the Internet with its web browser \"Netscape Navigator\" for Internet Explorer, but lost the \"browser wars\" to Microsoft. Later became the foundation of the Mozilla project."
+    "description": "1994年にマーク・アンドリーセンとジム・クラークが設立。同年公開のWebブラウザ「Netscape Navigator」でインターネット初期の爆発的普及を牽引したが、Microsoftの「Internet Explorer」に押されて1990年代後半の「ブラウザ戦争」に敗れた。1999年にAOLが買収し、2008年にブランドは終了。オープンソース化されたコードはMozillaプロジェクトの母体となった。",
+    "description_en": "Founded in 1994 by Marc Andreessen and Jim Clark. Released Netscape Navigator the same year and drove the explosive early growth of the consumer Web, but lost the late-1990s 'browser wars' to Microsoft's Internet Explorer. Acquired by AOL in 1999; the brand was retired in 2008. Its open-sourced codebase became the foundation of the Mozilla project."
   },
   {
     "date": "1987-02-21",
@@ -2556,8 +2556,8 @@
     ],
     "img": "yandex.svg",
     "nationality": "Russia",
-    "description": "ロシア最大の検索エンジン。Googleに対抗できる数少ないローカル検索エンジンの一つであり、タクシー配車、自動運転、AI開発なども手掛けるロシアのテック大手。",
-    "description_en": "Russia's largest search engine. One of the few local search engines capable of competing with Google, it is a Russian tech giant also involved in taxi hailing, autonomous driving, and AI development."
+    "description": "1997年に公開されたロシア最大の検索エンジン。タクシー配車、自動運転、広告、AI開発まで手がけるロシア最大級のテック企業として成長した。2024年7月、欧米の制裁を背景にYandex N.V.は約54億ドルでロシア事業を分離売却。残された海外資産は「Nebius Group」（オランダ拠点）へ社名変更し、ロシア国内のYandexは国内コンソーシアムが運営する別法人となった。",
+    "description_en": "Search engine launched in Russia in 1997, growing into one of the country's largest tech companies (search, ride-hailing, autonomous driving, ads, AI). In July 2024, under Western sanctions, Yandex N.V. divested its Russian operations for ~$5.4B; the remaining international entity rebranded as Netherlands-based Nebius Group, while the domestic Yandex was spun off to a Russian consortium."
   },
   {
     "date": "1972-06-27",
@@ -3064,8 +3064,8 @@
     ],
     "img": "heroku.svg",
     "nationality": "United-States-of-America",
-    "description": "2007年に設立されたクラウドアプリケーションプラットフォーム（PaaS）。2010年にSalesforceが買収。Ruby on Railsをはじめとする開発者の定番として親しまれた。2022年11月28日、無料Dyno・無料Postgres・無料Redisプランを終了し、長年スタートアップやホビープロジェクトを支えてきた無料ティア時代に幕を下ろした。",
-    "description_en": "Cloud application platform (PaaS) founded in 2007 and acquired by Salesforce in 2010. A long-time favorite for Ruby on Rails. On November 28, 2022, Heroku ended its free dyno, free Postgres, and free Redis tiers — closing an era that fueled countless startups and hobby projects."
+    "description": "2007年に設立されたクラウドアプリケーションプラットフォーム（PaaS）。2010年にSalesforceが買収。Ruby on RailsをはじめとするWeb開発者の定番として親しまれた。2022年11月28日、無料Dyno・無料Postgres・無料Redisプランを終了し、長年スタートアップやホビープロジェクトを支えてきた無料ティアの時代に幕を下ろした。",
+    "description_en": "Cloud application platform (PaaS) founded in 2007 and acquired by Salesforce in 2010. A long-time favorite for Ruby on Rails and indie developers. On November 28, 2022, Heroku ended its free dyno, free Postgres, and free Redis tiers — closing an era that had fueled countless startups and hobby projects."
   },
   {
     "date": "2009-05-28",
