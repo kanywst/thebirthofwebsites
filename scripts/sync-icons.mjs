@@ -44,12 +44,15 @@ function injectFill(svg, value) {
  * lobehub icons ship with `width="1em" height="1em" style="flex:none;..."`
  * which makes the browser render them at the inline em size regardless of
  * the wrapper's CSS sizing. Strip those so CSS controls dimensions.
+ *
+ * Scoped to the opening <svg> tag so internal elements (e.g. <rect>,
+ * <image>, <foreignObject>) keep their own width/height/style.
+ * Handles both single- and double-quoted attribute values.
  */
 function stripInlineSizing(svg) {
-  return svg
-    .replace(/\swidth="[^"]*"/i, "")
-    .replace(/\sheight="[^"]*"/i, "")
-    .replace(/\sstyle="[^"]*"/i, "")
+  return svg.replace(/<svg[^>]*>/i, (tag) =>
+    tag.replace(/\s(width|height|style)=(['"])[^'"]*\2/gi, ""),
+  )
 }
 
 function overrideTitle(svg, title) {
