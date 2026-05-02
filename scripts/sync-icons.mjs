@@ -3,11 +3,13 @@
  * Generate colorful SVG logos under ./public for the 2022-2026 entries.
  *
  * Resolution order per brand:
- *   1. @lobehub/icons-static-svg `<brand>-color.svg` — already brand-colored.
- *   2. @lobehub/icons-static-svg `<brand>.svg` (monochrome currentColor).
- *   3. simple-icons `<slug>.svg` with brand hex from
+ *   1. @lobehub/icons-static-svg `<spec.lh>.svg` — copied as-is for the
+ *      `-color` variants, or with brand hex / currentColor injected for
+ *      monochrome variants.
+ *   2. @lobehub/icons-static-svg `<spec.lh>` not on disk → fall through.
+ *   3. simple-icons `<spec.si>.svg` with brand hex from
  *      simple-icons/data/simple-icons.json (or an override).
- *   4. Initial-letter fallback that uses currentColor.
+ *   4. Initial-letter fallback SVG that uses currentColor.
  *
  * Coloring rule: every SVG ends up with a fill attribute on the root
  * <svg> element. If we have a meaningful brand hex (anything other than
@@ -38,27 +40,38 @@ function injectFill(svg, value) {
   return svg.replace(/<svg/i, `<svg fill="${value}"`)
 }
 
+function overrideTitle(svg, title) {
+  if (/<title>[^<]*<\/title>/i.test(svg)) {
+    return svg.replace(/<title>[^<]*<\/title>/i, `<title>${title}</title>`)
+  }
+  return svg.replace(/(<svg[^>]*>)/i, `$1<title>${title}</title>`)
+}
+
 function fallbackSvg(text) {
   const fontSize = text.length === 1 ? 16 : text.length === 2 ? 11 : 9
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><text x="12" y="17" text-anchor="middle" font-family="-apple-system,system-ui,sans-serif" font-size="${fontSize}" font-weight="700">${text}</text></svg>\n`
 }
 
 /**
- * spec: { lh?: string, si?: string, hex?: string, fallback?: string }
- *   lh   – lobehub icon slug
- *   si   – simple-icons slug
- *   hex  – override hex (no #). If absent and si is set, falls back to
- *          simple-icons data. "000000" is treated as "no real brand color"
- *          and produces a currentColor logo (theme-following).
+ * spec: { lh?, si?, hex?, title?, fallback? }
+ *   lh    – lobehub icon slug (with or without `-color` variant)
+ *   si    – simple-icons slug
+ *   hex   – override hex (no #). If absent and si is set, falls back to
+ *           simple-icons data. "000000" is treated as "no real brand
+ *           color" and produces a currentColor logo.
+ *   title – override the SVG <title> element (e.g. upstream xai.svg
+ *           ships with <title>Grok</title>).
+ *   fallback – text used by the initial-letter fallback SVG, also used
+ *           if neither lobehub nor simple-icons resolves on disk.
  */
 const MAP = {
   // OpenAI products: lobehub openai mark + brand purple
-  "chatgpt.svg": { lh: "openai", hex: "412991" },
-  "gpt4.svg": { lh: "openai", hex: "412991" },
-  "openaio1.svg": { lh: "openai", hex: "412991" },
-  "openaio3.svg": { lh: "openai", hex: "412991" },
-  "sora.svg": { lh: "sora-color" },
-  "dalle2.svg": { lh: "dalle-color" },
+  "chatgpt.svg": { lh: "openai", hex: "412991", fallback: "C" },
+  "gpt4.svg": { lh: "openai", hex: "412991", fallback: "G" },
+  "openaio1.svg": { lh: "openai", hex: "412991", fallback: "o1" },
+  "openaio3.svg": { lh: "openai", hex: "412991", fallback: "o3" },
+  "sora.svg": { lh: "sora-color", fallback: "S" },
+  "dalle2.svg": { lh: "dalle-color", fallback: "D" },
 
   // Anthropic Claude family
   "claude.svg": { lh: "claude-color" },
@@ -66,7 +79,7 @@ const MAP = {
   "claude4.svg": { lh: "claude-color" },
 
   // Google AI
-  "bard.svg": { lh: "gemini-color" },
+  "bard.svg": { lh: "gemini-color", fallback: "B" },
   "gemini.svg": { lh: "gemini-color" },
 
   // Meta Llama family
@@ -77,16 +90,17 @@ const MAP = {
 
   // AI labs — color variants from lobehub
   "mistralai.svg": { lh: "mistral-color" },
-  "stabilityai.svg": { lh: "stability-color" },
-  "stablediffusion.svg": { lh: "stability-color" },
+  "stabilityai.svg": { lh: "stability-color", fallback: "SA" },
+  "stablediffusion.svg": { lh: "stability-color", fallback: "SD" },
   "perplexity.svg": { lh: "perplexity-color" },
   "deepseek.svg": { lh: "deepseek-color" },
   "githubcopilot.svg": { lh: "copilot-color" },
 
-  // Black-glyph brands — keep currentColor so they follow theme
-  "xai.svg": { lh: "xai" },
+  // Black-glyph brands — keep currentColor so they follow theme.
+  // xai upstream ships <title>Grok</title>, so override it.
+  "xai.svg": { lh: "xai", title: "xAI" },
   "grok.svg": { lh: "grok" },
-  "midjourney.svg": { lh: "midjourney" },
+  "midjourney.svg": { lh: "midjourney", fallback: "MJ" },
   "elevenlabs.svg": { lh: "elevenlabs" },
   "cursor.svg": { lh: "cursor" },
   "suno.svg": { lh: "suno" },
@@ -106,19 +120,6 @@ const MAP = {
   "heroku.svg": { fallback: "H" },
   "googlewave.svg": { fallback: "GW" },
   "googlereader.svg": { fallback: "GR" },
-}
-
-const FALLBACK_TEXT = {
-  "chatgpt.svg": "C",
-  "gpt4.svg": "G",
-  "openaio1.svg": "o1",
-  "openaio3.svg": "o3",
-  "sora.svg": "S",
-  "dalle2.svg": "D",
-  "bard.svg": "B",
-  "stabilityai.svg": "SA",
-  "stablediffusion.svg": "SD",
-  "midjourney.svg": "MJ",
 }
 
 function pickHex(spec) {
@@ -146,7 +147,9 @@ for (const [filename, spec] of Object.entries(MAP)) {
     } else {
       missing.push(`${filename} ← lobehub:${spec.lh} (not found)`)
     }
-  } else if (spec.si) {
+  }
+
+  if (content === null && spec.si) {
     const src = resolve(SI_ICONS, `${spec.si}.svg`)
     if (existsSync(src)) {
       const raw = readFileSync(src, "utf8")
@@ -160,13 +163,14 @@ for (const [filename, spec] of Object.entries(MAP)) {
   }
 
   if (content === null) {
-    const text =
-      spec.fallback ??
-      FALLBACK_TEXT[filename] ??
-      filename.replace(".svg", "").slice(0, 2).toUpperCase()
+    const text = spec.fallback ?? filename.replace(".svg", "").slice(0, 2).toUpperCase()
     content = fallbackSvg(text)
     source = `fallback:"${text}"`
     counters.fallback++
+  }
+
+  if (spec.title) {
+    content = overrideTitle(content, spec.title)
   }
 
   writeFileSync(dest, content)
