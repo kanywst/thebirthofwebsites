@@ -327,16 +327,19 @@ function count(tag: string): number {
 }
 
 .logo-container {
-  height: 80px;
+  height: 96px;
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 1rem;
+  padding: 0.5rem;
+  background-color: var(--logo-bg);
+  border-radius: 6px;
 }
 
 .logo {
-  max-height: 100%;
-  max-width: 100%;
+  width: 100%;
+  height: 100%;
   object-fit: contain;
 }
 

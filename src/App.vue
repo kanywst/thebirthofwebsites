@@ -19,6 +19,7 @@ import AppHeader from "@/components/Header.vue"
   --hover-bg: light-dark(#f0f0f0, #1a1a1a);
   --header-bg: light-dark(rgba(255, 255, 255, 0.85), rgba(10, 10, 10, 0.85));
   --flag-border: light-dark(#eeeeee, #2a2a2a);
+  --logo-bg: light-dark(transparent, #ffffff);
   --accent-color: var(--text-color);
   --border-width: 2px;
   --border-radius: 8px;
