@@ -44,6 +44,20 @@ describe("searchByKeyword", () => {
   test("matches Japanese description", () => {
     expect(searchByKeyword(sample, "ハードウェア").map((i) => i.name)).toEqual(["Apple"])
   })
+  test("matches Latin words inside Japanese descriptions case-insensitively", () => {
+    const items: Item[] = [
+      {
+        date: "2024-01-01",
+        name: "Mixed",
+        type: ["service", "アメリカ", "令和"],
+        img: "x.svg",
+        nationality: "United-States-of-America",
+        description: "Googleの検索を使ったAIサービス",
+        description_en: "AI service using Google search",
+      },
+    ]
+    expect(searchByKeyword(items, "google")).toHaveLength(1)
+  })
   test("returns empty array when no match", () => {
     expect(searchByKeyword(sample, "zzzzz")).toEqual([])
   })

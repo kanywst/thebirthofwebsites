@@ -20,7 +20,7 @@ export function searchByKeyword(items: readonly Item[], keyword: string): Item[]
   return items.filter(
     (item) =>
       item.name.toLowerCase().includes(lower) ||
-      item.description.includes(keyword) ||
+      item.description.toLowerCase().includes(lower) ||
       item.description_en.toLowerCase().includes(lower),
   )
 }
