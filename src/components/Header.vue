@@ -1,10 +1,11 @@
-<script>
-export default {
-  methods: {
-    toggleLanguage() {
-      this.$i18n.locale = this.$i18n.locale === 'ja' ? 'en' : 'ja';
-    }
-  }
+<script setup lang="ts">
+import { useI18n } from "vue-i18n"
+import type { Locale } from "@/i18n"
+
+const { locale } = useI18n<{ message: Record<string, unknown> }, Locale>()
+
+function toggleLanguage() {
+  locale.value = locale.value === "ja" ? "en" : "ja"
 }
 </script>
 
@@ -12,14 +13,19 @@ export default {
   <header class="site-header">
     <div class="header-inner">
       <div class="brand">
-        <h1>{{ $t('header.title') }}</h1>
-        <p class="subtitle">{{ $t('header.description') }}</p>
+        <h1>{{ $t("header.title") }}</h1>
+        <p class="subtitle">{{ $t("header.description") }}</p>
       </div>
       <div class="controls">
-        <button @click="toggleLanguage" class="lang-btn" :aria-label="$i18n.locale === 'ja' ? 'Switch to English' : '日本語に切り替え'">
-          <span :class="{ active: $i18n.locale === 'en' }">EN</span>
+        <button
+          type="button"
+          class="lang-btn"
+          :aria-label="locale === 'ja' ? 'Switch to English' : '日本語に切り替え'"
+          @click="toggleLanguage"
+        >
+          <span :class="{ active: locale === 'en' }">EN</span>
           <span class="divider">/</span>
-          <span :class="{ active: $i18n.locale === 'ja' }">JP</span>
+          <span :class="{ active: locale === 'ja' }">JP</span>
         </button>
       </div>
     </div>
@@ -31,7 +37,7 @@ export default {
   position: sticky;
   top: 0;
   z-index: 1000;
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: var(--header-bg);
   backdrop-filter: blur(10px);
   border-bottom: var(--border-width) solid var(--text-color);
   padding: 1rem 0;
@@ -62,6 +68,7 @@ export default {
 
 .lang-btn {
   background: transparent;
+  color: var(--text-color);
   border: var(--border-width) solid var(--text-color);
   border-radius: 999px;
   padding: 0.5rem 1rem;

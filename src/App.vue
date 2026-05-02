@@ -1,35 +1,30 @@
-<script>
-import Header from "@/components/Header.vue"
+<script setup lang="ts">
 import Birth from "@/components/Birth.vue"
-import Footer from "@/components/Footer.vue"
-
-export default{
-  components: {
-    Header,
-    Birth,
-    Footer,
-  },
-}
+import AppFooter from "@/components/Footer.vue"
+import AppHeader from "@/components/Header.vue"
 </script>
 
 <template>
-  <div>
-    <Header />
-    <Birth class="birth" />
-    <Footer />
-  </div>
+  <AppHeader />
+  <Birth class="birth" />
+  <AppFooter />
 </template>
 
 <style>
 :root {
-  --bg-color: #ffffff;
-  --text-color: #000000;
-  --accent-color: #000000;
+  color-scheme: light dark;
+  --bg-color: light-dark(#ffffff, #0a0a0a);
+  --text-color: light-dark(#000000, #f5f5f5);
+  --muted-color: light-dark(#333333, #b8b8b8);
+  --hover-bg: light-dark(#f0f0f0, #1a1a1a);
+  --header-bg: light-dark(rgba(255, 255, 255, 0.85), rgba(10, 10, 10, 0.85));
+  --flag-border: light-dark(#eeeeee, #2a2a2a);
+  --accent-color: var(--text-color);
   --border-width: 2px;
   --border-radius: 8px;
   --shadow-offset: 4px;
-  --font-main: 'Inter', sans-serif;
-  --font-heading: 'Space Grotesk', sans-serif;
+  --font-main: "Inter", sans-serif;
+  --font-heading: "Space Grotesk", sans-serif;
 }
 
 body {
@@ -54,7 +49,7 @@ a {
 }
 
 a:hover,
-a:focus {
+a:focus-visible {
   border-bottom: 2px solid currentColor;
   background-color: var(--text-color);
   color: var(--bg-color);
@@ -62,6 +57,11 @@ a:focus {
 
 button {
   font-family: var(--font-main);
+}
+
+:focus-visible {
+  outline: 2px solid var(--text-color);
+  outline-offset: 2px;
 }
 
 * {
