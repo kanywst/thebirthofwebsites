@@ -63,8 +63,8 @@
     ],
     "img": "yahoo.png",
     "nationality": "United-States-of-America",
-    "description": "1994年、スタンフォード大学のジェリー・ヤンとデビッド・ファイロによってウェブディレクトリとして始められた。しかし、2000年代後半にはグーグルやフェイスブックとの競争に敗れて、検索エンジンやポータルサイトなどの主力事業の競争力が低下することになった。",
-    "description_en": "Founded in 1994 by Jerry Yang and David Filo of Stanford University as a web directory. However, in the late 2000s, it lost the competition with Google and Facebook, and the competitiveness of its main businesses such as search engines and portal sites declined."
+    "description": "1994年にスタンフォード大学のジェリー・ヤンとデビッド・ファイロがウェブディレクトリとして開始。GoogleやFacebookとの競争で主力事業の競争力が低下し、2017年にコア事業がVerizonに44.8億ドルで売却され「Oath（後のVerizon Media）」となった。2021年5月、Verizon Mediaは投資会社Apollo Global Managementへ売却され、現在は再び「Yahoo Inc.」として独立運営されている。",
+    "description_en": "Founded in 1994 by Jerry Yang and David Filo as a web directory. After losing ground to Google and Facebook, the core internet business was sold to Verizon in 2017 for $4.48B (becoming Oath, then Verizon Media). In May 2021, Apollo Global Management acquired the unit, which now operates as the standalone Yahoo Inc."
   },
   {
     "date": "1995-08-24",
@@ -103,8 +103,8 @@
     ],
     "img": "yahoojapan.png",
     "nationality": "Japan",
-    "description": "2009年、1日平均19億のアクセス数を誇り、日本における検索エンジンとしては過半数のシェアを獲得しており、各検索プロバイダを抑えて業界トップの座にある。ただし2010年9月以降からYahoo!独自の検索エンジンからGoogleの検索エンジンへ徐々に移行されており、移行が完了すればGoogleの検索シェアが98%近くとなり、日本で一番使われていることになる。",
-    "description_en": "In 2009, it boasted an average of 1.9 billion accesses per day, gaining a majority share as a search engine in Japan, beating out other search providers to take the top spot in the industry. However, since September 2010, it has gradually shifted from Yahoo!'s own search engine to Google's search engine. Once the transition is complete, Google's search share will be nearly 98%, making it the most used in Japan."
+    "description": "1996年に米Yahoo!とソフトバンクの合弁で設立。日本最大級のポータルサイト・検索エンジンとして長年トップシェアを保ってきた。2010年以降、検索エンジンはGoogleの技術にバックエンドを委ねている。2023年10月、運営元のZホールディングスがLINEと経営統合し「LYコーポレーション」が発足、Yahoo!JAPANはLY傘下のサービスとなった。",
+    "description_en": "Launched in 1996 as a JV between US Yahoo! and SoftBank. Japan's leading portal and search engine for decades; powered by Google's search backend since 2010. In October 2023, parent Z Holdings merged with LINE to form LY Corporation, of which Yahoo!JAPAN is now a subsidiary service."
   },
   {
     "date": "1997-02-07",
@@ -194,8 +194,8 @@
     ],
     "img": "facebook.png",
     "nationality": "United-States-of-America",
-    "description": "ハーバード大学の学生だったマーク・ザッカーバーグはハッキングをして得た女子学生の身分証明写真をインターネット上に公開し、公開した女子学生の顔を比べて勝ち抜き投票させる「フェイスマッシュ」というゲームを考案した。これは大学内で問題になり、ザッカーバーグはハーバード大学の半年間の保護観察処分を受けるに至った。",
-    "description_en": "An American online social media and social networking service owned by Meta Platforms. Founded by Mark Zuckerberg."
+    "description": "ハーバード大学の学生だったマーク・ザッカーバーグが2004年に立ち上げたソーシャルネットワーキングサービス。2021年10月、親会社のFacebook, Inc.は社名を「Meta Platforms, Inc.」へ変更し、メタバース・AI事業を中核とする方針を打ち出した。Facebookブランド自体はSNS製品名として継続している。",
+    "description_en": "Social networking service founded by Mark Zuckerberg at Harvard in 2004. Parent company Facebook, Inc. rebranded to Meta Platforms, Inc. in October 2021, signaling a strategic pivot to the metaverse and AI. The Facebook brand persists as the SNS product name."
   },
   {
     "date": "2005-02-14",
@@ -233,8 +233,8 @@
     ],
     "img": "tumblr.png",
     "nationality": "United-States-of-America",
-    "description": "メディアミックスブログサービス。ブログとミニブログ、そしてソーシャルブックマークを統合したマイクロブログサービスである。アメリカのDavidville, Inc.により2007年3月1日にサービスが開始された。2011年3月から日本語ベータ版の提供が開始されている。2013年、Yahoo!に買収される。",
-    "description_en": "A media mix blog service. It is a microblog service that integrates blogs, miniblogs, and social bookmarks. Service started on March 1, 2007 by Davidville, Inc. in the US. The Japanese beta version began to be offered in March 2011. Acquired by Yahoo! in 2013."
+    "description": "ブログ、ミニブログ、ソーシャルブックマークを統合したマイクロブログサービス。2007年にDavidville, Inc.がサービスを開始した。2013年にYahoo!が約11億ドルで買収したが、2017年のVerizon傘下を経て、2019年にWordPress.com運営元のAutomatticへ売却された。",
+    "description_en": "Microblogging platform launched in 2007 that combines blogs, miniblogs, and social bookmarks. Acquired by Yahoo! in 2013 for $1.1B; passed to Verizon in 2017; sold to Automattic (WordPress.com) in August 2019."
   },
   {
     "date": "2007-05-25",
@@ -246,8 +246,8 @@
     ],
     "img": "pornhub.png",
     "nationality": "Canada",
-    "description": "カナダのポルノ動画サイト。YouTubeに次ぐ世界第2位の動画共有サイトである。カニエ・ウェストはPornhubの視聴者であることを公言しており、クリエイティブ・ディレクターとして式典にも参加している。",
-    "description_en": "A Canadian pornographic video site. It is the world's second largest video sharing site after YouTube. Kanye West has publicly stated that he is a viewer of Pornhub and has participated in ceremonies as a creative director."
+    "description": "カナダ発のポルノ動画共有サイト。世界最大級の動画共有サービスのひとつ。長年MindGeekに所有されていたが、2023年3月にカナダの投資会社Ethical Capital Partnersが買収し、運営会社は「Aylo（アイロ）」へリブランドされた。",
+    "description_en": "Canadian pornographic video sharing platform; among the largest of its kind globally. Long owned by MindGeek, the parent company was acquired by Ethical Capital Partners in March 2023 and rebranded to Aylo."
   },
   {
     "date": "2009-02-23",
@@ -285,8 +285,8 @@
     ],
     "img": "youporn.png",
     "nationality": "United-States-of-America",
-    "description": "アダルト動画共有サイト初期において、2006年7月に公開し人気を博したPornoTubeは、2006年8月に公開したYouPornに利用者数が劣っていた。2007年10月の時点でYouPornはアレクサ・インターネット調べによると世界で35番目の人気であり、同年に毎月1500万の新規利用者を計上した。総合的に動画を扱うYouPornの主な競合サイトとしては上記サイトやXtube、RedTubeやPornhub等があり、その他多くのアダルト動画共有サイトは特定の性癖別に特化した。",
-    "description_en": "In the early days of adult video sharing sites, PornoTube, which was released in July 2006 and gained popularity, had fewer users than YouPorn, which was released in August 2006. As of October 2007, YouPorn was the 35th most popular site in the world according to Alexa Internet, and recorded 15 million new users per month in the same year. Major competitors for YouPorn, which handles videos comprehensively, include the sites mentioned above, Xtube, RedTube, and Pornhub, while many other adult video sharing sites specialized in specific fetishes."
+    "description": "2006年8月公開のアダルト動画共有サービス。同時期に登場したPornoTubeを早期に追い抜いて人気サイトとなった。Pornhub・RedTubeと共にMindGeekが運営していたが、2023年3月にEthical Capital Partnersへ売却、運営会社は「Aylo」へリブランドされた。",
+    "description_en": "Adult video sharing service launched August 2006, quickly overtaking the contemporaneous PornoTube. Operated alongside Pornhub and RedTube under MindGeek; sold to Ethical Capital Partners in March 2023, with the parent rebranded to Aylo."
   },
   {
     "date": "2006-03-21",
@@ -298,8 +298,8 @@
     ],
     "img": "twitter.png",
     "nationality": "United-States-of-America",
-    "description": "創成期にブログ・サービス「ブロガー」を開発し、その後Googleに売却したエヴァン・ウィリアムズやブロガーの開発チームの一員であったビズ・ストーン、ジャック・ドーシーらが中心となって開発した。ドーシーによると、Twitterの基本構想は自身が2000年6月に思いついた。LiveJournalよりもリアルタイム性が高く、どこにいても自分の状況を知人に知らせたり、逆に知人の状況を把握できたりするサービスの可能性に気づいたという。ドーシーはそのアイデアを5年間あたため続け、その後、オデオ社のプロジェクトとして立ち上げた。",
-    "description_en": "A microblogging and social networking service on which users post and interact with messages known as \"tweets\"."
+    "description": "創成期にブログ・サービス「ブロガー」を開発し、その後Googleに売却したエヴァン・ウィリアムズや、ジャック・ドーシー、ビズ・ストーンらが中心となって2006年に開発した。LiveJournalよりリアルタイム性の高い、どこにいても自分の状況を共有・把握できるサービスというドーシーの構想が原点。2022年10月にイーロン・マスクが440億ドルで買収し、2023年7月にサービス名が「X」へとリブランドされた。",
+    "description_en": "Microblogging service launched in 2006 by Evan Williams, Jack Dorsey, and Biz Stone. Acquired by Elon Musk for $44B in October 2022 and rebranded to X in July 2023."
   },
   {
     "date": "1982",
@@ -422,7 +422,7 @@
     "date": "2000-01-01",
     "name": "Baidu",
     "type": [
-      "seaarch engine",
+      "search engine",
       "中国",
       "平成"
     ],
@@ -844,8 +844,8 @@
     ],
     "img": "line.svg",
     "nationality": "Japan",
-    "description": "当時「NHN 日本」であったLINE株式会社会長でNHN創業者の李海珍が、家族や親戚と連絡を取ろうとする東日本大震災被災者の映像を見て発案し、自ら日本に滞在して開発プロジェクトを推進した。規模が拡大した本社の代わりに小さな組織の速やかな意思決定力と集中力を活用するため、韓国本社ではなく、日本に滞在した李海珍推進のもとNHN 日本が開発を担当した。開発陣の国籍は日本、韓国、米国、中国などで、各自が母国語へ翻訳したアプリケーションを手掛けている。",
-    "description_en": "Lee Hae-jin, Chairman of LINE Corporation and founder of NHN, who was then \"NHN Japan\", came up with the idea after seeing footage of victims of the Great East Japan Earthquake trying to contact their families and relatives, and stayed in Japan himself to promote the development project. To utilize the quick decision-making and concentration of a small organization instead of the expanded headquarters, NHN Japan was in charge of development under the promotion of Lee Hae-jin who stayed in Japan, not the Korean headquarters. The development team included Japanese, Korean, American, and Chinese nationals, and each worked on applications translated into their native languages."
+    "description": "NHN Japan（現LINE株式会社）が東日本大震災の被災者がメッセンジャーで連絡を取り合う様子を契機に開発したメッセージングアプリ。日本・台湾・タイなど東アジア圏で圧倒的シェアを持つ。2023年10月、Yahoo!JAPANを擁するZホールディングスとの経営統合が完了し、運営元は「LYコーポレーション」となった。",
+    "description_en": "Messaging app developed by NHN Japan (now LINE Corporation), inspired by victims of the 2011 Tōhoku earthquake using messengers to reach family. Dominant in Japan, Taiwan, and Thailand. In October 2023 the parent merged with Z Holdings to form LY Corporation."
   },
   {
     "date": "1984",
@@ -903,7 +903,7 @@
     "date": "1996",
     "name": "Booking.com",
     "type": [
-      "services",
+      "service",
       "オランダ",
       "平成"
     ],
@@ -992,7 +992,7 @@
   },
   {
     "date": "1972",
-    "name": " C programming language",
+    "name": "C programming language",
     "type": [
       "language",
       "アメリカ",
@@ -1112,7 +1112,7 @@
     "date": "1917-06",
     "name": "Panasonic",
     "type": [
-      "hardwre",
+      "hardware",
       "日本",
       "大正"
     ],
@@ -1494,7 +1494,7 @@
       "平成"
     ],
     "img": "googleplus.svg",
-    "nationality": "China",
+    "nationality": "United-States-of-America",
     "description": "2011年6月、プロジェクトに1年間を費やした末にサービスが開始された。Googleでは新サービスの船出を記念して、プロジェクトに携わった数百人の従業員に水兵帽を配った。2018年12月10日には米グーグル社がGoogle+ APIに個人情報が漏洩する可能性があるバグが存在していたことを発表し、Google+の個人向けサービスを2019年4月に4ヶ月前倒しして終了すると発表した。同社は個人情報を不正に取得された形跡はないとしている。",
     "description_en": "Service started in June 2011 after spending a year on the project. Google distributed sailor hats to hundreds of employees involved in the project to commemorate the launch of the new service. On December 10, 2018, Google announced that there was a bug in the Google+ API that could leak personal information, and announced that the consumer service of Google+ would be terminated in April 2019, four months ahead of schedule. The company stated that there was no evidence that personal information was acquired illegally."
   },
@@ -1560,8 +1560,8 @@
     ],
     "img": "redtube.png",
     "nationality": "United-States-of-America",
-    "description": "RedTube（レッドチューブ）は、アメリカのアダルト動画共有サービス。Pornhub、YouPornと共にMindGeekが所有している。",
-    "description_en": "RedTube is an American adult video sharing service. Owned by MindGeek along with Pornhub and YouPorn."
+    "description": "RedTube（レッドチューブ）は、アダルト動画共有サービス。Pornhub、YouPornとともに長年MindGeekが運営していたが、2023年3月にEthical Capital Partnersへ売却され、運営会社は「Aylo」へリブランドされた。",
+    "description_en": "Adult video sharing service. Operated alongside Pornhub and YouPorn under MindGeek; sold in March 2023 to Ethical Capital Partners, with the parent rebranded to Aylo."
   },
   {
     "date": "2004-10",
@@ -2005,8 +2005,8 @@
     ],
     "img": "slack.svg",
     "nationality": "United-States-of-America",
-    "description": "スチュワート・バターフィールドらによって開発されたビジネスチャットツール。ゲーム開発の社内ツールから生まれ、メールに代わるチームコミュニケーションの標準となった。",
-    "description_en": "A messaging app for business that connects people to the information they need."
+    "description": "スチュワート・バターフィールドらによって開発されたビジネスチャットツール。ゲーム開発の社内ツールから生まれ、メールに代わるチームコミュニケーションの標準となった。2021年7月、Salesforceが約277億ドルで買収し、現在はSalesforceの一事業として運営されている。",
+    "description_en": "Business messaging tool born from a game studio's internal tool, founded by Stewart Butterfield. Became a de facto standard for team communication. Acquired by Salesforce in July 2021 for $27.7B."
   },
   {
     "date": "2006-01-01",
@@ -3033,11 +3033,495 @@
     "type": [
       "AI",
       "アメリカ",
-      "平成"
+      "令和"
     ],
     "img": "anthropic.svg",
     "nationality": "United-States-of-America",
     "description": "OpenAIの元研究幹部であるダリオ・アモデイ、ダニエラ・アモデイ兄妹らによって設立されたAI安全性・研究企業。「Claude」シリーズを開発し、AIの憲法（Constitutional AI）などの概念で、安全性と有益性を重視したAI開発を推進している。",
     "description_en": "An AI safety and research company founded by former OpenAI executives Dario and Daniela Amodei. Developer of the \"Claude\" series, promoting helpful and harmless AI development through concepts like Constitutional AI."
+  },
+  {
+    "date": "2005-10-07",
+    "name": "Google Reader",
+    "type": [
+      "service",
+      "アメリカ",
+      "平成"
+    ],
+    "img": "googlereader.svg",
+    "nationality": "United-States-of-America",
+    "description": "GoogleがChris Wetherellを中心に開発したRSSフィードリーダー。2005年10月の公開後、RSS文化の中心的存在となったが、2013年7月1日にサービス終了。代替サービス（Feedly等）への移行を促す形でRSSコミュニティに大きな影響を残した。",
+    "description_en": "Google's RSS feed reader, launched October 2005, became the de facto center of RSS culture before its shutdown on July 1, 2013, prompting an exodus to Feedly and similar services."
+  },
+  {
+    "date": "2007-06-01",
+    "name": "Heroku",
+    "type": [
+      "Infrastructure",
+      "SaaS",
+      "アメリカ",
+      "平成"
+    ],
+    "img": "heroku.svg",
+    "nationality": "United-States-of-America",
+    "description": "2007年に設立されたクラウドアプリケーションプラットフォーム（PaaS）。2010年にSalesforceが買収。Ruby on Railsをはじめとする開発者の定番として親しまれた。2022年11月28日、無料Dyno・無料Postgres・無料Redisプランを終了し、長年スタートアップやホビープロジェクトを支えてきた無料ティア時代に幕を下ろした。",
+    "description_en": "Cloud application platform (PaaS) founded in 2007 and acquired by Salesforce in 2010. A long-time favorite for Ruby on Rails. On November 28, 2022, Heroku ended its free dyno, free Postgres, and free Redis tiers — closing an era that fueled countless startups and hobby projects."
+  },
+  {
+    "date": "2009-05-28",
+    "name": "Google Wave",
+    "type": [
+      "service",
+      "Communication",
+      "アメリカ",
+      "平成"
+    ],
+    "img": "googlewave.svg",
+    "nationality": "United-States-of-America",
+    "description": "Googleが2009年のGoogle I/Oで発表したリアルタイム共同編集ツール。メール・チャット・ドキュメント・Wikiを統合する野心的な構想で大きな話題を呼んだが、ユーザー獲得に失敗し、2010年8月に開発中止が発表され、2012年4月30日に完全終了した。",
+    "description_en": "Real-time collaboration platform announced at Google I/O 2009, ambitiously merging email, chat, docs, and wikis. Failed to gain traction; development halted August 2010 and the service shut down on April 30, 2012."
+  },
+  {
+    "date": "2015-11-01",
+    "name": "Vercel",
+    "type": [
+      "Infrastructure",
+      "service",
+      "アメリカ",
+      "平成"
+    ],
+    "img": "vercel.svg",
+    "nationality": "United-States-of-America",
+    "description": "ギジェルモ・ラウシュらが2015年にZeit, Inc.として創業したクラウド/フロントエンド・プラットフォーム。Next.jsをはじめとするフレームワークの開発元としても知られ、2020年4月に社名を「Vercel」へ変更。エッジネットワーク上でのデプロイ体験の標準を作った。",
+    "description_en": "Cloud / frontend platform founded by Guillermo Rauch as Zeit, Inc. in 2015; renamed Vercel in April 2020. Develops Next.js and pioneered the modern edge-deploy developer experience."
+  },
+  {
+    "date": "2016-10-25",
+    "name": "Next.js",
+    "type": [
+      "language",
+      "tool",
+      "アメリカ",
+      "平成"
+    ],
+    "img": "nextjs.svg",
+    "nationality": "United-States-of-America",
+    "description": "Vercelが開発するReactベースのフルスタックWebフレームワーク。2016年10月に初版公開。サーバーサイドレンダリング、静的生成、Reactサーバーコンポーネント等をフルスタック開発者に提供し、Reactの事実上の標準ランタイムとなった。",
+    "description_en": "React-based full-stack web framework developed by Vercel. First released October 2016. Combines server-side rendering, static generation, and React Server Components — the de facto runtime for React in production."
+  },
+  {
+    "date": "2019-11-19",
+    "name": "Stadia",
+    "type": [
+      "Game",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "stadia.svg",
+    "nationality": "United-States-of-America",
+    "description": "Googleが2019年11月19日に14か国で開始したクラウドゲーミングサービス。専用コントローラーやChromecast上での4K・60fpsストリーミングを売りにしたが、独占タイトルの不足やビジネスモデルの誤算で苦戦し、2023年1月18日にサービス終了。Googleがハードウェア事業の難しさを露呈した象徴的事例。",
+    "description_en": "Cloud gaming service launched by Google on November 19, 2019 in 14 countries, promising 4K/60fps streaming on Chromecast. Hampered by a lack of exclusives and business-model missteps, it shut down on January 18, 2023 — a high-profile cautionary tale for Google's hardware ambitions."
+  },
+  {
+    "date": "2020-05-13",
+    "name": "Deno",
+    "type": [
+      "language",
+      "tool",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "deno.svg",
+    "nationality": "United-States-of-America",
+    "description": "Node.js原作者のRyan Dahlが反省点を踏まえて2018年から開発し、2020年5月13日にv1.0をリリースしたJavaScript/TypeScriptランタイム。Web標準API、デフォルトでのセキュアサンドボックス、TypeScriptネイティブサポートを特徴とする。",
+    "description_en": "JavaScript/TypeScript runtime created by Node.js originator Ryan Dahl, addressing his regrets with Node. v1.0 released May 13, 2020. Features web-standard APIs, secure-by-default sandboxing, and native TypeScript support."
+  },
+  {
+    "date": "2020-10-01",
+    "name": "Stability AI",
+    "type": [
+      "AI",
+      "イギリス",
+      "令和"
+    ],
+    "img": "stabilityai.svg",
+    "nationality": "United-Kingdom",
+    "description": "エマド・モスタクが2020年に英国で設立したオープンソース志向のAI企業。2022年に画像生成モデル「Stable Diffusion」を公開し、生成AIをオープンソースで一般公開する流れを決定づけた。",
+    "description_en": "UK-based open-source AI company founded by Emad Mostaque in 2020. Released Stable Diffusion in 2022, defining the open-weights path for generative AI."
+  },
+  {
+    "date": "2021-06-29",
+    "name": "GitHub Copilot",
+    "type": [
+      "AI",
+      "tool",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "githubcopilot.svg",
+    "nationality": "United-States-of-America",
+    "description": "GitHubとOpenAIが共同開発したAIペアプログラマー。2021年6月29日にテクニカルプレビューを開始し、2022年6月21日に有償版GAを発表。エディタ内での補完を超え、Copilot Workspace、Copilot Chat、エージェント機能へと進化を続けるAIコーディング時代の幕開けとなった。",
+    "description_en": "AI pair programmer co-developed by GitHub and OpenAI. Technical preview launched June 29, 2021; paid GA followed June 21, 2022. Evolved from in-editor completion into Copilot Workspace, Copilot Chat, and agentic coding — kicking off the AI-assisted coding era."
+  },
+  {
+    "date": "2022-04-01",
+    "name": "ElevenLabs",
+    "type": [
+      "AI",
+      "Music",
+      "イギリス",
+      "令和"
+    ],
+    "img": "elevenlabs.svg",
+    "nationality": "United-Kingdom",
+    "description": "2022年に元GoogleのPiotr DąbkowskiとMati Staniszewskiがロンドンで創業したAI音声生成スタートアップ。自然なテキスト読み上げ・声質クローニング・多言語ナレーションで音声生成AIのデファクトとなり、ハリウッドやポッドキャスト業界にも採用が広がった。",
+    "description_en": "London-based AI voice startup founded in 2022 by ex-Google engineer Piotr Dąbkowski and Mati Staniszewski. Leads in natural TTS, voice cloning, and multilingual narration — adopted across Hollywood, podcasting, and content production."
+  },
+  {
+    "date": "2022-07-12",
+    "name": "Midjourney",
+    "type": [
+      "AI",
+      "Design",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "midjourney.svg",
+    "nationality": "United-States-of-America",
+    "description": "デヴィッド・ホルツが2022年7月12日にオープンベータを開始した画像生成AIサービス。Discord上のコマンド型インターフェースから始まり、ジャーナリズム的な品質の写実画像で生成AIアート文化を決定づけた。",
+    "description_en": "Image-generation AI launched as an open beta on July 12, 2022 by David Holz. Its Discord-based interface and journalistic-quality photorealism shaped early generative-AI art culture."
+  },
+  {
+    "date": "2022-07-20",
+    "name": "DALL·E 2",
+    "type": [
+      "AI",
+      "Design",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "dalle2.svg",
+    "nationality": "United-States-of-America",
+    "description": "OpenAIが開発したテキストから画像を生成するAIモデル。2022年4月に発表、7月20日にパブリックベータを開始した。同じ夏に登場したMidjourneyやStable Diffusionと並び、生成AI画像ブームに火をつけた。",
+    "description_en": "OpenAI's text-to-image model. Announced April 2022, public beta opened July 20, 2022. Together with Midjourney and Stable Diffusion the same summer, ignited the generative-AI image boom."
+  },
+  {
+    "date": "2022-08-22",
+    "name": "Stable Diffusion",
+    "type": [
+      "AI",
+      "Design",
+      "イギリス",
+      "令和"
+    ],
+    "img": "stablediffusion.svg",
+    "nationality": "United-Kingdom",
+    "description": "Stability AI、CompVis、Runwayが共同で2022年8月22日にCreativeML OpenRAIL-Mライセンスで公開した拡散モデル系画像生成AI。重みをオープンに公開した最初の主要画像モデルであり、ローカル推論やコミュニティ主導の派生モデル群を生み出した。",
+    "description_en": "Diffusion-based image generator released August 22, 2022 under the CreativeML OpenRAIL-M license by Stability AI, CompVis, and Runway. The first major open-weights image model, enabling local inference and a vast community ecosystem."
+  },
+  {
+    "date": "2022-11-30",
+    "name": "ChatGPT",
+    "type": [
+      "AI",
+      "service",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "chatgpt.svg",
+    "nationality": "United-States-of-America",
+    "description": "OpenAIが2022年11月30日に公開した大規模言語モデル搭載の対話型AIアシスタント。リリース5日で利用者100万人、2か月で1億ユーザーに到達し、史上最速で普及した消費者向けアプリのひとつ。生成AIの一般普及の起点となり、IT業界の構図を一変させた。",
+    "description_en": "Conversational AI assistant launched by OpenAI on November 30, 2022. Hit 1M users in 5 days and 100M in two months — among the fastest-adopted consumer apps in history. Triggered the mainstream generative-AI era and reshaped the tech industry."
+  },
+  {
+    "date": "2022-12-07",
+    "name": "Perplexity",
+    "type": [
+      "AI",
+      "search engine",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "perplexity.svg",
+    "nationality": "United-States-of-America",
+    "description": "アラビンド・スリニヴァスらが2022年8月に創業し、12月7日にperplexity.aiを公開したAI検索エンジン。回答に出典リンクを必ず付ける「アンサー・エンジン」スタイルで、Googleに対する世代交代候補として注目された。",
+    "description_en": "AI answer engine founded by Aravind Srinivas et al. (August 2022) and launched on December 7, 2022. Pioneered the citation-first \"answer engine\" UX, positioning itself as a generational rival to Google search."
+  },
+  {
+    "date": "2023-02-24",
+    "name": "Llama",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "llama.svg",
+    "nationality": "United-States-of-America",
+    "description": "Meta AIが2023年2月24日に公開した大規模言語モデルファミリー第1世代。研究者向けに重みを限定公開していたが、公開直後に4chanで重みが流出し、結果的にローカルLLMコミュニティの起爆剤となった。",
+    "description_en": "Meta AI's first-generation LLM family, released February 24, 2023 to researchers. Weights leaked on 4chan shortly after, accidentally igniting the local-LLM community."
+  },
+  {
+    "date": "2023-03-01",
+    "name": "Cursor",
+    "type": [
+      "AI",
+      "tool",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "cursor.svg",
+    "nationality": "United-States-of-America",
+    "description": "Anysphere社が2023年3月にローンチしたVS CodeベースのAI統合エディタ。LLMをエディタ全体に組み込み、コード補完・チャット・エージェント実行をネイティブ体験として実装。AIファーストIDEというカテゴリを確立した。",
+    "description_en": "VS Code-based AI-native editor launched in March 2023 by Anysphere. Treats LLMs as a first-class part of the editor — completion, chat, and agentic execution — and effectively created the \"AI-first IDE\" category."
+  },
+  {
+    "date": "2023-03-14",
+    "name": "GPT-4",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "gpt4.svg",
+    "nationality": "United-States-of-America",
+    "description": "OpenAIが2023年3月14日にChatGPT PlusおよびAPIで公開した大規模マルチモーダルモデル。司法試験など人間レベルの試験で上位スコアを記録し、生成AIの実用品質を決定的に押し上げた。",
+    "description_en": "Large multimodal model released by OpenAI on March 14, 2023, available via ChatGPT Plus and API. Scored at the human top-tier on benchmarks like the bar exam, marking a decisive jump in generative-AI utility."
+  },
+  {
+    "date": "2023-03-14",
+    "name": "Claude",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "claude.svg",
+    "nationality": "United-States-of-America",
+    "description": "OpenAI出身のダリオ・アモデイらが創業したAnthropicが、2023年3月14日に限定公開した対話型AI。安全性・有用性・無害性を重視した「Constitutional AI」アプローチで開発され、長文処理と論理的会話に強みを持つ。",
+    "description_en": "Anthropic's conversational AI, first released to limited partners on March 14, 2023. Founded by ex-OpenAI Dario Amodei. Trained with Constitutional AI for helpfulness, harmlessness, and honesty — known for long-context reasoning."
+  },
+  {
+    "date": "2023-03-21",
+    "name": "Bard",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "bard.svg",
+    "nationality": "United-States-of-America",
+    "description": "Googleが2023年3月21日にUS・UKでウェイトリスト公開した対話型AIアシスタント。当初はLaMDAベース、後にPaLM 2、Geminiへ移行。2024年2月にアプリ名がGeminiへリブランドされ、Bardのブランドは2年弱で幕を閉じた。",
+    "description_en": "Google's conversational AI, opened to a US/UK waitlist on March 21, 2023. Initially LaMDA-based, then PaLM 2, then Gemini. The app was rebranded to Gemini in February 2024, retiring the Bard name after under two years."
+  },
+  {
+    "date": "2023-04-28",
+    "name": "Mistral AI",
+    "type": [
+      "AI",
+      "フランス",
+      "令和"
+    ],
+    "img": "mistralai.svg",
+    "nationality": "France",
+    "description": "アルチュル・マンシュ、ギヨーム・ランプル、ティモテ・ラクロワらが2023年4月にパリで創業したAI企業。欧州発のオープンウェイト大規模言語モデルの旗手として、米中AI支配へのカウンターと位置付けられた。",
+    "description_en": "Paris-based AI company founded April 2023 by Arthur Mensch, Guillaume Lample, and Timothée Lacroix. Europe's flagship open-weights LLM lab, positioned as a counterweight to US/China AI dominance."
+  },
+  {
+    "date": "2023-07-05",
+    "name": "Threads",
+    "type": [
+      "SNS",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "threads.svg",
+    "nationality": "United-States-of-America",
+    "description": "MetaがInstagramチームを中核に開発し、2023年7月5日に100か国でローンチしたテキスト中心SNS。Twitter/X混乱期に登場し、5日で1億ユーザーを突破して史上最速の立ち上がりを記録。後にActivityPub（Fediverse）対応も進めた。",
+    "description_en": "Text-first social network launched globally by Meta on July 5, 2023, built by the Instagram team. Hit 100M users in 5 days — the fastest launch ever recorded — capitalizing on Twitter/X turmoil. Later adopted ActivityPub for Fediverse interop."
+  },
+  {
+    "date": "2023-07-12",
+    "name": "xAI",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "xai.svg",
+    "nationality": "United-States-of-America",
+    "description": "イーロン・マスクが2023年7月12日に立ち上げを公表したAI企業。「宇宙の本質を理解する」を掲げる。X（旧Twitter）と密接に連携し、Grokをはじめとするモデルファミリーを開発している。",
+    "description_en": "AI company publicly launched by Elon Musk on July 12, 2023, with the stated mission to \"understand the universe\". Closely integrated with X (formerly Twitter), it develops the Grok model family."
+  },
+  {
+    "date": "2023-07-17",
+    "name": "DeepSeek",
+    "type": [
+      "AI",
+      "中国",
+      "令和"
+    ],
+    "img": "deepseek.svg",
+    "nationality": "China",
+    "description": "梁文鋒（リャン・ウェンフェン）が2023年7月に杭州で設立したAI研究組織。低コストで高性能な大規模言語モデル（V3、R1など）を立て続けに公開し、米中のAI覇権競争を象徴する存在となった。",
+    "description_en": "Hangzhou-based AI lab founded in July 2023 by Liang Wenfeng. Released a cascade of high-performance, low-cost LLMs (V3, R1) that became emblematic of the US–China AI race."
+  },
+  {
+    "date": "2023-07-18",
+    "name": "Llama 2",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "llama2.svg",
+    "nationality": "United-States-of-America",
+    "description": "Metaが2023年7月18日にMicrosoftと共同で公開した大規模言語モデル第2世代。商用利用可能なライセンスで重みを公開し、ローカル推論・ファインチューニング文化を一気に主流化させた。",
+    "description_en": "Meta's second-generation LLM family, released July 18, 2023 in partnership with Microsoft. Permitted commercial use of the weights, mainstreaming local inference and fine-tuning."
+  },
+  {
+    "date": "2023-09-08",
+    "name": "Bun",
+    "type": [
+      "language",
+      "tool",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "bun.svg",
+    "nationality": "United-States-of-America",
+    "description": "Jarred SumnerがOven社で開発し、2023年9月8日に1.0をリリースしたJavaScriptランタイム兼パッケージマネージャ兼バンドラ。Zigで実装され、Node.js互換性と桁違いの起動速度を売りにJSツールチェーンの新潮流となった。",
+    "description_en": "JavaScript runtime, package manager, and bundler hit v1.0 on September 8, 2023. Developed by Jarred Sumner at Oven and implemented in Zig. Pitches Node.js compatibility with order-of-magnitude faster startup."
+  },
+  {
+    "date": "2023-11-04",
+    "name": "Grok",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "grok.svg",
+    "nationality": "United-States-of-America",
+    "description": "xAIが開発し、2023年11月4日にX Premium加入者向けに早期アクセスを提供した対話型AI。X上のリアルタイム情報を活用する設計と、よりエッジの効いたパーソナリティを売りに、Grok 2/3/4と急速に世代を重ねている。",
+    "description_en": "xAI's conversational AI, opened in early access to X Premium users on November 4, 2023. Designed to leverage X's real-time data with a deliberately edgier persona; rapidly iterated through Grok 2/3/4."
+  },
+  {
+    "date": "2023-12-06",
+    "name": "Gemini",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "gemini.svg",
+    "nationality": "United-States-of-America",
+    "description": "Google DeepMindが2023年12月6日に発表した大規模マルチモーダルモデルファミリー（Ultra・Pro・Nano）。2024年2月にBardアプリは「Gemini」へリブランドされ、Geminiが同社の生成AIブランドの中核となった。",
+    "description_en": "Multimodal LLM family announced by Google DeepMind on December 6, 2023 (Ultra / Pro / Nano). The Bard app was rebranded to Gemini in February 2024, consolidating Google's generative-AI brand."
+  },
+  {
+    "date": "2023-12-20",
+    "name": "Suno",
+    "type": [
+      "AI",
+      "Music",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "suno.svg",
+    "nationality": "United-States-of-America",
+    "description": "ケンブリッジで設立されたSuno, Inc.が2023年12月20日にWebアプリおよびMicrosoft Copilotプラグインとしてステルスを抜けたAI音楽生成サービス。歌詞・歌唱・伴奏を一括生成する機能で「テキストから完全な楽曲を作る」体験を一般化した。",
+    "description_en": "Cambridge-based Suno, Inc. came out of stealth on December 20, 2023 as a web app and Microsoft Copilot plugin. Generates lyrics, vocals, and accompaniment from text — popularizing end-to-end text-to-song."
+  },
+  {
+    "date": "2024-03-04",
+    "name": "Claude 3",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "claude3.svg",
+    "nationality": "United-States-of-America",
+    "description": "Anthropicが2024年3月4日に公開したClaude第3世代モデルファミリー（Opus・Sonnet・Haiku）。多くのベンチマークでGPT-4を上回り、コーディングや長文読解に強い大規模文脈処理で一気にトップティアの座を獲得した。",
+    "description_en": "Anthropic's third-generation Claude family (Opus / Sonnet / Haiku), released March 4, 2024. Surpassed GPT-4 on many benchmarks, with standout performance in coding and long-context reasoning."
+  },
+  {
+    "date": "2024-04-18",
+    "name": "Llama 3",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "llama3.svg",
+    "nationality": "United-States-of-America",
+    "description": "Metaが2024年4月18日に公開したLlama第3世代（8B・70B、後に405B）。オープンウェイト陣営の最強候補としてエンタープライズ採用を加速させ、商用LLMとオープンモデルの実力差を一気に縮めた。",
+    "description_en": "Meta's third-generation Llama (8B / 70B; later 405B), released April 18, 2024. The strongest open-weights contender of its day, accelerating enterprise adoption and closing the gap with closed commercial LLMs."
+  },
+  {
+    "date": "2024-12-05",
+    "name": "OpenAI o1",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "openaio1.svg",
+    "nationality": "United-States-of-America",
+    "description": "OpenAIが2024年12月5日に正式公開した推論特化モデル。応答前に内部で多段の思考連鎖を実行する「reasoning model」のパラダイムを商用化し、数学・科学・コーディングで大幅な性能向上を示した。",
+    "description_en": "OpenAI's reasoning-specialized model, GA on December 5, 2024 (o1-preview was September 12, 2024). Mainstreamed the \"reasoning model\" paradigm of multi-step internal chain-of-thought, with major gains in math, science, and coding."
+  },
+  {
+    "date": "2024-12-09",
+    "name": "Sora",
+    "type": [
+      "AI",
+      "video",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "sora.svg",
+    "nationality": "United-States-of-America",
+    "description": "OpenAIが2024年2月15日に研究プレビューを発表し、12月9日にChatGPT Plus/Pro加入者向けに一般公開した動画生成AI。テキストから最長1分の高品質動画を生成し、映像制作のワークフローに大きな衝撃を与えた。",
+    "description_en": "OpenAI's video-generation model: research preview announced February 15, 2024, public release for ChatGPT Plus/Pro on December 9, 2024. Generates up to one-minute high-quality videos from text, reshaping creative workflows."
+  },
+  {
+    "date": "2025-04-05",
+    "name": "Llama 4",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "llama4.svg",
+    "nationality": "United-States-of-America",
+    "description": "Metaが2025年4月5日に公開したLlama第4世代（Scout・Maverick）。ネイティブにマルチモーダル対応した混合エキスパート（MoE）アーキテクチャで、長文処理と効率を両立させた。最大規模のBehemothは引き続き訓練中。",
+    "description_en": "Meta's fourth-generation Llama (Scout, Maverick), released April 5, 2025. Native multimodal mixture-of-experts (MoE) design balancing long context and efficiency. Behemoth, the largest variant, remained in training."
+  },
+  {
+    "date": "2025-04-16",
+    "name": "OpenAI o3",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "openaio3.svg",
+    "nationality": "United-States-of-America",
+    "description": "OpenAIが2024年12月20日に発表し、2025年4月16日にo4-miniと同時に正式公開した推論モデル。ARC-AGIなど高難度ベンチマークで突出した性能を示し、AGIに近づく道筋として大きな話題を集めた。",
+    "description_en": "OpenAI's reasoning model, announced December 20, 2024 and released alongside o4-mini on April 16, 2025. Posted standout scores on hard benchmarks (e.g. ARC-AGI), drawing major attention as a step toward AGI-class capability."
+  },
+  {
+    "date": "2025-05-22",
+    "name": "Claude 4",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "claude4.svg",
+    "nationality": "United-States-of-America",
+    "description": "Anthropicが2025年5月22日に公開したClaude第4世代（Opus 4・Sonnet 4）。エージェント的な長時間タスクの安定実行とコーディング能力で評価を確立し、2026年現在もClaude Code等で広く採用されている。",
+    "description_en": "Anthropic's fourth-generation Claude (Opus 4 / Sonnet 4), released May 22, 2025. Set the bar for sustained agentic execution and coding tasks; widely used in 2026 in tools like Claude Code."
   }
 ]
