@@ -13,3 +13,14 @@ programming languages, and tools, filterable by category, country, and
 Japanese era 元号. EN / JP, light & dark.
 
 **[Try it live →](https://kanywst.github.io/thebirthofwebsites/)**
+
+## Develop
+
+| | |
+| --- | --- |
+| `pnpm dev` | dev server |
+| `pnpm build` | production build into `./dist` |
+| `pnpm preview` | serve `./dist` |
+| `pnpm lint` | Biome check (`lint:fix` to write) |
+| `pnpm typecheck` | `vue-tsc --noEmit` |
+| `pnpm test` | Vitest |
