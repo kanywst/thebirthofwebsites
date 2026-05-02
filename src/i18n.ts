@@ -13,6 +13,7 @@ const en = {
   },
   filters: {
     label: {
+      section: "Filters",
       category: "Category",
       nationality: "Nationality",
       era: "Era",
@@ -101,6 +102,7 @@ const ja: MessageSchema = {
   },
   filters: {
     label: {
+      section: "フィルタ",
       category: "カテゴリ",
       nationality: "国",
       era: "元号",
