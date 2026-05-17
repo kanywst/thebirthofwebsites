@@ -30,7 +30,7 @@
     "@vue/test-utils": "^2.4.10",
     "@vue/tsconfig": "^0.9.1",
     "happy-dom": "^20.9.0",
-    "simple-icons": "^16.19.0",
+    "simple-icons": "^16.20.0",
     "typescript": "^6.0.3",
     "vite": "^8.0.13",
     "vitest": "^4.1.6",
