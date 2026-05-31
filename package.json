@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^2.4.15",
-    "@lobehub/icons-static-svg": "^1.90.0",
+    "@lobehub/icons-static-svg": "^1.91.0",
     "@types/node": "^25.9.1",
     "@vitejs/plugin-vue": "^6.0.7",
     "@vue/test-utils": "^2.4.10",
