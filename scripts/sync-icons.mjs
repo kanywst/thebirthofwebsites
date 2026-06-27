@@ -135,6 +135,13 @@ const MAP = {
   "heroku.svg": { fallback: "H" },
   "googlewave.svg": { fallback: "GW" },
   "googlereader.svg": { fallback: "GR" },
+
+  // Malware / security incidents — no brand logos exist, use glyph fallbacks
+  "stuxnet.svg": { fallback: "SX" },
+  "morrisworm.svg": { fallback: "MW" },
+  "iloveyou.svg": { fallback: "ILY" },
+  "wannacry.svg": { fallback: "WC" },
+  "mirai.svg": { fallback: "未来" },
 }
 
 function pickHex(spec) {

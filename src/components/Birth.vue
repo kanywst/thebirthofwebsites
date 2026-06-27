@@ -68,6 +68,8 @@ const NATIONALITY_FILTERS = [
   "インド",
   "カザフスタン",
   "香港",
+  "フィリピン",
+  "北朝鮮",
 ] as const
 
 const ERA_FILTERS = ["令和", "平成", "昭和", "大正", "明治"] as const

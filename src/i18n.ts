@@ -76,6 +76,8 @@ const en = {
       インド: "India",
       カザフスタン: "Kazakhstan",
       香港: "Hong Kong",
+      フィリピン: "Philippines",
+      北朝鮮: "North Korea",
     },
     eras: {
       令和: "2019-",
@@ -165,6 +167,8 @@ const ja: MessageSchema = {
       インド: "インド",
       カザフスタン: "カザフスタン",
       香港: "香港",
+      フィリピン: "フィリピン",
+      北朝鮮: "北朝鮮",
     },
     eras: {
       令和: "令和",
