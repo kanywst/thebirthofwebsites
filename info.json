@@ -3397,8 +3397,8 @@
     ],
     "img": "kimik2.svg",
     "nationality": "China",
-    "description": "中国のMoonshot AIが2025年7月11日にオープンソース公開した1兆パラメータのMoEモデル。長文・コード・エージェント用途に強く、中国発の基盤モデル競争の主要プレイヤーとして台頭した。",
-    "description_en": "A one-trillion-parameter MoE model open-sourced by China's Moonshot AI on July 11, 2025. Strong at long context, code, and agentic tasks, it marked Moonshot's arrival as a serious foundation-model contender."
+    "description": "中国のMoonshot AIが2025年7月11日に公開した1兆パラメータのMoEモデル。改変版MITライセンスでモデル重みをオープンに公開し、長文・コード・エージェント用途に強く、中国発の基盤モデル競争の主要プレイヤーとして台頭した。",
+    "description_en": "A one-trillion-parameter MoE model released by China's Moonshot AI on July 11, 2025, with open model weights under a modified MIT license. Strong at long context, code, and agentic tasks, it marked Moonshot's arrival as a serious foundation-model contender."
   },
   {
     "date": "2025-08-07",
@@ -3557,7 +3557,7 @@
     "description_en": "A decentralized social network opened to the public on February 6, 2024. Built on the AT Protocol, it grew rapidly as an alternative to X (formerly Twitter)."
   },
   {
-    "date": "2025-04-29",
+    "date": "2023-08-03",
     "name": "Qwen",
     "type": [
       "AI",
@@ -3566,8 +3566,8 @@
     ],
     "img": "qwen.svg",
     "nationality": "China",
-    "description": "アリババが2025年4月29日に公開したオープン重みの大規模言語モデル群。ハイブリッド推論を備え、中国発のオープンソースAIの代表格となった。",
-    "description_en": "A family of open-weight large language models released by Alibaba on April 29, 2025. Featuring hybrid reasoning, it became a flagship of China's open-source AI."
+    "description": "アリババが2023年に公開した大規模言語モデル群「通義千問」。2023年8月3日にQwen-7Bをオープンソース化し、中国の大手テック企業として初めて自社の大規模モデルを公開した。以降、ハイブリッド推論などを備え、中国発のオープンソースAIの代表格となった。",
+    "description_en": "Alibaba's family of large language models, branded Tongyi Qianwen, first released in 2023. On August 3, 2023 it open-sourced Qwen-7B—the first major Chinese tech firm to open-source its own LLM—and went on to become a flagship of open-source AI with later hybrid-reasoning models."
   },
   {
     "date": "2010-06-01",
