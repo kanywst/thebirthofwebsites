@@ -3,7 +3,6 @@
     "date": "1998-09-04",
     "name": "Google",
     "type": [
-      "internet",
       "search engine",
       "アメリカ",
       "平成"
@@ -201,7 +200,7 @@
     "date": "2005-02-14",
     "name": "YouTube",
     "type": [
-      "video sharing",
+      "video",
       "アメリカ",
       "平成"
     ],
@@ -214,7 +213,7 @@
     "date": "2006-12-12",
     "name": "Niconico",
     "type": [
-      "video sharing",
+      "video",
       "日本",
       "平成"
     ],
@@ -630,7 +629,7 @@
     "date": "1962-11-15",
     "name": "AccuWeather",
     "type": [
-      "weather",
+      "service",
       "アメリカ",
       "昭和"
     ],
@@ -1048,7 +1047,6 @@
     "type": [
       "language",
       "カナダ",
-      "イスラエル",
       "平成"
     ],
     "img": "php.svg",
@@ -1607,7 +1605,6 @@
     "name": "Kubernetes",
     "type": [
       "CNCF",
-      "Container Orchestration",
       "アメリカ",
       "平成"
     ],
@@ -1621,7 +1618,6 @@
     "name": "Prometheus",
     "type": [
       "CNCF",
-      "Monitoring",
       "ドイツ",
       "平成"
     ],
@@ -1635,7 +1631,6 @@
     "name": "Fluentd",
     "type": [
       "CNCF",
-      "Logging",
       "日本",
       "平成"
     ],
@@ -1649,7 +1644,6 @@
     "name": "Envoy",
     "type": [
       "CNCF",
-      "Service Mesh",
       "アメリカ",
       "平成"
     ],
@@ -1663,7 +1657,6 @@
     "name": "Helm",
     "type": [
       "CNCF",
-      "Package Manager",
       "アメリカ",
       "平成"
     ],
@@ -1673,81 +1666,10 @@
     "description_en": "The package manager for Kubernetes, helping you define, install, and upgrade even the most complex Kubernetes application."
   },
   {
-    "date": "2017-12-01",
-    "name": "SPIFFE",
-    "type": [
-      "CNCF",
-      "Security",
-      "アメリカ",
-      "平成"
-    ],
-    "img": "spiffe.svg",
-    "nationality": "United-States-of-America",
-    "description": "異種環境間でのソフトウェアサービスのIDを安全にブートストラップし、認証するための標準規格。",
-    "description_en": "A set of open-source standards for securely identifying software systems in dynamic and heterogeneous environments."
-  },
-  {
-    "date": "2017-12-01",
-    "name": "SPIRE",
-    "type": [
-      "CNCF",
-      "Security",
-      "アメリカ",
-      "平成"
-    ],
-    "img": "spire.svg",
-    "nationality": "United-States-of-America",
-    "description": "SPIFFE APIの実装であり、ワークロードに対してSPIFFE IDを証明書として発行し、管理するツールチェーン。",
-    "description_en": "A toolchain of APIs for establishing trust between software systems across a wide variety of hosting environments."
-  },
-  {
-    "date": "2016-01-01",
-    "name": "Open Policy Agent",
-    "type": [
-      "CNCF",
-      "Policy",
-      "アメリカ",
-      "平成"
-    ],
-    "img": "opa.svg",
-    "nationality": "United-States-of-America",
-    "description": "Styraによって開発された、汎用的なポリシーエンジン。Rego言語を使用してポリシーをコードとして記述し、様々なソフトウェアスタックに適用できる。",
-    "description_en": "An open-source, general-purpose policy engine that unifies policy enforcement across the stack."
-  },
-  {
-    "date": "2017-04-25",
-    "name": "Linkerd",
-    "type": [
-      "CNCF",
-      "Service Mesh",
-      "アメリカ",
-      "平成"
-    ],
-    "img": "linkerd.svg",
-    "nationality": "United-States-of-America",
-    "description": "Buoyantによって開発された、世界初のサービスメッシュ。Kubernetes向けに設計されており、超軽量で高速、かつ安全であることを特徴とする。",
-    "description_en": "A service mesh for Kubernetes. It makes running services easier and safer by giving you runtime debugging, observability, reliability, and security."
-  },
-  {
-    "date": "2015-01-01",
-    "name": "Jaeger",
-    "type": [
-      "CNCF",
-      "Tracing",
-      "アメリカ",
-      "平成"
-    ],
-    "img": "jaeger.svg",
-    "nationality": "United-States-of-America",
-    "description": "Uberによって開発された、分散トレーシングシステム。マイクロサービスベースの分散システムのモニタリングとトラブルシューティングに使用される。",
-    "description_en": "Open source, end-to-end distributed tracing. Monitor and troubleshoot transactions in complex distributed systems."
-  },
-  {
     "date": "2017-05-24",
     "name": "Istio",
     "type": [
       "CNCF",
-      "Service Mesh",
       "アメリカ",
       "平成"
     ],
@@ -1757,67 +1679,10 @@
     "description_en": "An open platform to connect, manage, and secure microservices, originally developed by Google, IBM, and Lyft."
   },
   {
-    "date": "2016-02-01",
-    "name": "Harbor",
-    "type": [
-      "CNCF",
-      "Registry",
-      "アメリカ",
-      "平成"
-    ],
-    "img": "harbor.svg",
-    "nationality": "United-States-of-America",
-    "description": "VMwareによって開発された、信頼できるクラウドネイティブ・レジストリ。コンテンツの保存、署名、スキャンを行い、脆弱性から保護する。",
-    "description_en": "An open source trusted cloud native registry project that stores, signs, and scans content."
-  },
-  {
-    "date": "2016-05-01",
-    "name": "Falco",
-    "type": [
-      "CNCF",
-      "Security",
-      "アメリカ",
-      "平成"
-    ],
-    "img": "falco.svg",
-    "nationality": "United-States-of-America",
-    "description": "Sysdigによって開発された、クラウドネイティブ環境向けのランタイムセキュリティツール。システムコールを監視し、不審な動作を検知する。",
-    "description_en": "The cloud-native runtime security project. It detects unexpected application behavior and alerts on threats at runtime."
-  },
-  {
-    "date": "2013-06-01",
-    "name": "etcd",
-    "type": [
-      "CNCF",
-      "Key-Value Store",
-      "アメリカ",
-      "平成"
-    ],
-    "img": "etcd.svg",
-    "nationality": "United-States-of-America",
-    "description": "CoreOSによって開発された、分散型キーバリューストア。Kubernetesのバッキングストアとして使用され、クラスタデータの一貫性と高可用性を保証する。",
-    "description_en": "A distributed, reliable key-value store for the most critical data of a distributed system."
-  },
-  {
-    "date": "2017-10-01",
-    "name": "cert-manager",
-    "type": [
-      "CNCF",
-      "Security",
-      "イギリス",
-      "平成"
-    ],
-    "img": "cert-manager.svg",
-    "nationality": "United-Kingdom",
-    "description": "Jetstackによって開発された、Kubernetes向けの証明書管理コントローラー。Let's Encryptなどの発行元から証明書を自動的に取得・更新する。",
-    "description_en": "A Kubernetes add-on to automate the management and issuance of TLS certificates from various issuing sources."
-  },
-  {
     "date": "2017-10-17",
     "name": "ArgoCD",
     "type": [
       "CNCF",
-      "Continuous Delivery",
       "アメリカ",
       "平成"
     ],
@@ -1825,20 +1690,6 @@
     "nationality": "United-States-of-America",
     "description": "Intuitによって開発された、Kubernetesのための宣言的GitOps継続的デリバリーツール。Gitリポジトリの状態とクラスタの状態を自動的に同期させる。",
     "description_en": "A declarative, GitOps continuous delivery tool for Kubernetes."
-  },
-  {
-    "date": "2015-12-01",
-    "name": "Cilium",
-    "type": [
-      "CNCF",
-      "Networking",
-      "スイス",
-      "平成"
-    ],
-    "img": "cilium.svg",
-    "nationality": "Switzerland",
-    "description": "Isovalentによって開発された、eBPFベースのネットワーキング、セキュリティ、およびオブザーバビリティソリューション。Kubernetes環境で高度なパケットフィルタリングと可視化を提供する。",
-    "description_en": "Open source software for transparently securing the network connectivity between application services using eBPF."
   },
   {
     "date": "2015-12-11",
@@ -1943,7 +1794,7 @@
     "name": "Snowflake",
     "type": [
       "IT",
-      "Cloud Data",
+      "SaaS",
       "アメリカ",
       "平成"
     ],
@@ -1957,7 +1808,6 @@
     "name": "SpaceX",
     "type": [
       "IT",
-      "Aerospace",
       "アメリカ",
       "平成"
     ],
@@ -2083,7 +1933,7 @@
     "name": "GitLab",
     "type": [
       "IT",
-      "DevOps",
+      "tool",
       "ウクライナ",
       "平成"
     ],
@@ -2195,7 +2045,7 @@
     "name": "Unity",
     "type": [
       "IT",
-      "Software",
+      "Game",
       "アメリカ",
       "平成"
     ],
@@ -3523,5 +3373,278 @@
     "nationality": "United-States-of-America",
     "description": "Anthropicが2025年5月22日に公開したClaude第4世代（Opus 4・Sonnet 4）。エージェント的な長時間タスクの安定実行とコーディング能力で評価を確立し、2026年現在もClaude Code等で広く採用されている。",
     "description_en": "Anthropic's fourth-generation Claude (Opus 4 / Sonnet 4), released May 22, 2025. Set the bar for sustained agentic execution and coding tasks; widely used in 2026 in tools like Claude Code."
+  },
+  {
+    "date": "2025-07-09",
+    "name": "Grok 4",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "grok4.svg",
+    "nationality": "United-States-of-America",
+    "description": "イーロン・マスク率いるxAIが2025年7月9日に公開した第4世代モデル。20万GPUのColossusクラスタで訓練され、256kトークンの文脈長と、並列推論を行うGrok 4 Heavyを擁する。",
+    "description_en": "The fourth-generation model from Elon Musk's xAI, released July 9, 2025. Trained on the 200k-GPU Colossus cluster, it offers a 256k-token context window and a parallel-reasoning variant, Grok 4 Heavy."
+  },
+  {
+    "date": "2025-07-11",
+    "name": "Kimi K2",
+    "type": [
+      "AI",
+      "中国",
+      "令和"
+    ],
+    "img": "kimik2.svg",
+    "nationality": "China",
+    "description": "中国のMoonshot AIが2025年7月11日にオープンソース公開した1兆パラメータのMoEモデル。長文・コード・エージェント用途に強く、中国発の基盤モデル競争の主要プレイヤーとして台頭した。",
+    "description_en": "A one-trillion-parameter MoE model open-sourced by China's Moonshot AI on July 11, 2025. Strong at long context, code, and agentic tasks, it marked Moonshot's arrival as a serious foundation-model contender."
+  },
+  {
+    "date": "2025-08-07",
+    "name": "GPT-5",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "gpt5.svg",
+    "nationality": "United-States-of-America",
+    "description": "OpenAIが2025年8月7日に公開した統合型フラッグシップモデル。リアルタイムのルーターが高速モデルと推論モデル（GPT-5 thinking）を自動で切り替える設計で、GPT-4以来のメジャーアップデートとなった。",
+    "description_en": "OpenAI's unified flagship model, launched August 7, 2025. A real-time router automatically switches between a fast model and a reasoning model (GPT-5 thinking), marking the biggest leap since GPT-4."
+  },
+  {
+    "date": "2025-10-15",
+    "name": "Apple M5",
+    "type": [
+      "hardware",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "apple.png",
+    "nationality": "United-States-of-America",
+    "description": "Appleが2025年10月15日に発表したApple Silicon次世代SoC。AI処理性能を大きく引き上げ、MacBook Pro・iPad Pro・Vision Proに搭載された。",
+    "description_en": "Apple's next-generation Apple Silicon SoC, announced October 15, 2025. It delivered a major jump in AI performance and shipped in the MacBook Pro, iPad Pro, and Vision Pro."
+  },
+  {
+    "date": "2025-11-18",
+    "name": "Gemini 3",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "gemini3.svg",
+    "nationality": "United-States-of-America",
+    "description": "Googleが2025年11月18日に発表したGeminiの最新世代。検索・Geminiアプリ・AI Studio・Vertex AIなど主要製品へ初日から同時投入され、最大100万トークンの文脈長を持つ。",
+    "description_en": "Google's latest Gemini generation, announced November 18, 2025. Deployed across Search, the Gemini app, AI Studio, and Vertex AI on day one, it supports a context window of up to one million tokens."
+  },
+  {
+    "date": "2025-11-24",
+    "name": "Claude Opus 4.5",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "claudeopus45.svg",
+    "nationality": "United-States-of-America",
+    "description": "Anthropicが2025年11月24日に公開したClaudeの最上位モデル。コーディング・エージェント・コンピュータ操作で当時最高性能をうたい、Claude 4系の到達点となった。",
+    "description_en": "Anthropic's top-tier Claude model, released November 24, 2025. Billed as its best for coding, agents, and computer use, it represented the peak of the Claude 4 line."
+  },
+  {
+    "date": "2025-12-02",
+    "name": "Mistral 3",
+    "type": [
+      "AI",
+      "フランス",
+      "令和"
+    ],
+    "img": "mistral3.svg",
+    "nationality": "France",
+    "description": "フランスのMistral AIが2025年12月2日に発表した次世代モデル群。旗艦のMistral Large 3は総パラメータ675B・アクティブ41BのスパースMoEで、Apache 2.0ライセンスで公開された。",
+    "description_en": "The next-generation model family announced by France's Mistral AI on December 2, 2025. Its flagship Mistral Large 3 is a sparse MoE with 675B total / 41B active parameters, released under the Apache 2.0 license."
+  },
+  {
+    "date": "2026-04-24",
+    "name": "DeepSeek V4",
+    "type": [
+      "AI",
+      "中国",
+      "令和"
+    ],
+    "img": "deepseekv4.svg",
+    "nationality": "China",
+    "description": "中国のDeepSeekが2026年4月24日にプレビュー公開した第4世代。V4-Pro（1.6T）とV4-Flash（284B）の2モデルをオープン重み（MIT）で同時リリースし、100万トークンの文脈長に対応した。",
+    "description_en": "The fourth generation from China's DeepSeek, released as a preview on April 24, 2026. Two open-weight (MIT) models—V4-Pro (1.6T) and V4-Flash (284B)—shipped together with a one-million-token context window."
+  },
+  {
+    "date": "1981-08-12",
+    "name": "MS-DOS",
+    "type": [
+      "OS",
+      "アメリカ",
+      "昭和"
+    ],
+    "img": "msdos.svg",
+    "nationality": "United-States-of-America",
+    "description": "マイクロソフトが開発し、1981年8月のIBM PC（5150）にPC DOS 1.0として搭載された16ビットOS。PC時代の事実上の標準OSとなり、Windowsの礎を築いた。",
+    "description_en": "A 16-bit operating system developed by Microsoft and shipped as PC DOS 1.0 with the IBM PC (5150) in August 1981. It became the de facto standard OS of the PC era and laid the foundation for Windows."
+  },
+  {
+    "date": "2012-06-20",
+    "name": "Coinbase",
+    "type": [
+      "FinTech",
+      "アメリカ",
+      "平成"
+    ],
+    "img": "coinbase.svg",
+    "nationality": "United-States-of-America",
+    "description": "ブライアン・アームストロングらが2012年6月に設立した暗号資産取引所。米国を代表する取引所として暗号資産の一般普及を支え、2021年にNASDAQへ上場した。",
+    "description_en": "A cryptocurrency exchange founded by Brian Armstrong and others in June 2012. A leading U.S. exchange, it helped bring crypto to the mainstream and went public on the Nasdaq in 2021."
+  },
+  {
+    "date": "2013-01-24",
+    "name": "Vine",
+    "type": [
+      "video",
+      "アメリカ",
+      "平成"
+    ],
+    "img": "vine.svg",
+    "nationality": "United-States-of-America",
+    "description": "2013年1月24日にiOSで公開された6秒ループ動画の共有アプリ。短尺動画文化の元祖としてTikTok以前の時代を象徴し、Twitterに買収された。",
+    "description_en": "A six-second looping video app launched on iOS on January 24, 2013. A pioneer of short-form video culture before TikTok, it was acquired by Twitter."
+  },
+  {
+    "date": "2016-03-16",
+    "name": "Mastodon",
+    "type": [
+      "SNS",
+      "ドイツ",
+      "平成"
+    ],
+    "img": "mastodon.svg",
+    "nationality": "Germany",
+    "description": "オイゲン・ロホコが2016年3月に公開したオープンソースの分散型SNS。ActivityPubに基づく連合（Fediverse）の代表格で、Twitter代替として注目された。",
+    "description_en": "An open-source, decentralized social network first released by Eugen Rochko in March 2016. Built on ActivityPub, it became the flagship of the federated 'Fediverse' and a prominent Twitter alternative."
+  },
+  {
+    "date": "2020-03-01",
+    "name": "Clubhouse",
+    "type": [
+      "Communication",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "clubhouse.svg",
+    "nationality": "United-States-of-America",
+    "description": "2020年3月にローンチされた招待制の音声SNS。「ドロップイン」型のライブ会話で2020〜2021年に世界的なブームを起こした。",
+    "description_en": "An invite-only audio social network launched in March 2020. Its 'drop-in' live conversations sparked a global boom in 2020–2021."
+  },
+  {
+    "date": "2024-02-06",
+    "name": "Bluesky",
+    "type": [
+      "SNS",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "bluesky.svg",
+    "nationality": "United-States-of-America",
+    "description": "2024年2月6日に一般公開された分散型SNS。AT Protocolを採用し、X（旧Twitter）の代替として急成長した。",
+    "description_en": "A decentralized social network opened to the public on February 6, 2024. Built on the AT Protocol, it grew rapidly as an alternative to X (formerly Twitter)."
+  },
+  {
+    "date": "2025-04-29",
+    "name": "Qwen",
+    "type": [
+      "AI",
+      "中国",
+      "令和"
+    ],
+    "img": "qwen.svg",
+    "nationality": "China",
+    "description": "アリババが2025年4月29日に公開したオープン重みの大規模言語モデル群。ハイブリッド推論を備え、中国発のオープンソースAIの代表格となった。",
+    "description_en": "A family of open-weight large language models released by Alibaba on April 29, 2025. Featuring hybrid reasoning, it became a flagship of China's open-source AI."
+  },
+  {
+    "date": "2010-06-01",
+    "name": "Stuxnet",
+    "type": [
+      "Security",
+      "アメリカ",
+      "平成"
+    ],
+    "img": "stuxnet.svg",
+    "nationality": "United-States-of-America",
+    "description": "2010年6月に発見された、世界初の本格的なサイバー兵器とされるワーム。イランの核施設の産業制御システム（SCADA）を物理的に破壊し、サイバー戦争の時代を象徴した。",
+    "description_en": "A worm discovered in June 2010, widely regarded as the world's first true cyberweapon. By physically sabotaging the SCADA industrial control systems of Iran's nuclear program, it ushered in the era of cyberwarfare."
+  },
+  {
+    "date": "1988-11-02",
+    "name": "Morris Worm",
+    "type": [
+      "Security",
+      "アメリカ",
+      "昭和"
+    ],
+    "img": "morrisworm.svg",
+    "nationality": "United-States-of-America",
+    "description": "1988年11月、コーネル大学院生のロバート・モリスが放った、インターネット史上初の大規模ワーム。約6,000台のUNIXマシンに感染して大混乱を招き、米国でコンピュータ詐欺・濫用法による初の有罪判決を生んだ。",
+    "description_en": "The first major worm in internet history, released in November 1988 by Cornell graduate student Robert Morris. It infected some 6,000 UNIX machines, caused widespread disruption, and led to the first conviction under the U.S. Computer Fraud and Abuse Act."
+  },
+  {
+    "date": "2000-05-04",
+    "name": "ILOVEYOU",
+    "type": [
+      "Security",
+      "フィリピン",
+      "平成"
+    ],
+    "img": "iloveyou.svg",
+    "nationality": "Philippines",
+    "description": "2000年5月、フィリピンの学生オネル・デ・グスマンが作成したメール経由のワーム。「ILOVEYOU」という件名で数千万台のWindowsに感染し、約100億ドルの被害を出した。",
+    "description_en": "An email-borne worm created by Philippine student Onel de Guzman in May 2000. Spreading via the subject line 'ILOVEYOU,' it infected tens of millions of Windows PCs and caused an estimated $10 billion in damage."
+  },
+  {
+    "date": "2014-04-07",
+    "name": "Heartbleed",
+    "type": [
+      "Security",
+      "フィンランド",
+      "平成"
+    ],
+    "img": "heartbleed.svg",
+    "nationality": "Finland",
+    "description": "2014年4月に公表された、広く使われる暗号ライブラリOpenSSLの重大な脆弱性（CVE-2014-0160）。サーバの秘密鍵やパスワードを盗み出せるもので、インターネットの安全なWebサーバの約17%が影響を受けた。",
+    "description_en": "A critical vulnerability (CVE-2014-0160) in the widely used OpenSSL cryptography library, disclosed in April 2014. It allowed theft of servers' private keys and passwords, affecting roughly 17% of the internet's secure web servers."
+  },
+  {
+    "date": "2016-08-01",
+    "name": "Mirai",
+    "type": [
+      "Security",
+      "アメリカ",
+      "平成"
+    ],
+    "img": "mirai.svg",
+    "nationality": "United-States-of-America",
+    "description": "2016年に発見されたIoT機器を乗っ取るボットネット。IPカメラや家庭用ルーターを踏み台にし、2016年10月にはDNS事業者Dynへの大規模DDoSでTwitterやNetflixを停止させた。名称は日本語の「未来」に由来する。",
+    "description_en": "A botnet discovered in 2016 that hijacks IoT devices such as IP cameras and home routers. In October 2016 it launched a massive DDoS attack on DNS provider Dyn, knocking out Twitter and Netflix. Its name comes from the Japanese word for 'future.'"
+  },
+  {
+    "date": "2017-05-12",
+    "name": "WannaCry",
+    "type": [
+      "Security",
+      "北朝鮮",
+      "平成"
+    ],
+    "img": "wannacry.svg",
+    "nationality": "North-Korea",
+    "description": "2017年5月12日に世界150か国・20万台以上へ拡散したランサムワーム。NSA由来の脆弱性EternalBlueを悪用し、英国NHSなどを麻痺させた。米英は北朝鮮の関与を指摘した。",
+    "description_en": "A ransomware worm that spread to over 200,000 computers across 150 countries on May 12, 2017. Exploiting the NSA-derived EternalBlue vulnerability, it crippled organizations such as the UK's NHS. The US and UK attributed it to North Korea."
   }
 ]
