@@ -78,6 +78,7 @@ const en = {
       香港: "Hong Kong",
       フィリピン: "Philippines",
       北朝鮮: "North Korea",
+      "Multi-national": "International",
     },
     eras: {
       令和: "2019-",
@@ -169,6 +170,7 @@ const ja: MessageSchema = {
       香港: "香港",
       フィリピン: "フィリピン",
       北朝鮮: "北朝鮮",
+      "Multi-national": "多国籍",
     },
     eras: {
       令和: "令和",
