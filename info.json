@@ -3440,17 +3440,17 @@
     "description_en": "Google's latest Gemini generation, announced November 18, 2025. Deployed across Search, the Gemini app, AI Studio, and Vertex AI on day one, it supports a context window of up to one million tokens."
   },
   {
-    "date": "2025-11-24",
-    "name": "Claude Opus 4.5",
+    "date": "2026-06-09",
+    "name": "Claude Fable 5",
     "type": [
       "AI",
       "アメリカ",
       "令和"
     ],
-    "img": "claudeopus45.svg",
+    "img": "claudefable5.svg",
     "nationality": "United-States-of-America",
-    "description": "Anthropicが2025年11月24日に公開したClaudeの最上位モデル。コーディング・エージェント・コンピュータ操作で当時最高性能をうたい、Claude 4系の到達点となった。",
-    "description_en": "Anthropic's top-tier Claude model, released November 24, 2025. Billed as its best for coding, agents, and computer use, it represented the peak of the Claude 4 line."
+    "description": "Anthropicが2026年6月9日に公開した、Opus級の上に位置する新ティア「Fable級」の最初のモデル。Claude 4系を超える最上位として、コーディング・エージェント・推論で当時最高水準をうたった。",
+    "description_en": "The first model in Anthropic's new Fable-class tier, sitting above the Opus class, released June 9, 2026. Positioned as its most capable model yet—beyond the Claude 4 line—for coding, agents, and reasoning."
   },
   {
     "date": "2025-12-02",
