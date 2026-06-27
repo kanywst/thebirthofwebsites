@@ -70,6 +70,7 @@ const NATIONALITY_FILTERS = [
   "香港",
   "フィリピン",
   "北朝鮮",
+  "Multi-national",
 ] as const
 
 const ERA_FILTERS = ["令和", "平成", "昭和", "大正", "明治"] as const
