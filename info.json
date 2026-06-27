@@ -3646,5 +3646,57 @@
     "nationality": "North-Korea",
     "description": "2017年5月12日に世界150か国・20万台以上へ拡散したランサムワーム。NSA由来の脆弱性EternalBlueを悪用し、英国NHSなどを麻痺させた。米英は北朝鮮の関与を指摘した。",
     "description_en": "A ransomware worm that spread to over 200,000 computers across 150 countries on May 12, 2017. Exploiting the NSA-derived EternalBlue vulnerability, it crippled organizations such as the UK's NHS. The US and UK attributed it to North Korea."
+  },
+  {
+    "date": "1999-03-26",
+    "name": "Melissa",
+    "type": [
+      "Security",
+      "アメリカ",
+      "平成"
+    ],
+    "img": "melissa.svg",
+    "nationality": "United-States-of-America",
+    "description": "1999年3月、米国のデイビッド・L・スミスが作成したマクロウイルス。WordとOutlookを介して爆発的に拡散し、数日で10万台以上に感染。大規模メール経由ウイルスの先駆けとなった。",
+    "description_en": "A macro virus created by David L. Smith in the US in March 1999. Spreading explosively via Word and Outlook, it infected over 100,000 computers within days and pioneered the era of mass email-borne viruses."
+  },
+  {
+    "date": "2001-07-15",
+    "name": "Code Red",
+    "type": [
+      "Security",
+      "アメリカ",
+      "平成"
+    ],
+    "img": "codered.svg",
+    "nationality": "United-States-of-America",
+    "description": "2001年7月に観測された、マイクロソフトIISの脆弱性を突くワーム。感染サーバを踏み台に大規模拡散し、ホワイトハウスのサイトへDDoSを仕掛けた。短期間で35万台以上に感染した。",
+    "description_en": "A worm observed in July 2001 that exploited a vulnerability in Microsoft IIS. It spread rapidly from infected servers and launched a DDoS attack against the White House website, infecting over 350,000 hosts in a short time."
+  },
+  {
+    "date": "2017-06-27",
+    "name": "NotPetya",
+    "type": [
+      "Security",
+      "ロシア",
+      "平成"
+    ],
+    "img": "notpetya.svg",
+    "nationality": "Russia",
+    "description": "2017年6月、ウクライナの会計ソフトM.E.Docを起点に世界へ拡散したワイパー型マルウェア。身代金型を装いつつ復号不能でデータを破壊し、被害総額は100億ドル超。ロシアの関与が指摘される。",
+    "description_en": "A wiper-class malware that spread worldwide from Ukrainian accounting software M.E.Doc in June 2017. Disguised as ransomware but irrecoverable, it destroyed data and caused over $10 billion in damage; widely attributed to Russia."
+  },
+  {
+    "date": "2021-12-10",
+    "name": "Log4Shell",
+    "type": [
+      "Security",
+      "中国",
+      "令和"
+    ],
+    "img": "log4shell.svg",
+    "nationality": "China",
+    "description": "2021年12月に公表された、Javaの定番ログライブラリApache Log4jの致命的な脆弱性（CVE-2021-44228）。CVSS最高値10.0で、簡単な文字列で任意コード実行が可能。数億台規模に影響しうるとされた。発見・報告はアリババの研究者による。",
+    "description_en": "A critical vulnerability (CVE-2021-44228) in Apache Log4j, the ubiquitous Java logging library, disclosed in December 2021. Rated CVSS 10.0, it allowed remote code execution from a simple string and was estimated to affect hundreds of millions of devices; found and reported by an Alibaba researcher."
   }
 ]

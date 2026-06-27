@@ -142,6 +142,10 @@ const MAP = {
   "iloveyou.svg": { fallback: "ILY" },
   "wannacry.svg": { fallback: "WC" },
   "mirai.svg": { fallback: "未来" },
+  "notpetya.svg": { fallback: "NP" },
+  "log4shell.svg": { fallback: "L4J" },
+  "melissa.svg": { fallback: "ML" },
+  "codered.svg": { fallback: "CR" },
 }
 
 function pickHex(spec) {
