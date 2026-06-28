@@ -1,8 +1,9 @@
 #!/usr/bin/env node
 /**
  * Mark discontinued services with their shutdown date.
- * Adds an optional `ended` field (ISO date) to existing info.json entries.
- * Re-runnable: each listed entry is overwritten; others are left untouched.
+ * The ENDED map below is the single source of truth: listed entries get the
+ * `ended` ISO date set, and the field is removed from any entry not listed
+ * (e.g. a service that was resurrected or marked by mistake). Fully idempotent.
  */
 import { readFileSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
@@ -37,13 +38,17 @@ const ENDED = {
 }
 
 let updated = 0
+let cleared = 0
 for (const item of items) {
   const ended = ENDED[item.name]
   if (ended) {
     item.ended = ended
     updated++
+  } else if ("ended" in item) {
+    delete item.ended
+    cleared++
   }
 }
 
 writeFileSync(path, `${JSON.stringify(items, null, 2)}\n`)
-console.log(`✓ Ended markers applied: ${updated}/${Object.keys(ENDED).length}`)
+console.log(`✓ Ended markers applied: ${updated}/${Object.keys(ENDED).length} (cleared ${cleared})`)
