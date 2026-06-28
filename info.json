@@ -324,7 +324,8 @@
     "img": "alexa.png",
     "nationality": "United-States-of-America",
     "description": "ウェブサイトの利用状況に関するデータを集め、ウェブサイトがどれだけの人に見られているかを調査している。alexa.comでは、ドメインへの1日当たりのアクセス数や訪問者数、直帰率、世界および国内におけるランキングなどを確認できる。なお、Alexa InternetはWayback Machineのデータ提供元でもある",
-    "description_en": "Collects data on website usage and investigates how many people view websites. At alexa.com, you can check the number of accesses and visitors per day to a domain, bounce rate, and rankings in the world and domestically. Alexa Internet is also a data provider for the Wayback Machine."
+    "description_en": "Collects data on website usage and investigates how many people view websites. At alexa.com, you can check the number of accesses and visitors per day to a domain, bounce rate, and rankings in the world and domestically. Alexa Internet is also a data provider for the Wayback Machine.",
+    "ended": "2022-05-01"
   },
   {
     "date": "1996",
@@ -1378,7 +1379,8 @@
     "img": "sixdegrees.jpg",
     "nationality": "United-States-of-America",
     "description": "1997年〜2001年に運営されていたサイトです。サービス名である「Six degress」とは、自分の知り合いを6人たどれば、全世界中の人と連絡が取れるという「Six Degrees of Separations」（6次の隔たり）理論に由来しています。「6次の隔たり」はSNSにとっては重要な要素であり、日本SNSサイト「Gree」はこの「Six Degrees of Separations」から命名されています。",
-    "description_en": "A site operated from 1997 to 2001. The service name \"Six Degrees\" is derived from the \"Six Degrees of Separation\" theory that if you trace 6 acquaintances, you can contact anyone in the world. \"Six degrees of separation\" is an important element for SNS, and the Japanese SNS site \"Gree\" is named after this \"Six Degrees of Separation\"."
+    "description_en": "A site operated from 1997 to 2001. The service name \"Six Degrees\" is derived from the \"Six Degrees of Separation\" theory that if you trace 6 acquaintances, you can contact anyone in the world. \"Six degrees of separation\" is an important element for SNS, and the Japanese SNS site \"Gree\" is named after this \"Six Degrees of Separation\".",
+    "ended": "2001"
   },
   {
     "date": "2004-02-21",
@@ -1575,7 +1577,8 @@
     "img": "pandoratv.png",
     "nationality": "Korea,-South",
     "description": "かつては著作権問題を抱えていたが、韓国国内では著作権問題は解決している。また青瓦台や警察庁など行政機関が、パンドラTVを使った定例記者会見映像や広報映像の配信を行ったり、ケーブルテレビ局との提携による番組配信、著作権者の許可を得て『NARUTO -ナルト-』・『攻殻機動隊』・『BLEACH』などのアニメ作品を放映しているが、明らかに無許可の日本アニメやドラマなどもアップロードされ続けている。日本国内では24時間モニタリングされ、違法または問題となるコンテンツがアップされたら削除するようにしている。",
-    "description_en": "It used to have copyright issues, but copyright issues have been resolved within South Korea. Also, administrative agencies such as the Blue House and the National Police Agency distribute regular press conference videos and promotional videos using Pandora TV, distribute programs through partnerships with cable TV stations, and broadcast anime works such as \"NARUTO\", \"Ghost in the Shell\", and \"BLEACH\" with the permission of copyright holders, but obviously unauthorized Japanese anime and dramas continue to be uploaded. In Japan, it is monitored 24 hours a day, and illegal or problematic content is deleted if uploaded."
+    "description_en": "It used to have copyright issues, but copyright issues have been resolved within South Korea. Also, administrative agencies such as the Blue House and the National Police Agency distribute regular press conference videos and promotional videos using Pandora TV, distribute programs through partnerships with cable TV stations, and broadcast anime works such as \"NARUTO\", \"Ghost in the Shell\", and \"BLEACH\" with the permission of copyright holders, but obviously unauthorized Japanese anime and dramas continue to be uploaded. In Japan, it is monitored 24 hours a day, and illegal or problematic content is deleted if uploaded.",
+    "ended": "2023-01-31"
   },
   {
     "date": "2016-09",
@@ -1601,7 +1604,8 @@
     "img": "liveleak.png",
     "nationality": "United-States-of-America",
     "description": "戦争・テロ・犯罪・事故・災害といった現実の出来事を生のまま配信するニュース／ショックサイトの代表格。2006年に競合のOgrish.comを統合し、市民ジャーナリズムと「グロサイト」の中間を占めた。2021年5月5日にサービスを終了し、ItemFix.comへリダイレクトされた。",
-    "description_en": "News / shock site that distributed raw footage of wars, terrorism, crimes, accidents, and disasters. Absorbed competitor Ogrish.com in 2006, occupying a contested space between citizen journalism and outright shock content. Shut down on May 5, 2021 and redirected to ItemFix.com."
+    "description_en": "News / shock site that distributed raw footage of wars, terrorism, crimes, accidents, and disasters. Absorbed competitor Ogrish.com in 2006, occupying a contested space between citizen journalism and outright shock content. Shut down on May 5, 2021 and redirected to ItemFix.com.",
+    "ended": "2021-05-05"
   },
   {
     "date": "2014-06-06",
@@ -2436,7 +2440,8 @@
     "img": "napster.svg",
     "nationality": "United-States-of-America",
     "description": "ショーン・ファニングらが開発したP2Pファイル共有サービス。MP3音楽ファイルの無料共有を可能にし、音楽業界に激震を走らせた。著作権侵害訴訟により閉鎖されたが、その技術と概念は後のストリーミング時代への道を開いた。",
-    "description_en": "A P2P file-sharing service developed by Shawn Fanning and others. It enabled free sharing of MP3 music files, shaking the music industry. Although shut down due to copyright lawsuits, its technology and concept paved the way for the streaming era."
+    "description_en": "A P2P file-sharing service developed by Shawn Fanning and others. It enabled free sharing of MP3 music files, shaking the music industry. Although shut down due to copyright lawsuits, its technology and concept paved the way for the streaming era.",
+    "ended": "2001-07-11"
   },
   {
     "date": "1981-07-02",
@@ -2475,7 +2480,8 @@
     "img": "megaupload.svg",
     "nationality": "Hong-Kong",
     "description": "キム・ドットコムによって設立されたオンラインストレージサービス。手軽なファイル共有手段として絶大な人気を誇ったが、大規模な著作権侵害の温床としてFBIにより閉鎖され、経営陣が逮捕された。",
-    "description_en": "An online storage service founded by Kim Dotcom. While immensely popular for easy file sharing, it was shut down by the FBI and its executives arrested for facilitating massive copyright infringement."
+    "description_en": "An online storage service founded by Kim Dotcom. While immensely popular for easy file sharing, it was shut down by the FBI and its executives arrested for facilitating massive copyright infringement.",
+    "ended": "2012-01-19"
   },
   {
     "date": "2000-05-03",
@@ -2488,7 +2494,8 @@
     "img": "limewire.svg",
     "nationality": "United-States-of-America",
     "description": "マーク・ゴートンによって開発されたP2Pファイル共有ソフト。Gnutellaネットワークを利用し、Napster後のファイル共有ブームを支えたが、RIAA（全米レコード協会）との訴訟に敗れ、サービスを停止した。",
-    "description_en": "A P2P file-sharing client developed by Mark Gorton. Using the Gnutella network, it sustained the file-sharing boom after Napster but ceased operations after losing a lawsuit against the RIAA."
+    "description_en": "A P2P file-sharing client developed by Mark Gorton. Using the Gnutella network, it sustained the file-sharing boom after Napster but ceased operations after losing a lawsuit against the RIAA.",
+    "ended": "2010-10-26"
   },
   {
     "date": "2011-09-05",
@@ -2514,7 +2521,8 @@
     "img": "popcorntime.svg",
     "nationality": "Argentina",
     "description": "アルゼンチンの開発者グループによって作成された、オープンソースのBitTorrentクライアント。「海賊版のNetflix」とも呼ばれ、ダウンロードを待たずにストリーミング再生できる画期的なUXで人気を博した。",
-    "description_en": "An open-source BitTorrent client created by a group of developers from Argentina. Often called the \"Netflix of piracy,\" it gained popularity for its revolutionary UX that allowed streaming without waiting for downloads."
+    "description_en": "An open-source BitTorrent client created by a group of developers from Argentina. Often called the \"Netflix of piracy,\" it gained popularity for its revolutionary UX that allowed streaming without waiting for downloads.",
+    "ended": "2022-01-05"
   },
   {
     "date": "2016-01-01",
@@ -2527,7 +2535,8 @@
     "img": "mangamura.svg",
     "nationality": "Japan",
     "description": "星野ロミによって運営されていた、日本最大級の海賊版マンガ閲覧サイト。出版業界に甚大な被害を与え、社会問題化。政府によるサイトブロッキング議論の引き金となり、運営者の逮捕と実刑判決に至った。",
-    "description_en": "Japan's largest pirate manga viewing site, operated by Romi Hoshino. It caused immense damage to the publishing industry and became a social issue, triggering debates on site blocking and leading to the arrest and imprisonment of the operator."
+    "description_en": "Japan's largest pirate manga viewing site, operated by Romi Hoshino. It caused immense damage to the publishing industry and became a social issue, triggering debates on site blocking and leading to the arrest and imprisonment of the operator.",
+    "ended": "2018-04-17"
   },
   {
     "date": "2002-05-06",
@@ -2566,7 +2575,8 @@
     "img": "silkroad.svg",
     "nationality": "United-States-of-America",
     "description": "ロス・ウルブリヒト（ドレッド・パイレート・ロバーツ）によって開設された、最初の現代的なダークネットマーケット。Torによる匿名性とBitcoinによる決済を組み合わせ、違法薬物などの取引を可能にした。",
-    "description_en": "The first modern darknet market, founded by Ross Ulbricht (Dread Pirate Roberts). It combined Tor's anonymity with Bitcoin payments to enable the trade of illegal drugs and other goods."
+    "description_en": "The first modern darknet market, founded by Ross Ulbricht (Dread Pirate Roberts). It combined Tor's anonymity with Bitcoin payments to enable the trade of illegal drugs and other goods.",
+    "ended": "2013-10-02"
   },
   {
     "date": "2000-03-01",
@@ -2605,7 +2615,8 @@
     "img": "alphabay.svg",
     "nationality": "Canada",
     "description": "アレクサンドル・カゼスによって設立された、Silk Road閉鎖後の最大規模のダークネットマーケット。2017年に法執行機関によって閉鎖されるまで、数多くの違法取引が行われていた。",
-    "description_en": "The largest darknet market after the closure of Silk Road, founded by Alexandre Cazes. It hosted numerous illegal transactions until it was shut down by law enforcement in 2017."
+    "description_en": "The largest darknet market after the closure of Silk Road, founded by Alexandre Cazes. It hosted numerous illegal transactions until it was shut down by law enforcement in 2017.",
+    "ended": "2017-07-04"
   },
   {
     "date": "1969-10-29",
@@ -2735,7 +2746,8 @@
     "img": "theranos.svg",
     "nationality": "United-States-of-America",
     "description": "エリザベス・ホームズによって設立された医療ベンチャー。「数滴の血液で数百種類の検査ができる」と謳い巨額の資金を集めたが、技術は実在せず、シリコンバレー史上最大級の詐欺事件として崩壊した。",
-    "description_en": "A health tech startup founded by Elizabeth Holmes. It raised massive funds claiming to run hundreds of tests with a few drops of blood, but the technology didn't exist, leading to one of Silicon Valley's biggest frauds."
+    "description_en": "A health tech startup founded by Elizabeth Holmes. It raised massive funds claiming to run hundreds of tests with a few drops of blood, but the technology didn't exist, leading to one of Silicon Valley's biggest frauds.",
+    "ended": "2018-09-04"
   },
   {
     "date": "2010-07-18",
@@ -2748,7 +2760,8 @@
     "img": "mtgox.svg",
     "nationality": "Japan",
     "description": "かつて世界最大のビットコイン取引所だった東京の企業。2014年に約85万BTC（当時のレートで約480億円）が消失し破綻。仮想通貨のセキュリティと規制の重要性を世界に知らしめた事件。",
-    "description_en": "Once the world's largest Bitcoin exchange, based in Tokyo. It collapsed in 2014 after losing about 850,000 BTC, highlighting the critical need for security and regulation in cryptocurrency."
+    "description_en": "Once the world's largest Bitcoin exchange, based in Tokyo. It collapsed in 2014 after losing about 850,000 BTC, highlighting the critical need for security and regulation in cryptocurrency.",
+    "ended": "2014-02-28"
   },
   {
     "date": "1970-07-01",
@@ -3339,8 +3352,9 @@
     ],
     "img": "sora.svg",
     "nationality": "United-States-of-America",
-    "description": "OpenAIが2024年2月15日に研究プレビューを発表し、12月9日にChatGPT Plus/Pro加入者向けに一般公開した動画生成AI。テキストから最長1分の高品質動画を生成し、映像制作のワークフローに大きな衝撃を与えた。",
-    "description_en": "OpenAI's video-generation model: research preview announced February 15, 2024, public release for ChatGPT Plus/Pro on December 9, 2024. Generates up to one-minute high-quality videos from text, reshaping creative workflows."
+    "description": "OpenAIが2024年2月15日に研究プレビューを発表し、12月9日にChatGPT Plus/Pro加入者向けに一般公開した動画生成AI。テキストから最長1分の高品質動画を生成し、映像制作のワークフローに大きな衝撃を与えた。しかし運用コストの高騰や著作権・ディープフェイク問題を受け、2026年4月26日にWeb版・アプリ版（sora.com及びiOS/Androidアプリ）が提供終了。API版も2026年9月24日に終了予定で、スタンドアロン製品としてのSoraは幕を下ろした。",
+    "description_en": "OpenAI's video-generation model: research preview announced February 15, 2024, public release for ChatGPT Plus/Pro on December 9, 2024. Generates up to one-minute high-quality videos from text, reshaping creative workflows. Amid soaring compute costs and copyright/deepfake controversies, the Sora web and app experiences (sora.com and the iOS/Android apps) were discontinued on April 26, 2026, with the API to follow on September 24, 2026 — ending Sora as a standalone product.",
+    "ended": "2026-04-26"
   },
   {
     "date": "2025-04-05",
