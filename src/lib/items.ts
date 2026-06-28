@@ -36,7 +36,7 @@ export function filterEnded(items: readonly Item[]): Item[] {
 }
 
 export function countEnded(items: readonly Item[]): number {
-  return items.filter((item) => item.ended != null).length
+  return items.reduce((acc, item) => (item.ended != null ? acc + 1 : acc), 0)
 }
 
 export function sortByDate(items: readonly Item[]): Item[] {
