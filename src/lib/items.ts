@@ -10,6 +10,7 @@ export interface Item {
   readonly nationality: string
   readonly description: string
   readonly description_en: string
+  readonly ended?: string
 }
 
 export const items: readonly Item[] = data as readonly Item[]
@@ -28,6 +29,14 @@ export function searchByKeyword(items: readonly Item[], keyword: string): Item[]
 export function filterByTag(items: readonly Item[], tag: string): Item[] {
   if (tag === "" || tag === "All") return [...items]
   return items.filter((item) => item.type.includes(tag))
+}
+
+export function filterEnded(items: readonly Item[]): Item[] {
+  return items.filter((item) => item.ended != null)
+}
+
+export function countEnded(items: readonly Item[]): number {
+  return items.filter((item) => item.ended != null).length
 }
 
 export function sortByDate(items: readonly Item[]): Item[] {

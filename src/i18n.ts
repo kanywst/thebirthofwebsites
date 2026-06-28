@@ -17,6 +17,7 @@ const en = {
       category: "Category",
       nationality: "Nationality",
       era: "Era",
+      status: "Status",
     },
     types: {
       All: "All",
@@ -87,6 +88,12 @@ const en = {
       大正: "1912-1926",
       明治: "1868-1912",
     },
+    status: {
+      ended: "Discontinued",
+    },
+    badge: {
+      ended: "R.I.P.",
+    },
   },
 }
 
@@ -109,6 +116,7 @@ const ja: MessageSchema = {
       category: "カテゴリ",
       nationality: "国",
       era: "元号",
+      status: "状態",
     },
     types: {
       All: "すべて",
@@ -178,6 +186,12 @@ const ja: MessageSchema = {
       昭和: "昭和",
       大正: "大正",
       明治: "明治",
+    },
+    status: {
+      ended: "サービス終了",
+    },
+    badge: {
+      ended: "R.I.P.",
     },
   },
 }
