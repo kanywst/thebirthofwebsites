@@ -1364,7 +1364,8 @@
     "img": "friendster.png",
     "nationality": "Canada",
     "description": "まだMyspace（2003年開始）、Facebook（2004年開始）が無く、他のソーシャル・ネットワーキング・サイトも広く使われる前の[14]2002年、Friendsterはカナダのコンピュータプログラマーであるジョナサン・エイブラムスが設立した[15]。Pets.com（1997年開始）のようなその他いくつかの小規模なソーシャル・ネットワーキング・サイトが先行していた中でFriendsterは会員数が100万人に達したサイトの一角になるまで成長した。",
-    "description_en": "In 2002, before Myspace (started in 2003) and Facebook (started in 2004) existed and other social networking sites were widely used, Friendster was founded by Canadian computer programmer Jonathan Abrams. While several other small social networking sites such as Pets.com (started in 1997) preceded it, Friendster grew to become one of the sites with 1 million members."
+    "description_en": "In 2002, before Myspace (started in 2003) and Facebook (started in 2004) existed and other social networking sites were widely used, Friendster was founded by Canadian computer programmer Jonathan Abrams. While several other small social networking sites such as Pets.com (started in 1997) preceded it, Friendster grew to become one of the sites with 1 million members.",
+    "ended": "2015-06-30"
   },
   {
     "date": "1997",
@@ -1429,7 +1430,8 @@
     "img": "skype.svg",
     "nationality": "Estonia",
     "description": "ニコラス・センストロムとヤヌス・フリスが2003年に設立したP2P電話サービス。スマートフォン以前の国際通話の常識を変えた。2011年5月、Microsoftが85億ドルで買収。長らくMicrosoftのコミュニケーション基盤として使われてきたが、2025年5月5日にコンシューマー版サービスを終了し、ユーザーはMicrosoft Teams（無料版）へ移行した。",
-    "description_en": "P2P calling service founded in 2003 by Niklas Zennström and Janus Friis, transforming international phone calls before the smartphone era. Acquired by Microsoft for $8.5B in May 2011. The consumer service shut down on May 5, 2025, with users migrated to the free tier of Microsoft Teams."
+    "description_en": "P2P calling service founded in 2003 by Niklas Zennström and Janus Friis, transforming international phone calls before the smartphone era. Acquired by Microsoft for $8.5B in May 2011. The consumer service shut down on May 5, 2025, with users migrated to the free tier of Microsoft Teams.",
+    "ended": "2025-05-05"
   },
   {
     "date": "2004-09-15",
@@ -1494,7 +1496,8 @@
     "img": "googleplus.svg",
     "nationality": "United-States-of-America",
     "description": "2011年6月、プロジェクトに1年間を費やした末にサービスが開始された。Googleでは新サービスの船出を記念して、プロジェクトに携わった数百人の従業員に水兵帽を配った。2018年12月10日には米グーグル社がGoogle+ APIに個人情報が漏洩する可能性があるバグが存在していたことを発表し、Google+の個人向けサービスを2019年4月に4ヶ月前倒しして終了すると発表した。同社は個人情報を不正に取得された形跡はないとしている。",
-    "description_en": "Service started in June 2011 after spending a year on the project. Google distributed sailor hats to hundreds of employees involved in the project to commemorate the launch of the new service. On December 10, 2018, Google announced that there was a bug in the Google+ API that could leak personal information, and announced that the consumer service of Google+ would be terminated in April 2019, four months ahead of schedule. The company stated that there was no evidence that personal information was acquired illegally."
+    "description_en": "Service started in June 2011 after spending a year on the project. Google distributed sailor hats to hundreds of employees involved in the project to commemorate the launch of the new service. On December 10, 2018, Google announced that there was a bug in the Google+ API that could leak personal information, and announced that the consumer service of Google+ would be terminated in April 2019, four months ahead of schedule. The company stated that there was no evidence that personal information was acquired illegally.",
+    "ended": "2019-04-02"
   },
   {
     "date": "1990",
@@ -2797,7 +2800,8 @@
     "img": "geocities.svg",
     "nationality": "United-States-of-America",
     "description": "デイビッド・ボネットらが設立した、無料ウェブホスティングサービス。ユーザーが「近所（Neighborhoods）」と呼ばれるテーマ別のコミュニティにホームページを作成できる仕組みで、個人サイトブームを巻き起こした。2009年に米国でのサービスを終了。",
-    "description_en": "A free web hosting service founded by David Bohnett and others. It sparked a personal website boom by allowing users to create homepages in themed communities called \"Neighborhoods\". US service ended in 2009."
+    "description_en": "A free web hosting service founded by David Bohnett and others. It sparked a personal website boom by allowing users to create homepages in themed communities called \"Neighborhoods\". US service ended in 2009.",
+    "ended": "2009-10-26"
   },
   {
     "date": "1969-01-01",
@@ -2901,7 +2905,8 @@
     "img": "googlereader.svg",
     "nationality": "United-States-of-America",
     "description": "GoogleがChris Wetherellを中心に開発したRSSフィードリーダー。2005年10月の公開後、RSS文化の中心的存在となったが、2013年7月1日にサービス終了。代替サービス（Feedly等）への移行を促す形でRSSコミュニティに大きな影響を残した。",
-    "description_en": "Google's RSS feed reader, launched October 2005, became the de facto center of RSS culture before its shutdown on July 1, 2013, prompting an exodus to Feedly and similar services."
+    "description_en": "Google's RSS feed reader, launched October 2005, became the de facto center of RSS culture before its shutdown on July 1, 2013, prompting an exodus to Feedly and similar services.",
+    "ended": "2013-07-01"
   },
   {
     "date": "2007-06-01",
@@ -2929,7 +2934,8 @@
     "img": "googlewave.svg",
     "nationality": "United-States-of-America",
     "description": "Googleが2009年のGoogle I/Oで発表したリアルタイム共同編集ツール。メール・チャット・ドキュメント・Wikiを統合する野心的な構想で大きな話題を呼んだが、ユーザー獲得に失敗し、2010年8月に開発中止が発表され、2012年4月30日に完全終了した。",
-    "description_en": "Real-time collaboration platform announced at Google I/O 2009, ambitiously merging email, chat, docs, and wikis. Failed to gain traction; development halted August 2010 and the service shut down on April 30, 2012."
+    "description_en": "Real-time collaboration platform announced at Google I/O 2009, ambitiously merging email, chat, docs, and wikis. Failed to gain traction; development halted August 2010 and the service shut down on April 30, 2012.",
+    "ended": "2012-04-30"
   },
   {
     "date": "2015-11-01",
@@ -2970,7 +2976,8 @@
     "img": "stadia.svg",
     "nationality": "United-States-of-America",
     "description": "Googleが2019年11月19日に14か国で開始したクラウドゲーミングサービス。専用コントローラーやChromecast上での4K・60fpsストリーミングを売りにしたが、独占タイトルの不足やビジネスモデルの誤算で苦戦し、2023年1月18日にサービス終了。Googleがハードウェア事業の難しさを露呈した象徴的事例。",
-    "description_en": "Cloud gaming service launched by Google on November 19, 2019 in 14 countries, promising 4K/60fps streaming on Chromecast. Hampered by a lack of exclusives and business-model missteps, it shut down on January 18, 2023 — a high-profile cautionary tale for Google's hardware ambitions."
+    "description_en": "Cloud gaming service launched by Google on November 19, 2019 in 14 countries, promising 4K/60fps streaming on Chromecast. Hampered by a lack of exclusives and business-model missteps, it shut down on January 18, 2023 — a high-profile cautionary tale for Google's hardware ambitions.",
+    "ended": "2023-01-18"
   },
   {
     "date": "2020-05-13",
@@ -3515,7 +3522,8 @@
     "img": "vine.svg",
     "nationality": "United-States-of-America",
     "description": "2013年1月24日にiOSで公開された6秒ループ動画の共有アプリ。短尺動画文化の元祖としてTikTok以前の時代を象徴し、Twitterに買収された。",
-    "description_en": "A six-second looping video app launched on iOS on January 24, 2013. A pioneer of short-form video culture before TikTok, it was acquired by Twitter."
+    "description_en": "A six-second looping video app launched on iOS on January 24, 2013. A pioneer of short-form video culture before TikTok, it was acquired by Twitter.",
+    "ended": "2017-01-17"
   },
   {
     "date": "2016-03-16",

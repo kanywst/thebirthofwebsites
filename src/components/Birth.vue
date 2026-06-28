@@ -4,10 +4,16 @@ import { useI18n } from "vue-i18n"
 import {
   items as allItems,
   countByTag,
+  countEnded,
   filterByTag,
+  filterEnded,
   searchByKeyword,
   sortByDate,
 } from "@/lib/items"
+
+// Sentinel filter value for the "discontinued" chip — `ended` lives outside the
+// `type` array, so it can't go through filterByTag like the other filters.
+const ENDED_FILTER = "__ended__"
 
 const TYPE_FILTERS = [
   "All",
@@ -84,8 +90,11 @@ const publicPath = import.meta.env.BASE_URL
 const sortedItems = sortByDate(allItems)
 
 const filteredItems = computed(() => {
-  const tagged = filterByTag(sortedItems, activeFilter.value)
-  return searchByKeyword(tagged, keyword.value)
+  const base =
+    activeFilter.value === ENDED_FILTER
+      ? filterEnded(sortedItems)
+      : filterByTag(sortedItems, activeFilter.value)
+  return searchByKeyword(base, keyword.value)
 })
 
 function selectFilter(filter: string) {
@@ -93,7 +102,7 @@ function selectFilter(filter: string) {
 }
 
 function count(tag: string): number {
-  return countByTag(allItems, tag)
+  return tag === ENDED_FILTER ? countEnded(allItems) : countByTag(allItems, tag)
 }
 </script>
 
@@ -166,10 +175,35 @@ function count(tag: string): number {
           </button>
         </div>
       </div>
+
+      <div class="filter-group">
+        <h2 id="filter-label-status" class="filter-label">
+          {{ $t("filters.label.status") }}
+        </h2>
+        <div class="filter-scroll" role="group" aria-labelledby="filter-label-status">
+          <button
+            type="button"
+            :aria-pressed="activeFilter === ENDED_FILTER"
+            :class="['filter-chip', 'chip-ended', { active: activeFilter === ENDED_FILTER }]"
+            @click="selectFilter(ENDED_FILTER)"
+          >
+            🪦 {{ $t("filters.status.ended") }}
+            <span class="count">{{ count(ENDED_FILTER) }}</span>
+          </button>
+        </div>
+      </div>
     </section>
 
     <section class="grid-container" aria-label="Timeline">
-      <article v-for="item in filteredItems" :key="item.name" class="card">
+      <article
+        v-for="item in filteredItems"
+        :key="item.name"
+        :class="['card', { 'is-ended': item.ended }]"
+      >
+        <span v-if="item.ended" class="ended-badge">
+          🪦 {{ $t("filters.badge.ended") }}
+          <span class="ended-date">{{ item.ended }}</span>
+        </span>
         <header class="card-header">
           <span class="date">{{ item.date }}</span>
           <img
@@ -298,6 +332,7 @@ function count(tag: string): number {
 }
 
 .card {
+  position: relative;
   border: var(--border-width) solid var(--text-color);
   border-radius: var(--border-radius);
   padding: 1.5rem;
@@ -306,6 +341,58 @@ function count(tag: string): number {
   transition: all 0.2s ease;
   display: flex;
   flex-direction: column;
+}
+
+/* Discontinued services: gently faded, with a cute tombstone badge. */
+.card.is-ended {
+  background: light-dark(#fbf7f9, #221c20);
+  border-style: dashed;
+}
+
+.card.is-ended .logo {
+  filter: grayscale(1);
+  opacity: 0.5;
+  transition: filter 0.2s ease, opacity 0.2s ease;
+}
+
+.card.is-ended:hover .logo {
+  filter: grayscale(0);
+  opacity: 1;
+}
+
+.card.is-ended .name {
+  color: var(--muted-color);
+}
+
+.ended-badge {
+  position: absolute;
+  top: -0.7rem;
+  right: -0.5rem;
+  z-index: 1;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.2rem 0.6rem;
+  font-size: 0.72rem;
+  font-weight: bold;
+  letter-spacing: 0.02em;
+  color: light-dark(#8a3b63, #ffd9e8);
+  background: light-dark(#ffe3ef, #4a2438);
+  border: 1.5px solid light-dark(#e58bb0, #b56c8c);
+  border-radius: 999px;
+  transform: rotate(4deg);
+  box-shadow: 1px 1px 0 light-dark(#e58bb0, #00000055);
+}
+
+.ended-badge .ended-date {
+  font-weight: normal;
+  opacity: 0.75;
+}
+
+.filter-chip.chip-ended.active {
+  background: light-dark(#e58bb0, #b56c8c);
+  color: #fff;
+  box-shadow: 2px 2px 0px light-dark(#8a3b63, #4a2438);
 }
 
 .card:hover {
