@@ -187,7 +187,7 @@ function count(tag: string): number {
             :class="['filter-chip', 'chip-ended', { active: activeFilter === ENDED_FILTER }]"
             @click="selectFilter(ENDED_FILTER)"
           >
-            🪦 {{ $t("filters.status.ended") }}
+            <span aria-hidden="true">🪦</span> {{ $t("filters.status.ended") }}
             <span class="count">{{ count(ENDED_FILTER) }}</span>
           </button>
         </div>
@@ -201,7 +201,7 @@ function count(tag: string): number {
         :class="['card', { 'is-ended': item.ended }]"
       >
         <span v-if="item.ended" class="ended-badge">
-          🪦 {{ $t("filters.badge.ended") }}
+          <span aria-hidden="true">🪦</span> {{ $t("filters.badge.ended") }}
           <span class="ended-date">{{ item.ended }}</span>
         </span>
         <header class="card-header">
@@ -345,7 +345,7 @@ function count(tag: string): number {
 
 /* Discontinued services: gently faded, with a cute tombstone badge. */
 .card.is-ended {
-  background: light-dark(#fbf7f9, #221c20);
+  background: var(--ended-bg);
   border-style: dashed;
 }
 
@@ -376,12 +376,12 @@ function count(tag: string): number {
   font-size: 0.72rem;
   font-weight: bold;
   letter-spacing: 0.02em;
-  color: light-dark(#8a3b63, #ffd9e8);
-  background: light-dark(#ffe3ef, #4a2438);
-  border: 1.5px solid light-dark(#e58bb0, #b56c8c);
+  color: var(--ended-badge-text);
+  background: var(--ended-badge-bg);
+  border: 1.5px solid var(--ended-badge-border);
   border-radius: 999px;
   transform: rotate(4deg);
-  box-shadow: 1px 1px 0 light-dark(#e58bb0, #00000055);
+  box-shadow: 1px 1px 0 var(--ended-badge-shadow);
 }
 
 .ended-badge .ended-date {
@@ -390,9 +390,9 @@ function count(tag: string): number {
 }
 
 .filter-chip.chip-ended.active {
-  background: light-dark(#e58bb0, #b56c8c);
+  background: var(--ended-badge-border);
   color: #fff;
-  box-shadow: 2px 2px 0px light-dark(#8a3b63, #4a2438);
+  box-shadow: 2px 2px 0px var(--ended-badge-text);
 }
 
 .card:hover {

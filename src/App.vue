@@ -20,6 +20,11 @@ import AppHeader from "@/components/Header.vue"
   --header-bg: light-dark(rgba(255, 255, 255, 0.85), rgba(10, 10, 10, 0.85));
   --flag-border: light-dark(#eeeeee, #2a2a2a);
   --logo-bg: light-dark(transparent, #ffffff);
+  --ended-bg: light-dark(#fbf7f9, #221c20);
+  --ended-badge-bg: light-dark(#ffe3ef, #4a2438);
+  --ended-badge-text: light-dark(#8a3b63, #ffd9e8);
+  --ended-badge-border: light-dark(#e58bb0, #b56c8c);
+  --ended-badge-shadow: light-dark(#e58bb0, #00000055);
   --accent-color: var(--text-color);
   --border-width: 2px;
   --border-radius: 8px;
