@@ -101,8 +101,11 @@ function selectFilter(filter: string) {
   activeFilter.value = activeFilter.value === filter ? "All" : filter
 }
 
-function count(tag: string): number {
-  return tag === ENDED_FILTER ? countEnded(allItems) : countByTag(allItems, tag)
+// Counts are over the full, constant dataset, so they never change — compute
+// them once instead of re-running countByTag on every render inside v-for.
+const counts: Record<string, number> = { [ENDED_FILTER]: countEnded(allItems) }
+for (const filter of [...TYPE_FILTERS, ...NATIONALITY_FILTERS, ...ERA_FILTERS]) {
+  counts[filter] = countByTag(allItems, filter)
 }
 </script>
 
@@ -133,7 +136,7 @@ function count(tag: string): number {
             @click="selectFilter(filter)"
           >
             {{ $t(`filters.types.${filter}`) }}
-            <span class="count">{{ count(filter) }}</span>
+            <span class="count">{{ counts[filter] }}</span>
           </button>
         </div>
       </div>
@@ -152,7 +155,7 @@ function count(tag: string): number {
             @click="selectFilter(filter)"
           >
             {{ $t(`filters.nationalities.${filter}`) }}
-            <span class="count">{{ count(filter) }}</span>
+            <span class="count">{{ counts[filter] }}</span>
           </button>
         </div>
       </div>
@@ -171,7 +174,7 @@ function count(tag: string): number {
             @click="selectFilter(filter)"
           >
             {{ $t(`filters.eras.${filter}`) }}
-            <span class="count">{{ count(filter) }}</span>
+            <span class="count">{{ counts[filter] }}</span>
           </button>
         </div>
       </div>
@@ -188,7 +191,7 @@ function count(tag: string): number {
             @click="selectFilter(ENDED_FILTER)"
           >
             <span aria-hidden="true">🪦</span> {{ $t("filters.status.ended") }}
-            <span class="count">{{ count(ENDED_FILTER) }}</span>
+            <span class="count">{{ counts[ENDED_FILTER] }}</span>
           </button>
         </div>
       </div>
