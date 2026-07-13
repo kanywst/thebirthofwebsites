@@ -8,6 +8,11 @@ updates:
       time: "06:00"
       timezone: "Asia/Tokyo"
     open-pull-requests-limit: 10
+    ignore:
+      # vue-tsc still requires typescript/lib/tsc, which TS 7 dropped from its
+      # package exports. Unpin once vue-tsc supports TS 7.
+      - dependency-name: "typescript"
+        update-types: ["version-update:semver-major"]
     groups:
       vue-ecosystem:
         patterns:
