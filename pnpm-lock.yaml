@@ -37,8 +37,8 @@ importers:
         specifier: ^20.11.1
         version: 20.11.1
       simple-icons:
-        specifier: ^16.27.1
-        version: 16.27.1
+        specifier: ^16.28.0
+        version: 16.28.0
       typescript:
         specifier: ^6.0.3
         version: 6.0.3
@@ -709,8 +709,8 @@ packages:
     resolution: {integrity: sha512-bzyZ1e88w9O1iNJbKnOlvYTrWPDl46O1bG0D3XInv+9tkPrxrN8jUUTiFlDkkmKWgn1M6CfIA13SuGqOa9Korw==}
     engines: {node: '>=14'}
 
-  simple-icons@16.27.1:
-    resolution: {integrity: sha512-slZF8iKxkv7Lb9SF3L1AcIl5iYLNvDrKKm8yV69cG66XvxJ12SX+bYTgxRwCY4bXSmklGXoXaKEyVmEypOCeqw==}
+  simple-icons@16.28.0:
+    resolution: {integrity: sha512-sQPR5AtK/ijRjou7zw7mlLp08oB6FH7i0lOy5XJ2zp9mJs/yejgiOn7KvQoe2q4YJIx6VmgUSW5AOefebPt5kg==}
     engines: {node: '>=0.12.18'}
 
   source-map-js@1.2.1:
@@ -1499,7 +1499,7 @@ snapshots:
 
   signal-exit@4.1.0: {}
 
-  simple-icons@16.27.1: {}
+  simple-icons@16.28.0: {}
 
   source-map-js@1.2.1: {}
 
