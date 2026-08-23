@@ -23,18 +23,18 @@
     "vue-i18n": "^11.4.8"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.5.8",
+    "@biomejs/biome": "^2.5.9",
     "@lobehub/icons-static-svg": "^1.94.0",
     "@types/node": "^26.2.0",
     "@vitejs/plugin-vue": "^6.0.8",
     "@vue/test-utils": "^2.4.11",
     "@vue/tsconfig": "^0.9.1",
-    "happy-dom": "^20.11.2",
+    "happy-dom": "^20.11.6",
     "simple-icons": "^16.28.0",
     "typescript": "^6.0.3",
-    "vite": "^8.2.1",
-    "vitest": "^4.1.10",
-    "vue-tsc": "^3.3.9"
+    "vite": "^8.2.2",
+    "vitest": "^4.1.11",
+    "vue-tsc": "^3.3.10"
   },
   "engines": {
     "node": "^20.19.0 || >=22.12.0",
