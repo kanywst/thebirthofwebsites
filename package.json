@@ -19,15 +19,15 @@
     "test:watch": "vitest"
   },
   "dependencies": {
-    "vue": "^3.5.41",
-    "vue-i18n": "^11.4.8"
+    "vue": "^3.5.42",
+    "vue-i18n": "^11.4.10"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.5.9",
     "@lobehub/icons-static-svg": "^1.94.0",
     "@types/node": "^26.2.0",
     "@vitejs/plugin-vue": "^6.0.8",
-    "@vue/test-utils": "^2.4.11",
+    "@vue/test-utils": "^2.5.0",
     "@vue/tsconfig": "^0.9.1",
     "happy-dom": "^20.11.6",
     "simple-icons": "^16.28.0",
