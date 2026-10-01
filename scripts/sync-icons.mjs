@@ -102,6 +102,7 @@ const MAP = {
   "llama2.svg": { lh: "meta-color" },
   "llama3.svg": { lh: "meta-color" },
   "llama4.svg": { lh: "meta-color" },
+  "musespark.svg": { lh: "metaai-color" },
 
   // AI labs — color variants from lobehub
   "mistralai.svg": { lh: "mistral-color" },

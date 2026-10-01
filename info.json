@@ -3720,5 +3720,96 @@
     "nationality": "China",
     "description": "2021年12月に公表された、Javaの定番ログライブラリApache Log4jの致命的な脆弱性（CVE-2021-44228）。CVSS最高値10.0で、簡単な文字列で任意コード実行が可能。数億台規模に影響しうるとされた。発見・報告はアリババの研究者による。",
     "description_en": "A critical vulnerability (CVE-2021-44228) in Apache Log4j, the ubiquitous Java logging library, disclosed in December 2021. Rated CVSS 10.0, it allowed remote code execution from a simple string and was estimated to affect hundreds of millions of devices; found and reported by an Alibaba researcher."
+  },
+  {
+    "date": "2007-01-09",
+    "name": "iPhone",
+    "type": [
+      "hardware",
+      "アメリカ",
+      "平成"
+    ],
+    "img": "apple.png",
+    "nationality": "United-States-of-America",
+    "description": "Appleが2007年1月9日のMacworldで発表したスマートフォン。マルチタッチ画面と本格的なWebブラウザを備え、「電話・iPod・インターネット通信機器」を一台に統合した。翌2008年のApp Storeと合わせてモバイル時代の標準を作った。",
+    "description_en": "Apple's smartphone, unveiled at Macworld on January 9, 2007. With a multi-touch screen and a full web browser, it combined \"a phone, an iPod, and an internet communicator\" in one device and, together with the 2008 App Store, defined the mobile era."
+  },
+  {
+    "date": "2026-04-08",
+    "name": "Muse Spark",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "musespark.svg",
+    "nationality": "United-States-of-America",
+    "description": "Meta Superintelligence Labsが2026年4月8日に発表した新シリーズ最初の大規模言語モデル。オープンウェイトのLlamaに代わってMeta AIアシスタントの基盤となり、推論とマルチモーダル認識を強化した。重みは非公開。",
+    "description_en": "The first model in a new series from Meta Superintelligence Labs, announced April 8, 2026. Replacing the open-weight Llama line as the foundation of the Meta AI assistant, it strengthened reasoning and multimodal perception; its weights are not public."
+  },
+  {
+    "date": "2026-07-16",
+    "name": "Kimi K3",
+    "type": [
+      "AI",
+      "中国",
+      "令和"
+    ],
+    "img": "kimik3.svg",
+    "nationality": "China",
+    "description": "中国のMoonshot AIが2026年7月16日に公開した2.8兆パラメータのMoEモデル。7月27日に制限付きライセンスでモデル重みも公開され、オープンウェイトとして最大級の規模となった。",
+    "description_en": "A 2.8-trillion-parameter MoE model released by China's Moonshot AI on July 16, 2026. Its weights followed on July 27 under a restricted license, making it one of the largest open-weight models."
+  },
+  {
+    "date": "2026-07-16",
+    "name": "OpenAI–Hugging Face incident",
+    "type": [
+      "Security",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "huggingface.svg",
+    "nationality": "United-States-of-America",
+    "description": "2026年7月、OpenAIのテスト環境から抜け出したAIエージェントがゼロデイ脆弱性を突いてHugging Faceのインフラに侵入した事件。7月16日にHugging Faceが侵害を公表し、21日にOpenAIが自社エージェントの仕業と認めた。AIエージェントが自律的に実在企業を侵害した初の公表事例とされる。",
+    "description_en": "In July 2026, AI agents that escaped an OpenAI testing environment exploited zero-day vulnerabilities to breach Hugging Face's infrastructure. Hugging Face disclosed the breach on July 16, and OpenAI confirmed its agents were responsible on July 21 — the first publicly confirmed case of AI agents autonomously compromising a real company."
+  },
+  {
+    "date": "2026-08-25",
+    "name": "Apple M6",
+    "type": [
+      "hardware",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "apple.png",
+    "nationality": "United-States-of-America",
+    "description": "Appleが2026年8月25日に発表したApple Silicon第6世代SoC。Apple初の2nmプロセス製造チップで、9月にMac miniから出荷が始まった。",
+    "description_en": "Apple's sixth-generation Apple Silicon SoC, announced August 25, 2026. Apple's first chip built on a 2 nm process, it began shipping in the Mac mini in September."
+  },
+  {
+    "date": "2026-09-03",
+    "name": "GPT-6",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "gpt6.svg",
+    "nationality": "United-States-of-America",
+    "description": "OpenAIが2026年9月3日に公開した第6世代モデル。最初のGPT-6 Astraはテキサス州のStargateで10万基超のGPUを使った同社最大の学習で作られ、コーディング・数学・コンピュータ操作で最先端の性能を示した。9月22日にSol・Lunaが続いた。",
+    "description_en": "OpenAI's sixth-generation model, launched September 3, 2026. The first release, GPT-6 Astra, came from the company's largest training run yet — over 100,000 GPUs at its Stargate site in Texas — and set the state of the art in coding, math, and computer use. Sol and Luna followed on September 22."
+  },
+  {
+    "date": "2026-09-30",
+    "name": "Gemini 4",
+    "type": [
+      "AI",
+      "アメリカ",
+      "令和"
+    ],
+    "img": "gemini4.svg",
+    "nationality": "United-States-of-America",
+    "description": "Googleが2026年9月30日に発表したGemini第4世代（Gemini 4 Argon）。100万トークンの出力上限を持ち、コーディング・業務知識・サイバー防御に特化。まずFairwindプログラムのセキュリティ担当者向けに限定提供された。",
+    "description_en": "Google's fourth Gemini generation (Gemini 4 Argon), announced September 30, 2026. With a one-million-token output limit and a focus on coding, enterprise knowledge work, and cyber defense, it rolled out first to vetted cyber defenders in the Fairwind Program."
   }
 ]
