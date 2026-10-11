@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "vue": "^3.5.43",
-    "vue-i18n": "^11.4.12"
+    "vue-i18n": "^11.4.13"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.5.15",
