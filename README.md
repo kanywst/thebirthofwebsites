@@ -1,6 +1,6 @@
 # The Birth of Websites
 
-> *A visual timeline of IT history.*
+> _A visual timeline of IT history._
 
 [![CI](https://github.com/kanywst/thebirthofwebsites/actions/workflows/deploy.yml/badge.svg)](https://github.com/kanywst/thebirthofwebsites/actions/workflows/deploy.yml)
 [![Vue](https://img.shields.io/badge/vue-3.5-42b883)](https://vuejs.org)
